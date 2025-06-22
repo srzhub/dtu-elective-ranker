@@ -1,86 +1,80 @@
 #!/usr/bin/env python3
 """
-find_missing_subjects.py
+recursive_search_missing_subjects.py
 
-1) Reads your merged Excel and finds all SubjectCodes with no Title.
-2) Searches for each missing code in every PDF in a given folder.
-3) Writes out a CSV listing, for each code, which PDFs mention it.
+Same as before, but:
+ • Recursively walks PDF_FOLDER to find all .pdf files
+ • Prints each PDF path as it loads
+ • Shows a final count so you can verify it actually found them
 """
 
 import os
 import re
 import pandas as pd
 import pdfplumber
-from glob import glob
 
-# === EDIT THESE PATHS ===
-EXCEL_PATH     = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\subject_data_with_names.xlsx"
-PDF_FOLDER     = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\Results"
-OUTPUT_CSV     = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\missing_code_locations.csv"
-CODE_COLUMN    = "SubjectCode"  # column name in Excel
-TITLE_COLUMN   = "title"        # column name for the subject name
+# === CONFIGURE THESE PATHS ===
+EXCEL_PATH   = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\subject_data_with_names2.xlsx"
+PDF_FOLDER   = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\Results"
+OUTPUT_CSV   = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\missing_code_locations.csv"
+
+# Column names in your Excel
+CODE_COLUMN  = "SubjectCode"
+TITLE_COLUMN = "title"
 
 def load_missing_codes(excel_path):
-    """
-    Load the Excel and return a list of unique codes where TITLE_COLUMN is null/blank.
-    """
     df = pd.read_excel(excel_path, engine='openpyxl', dtype={CODE_COLUMN:str})
-    # Drop any codes that are NaN or empty, then filter where title is missing
     df = df.dropna(subset=[CODE_COLUMN])
-    missing = df[df[TITLE_COLUMN].isna()][CODE_COLUMN].str.strip().unique()
+    missing = df[df[TITLE_COLUMN].isna()][CODE_COLUMN].astype(str).str.strip().unique()
     return [c for c in missing if c]
 
-def make_search_pattern(code):
-    """
-    Build a regex that matches letter‑digit codes with optional spaces/hyphens.
-    E.g. "IT328" → r'\bIT[\s\-]*328\b', case-insensitive.
-    """
-    m = re.match(r'^([A-Za-z]+)(\d+)$', code)
-    if not m:
-        # fallback to exact match
-        return re.compile(re.escape(code), re.IGNORECASE)
-    letters, numbers = m.groups()
-    return re.compile(r'\b' + re.escape(letters) + r'[\s\-]*' + re.escape(numbers) + r'\b', re.IGNORECASE)
+def clean_text(s: str) -> str:
+    return re.sub(r'[\s\-]+', '', s).upper()
 
-def scan_pdfs_for_codes(codes, pdf_folder):
+def load_pdf_texts(pdf_folder):
     """
-    For each code, search every PDF in pdf_folder.
-    Returns a list of dicts: {'SubjectCode': code, 'FoundInPDFs': 'a.pdf;b.pdf;...'}
+    Recursively find all PDFs under pdf_folder, read & clean them.
+    Returns dict { filename: cleaned_text }
     """
-    pdf_paths = glob(os.path.join(pdf_folder, '*.pdf'))
-    results = []
-
-    for code in codes:
-        pat = make_search_pattern(code)
-        found_files = []
-
-        for pdf_path in pdf_paths:
+    texts = {}
+    for root, _, files in os.walk(pdf_folder):
+        for fname in files:
+            if not fname.lower().endswith('.pdf'):
+                continue
+            full = os.path.join(root, fname)
+            print(f"→ Loading PDF: {full}")
             try:
-                with pdfplumber.open(pdf_path) as pdf:
-                    text = "\n".join(page.extract_text() or "" for page in pdf.pages)
-                if pat.search(text):
-                    found_files.append(os.path.basename(pdf_path))
+                with pdfplumber.open(full) as pdf:
+                    raw = "\n".join(page.extract_text() or "" for page in pdf.pages)
             except Exception as e:
-                print(f"  [!] Could not read {pdf_path}: {e}")
+                print(f"   [!] Failed to read {fname}: {e}")
+                continue
+            texts[full] = clean_text(raw)
+    print(f"[✔] Total PDFs loaded: {len(texts)}")
+    return texts
 
-        results.append({
-            CODE_COLUMN: code,
-            "FoundInPDFs": ";".join(found_files) if found_files else ""
-        })
-
-    return results
+def match_codes_to_pdfs(codes, pdf_texts):
+    rows = []
+    cleaned_codes = {c: clean_text(c) for c in codes}
+    for orig, cc in cleaned_codes.items():
+        found = [os.path.basename(path) for path, txt in pdf_texts.items() if cc in txt]
+        rows.append({CODE_COLUMN: orig, "FoundInPDFs": ";".join(found)})
+    return rows
 
 def main():
-    print("Loading missing subject codes from Excel…")
+    print("1) Loading missing SubjectCodes…")
     codes = load_missing_codes(EXCEL_PATH)
-    print(f"  → {len(codes)} codes to search for.")
+    print(f"   → {len(codes)} codes without titles")
 
-    print(f"Scanning PDFs in folder: {PDF_FOLDER}")
-    mapping = scan_pdfs_for_codes(codes, PDF_FOLDER)
+    print("\n2) Scanning PDFs (recursively)…")
+    pdf_texts = load_pdf_texts(PDF_FOLDER)
 
-    print(f"Writing results to CSV: {OUTPUT_CSV}")
+    print("\n3) Matching codes to PDFs…")
+    mapping = match_codes_to_pdfs(codes, pdf_texts)
+
+    print(f"\n4) Writing CSV to {OUTPUT_CSV}")
     pd.DataFrame(mapping).to_csv(OUTPUT_CSV, index=False)
-    print("Done!")
+    print("✅ Done! Open the CSV to see which PDFs contain each missing code.")
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
