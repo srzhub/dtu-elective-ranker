@@ -1,0 +1,40 @@
+.custom-sem-btn{
+    border-radius: 12px;
+    padding: 10px 20px;
+    background-color: #322659;
+    font-weight: 600;
+    transition: 0.3s;
+
+}
+
+
+.custom-sem-btn:hover {
+  background: #5c4d7d;
+   color: #fff;
+}
+
+.custom-navbar{
+    background: #4f3a6a;
+}
+
+.custom-dropdown-menu{
+  background:#3e2f71;
+   color: #fff;
+   box-shadow: 0px 2px 4px rgba(0,0,0,0.15);
+    border-radius: 6px;
+}
+
+.custom-input-btn{
+  background: #322659;
+   color: #fff;
+    border: none;
+       box-shadow: 0px 2px 4px rgba(0,0,0,0.15);
+    border-radius: 6px;
+
+}
+
+.custom-input-btn:hover,
+.custom-dropdown-menu:hover {
+  background-color: #4f46e5; /* Add slight vibrance on hover */
+  cursor: pointer;
+}

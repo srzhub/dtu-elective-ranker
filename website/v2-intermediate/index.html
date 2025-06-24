@@ -1,0 +1,136 @@
+<html lang="en">
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+
+</style>
+<body>
+<!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg custom-navbar" data-bs-theme="dark"    >
+  <div class="container-fluid">
+    <a class="navbar-brand fw-bold fs-2" href="#"> DTU Electives Ranker </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Semester
+          </a>
+
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">I Semester</a></li>
+            <li><a class="dropdown-item" href="#">III Semester</a></li>
+            <li><a class="dropdown-item" href="#">V Semester</a></li>
+          </ul>
+
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+        </li>
+      </ul>
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder=" Search Subject" aria-label="Search"/>
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+
+<!-- Search section -->
+<div class="container-fluid">
+    <div class="row ">
+        <div class="col text-center fs-1 fst-italic mt-4 mb-4" style="color:#311b57">Search for a specific subject</div>
+    </div>
+    <div class="row justify-content-center mb-5">
+        <!-- Semester dropdown -->
+        <div class="col-auto">
+            <select class="form-select mt-2 custom-dropdown-menu" aria-label="Default select example">
+                <option selected>Choose Semester</option>
+                <option value="I">First Semester</option>
+                <option value="III">Third Semester</option>
+                <option value="V">Fifth Semester</option>
+                <option value="VII">Seventh Semester</option>
+            </select>
+        </div>
+        <!-- Search Bar -->
+        <div class="col-5">
+            <!-- <label for="searchSubject" class="form-label mt-1"></label> -->
+            <input type="text" class="form-control mt-2 custom-input-btn" id="searchSubject" placeholder="Search subject (Code/Name)  ">
+        </div>
+
+    </div>
+
+</div>
+ <!-- /Search section -->
+
+<!-- Semester Section -->
+    <div class="container-fluid">
+        <div class="row ">
+            <div class="col text-center fs-1 fst-italic mt-4 mb-4" style="color:#311b57">View the Grade Point Average (GPA) for each subject of your upcoming semester</div>
+        </div>
+        <div class="row justify-content-center mb-5">
+            <div class="col-auto">
+                <button class="btn btn-primary btn-lg custom-sem-btn mx-2 my-2">Semester I</button>
+            </div>
+            <div class="col-auto">
+                <button class="btn btn-primary btn-lg custom-sem-btn mx-2 my-2">Semester III</button>
+            </div>
+            <div class="col-auto">
+                <button class="btn btn-primary btn-lg custom-sem-btn mx-2 my-2">Semester V</button>
+            </div>
+            <div class="col-auto">
+                <button class="btn btn-primary btn-lg custom-sem-btn mx-2 my-2">Semester VII</button>
+            </div>
+
+        </div>
+    </div>
+<!-- /Semester Section -->
+    
+<!-- Footer Section-->
+
+    <footer 
+    class="text-center text-lg-start"
+    style = "background-color: #0f172a;">
+
+        <!-- Section: Social Media -->
+        <section
+            class=" d-flex justify-content-between p-4"
+            style="background-color: #3730a3;">
+
+            <!-- Left: get connected -->
+            <div class="me-5">
+                <span class="text-white" >Connect with me on my socials:</span>
+            </div>
+
+            <!-- Right: All Social Media Icons -->
+             <div>
+                <a href="" class="text-white me-4">
+                    <i class="fab fa-instagram"></i>
+                </a>
+                <a href="" class="text-white me-4">
+                    <i class="fab fa-linkedin"></i>
+                </a>
+                <a href="" class="text-white me-4">
+                    <i class="fab fa-github"></i>
+                </a>
+             </div>
+        </section>
+        <!-- /Section: Social Media -->
+
+    </footer>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</html>

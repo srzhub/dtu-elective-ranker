@@ -1,0 +1,68 @@
+/* To make footer stick to the bottom */
+html, body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  
+  font-family: poppins;
+  
+  background: linear-gradient(135deg, #f5f3ff, #fff);
+}
+
+body > main {
+  flex: 1;
+  
+}
+
+
+/* Semester buttons */
+.custom-sem-btn{
+    border-radius: 12px;
+    padding: 10px 20px;
+    background-color: #4f46e5;
+    font-weight: 600;
+    transition: 0.3s;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+
+}
+.custom-sem-btn:hover {
+  background:#6366f1;
+  color: #fff;
+  transition: all 0.2s ease-in-out;
+}
+
+/* navbar */
+.custom-navbar{
+    background: #3730a3;
+    
+}
+
+/* custom table */
+.custom-table{
+  border-radius: 10px;
+  overflow: hidden;
+  font-size: 0.95rem;
+  
+}
+
+/* table head */
+.table-header th{
+  background-color: #4f46e5;
+  color:white;
+}
+
+/* table body */
+.custom-table tbody tr{
+  transition: background-color 0.2s ease;
+}
+
+.custom-table tbody tr:hover {
+  background-color: #f3f4f6;
+}
+
+/* GP column emphasis */
+.custom-table td:last-child {
+  font-weight: 600;
+  color: #4f46e5;
+}
