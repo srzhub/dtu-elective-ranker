@@ -18,6 +18,26 @@ fetch('sem5_clean.json')
     console.error("There was a problem fetching data: " , error)
 })
 
+
+document.getElementById("order").addEventListener("change", function (){
+  
+  let val = this.value;
+  var table = document.getElementById("5_sem_table");
+  table.innerHTML = ''
+
+  let sortedData = subjectData;
+
+  if( val === "dec"){
+  sortedData = sortedData.sort( (a,b) => parseFloat(b.grade) - parseFloat(a.grade))
+ 
+}
+else if( val === "asc"){
+  sortedData = sortedData.sort( (a,b) => parseFloat(a.grade) - parseFloat(b.grade))
+}
+
+buildTable(sortedData)
+})
+
   function buildTable(data){
     var table = document.getElementById("5_sem_table");
 
