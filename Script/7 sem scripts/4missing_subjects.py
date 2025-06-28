@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+
+import os
+import re
+import pandas as pd
+import pdfplumber
+
 """
 
 We got a lot of the subject names using the previous script in our pdf legend, but some were still
@@ -13,25 +19,24 @@ Same as before, but:
  • Shows a final count so you can verify it actually found them
 """
 
-import os
-import re
-import pandas as pd
-import pdfplumber
-
 # === CONFIGURE THESE PATHS ===
-EXCEL_PATH   = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\subject_data_with_names2.xlsx"
-PDF_FOLDER   = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\Results"
-OUTPUT_CSV   = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\missing_code_locations.csv"
+EXCEL_PATH   = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\7 sem scripts\subject_data_7sem_filled.xlsx"
+PDF_FOLDER   = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\7 sem scripts\Results"
+OUTPUT_CSV   = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\7 sem scripts\missing_code_locations.csv"
 
 # Column names in your Excel
-CODE_COLUMN  = "SubjectCode"
-TITLE_COLUMN = "title"
+CODE_COLUMN   = "code"
+TITLE_COLUMN  = "title"    # <-- corrected to match your actual header
 
 def load_missing_codes(excel_path):
-    df = pd.read_excel(excel_path, engine='openpyxl', dtype={CODE_COLUMN:str})
+    df = pd.read_excel(excel_path, engine='openpyxl', dtype={CODE_COLUMN: str})
+    # Drop any rows where SubjectCode is null
     df = df.dropna(subset=[CODE_COLUMN])
-    missing = df[df[TITLE_COLUMN].isna()][CODE_COLUMN].astype(str).str.strip().unique()
-    return [c for c in missing if c]
+    # Now pick only those where SubjectName is blank or NaN
+    missing_df = df[df[TITLE_COLUMN].isna() | (df[TITLE_COLUMN].astype(str).str.strip() == "")]
+    missing_codes = missing_df[CODE_COLUMN].astype(str).str.strip().unique().tolist()
+    print(f"[i] Found {len(missing_codes)} missing codes.")
+    return missing_codes
 
 def clean_text(s: str) -> str:
     return re.sub(r'[\s\-]+', '', s).upper()
@@ -61,21 +66,25 @@ def load_pdf_texts(pdf_folder):
 def match_codes_to_pdfs(codes, pdf_texts):
     rows = []
     cleaned_codes = {c: clean_text(c) for c in codes}
-    for orig, cc in cleaned_codes.items():
-        found = [os.path.basename(path) for path, txt in pdf_texts.items() if cc in txt]
-        rows.append({CODE_COLUMN: orig, "FoundInPDFs": ";".join(found)})
+    for orig_code, cc in cleaned_codes.items():
+        found = [os.path.basename(path)
+                 for path, txt in pdf_texts.items()
+                 if cc in txt]
+        rows.append({
+            CODE_COLUMN    : orig_code,
+            "FoundInPDFs"  : ";".join(found) or "—"
+        })
     return rows
 
 def main():
     print("1) Loading missing SubjectCodes…")
-    codes = load_missing_codes(EXCEL_PATH)
-    print(f"   → {len(codes)} codes without titles")
+    missing_codes = load_missing_codes(EXCEL_PATH)
 
     print("\n2) Scanning PDFs (recursively)…")
     pdf_texts = load_pdf_texts(PDF_FOLDER)
 
     print("\n3) Matching codes to PDFs…")
-    mapping = match_codes_to_pdfs(codes, pdf_texts)
+    mapping = match_codes_to_pdfs(missing_codes, pdf_texts)
 
     print(f"\n4) Writing CSV to {OUTPUT_CSV}")
     pd.DataFrame(mapping).to_csv(OUTPUT_CSV, index=False)
@@ -83,3 +92,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

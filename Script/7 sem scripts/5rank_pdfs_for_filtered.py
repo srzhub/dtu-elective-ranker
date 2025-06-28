@@ -8,11 +8,11 @@ order to search them in to make my job easier. After this step, I finally got al
 '''
 
 # === CONFIGURE PATHS ===
-FILTERED_EXCEL = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\subject_data_with_names2 _filter.xlsx"
-MAPPING_CSV    = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\missing_code_locations.csv"
+FILTERED_EXCEL = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\7 sem scripts\subject_data_7sem_filled.xlsx"
+MAPPING_CSV    = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\7 sem scripts\missing_code_locations.csv"
 
 # Column names
-CODE_COL  = "SubjectCode"
+CODE_COL  = "code"
 TITLE_COL = "title"
 
 # 1) Load filtered Excel and get codes still missing titles

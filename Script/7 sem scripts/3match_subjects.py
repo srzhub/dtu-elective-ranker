@@ -17,9 +17,9 @@ import pdfplumber
 import pandas as pd
 
 # === Edit these paths as needed ===
-PDF_PATH    = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\subject_names.pdf"
-EXCEL_PATH  = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\subject_code_averages_with_counts.xlsx"
-OUTPUT_PATH = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\subject_data_with_names.xlsx"
+PDF_PATH    = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\7 sem scripts\subject_names.pdf"
+EXCEL_PATH  = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\7 sem scripts\subject_code_averages_with_counts.xlsx"
+OUTPUT_PATH = r"C:\Users\suhai\OneDrive\Desktop\cgpa website project\Script\7 sem scripts\subject_data_with_names.xlsx"
 CODE_COLUMN = "SubjectCode"  # name of the column in your Excel sheet with the codes
 
 def extract_code_title_map(pdf_path):
