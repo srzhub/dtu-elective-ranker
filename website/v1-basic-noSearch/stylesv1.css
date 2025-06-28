@@ -7,7 +7,8 @@ html, body {
   
   font-family: poppins;
   
-  background: linear-gradient(135deg, #f5f3ff, #fff);
+background: linear-gradient(to bottom, #ede9fe, #c4b5fd);
+
 }
 
 body > main {
@@ -45,7 +46,7 @@ body > main {
   font-size: 0.95rem;
   
 }
-
+  
 /* table head */
 .table-header th{
   background-color: #4f46e5;
@@ -58,7 +59,8 @@ body > main {
 }
 
 .custom-table tbody tr:hover {
-  background-color: #f3f4f6;
+  background-color: #f3f4f6 !important;
+
 }
 
 /* GP column emphasis */
