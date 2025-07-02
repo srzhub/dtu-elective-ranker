@@ -5,3 +5,14 @@
 
 # Ignore PDF files
 *.pdf
+
+# Ignore imgs and svgs
+*.svg
+*.jpeg
+*.img
+
+# Files
+indexv1 copy.html
+
+#gitignore
+*.gitignore
