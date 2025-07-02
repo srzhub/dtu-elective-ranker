@@ -7,7 +7,8 @@ html, body {
   
   font-family: poppins;
   
-background: linear-gradient(to bottom, #ede9fe, #c4b5fd);
+  background: linear-gradient(to bottom, #ede9fe, #c4b5fd);
+  background-attachment:fixed ;
 
 }
 
@@ -26,16 +27,25 @@ body > main {
     transition: 0.3s;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 
+    min-width: 140px;
+
 }
 .custom-sem-btn:hover {
   background:#6366f1;
   color: #fff;
   transition: all 0.2s ease-in-out;
+
+  /* Adds a slight lift */
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.1);
 }
 
 /* navbar */
 .custom-navbar{
     background: #3730a3;
+    position: sticky;
+    top:0;
+    z-index: 1020;
     
 }
 
@@ -59,8 +69,16 @@ body > main {
 }
 
 .custom-table tbody tr:hover {
-  background-color: #f3f4f6 !important;
+  background-color: rgba(79, 70, 229, 0.15);
 
+}
+
+.custom-table thead th{
+  position: sticky;
+    top: 0;
+  background-color: #4f46e5; /* same as your header row */
+  color: #fff;
+  z-index: 1;
 }
 
 /* GP column emphasis */
