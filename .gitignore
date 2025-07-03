@@ -10,6 +10,7 @@
 *.svg
 *.jpeg
 *.img
+*.png
 
 # Files
 indexv1 copy.html

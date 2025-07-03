@@ -1,0 +1,1346 @@
+[
+  {
+    "code": "SE427",
+    "count": 67,
+    "grade": 9.567,
+    "title": "Software Project Management",
+    "semester": "VII",
+    "subject": "SE"
+  },
+  {
+    "code": "HU413",
+    "count": 86,
+    "grade": 9.267,
+    "title": "Advanced Spoken Skills",
+    "semester": "VII",
+    "subject": "HU"
+  },
+  {
+    "code": "IT417",
+    "count": 8,
+    "grade": 9.25,
+    "title": "High Performance Computing",
+    "semester": "VII",
+    "subject": "IT"
+  },
+  {
+    "code": "HU317",
+    "count": 53,
+    "grade": 9,
+    "title": "Basic Communication Skills",
+    "semester": "VII",
+    "subject": "HU"
+  },
+  {
+    "code": "HU327",
+    "count": 82,
+    "grade": 8.976,
+    "title": "Non-Verbal Communication",
+    "semester": "VII",
+    "subject": "HU"
+  },
+  {
+    "code": "HU425",
+    "count": 46,
+    "grade": 8.957,
+    "title": "Soft Skills Development",
+    "semester": "VII",
+    "subject": "HU"
+  },
+  {
+    "code": "HU305",
+    "count": 53,
+    "grade": 8.868,
+    "title": "Macroeconomics",
+    "semester": "VII",
+    "subject": "HU"
+  },
+  {
+    "code": "PE353a",
+    "count": 74,
+    "grade": 8.77,
+    "title": "Supply Chain Management",
+    "semester": "VII",
+    "subject": "PE"
+  },
+  {
+    "code": "SE209a",
+    "count": 26,
+    "grade": 8.769,
+    "title": "Engineering Analysis And Design (Software Engineering)",
+    "semester": "VII",
+    "subject": "SE"
+  },
+  {
+    "code": "HU307",
+    "count": 58,
+    "grade": 8.759,
+    "title": "Basic Econometrics",
+    "semester": "VII",
+    "subject": "HU"
+  },
+  {
+    "code": "MOOC405",
+    "count": 1385,
+    "grade": 8.757,
+    "title": "Mooc405",
+    "semester": "VII",
+    "subject": "MO"
+  },
+  {
+    "code": "BT411",
+    "count": 77,
+    "grade": 8.714,
+    "title": "Industrial Biotechnology",
+    "semester": "VII",
+    "subject": "BT"
+  },
+  {
+    "code": "CO301",
+    "count": 104,
+    "grade": 8.702,
+    "title": "Software Engineering",
+    "semester": "VII",
+    "subject": "CO"
+  },
+  {
+    "code": "CO427",
+    "count": 271,
+    "grade": 8.646,
+    "title": "Web Technology",
+    "semester": "VII",
+    "subject": "CO"
+  },
+  {
+    "code": "CH307",
+    "count": 62,
+    "grade": 8.597,
+    "title": "Petroleum Refining Engineering",
+    "semester": "VII",
+    "subject": "CH"
+  },
+  {
+    "code": "CE431",
+    "count": 71,
+    "grade": 8.577,
+    "title": "Cyclonic Hazard Assessment",
+    "semester": "VII",
+    "subject": "CE"
+  },
+  {
+    "code": "CH203",
+    "count": 30,
+    "grade": 8.5,
+    "title": "Transport Phenomena",
+    "semester": "VII",
+    "subject": "CH"
+  },
+  {
+    "code": "HU309",
+    "count": 55,
+    "grade": 8.473,
+    "title": "Indian Economy",
+    "semester": "VII",
+    "subject": "HU"
+  },
+  {
+    "code": "IT433a",
+    "count": 15,
+    "grade": 8.467,
+    "title": "Multi Modal Data Processing",
+    "semester": "VII",
+    "subject": "IT"
+  },
+  {
+    "code": "CO433",
+    "count": 258,
+    "grade": 8.442,
+    "title": "Distributed Systems",
+    "semester": "VII",
+    "subject": "CO"
+  },
+  {
+    "code": "ME431",
+    "count": 74,
+    "grade": 8.392,
+    "title": "Non-Conventional Energy Sources",
+    "semester": "VII",
+    "subject": "ME"
+  },
+  {
+    "code": "IT427",
+    "count": 58,
+    "grade": 8.379,
+    "title": "Intrusion Detection And Information",
+    "semester": "VII",
+    "subject": "IT"
+  },
+  {
+    "code": "IT429",
+    "count": 86,
+    "grade": 8.349,
+    "title": "Cyber Laws",
+    "semester": "VII",
+    "subject": "IT"
+  },
+  {
+    "code": "EP423",
+    "count": 74,
+    "grade": 8.338,
+    "title": "Space And Atmospheric Sciences –I",
+    "semester": "VII",
+    "subject": "EP"
+  },
+  {
+    "code": "IT407",
+    "count": 107,
+    "grade": 8.336,
+    "title": "Information And Network Security",
+    "semester": "VII",
+    "subject": "IT"
+  },
+  {
+    "code": "CO327",
+    "count": 45,
+    "grade": 8.333,
+    "title": "Machine Learning",
+    "semester": "VII",
+    "subject": "CO"
+  },
+  {
+    "code": "CE435",
+    "count": 73,
+    "grade": 8.315,
+    "title": "Landslide Hazard Assessment",
+    "semester": "VII",
+    "subject": "CE"
+  },
+  {
+    "code": "SE327",
+    "count": 20,
+    "grade": 8.3,
+    "title": "Methods For Data Analysis",
+    "semester": "VII",
+    "subject": "SE"
+  },
+  {
+    "code": "IT409",
+    "count": 35,
+    "grade": 8.286,
+    "title": "Enterprise Java Programming",
+    "semester": "VII",
+    "subject": "IT"
+  },
+  {
+    "code": "MC307",
+    "count": 30,
+    "grade": 8.267,
+    "title": "Object Oriented Programming",
+    "semester": "VII",
+    "subject": "MC"
+  },
+  {
+    "code": "SE425",
+    "count": 144,
+    "grade": 8.264,
+    "title": "Intellectual Property Rights & Cyber Laws",
+    "semester": "VII",
+    "subject": "SE"
+  },
+  {
+    "code": "CO415",
+    "count": 242,
+    "grade": 8.223,
+    "title": "Wireless And Mobile Computing",
+    "semester": "VII",
+    "subject": "CO"
+  },
+  {
+    "code": "MC409",
+    "count": 65,
+    "grade": 8.215,
+    "title": "Mathematical Modeling",
+    "semester": "VII",
+    "subject": "MC"
+  },
+  {
+    "code": "IT303",
+    "count": 24,
+    "grade": 8.208,
+    "title": "Computer Networks",
+    "semester": "VII",
+    "subject": "IT"
+  },
+  {
+    "code": "HU407",
+    "count": 64,
+    "grade": 8.203,
+    "title": "Wealth And Poverty Of Nations- Indian Economic",
+    "semester": "VII",
+    "subject": "HU"
+  },
+  {
+    "code": "ME353a",
+    "count": 87,
+    "grade": 8.195,
+    "title": "Renewable Sources Of Energy",
+    "semester": "VII",
+    "subject": "ME"
+  },
+  {
+    "code": "AE307",
+    "count": 80,
+    "grade": 8.188,
+    "title": "Combustion Generated Pollution",
+    "semester": "VII",
+    "subject": "AE"
+  },
+  {
+    "code": "SE325",
+    "count": 38,
+    "grade": 8.184,
+    "title": "Web Technology",
+    "semester": "VII",
+    "subject": "SE"
+  },
+  {
+    "code": "ME351a",
+    "count": 53,
+    "grade": 8.17,
+    "title": "Power Plant Engineering",
+    "semester": "VII",
+    "subject": "ME"
+  },
+  {
+    "code": "CH429",
+    "count": 73,
+    "grade": 8.164,
+    "title": "Energy Resources",
+    "semester": "VII",
+    "subject": "CH"
+  },
+  {
+    "code": "HU403",
+    "count": 40,
+    "grade": 8.15,
+    "title": "Economic Growth",
+    "semester": "VII",
+    "subject": "HU"
+  },
+  {
+    "code": "CO205",
+    "count": 78,
+    "grade": 8.141,
+    "title": "Discrete Structures",
+    "semester": "VII",
+    "subject": "CO"
+  },
+  {
+    "code": "EE321a",
+    "count": 23,
+    "grade": 8.13,
+    "title": "Soft Computing\nTechniques",
+    "semester": "VII",
+    "subject": "EE"
+  },
+  {
+    "code": "MBAMK221",
+    "count": 51,
+    "grade": 8.098,
+    "title": "Marketing Of Services",
+    "semester": "VII",
+    "subject": "MB"
+  },
+  {
+    "code": "PE411",
+    "count": 73,
+    "grade": 8.082,
+    "title": "Computer Integrated Design And",
+    "semester": "VII",
+    "subject": "PE"
+  },
+  {
+    "code": "EE327",
+    "count": 37,
+    "grade": 8.081,
+    "title": "Introduction To Python Programming",
+    "semester": "VII",
+    "subject": "EE"
+  },
+  {
+    "code": "IT321",
+    "count": 101,
+    "grade": 8.069,
+    "title": "Malware Analysis",
+    "semester": "VII",
+    "subject": "IT"
+  },
+  {
+    "code": "CH201",
+    "count": 31,
+    "grade": 8.065,
+    "title": "Chemical Engineering Process",
+    "semester": "VII",
+    "subject": "CH"
+  },
+  {
+    "code": "IT411",
+    "count": 89,
+    "grade": 8.056,
+    "title": "Digital Image Processing",
+    "semester": "VII",
+    "subject": "IT"
+  },
+  {
+    "code": "ME411",
+    "count": 142,
+    "grade": 8.035,
+    "title": "IC Engines",
+    "semester": "VII",
+    "subject": "ME"
+  },
+  {
+    "code": "EC313",
+    "count": 17,
+    "grade": 8,
+    "title": "Microprocessor And Interfacing",
+    "semester": "VII",
+    "subject": "EC"
+  },
+  {
+    "code": "IT425",
+    "count": 56,
+    "grade": 8,
+    "title": "Natural Language Processing",
+    "semester": "VII",
+    "subject": "IT"
+  },
+  {
+    "code": "AE413",
+    "count": 69,
+    "grade": 7.986,
+    "title": "Vehicle Transport Management",
+    "semester": "VII",
+    "subject": "AE"
+  },
+  {
+    "code": "CO201",
+    "count": 60,
+    "grade": 7.983,
+    "title": "Data Structures",
+    "semester": "VII",
+    "subject": "CO"
+  },
+  {
+    "code": "HU325",
+    "count": 56,
+    "grade": 7.982,
+    "title": "Creative Writing Skills",
+    "semester": "VII",
+    "subject": "HU"
+  },
+  {
+    "code": "ME427",
+    "count": 38,
+    "grade": 7.974,
+    "title": "Operations Research",
+    "semester": "VII",
+    "subject": "ME"
+  },
+  {
+    "code": "ME409",
+    "count": 69,
+    "grade": 7.971,
+    "title": "Mechatronics",
+    "semester": "VII",
+    "subject": "ME"
+  },
+  {
+    "code": "CO313",
+    "count": 97,
+    "grade": 7.959,
+    "title": "Computer Graphics",
+    "semester": "VII",
+    "subject": "CO"
+  },
+  {
+    "code": "PE419",
+    "count": 69,
+    "grade": 7.957,
+    "title": "Project Management",
+    "semester": "VII",
+    "subject": "PE"
+  },
+  {
+    "code": "MC407",
+    "count": 87,
+    "grade": 7.954,
+    "title": "Cryptography And Network",
+    "semester": "VII",
+    "subject": "MC"
+  },
+  {
+    "code": "MBASC221",
+    "count": 58,
+    "grade": 7.948,
+    "title": "Supply Chain Planning And Execution",
+    "semester": "VII",
+    "subject": "MB"
+  },
+  {
+    "code": "CH417",
+    "count": 75,
+    "grade": 7.933,
+    "title": "Polymer Waste Management",
+    "semester": "VII",
+    "subject": "CH"
+  },
+  {
+    "code": "EC309",
+    "count": 90,
+    "grade": 7.933,
+    "title": "Bio-Medical Electronics & Instrumentation",
+    "semester": "VII",
+    "subject": "EC"
+  },
+  {
+    "code": "ME419",
+    "count": 71,
+    "grade": 7.93,
+    "title": "Robotics And Automation",
+    "semester": "VII",
+    "subject": "ME"
+  },
+  {
+    "code": "EN411",
+    "count": 77,
+    "grade": 7.909,
+    "title": "Occupational Hazards, Health & Safety",
+    "semester": "VII",
+    "subject": "EN"
+  },
+  {
+    "code": "CO325",
+    "count": 88,
+    "grade": 7.909,
+    "title": "Probability And Statistics",
+    "semester": "VII",
+    "subject": "CO"
+  },
+  {
+    "code": "SE409",
+    "count": 62,
+    "grade": 7.903,
+    "title": "Software Maintenance",
+    "semester": "VII",
+    "subject": "SE"
+  },
+  {
+    "code": "BT305",
+    "count": 34,
+    "grade": 7.882,
+    "title": "Instrumentation In Biotechnology",
+    "semester": "VII",
+    "subject": "BT"
+  },
+  {
+    "code": "BT325",
+    "count": 32,
+    "grade": 7.875,
+    "title": "Cell Biology",
+    "semester": "VII",
+    "subject": "BT"
+  },
+  {
+    "code": "CE305",
+    "count": 22,
+    "grade": 7.864,
+    "title": "Mechanics Of Materials",
+    "semester": "VII",
+    "subject": "CE"
+  },
+  {
+    "code": "CO423",
+    "count": 79,
+    "grade": 7.861,
+    "title": "Swarm & Evolutionary Computing",
+    "semester": "VII",
+    "subject": "CO"
+  },
+  {
+    "code": "BT323",
+    "count": 7,
+    "grade": 7.857,
+    "title": "Population Genetics",
+    "semester": "VII",
+    "subject": "BT"
+  },
+  {
+    "code": "IT323",
+    "count": 81,
+    "grade": 7.852,
+    "title": "Machine Learning",
+    "semester": "VII",
+    "subject": "IT"
+  },
+  {
+    "code": "EE323",
+    "count": 33,
+    "grade": 7.848,
+    "title": "Fundamentals Of Machine Learning",
+    "semester": "VII",
+    "subject": "EE"
+  },
+  {
+    "code": "ME365a",
+    "count": 50,
+    "grade": 7.84,
+    "title": "Computational Fluid Dynamics",
+    "semester": "VII",
+    "subject": "ME"
+  },
+  {
+    "code": "CH409",
+    "count": 73,
+    "grade": 7.836,
+    "title": "Plant Engineering And Process",
+    "semester": "VII",
+    "subject": "CH"
+  },
+  {
+    "code": "SE305",
+    "count": 10,
+    "grade": 7.8,
+    "title": "Software Requirement Engineering",
+    "semester": "VII",
+    "subject": "SE"
+  },
+  {
+    "code": "CO203",
+    "count": 97,
+    "grade": 7.794,
+    "title": "Object Oriented Programming Computer Organization And",
+    "semester": "VII",
+    "subject": "CO"
+  },
+  {
+    "code": "MBASC213",
+    "count": 47,
+    "grade": 7.787,
+    "title": "Total Quality Management",
+    "semester": "VII",
+    "subject": "MB"
+  },
+  {
+    "code": "IT201",
+    "count": 103,
+    "grade": 7.786,
+    "title": "Data Structures",
+    "semester": "VII",
+    "subject": "IT"
+  },
+  {
+    "code": "ME435",
+    "count": 75,
+    "grade": 7.773,
+    "title": "Optimization Techniques",
+    "semester": "VII",
+    "subject": "ME"
+  },
+  {
+    "code": "ME407a",
+    "count": 43,
+    "grade": 7.767,
+    "title": "Refrigeration & Air Conditioning",
+    "semester": "VII",
+    "subject": "ME"
+  },
+  {
+    "code": "CE415",
+    "count": 73,
+    "grade": 7.74,
+    "title": "Transportation Safety And Environment",
+    "semester": "VII",
+    "subject": "CE"
+  },
+  {
+    "code": "MBA-",
+    "count": 91,
+    "grade": 7.736,
+    "title": "Mba-",
+    "semester": "VII",
+    "subject": "MB"
+  },
+  {
+    "code": "IT307a",
+    "count": 49,
+    "grade": 7.735,
+    "title": "Pattern Recognition",
+    "semester": "VII",
+    "subject": "IT"
+  },
+  {
+    "code": "EV301",
+    "count": 43,
+    "grade": 7.721,
+    "title": "Fundamentals Of Electric Vehicles",
+    "semester": "VII",
+    "subject": "EV"
+  },
+  {
+    "code": "EE407",
+    "count": 32,
+    "grade": 7.719,
+    "title": "Measurement And Instrumentation",
+    "semester": "VII",
+    "subject": "EE"
+  },
+  {
+    "code": "CO411",
+    "count": 58,
+    "grade": 7.707,
+    "title": ": Computer Vision",
+    "semester": "VII",
+    "subject": "CO"
+  },
+  {
+    "code": "CO429",
+    "count": 128,
+    "grade": 7.703,
+    "title": "Neural Networks",
+    "semester": "VII",
+    "subject": "CO"
+  },
+  {
+    "code": "ME367a",
+    "count": 19,
+    "grade": 7.684,
+    "title": "Finite Element Methods",
+    "semester": "VII",
+    "subject": "ME"
+  },
+  {
+    "code": "EE357b",
+    "count": 141,
+    "grade": 7.674,
+    "title": "Utilization Of Electrical Energy",
+    "semester": "VII",
+    "subject": "EE"
+  },
+  {
+    "code": "PE351",
+    "count": 24,
+    "grade": 7.667,
+    "title": "Advance Machining Process",
+    "semester": "VII",
+    "subject": "PE"
+  },
+  {
+    "code": "IT351a",
+    "count": 29,
+    "grade": 7.655,
+    "title": "Artificial Intelligence And Machine Learning",
+    "semester": "VII",
+    "subject": "IT"
+  },
+  {
+    "code": "MC405",
+    "count": 81,
+    "grade": 7.654,
+    "title": "Graph Theory",
+    "semester": "VII",
+    "subject": "MC"
+  },
+  {
+    "code": "SE203a",
+    "count": 20,
+    "grade": 7.65,
+    "title": "Data Structures",
+    "semester": "VII",
+    "subject": "SE"
+  },
+  {
+    "code": "CE413",
+    "count": 71,
+    "grade": 7.606,
+    "title": "Water Resources Management",
+    "semester": "VII",
+    "subject": "CE"
+  },
+  {
+    "code": "EE307",
+    "count": 33,
+    "grade": 7.606,
+    "title": "Power Station Practices",
+    "semester": "VII",
+    "subject": "EE"
+  },
+  {
+    "code": "CE423",
+    "count": 73,
+    "grade": 7.603,
+    "title": "Advanced Transportation Engineering",
+    "semester": "VII",
+    "subject": "CE"
+  },
+  {
+    "code": "ME423",
+    "count": 43,
+    "grade": 7.581,
+    "title": "Advanced Manufacturing",
+    "semester": "VII",
+    "subject": "ME"
+  },
+  {
+    "code": "EV355",
+    "count": 26,
+    "grade": 7.577,
+    "title": "Chargers And Charging Infrastructure",
+    "semester": "VII",
+    "subject": "EV"
+  },
+  {
+    "code": "CH301",
+    "count": 9,
+    "grade": 7.556,
+    "title": "Polymer Materials",
+    "semester": "VII",
+    "subject": "CH"
+  },
+  {
+    "code": "MC205",
+    "count": 29,
+    "grade": 7.552,
+    "title": "Probability And Statistics",
+    "semester": "VII",
+    "subject": "MC"
+  },
+  {
+    "code": "AE407",
+    "count": 73,
+    "grade": 7.548,
+    "title": "Production And Operations Management",
+    "semester": "VII",
+    "subject": "AE"
+  },
+  {
+    "code": "PE417",
+    "count": 69,
+    "grade": 7.536,
+    "title": "Materials Management",
+    "semester": "VII",
+    "subject": "PE"
+  },
+  {
+    "code": "AE411",
+    "count": 71,
+    "grade": 7.507,
+    "title": "Vehicle Maintenance And Tribology",
+    "semester": "VII",
+    "subject": "AE"
+  },
+  {
+    "code": "ME413",
+    "count": 61,
+    "grade": 7.492,
+    "title": "Metrology",
+    "semester": "VII",
+    "subject": "ME"
+  },
+  {
+    "code": "BT421",
+    "count": 73,
+    "grade": 7.452,
+    "title": "Pharmacogenomics And Personalized",
+    "semester": "VII",
+    "subject": "BT"
+  },
+  {
+    "code": "EC305",
+    "count": 20,
+    "grade": 7.45,
+    "title": "Semiconductor Device Electronics",
+    "semester": "VII",
+    "subject": "EC"
+  },
+  {
+    "code": "ME355a",
+    "count": 21,
+    "grade": 7.429,
+    "title": "Thermal Systems",
+    "semester": "VII",
+    "subject": "ME"
+  },
+  {
+    "code": "PE361a",
+    "count": 66,
+    "grade": 7.424,
+    "title": "Total Quality Managemen",
+    "semester": "VII",
+    "subject": "PE"
+  },
+  {
+    "code": "EE409a",
+    "count": 97,
+    "grade": 7.423,
+    "title": "Switchgear And Protection",
+    "semester": "VII",
+    "subject": "EE"
+  },
+  {
+    "code": "CO425",
+    "count": 232,
+    "grade": 7.405,
+    "title": "Information And Network Security",
+    "semester": "VII",
+    "subject": "CO"
+  },
+  {
+    "code": "MC305",
+    "count": 25,
+    "grade": 7.4,
+    "title": "Operations Research",
+    "semester": "VII",
+    "subject": "MC"
+  },
+  {
+    "code": "AE317",
+    "count": 21,
+    "grade": 7.381,
+    "title": "Power Units And",
+    "semester": "VII",
+    "subject": "AE"
+  },
+  {
+    "code": "MBAMK213",
+    "count": 51,
+    "grade": 7.333,
+    "title": "Consumer Behaviour",
+    "semester": "VII",
+    "subject": "MB"
+  },
+  {
+    "code": "MC303",
+    "count": 6,
+    "grade": 7.333,
+    "title": "Stochastic Processes",
+    "semester": "VII",
+    "subject": "MC"
+  },
+  {
+    "code": "CH305",
+    "count": 40,
+    "grade": 7.3,
+    "title": "Characterization Of Materials",
+    "semester": "VII",
+    "subject": "CH"
+  },
+  {
+    "code": "EN301",
+    "count": 26,
+    "grade": 7.269,
+    "title": "Waste Water Engineering",
+    "semester": "VII",
+    "subject": "EN"
+  },
+  {
+    "code": "EE317",
+    "count": 52,
+    "grade": 7.269,
+    "title": "Renewable Energy Systems",
+    "semester": "VII",
+    "subject": "EE"
+  },
+  {
+    "code": "CH303",
+    "count": 15,
+    "grade": 7.267,
+    "title": "Mass Transfer-1",
+    "semester": "VII",
+    "subject": "CH"
+  },
+  {
+    "code": "CO303",
+    "count": 43,
+    "grade": 7.256,
+    "title": "Theory Of Computation",
+    "semester": "VII",
+    "subject": "CO"
+  },
+  {
+    "code": "EP415",
+    "count": 56,
+    "grade": 7.25,
+    "title": "Nano Science And Technology",
+    "semester": "VII",
+    "subject": "EP"
+  },
+  {
+    "code": "MC419",
+    "count": 30,
+    "grade": 7.233,
+    "title": "Machine Learning",
+    "semester": "VII",
+    "subject": "MC"
+  },
+  {
+    "code": "EC455",
+    "count": 140,
+    "grade": 7.207,
+    "title": "Data Analytics",
+    "semester": "VII",
+    "subject": "EC"
+  },
+  {
+    "code": "PE305",
+    "count": 15,
+    "grade": 7.2,
+    "title": "Advance Machine Design",
+    "semester": "VII",
+    "subject": "PE"
+  },
+  {
+    "code": "SE323",
+    "count": 15,
+    "grade": 7.2,
+    "title": "Theory Of Computation",
+    "semester": "VII",
+    "subject": "SE"
+  },
+  {
+    "code": "CE205n",
+    "count": 11,
+    "grade": 7.182,
+    "title": "Fluid Mechanics",
+    "semester": "VII",
+    "subject": "CE"
+  },
+  {
+    "code": "EC325",
+    "count": 6,
+    "grade": 7.167,
+    "title": "Probability And Random Process",
+    "semester": "VII",
+    "subject": "EC"
+  },
+  {
+    "code": "EP321",
+    "count": 12,
+    "grade": 7.167,
+    "title": "Advanced Wafer Processing",
+    "semester": "VII",
+    "subject": "EP"
+  },
+  {
+    "code": "CO431",
+    "count": 55,
+    "grade": 7.164,
+    "title": "Reinforcement Learning",
+    "semester": "VII",
+    "subject": "CO"
+  },
+  {
+    "code": "BT407",
+    "count": 42,
+    "grade": 7.143,
+    "title": "Bioprocess Tech & Downstream Process",
+    "semester": "VII",
+    "subject": "BT"
+  },
+  {
+    "code": "EE325",
+    "count": 67,
+    "grade": 7.134,
+    "title": "Internet Of Things",
+    "semester": "VII",
+    "subject": "EE"
+  },
+  {
+    "code": "CO305",
+    "count": 43,
+    "grade": 7.07,
+    "title": "Information Theory And Coding",
+    "semester": "VII",
+    "subject": "CO"
+  },
+  {
+    "code": "EC457",
+    "count": 34,
+    "grade": 7.029,
+    "title": "Natural Language Processing",
+    "semester": "VII",
+    "subject": "EC"
+  },
+  {
+    "code": "EC409a",
+    "count": 44,
+    "grade": 7.023,
+    "title": "Computer Vision",
+    "semester": "VII",
+    "subject": "EC"
+  },
+  {
+    "code": "BT413",
+    "count": 26,
+    "grade": 7,
+    "title": "Nanobiotechnology",
+    "semester": "VII",
+    "subject": "BT"
+  },
+  {
+    "code": "EE425",
+    "count": 4,
+    "grade": 7,
+    "title": "Ic Technology",
+    "semester": "VII",
+    "subject": "EE"
+  },
+  {
+    "code": "EN311",
+    "count": 26,
+    "grade": 6.962,
+    "title": "Climate Change & Cdm",
+    "semester": "VII",
+    "subject": "EN"
+  },
+  {
+    "code": "EN421",
+    "count": 61,
+    "grade": 6.918,
+    "title": "Design Of Water Distribution Network",
+    "semester": "VII",
+    "subject": "EN"
+  },
+  {
+    "code": "ME361a",
+    "count": 85,
+    "grade": 6.906,
+    "title": "Industrial Engineering",
+    "semester": "VII",
+    "subject": "ME"
+  },
+  {
+    "code": "EC407",
+    "count": 146,
+    "grade": 6.856,
+    "title": "Optical Communication",
+    "semester": "VII",
+    "subject": "EC"
+  },
+  {
+    "code": "EV351",
+    "count": 42,
+    "grade": 6.81,
+    "title": "E Mobility",
+    "semester": "VII",
+    "subject": "EV"
+  },
+  {
+    "code": "CH405",
+    "count": 41,
+    "grade": 6.805,
+    "title": "Fiber Technology",
+    "semester": "VII",
+    "subject": "CH"
+  },
+  {
+    "code": "EP307",
+    "count": 18,
+    "grade": 6.778,
+    "title": "Biophysics",
+    "semester": "VII",
+    "subject": "EP"
+  },
+  {
+    "code": "EN305",
+    "count": 29,
+    "grade": 6.759,
+    "title": "Soil Pollution & Remediation",
+    "semester": "VII",
+    "subject": "EN"
+  },
+  {
+    "code": "EE313b",
+    "count": 19,
+    "grade": 6.737,
+    "title": "Engineering Analysis And Design",
+    "semester": "VII",
+    "subject": "EE"
+  },
+  {
+    "code": "EN409",
+    "count": 80,
+    "grade": 6.725,
+    "title": "Industrial Waste Management",
+    "semester": "VII",
+    "subject": "EN"
+  },
+  {
+    "code": "CE317",
+    "count": 27,
+    "grade": 6.667,
+    "title": "Solid Waste Management & Air Pollution Control",
+    "semester": "VII",
+    "subject": "CE"
+  },
+  {
+    "code": "CE315",
+    "count": 15,
+    "grade": 6.667,
+    "title": "Rock Engineering",
+    "semester": "VII",
+    "subject": "CE"
+  },
+  {
+    "code": "EE305",
+    "count": 19,
+    "grade": 6.632,
+    "title": "Signals And Systems",
+    "semester": "VII",
+    "subject": "EE"
+  },
+  {
+    "code": "CE313",
+    "count": 17,
+    "grade": 6.412,
+    "title": "Earthquake Technology",
+    "semester": "VII",
+    "subject": "CE"
+  },
+  {
+    "code": "PE405",
+    "count": 73,
+    "grade": 6.356,
+    "title": "Metal Forming And Press Working",
+    "semester": "VII",
+    "subject": "PE"
+  },
+  {
+    "code": "EC307",
+    "count": 54,
+    "grade": 6.333,
+    "title": "Antenna Design",
+    "semester": "VII",
+    "subject": "EC"
+  },
+  {
+    "code": "EP305",
+    "count": 30,
+    "grade": 6.3,
+    "title": "Atomic And Molecular Physics",
+    "semester": "VII",
+    "subject": "EP"
+  },
+  {
+    "code": "EC319",
+    "count": 11,
+    "grade": 6.273,
+    "title": "Cmos Analog Integrated Circuit",
+    "semester": "VII",
+    "subject": "EC"
+  },
+  {
+    "code": "EN407",
+    "count": 65,
+    "grade": 6.262,
+    "title": "Vibration Analysis & Control Of Noise Pollution",
+    "semester": "VII",
+    "subject": "EN"
+  },
+  {
+    "code": "CH319",
+    "count": 14,
+    "grade": 6.214,
+    "title": "Rubber Technology",
+    "semester": "VII",
+    "subject": "CH"
+  },
+  {
+    "code": "EN317",
+    "count": 22,
+    "grade": 6.182,
+    "title": "Environmental",
+    "semester": "VII",
+    "subject": "EN"
+  },
+  {
+    "code": "EC311",
+    "count": 9,
+    "grade": 6.111,
+    "title": "Algorithms Analysis And Design",
+    "semester": "VII",
+    "subject": "EC"
+  },
+  {
+    "code": "EP309",
+    "count": 12,
+    "grade": 6.083,
+    "title": "Quantum Information And Computing",
+    "semester": "VII",
+    "subject": "EP"
+  },
+  {
+    "code": "EE427",
+    "count": 16,
+    "grade": 5.938,
+    "title": "Computer Architecture",
+    "semester": "VII",
+    "subject": "EE"
+  },
+  {
+    "code": "MC319",
+    "count": 10,
+    "grade": 5.8,
+    "title": "Complex Analysis",
+    "semester": "VII",
+    "subject": "MC"
+  },
+  {
+    "code": "CE307a",
+    "count": 9,
+    "grade": 5.667,
+    "title": "Advanced Geo-Technical Engineering",
+    "semester": "VII",
+    "subject": "CE"
+  },
+  {
+    "code": "EE429",
+    "count": 9,
+    "grade": 5.444,
+    "title": "Power Electronics Application To Photo-Voltaic System",
+    "semester": "VII",
+    "subject": "EE"
+  },
+  {
+    "code": "CH315",
+    "count": 19,
+    "grade": 4.368,
+    "title": "Plastic Technology",
+    "semester": "VII",
+    "subject": "CH"
+  },
+  {
+    "code": "EC323",
+    "count": 10,
+    "grade": 4.3,
+    "title": "Control Systems",
+    "semester": "VII",
+    "subject": "EC"
+  },
+  {
+    "code": "EP301",
+    "count": 5,
+    "grade": 4.2,
+    "title": "Semiconductor Devices",
+    "semester": "VII",
+    "subject": "EP"
+  },
+  {
+    "code": "CE309",
+    "count": 15,
+    "grade": 3.733,
+    "title": "Environmental Engineering Design",
+    "semester": "VII",
+    "subject": "CE"
+  }
+]

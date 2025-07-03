@@ -1,0 +1,274 @@
+[
+  {
+    "code": "AEC6",
+    "title": "Communicative Hindi (Only for foreign national students)",
+    "count": 9,
+    "grade": 9.556,
+    "semester": "I",
+    "subject": "AEC"
+  },
+  {
+    "code": "VAC6",
+    "title": "Extension Outreach Activities",
+    "count": 77,
+    "grade": 8.961,
+    "semester": "I",
+    "subject": "VAC"
+  },
+  {
+    "code": "AEC11",
+    "title": "Soft Skills and Personality Development",
+    "count": 53,
+    "grade": 8.925,
+    "semester": "I",
+    "subject": "AEC"
+  },
+  {
+    "code": "AEC15",
+    "title": "Public Speaking",
+    "count": 47,
+    "grade": 8.66,
+    "semester": "I",
+    "subject": "AEC"
+  },
+  {
+    "code": "AEC18",
+    "title": "Spoken Skills in English",
+    "count": 63,
+    "grade": 8.571,
+    "semester": "I",
+    "subject": "AEC"
+  },
+  {
+    "code": "AEC21",
+    "title": "Tinkering Studio & Elements of Design",
+    "count": 30,
+    "grade": 8.533,
+    "semester": "I",
+    "subject": "AEC"
+  },
+  {
+    "code": "AEC2",
+    "title": "Appreciation of Poetry & Prose",
+    "count": 41,
+    "grade": 8.512,
+    "semester": "I",
+    "subject": "AEC"
+  },
+  {
+    "code": "VAC5",
+    "title": "Emotional Intelligence",
+    "count": 58,
+    "grade": 8.431,
+    "semester": "I",
+    "subject": "VAC"
+  },
+  {
+    "code": "VAC16",
+    "title": "Professional Ethics & Human Values",
+    "count": 39,
+    "grade": 8.077,
+    "semester": "I",
+    "subject": "VAC"
+  },
+  {
+    "code": "AEC20",
+    "title": "Sketching & Rendering",
+    "count": 32,
+    "grade": 8.031,
+    "semester": "I",
+    "subject": "AEC"
+  },
+  {
+    "code": "AEC19",
+    "title": "Technical Communication",
+    "count": 54,
+    "grade": 8,
+    "semester": "I",
+    "subject": "AEC"
+  },
+  {
+    "code": "AEC13",
+    "title": "Logical Reasoning",
+    "count": 62,
+    "grade": 7.968,
+    "semester": "I",
+    "subject": "AEC"
+  },
+  {
+    "code": "VAC22",
+    "title": "Universal Human Values: I Self-Family",
+    "count": 70,
+    "grade": 7.886,
+    "semester": "I",
+    "subject": "VAC"
+  },
+  {
+    "code": "AEC10",
+    "title": "German",
+    "count": 55,
+    "grade": 7.836,
+    "semester": "I",
+    "subject": "AEC"
+  },
+  {
+    "code": "VAC3",
+    "title": "Corporate Social Responsibility",
+    "count": 59,
+    "grade": 7.831,
+    "semester": "I",
+    "subject": "VAC"
+  },
+  {
+    "code": "AEC4",
+    "title": "Business Communication and Presentation Skills",
+    "count": 60,
+    "grade": 7.783,
+    "semester": "I",
+    "subject": "AEC"
+  },
+  {
+    "code": "AEC25",
+    "title": "Entrepreneurship Exploration",
+    "count": 55,
+    "grade": 7.727,
+    "semester": "I",
+    "subject": "AEC"
+  },
+  {
+    "code": "VAC25",
+    "title": "Value Driven Leadership",
+    "count": 71,
+    "grade": 7.718,
+    "semester": "I",
+    "subject": "VAC"
+  },
+  {
+    "code": "VAC19",
+    "title": "Science & Practice of Happiness",
+    "count": 48,
+    "grade": 7.708,
+    "semester": "I",
+    "subject": "VAC"
+  },
+  {
+    "code": "VAC13",
+    "title": "Negotiation & Leadership",
+    "count": 30,
+    "grade": 7.667,
+    "semester": "I",
+    "subject": "VAC"
+  },
+  {
+    "code": "AEC5",
+    "title": "Communication Skills",
+    "count": 50,
+    "grade": 7.64,
+    "semester": "I",
+    "subject": "AEC"
+  },
+  {
+    "code": "VAC20",
+    "title": "Sports I",
+    "count": 112,
+    "grade": 7.58,
+    "semester": "I",
+    "subject": "VAC"
+  },
+  {
+    "code": "VAC30",
+    "title": "Yoga",
+    "count": 39,
+    "grade": 7.564,
+    "semester": "I",
+    "subject": "VAC"
+  },
+  {
+    "code": "AEC1",
+    "title": "Appreciation of Fiction",
+    "count": 50,
+    "grade": 7.36,
+    "semester": "I",
+    "subject": "AEC"
+  },
+  {
+    "code": "VAC11",
+    "title": "Leadership Through Self-Management",
+    "count": 76,
+    "grade": 7.197,
+    "semester": "I",
+    "subject": "VAC"
+  },
+  {
+    "code": "VAC27",
+    "title": "Introduction to Environmental Science",
+    "count": 165,
+    "grade": 7.17,
+    "semester": "I",
+    "subject": "VAC"
+  },
+  {
+    "code": "AEC3",
+    "title": "Appreciation of Short Stories",
+    "count": 61,
+    "grade": 7.148,
+    "semester": "I",
+    "subject": "AEC"
+  },
+  {
+    "code": "VAC21",
+    "title": "Sports II",
+    "count": 105,
+    "grade": 6.857,
+    "semester": "I",
+    "subject": "VAC"
+  },
+  {
+    "code": "VAC29",
+    "title": "Physical Education & Sports",
+    "count": 34,
+    "grade": 6.765,
+    "semester": "I",
+    "subject": "VAC"
+  },
+  {
+    "code": "VAC12",
+    "title": "NCC",
+    "count": 33,
+    "grade": 6.394,
+    "semester": "I",
+    "subject": "VAC"
+  },
+  {
+    "code": "VAC24",
+    "title": "Universal Human Values: Understanding Harmony",
+    "count": 67,
+    "grade": 5.284,
+    "semester": "I",
+    "subject": "VAC"
+  },
+  {
+    "code": "AEC12",
+    "title": "Japanese",
+    "count": "",
+    "grade": "",
+    "semester": "I",
+    "subject": "AEC"
+  },
+  {
+    "code": "VAC10",
+    "title": "Introduction to Biological Science",
+    "count": "",
+    "grade": "",
+    "semester": "I",
+    "subject": "VAC"
+  },
+  {
+    "code": "VAC44",
+    "title": "Vivek Marg",
+    "count": "",
+    "grade": "",
+    "semester": "I",
+    "subject": "VAC"
+  }
+]
