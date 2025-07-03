@@ -1,6 +1,7 @@
 # DTU Electives Ranker
 
 A lightweight tool to help DTU students choose electives based on average GPA data from past semesters.
+Visit here:  https://srzhub.github.io/dtu-elective-ranker/
 
 ## Features
 - View average GPA for elective subjects (Sem I, III, V, VII)
