@@ -2,6 +2,7 @@
 
 let subjectData = []; //this will hold all the data
 
+//Fetching JSON data
 fetch('../json_data/sem3_data.json')
 .then( response =>{
     if(!response.ok){
@@ -21,28 +22,9 @@ fetch('../json_data/sem3_data.json')
 
 let currentFilter = null
 let currentSort = null
+let currentSearch = ''
 
-// Function to change table, either sort or filter or both.
-function changeTable(){
-  var table = document.getElementById("3_sem_table");
-  table.innerHTML = ''
-  changedData = subjectData.slice()
 
-  if(currentSort){
-    if(currentSort === "asc"){
-      changedData = changedData.sort( (a,b) => parseFloat(a.grade) - parseFloat(b.grade))
-    }
-    else{
-      changedData = changedData.sort( (a,b) => parseFloat(b.grade) - parseFloat(a.grade))
-    }
-  }
-
-  if(currentFilter){
-    changedData = changedData.filter((el) => el.subject === currentFilter)
-  }
-
-  buildTable(changedData)
-}
 
 // Read value of sorting column
 document.getElementById("order").addEventListener("change", function(){
@@ -55,19 +37,62 @@ document.getElementById("subject").addEventListener("change", function(){
   currentFilter = this.value || null
   changeTable();
 })
+// Read value of search column
+document.getElementById("searchInput").addEventListener("input", function(){
+  currentSearch = this.value.toLowerCase();
+  changeTable();
+})
 
+
+
+  // Function to change table, either sort, search or filter.
+function changeTable(){
+  var table = document.getElementById("3_sem_table");
+  table.innerHTML = ''
+  changedData = subjectData.slice()
+
+  //Sort
+  if(currentSort){
+    if(currentSort === "asc"){
+      changedData = changedData.sort( (a,b) => parseFloat(a.grade) - parseFloat(b.grade))
+    }
+    else{
+      changedData = changedData.sort( (a,b) => parseFloat(b.grade) - parseFloat(a.grade))
+    }
+  }
+
+  //Filter
+  if(currentFilter){
+    changedData = changedData.filter((el) => el.subject === currentFilter)
+  }
+
+  //Search
+  if(currentSearch){
+    changedData = changedData.filter( (el) => 
+    el.title.toLowerCase().includes(currentSearch) ||
+    el.code.toLowerCase().includes(currentSearch)
+  );
+
+  }
+
+  buildTable(changedData)
+}
+
+  // Function to build our table
   function buildTable(data){
     var table = document.getElementById("3_sem_table");
+    table.innerHTML = ''
 
     for(var i = 0; i< data.length; i++ ){
-      const row = 
+      const row = document.createElement("tr");
+      row.innerHTML =
         `<tr>
                   <td>${i+1}</td>
                   <td>${data[i].code}</td>
                   <td>${data[i].title}</td>
                   <td>${data[i].grade}</td>
-                </tr>`
+                </tr>`;
 
-      table.innerHTML += row;
+      table.appendChild(row);
     }
   }

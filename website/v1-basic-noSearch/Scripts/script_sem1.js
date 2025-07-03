@@ -1,4 +1,4 @@
-//SEM 3 script
+//SEM 1 script
 
 let subjectData = []; //this will hold all the data
 
@@ -21,8 +21,30 @@ fetch('../json_data/sem1_data.json')
 
 let currentFilter = null
 let currentSort = null
+let currentSearch = ''
 
-// Function to change table, either sort or filter or both.
+
+
+// Read value of sorting column
+document.getElementById("order").addEventListener("change", function(){
+  currentSort = this.value || null
+  changeTable();
+})
+
+// Read value of filtering column
+document.getElementById("subject").addEventListener("change", function(){
+  currentFilter = this.value || null
+  changeTable();
+})
+
+document.getElementById("searchInput").addEventListener("input", function(){
+  currentSearch = this.value.toLowerCase();
+  changeTable();
+})
+
+
+
+  // Function to change table, either sort or filter or both.
 function changeTable(){
   var table = document.getElementById("1_sem_table");
   table.innerHTML = ''
@@ -41,33 +63,31 @@ function changeTable(){
     changedData = changedData.filter((el) => el.subject === currentFilter)
   }
 
+  if(currentSearch){
+    changedData = changedData.filter( (el) => 
+    el.title.toLowerCase().includes(currentSearch) ||
+    el.code.toLowerCase().includes(currentSearch)
+  );
+
+  }
+
   buildTable(changedData)
 }
 
-// Read value of sorting column
-document.getElementById("order").addEventListener("change", function(){
-  currentSort = this.value || null
-  changeTable();
-})
-
-// Read value of filtering column
-document.getElementById("subject").addEventListener("change", function(){
-  currentFilter = this.value || null
-  changeTable();
-})
-
   function buildTable(data){
     var table = document.getElementById("1_sem_table");
+    table.innerHTML = ''
 
     for(var i = 0; i< data.length; i++ ){
-      const row = 
+      const row = document.createElement("tr");
+      row.innerHTML =
         `<tr>
                   <td>${i+1}</td>
                   <td>${data[i].code}</td>
                   <td>${data[i].title}</td>
                   <td>${data[i].grade}</td>
-                </tr>`
+                </tr>`;
 
-      table.innerHTML += row;
+      table.appendChild(row);
     }
   }
