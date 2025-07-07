@@ -333,7 +333,7 @@
     "grade": 7.399,
     "semester": 1,
     "branch": "CO",
-    "pdf": ""
+    "pdf": "syllabi/CS101.pdf"
   },
   {
     "code": "EC101",
@@ -345,7 +345,7 @@
     "grade": 6.796,
     "semester": 1,
     "branch": "CO",
-    "pdf": ""
+    "pdf": "syllabi/EC101.pdf"
   },
   {
     "code": "ME105",
@@ -357,7 +357,7 @@
     "grade": 7.793,
     "semester": 1,
     "branch": "CO",
-    "pdf": ""
+    "pdf": "syllabi/ME105.pdf"
   },
   {
     "code": "CS103",

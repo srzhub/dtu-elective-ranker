@@ -64,7 +64,7 @@ fetch('sem_cs.json')
                   onclick="openSyllabusModal('${data[i].pdf}')"
                   title="View Syllabus">
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
-                 class="bi bi-file-earmark-text" viewBox="0 0 16 16">
+                 class="bi" viewBox="0 0 16 16">
               <path d="M5 7h6v1H5V7zm0 2h6v1H5V9z"/>
               <path d="M14 4.5V14a2 2 0 0 1-2 2H4a2 
                        2 0 0 1-2-2V2a2 2 0 0 

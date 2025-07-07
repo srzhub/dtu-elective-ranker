@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="stylesv1.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>DTU Electives</title>
 </head>
 <style>
 
@@ -55,14 +55,14 @@
       <!-- Select semester section -->
       <div class="container-fluid  ">
 
-        <div class="row align-items-center">
-          <div class="col-md-5  d-none d-lg-flex justify-content-center mt-3">
+        <div class="row align-items-center mb-1">
+          <div class="col-md-4  d-none d-lg-flex justify-content-center mt-5">
             <img src="undraw_education_3vwh (1).svg" class="img-fluid" alt="">
           </div>
 
-          <div class="col-md-7 text-center text-lg-start ">
-                      <h1 class=" fw-bold" >Choose your upcoming semester to find the best electives.</h1>
-          <p class="lead mb-4 fs-5">Quickly see how your peers performed and make informed choices.</p>
+          <div class="col-md-7 text-center text-lg-start  hero-text ">
+                      <h1 class=" fw-bold mt-3 mt-md-0" >Choose your upcoming semester to find the best electives.</h1>
+          <p class="lead mb-4 fs-5 d-none d-md-block">Quickly see how your peers performed and make informed choices.</p>
           <div class="d-flex flex-wrap gap-4 justify-content-center justify-content-md-start">
 
             <a href="Semester_pages/semester1.html" class="btn btn-primary btn-lg custom-sem-btn">Semester I</a>
@@ -73,21 +73,25 @@
           </div>
         </div>
 
+
+        <hr class="mt-5" />
+
 <!-- Improved: Semester & Branch Selection Section -->
-<div class="row align-items-center mt-3 gy-4">
+<div class="row align-items-center mt-0 gy-0">
   
   <!-- Left Column: Form -->
-  <div class="col-md-7">
+  <div class="col-md-8  hero-text">
     <div class="p-4  h-100">
-      <h2 class="fw-bold mb-4">Explore complete subject list and syllabus for your branch</h2>
+      <h2 class="fw-bold mb-4  text-center text-md-start ">Explore complete subject list and syllabus for your branch</h2>
 
-      <form action="CS Semester/semester_cs.html" method="GET">
+      <form action="CS Semester/semester_cs.html" method="GET" class="form-subjects">
 
         <div class="mb-4">
           <label for="branch"  class="form-label fw-semibold">Select Branch</label>
           <select id="branch" name="branch" class="form-select">
-            <option selected disabled>Choose branch</option>
-            <option value="CO">Computer Science (CS)</option>
+            <!-- <option selected disabled>Choose branch</option> --> 
+            <option selected value="CO">Computer Science (CS)</option>
+
             
           </select>
         </div>
@@ -107,14 +111,16 @@
 
 
 
-        <button type="submit" class="btn btn-primary w-100 custom-sem-btn" src="CS Semester/semester_cs.html">Show Electives</button>
+        <button type="submit" class="btn btn-primary w-100 custom-sem-btn" src="CS Semester/semester_cs.html">
+          Find Subjects & Syllabus
+        </button>
       </form>
     </div>
   </div>
 
   <!-- Right Column: Illustration -->
   
-  <div class="col-md-5 d-none d-md-flex justify-content-center">
+  <div class="col-md-4 d-none d-md-flex justify-content-center">
     <img src="undraw_exams_d2tf.svg" class="img-fluid" alt="Student choosing subjects illustration">
   </div>
 
