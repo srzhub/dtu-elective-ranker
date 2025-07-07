@@ -88,12 +88,23 @@ fetch('sem_cs.json')
   }
 
 // Function to open pdf viewer Modal
+
+
+
+
 function openSyllabusModal(pdfUrl) {
   const frame = document.getElementById("pdfViewerFrame");
   frame.src = pdfUrl;
 
-  const modal = new bootstrap.Modal(document.getElementById("pdfModal"));
+if (window.innerWidth < 768) {
+  window.open(pdfUrl, "_blank");
+} else {
+  // show modal
+    const modal = new bootstrap.Modal(document.getElementById("pdfModal"));
   modal.show();
+}
+
+
 }
 
 // Change semester function
