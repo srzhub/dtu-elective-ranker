@@ -10,6 +10,7 @@ html, body {
   background: linear-gradient(to bottom, #ede9fe, #c4b5fd);
   background-attachment:fixed ;
 
+  color:#1e1b4b
 }
 
 body > main {
@@ -17,12 +18,14 @@ body > main {
   
 }
 
+/* #6c63ff */
 
 /* Semester buttons */
 .custom-sem-btn{
     border-radius: 12px;
     padding: 10px 20px;
     background-color: #4f46e5;
+
     font-weight: 600;
     transition: 0.3s;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -53,7 +56,7 @@ body > main {
 .custom-table{
   border-radius: 10px;
   overflow: hidden;
-  font-size: 1.0rem;
+  font-size: 0.9rem;
   
 }
   

@@ -13,7 +13,6 @@ fetch('../json_data/sem3_data.json')
 .then( data=> {
     subjectData = data;
     console.log("data loaded: ", subjectData);
-    subjectData.sort( (a,b) => parseFloat(b.grade) - parseFloat(a.grade))
     buildTable(subjectData);
 })
 .catch(error =>{

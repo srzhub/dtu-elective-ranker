@@ -3,7 +3,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="//cdn.datatables.net/2.3.2/css/dataTables.dataTables.min.css">
     <link rel="stylesheet" href="../stylesv1.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,10 +12,9 @@
     <main>
 
         <!-- Navigation Bar -->
-    <nav class="navbar navbar-expand-lg custom-navbar" data-bs-theme="dark">
-
+    <nav class="navbar navbar-expand-lg custom-navbar" data-bs-theme="dark"    >
   <div class="container-fluid">
-    <a class="navbar-brand fw-bold fs-2" href="../index.html"> DTU Electives Ranker </a>
+    <a class="navbar-brand fw-bold fs-2" href="../index.html"> DTU Electives</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -32,10 +30,10 @@
           </a>
 
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="../Semester_pages/semesterI.html">I Semester</a></li>
-            <li><a class="dropdown-item" href="../Semester_pages/semesterIII.html">III Semester</a></li>
-            <li><a class="dropdown-item" href="../Semester_pages/semesterV.html">V Semester</a></li>
-            <li><a class="dropdown-item" href="../Semester_pages/semesterVII.html">VII Semester</a></li>
+            <li><a class="dropdown-item" href="../Semester_pages/semester1.html">I Semester</a></li>
+            <li><a class="dropdown-item" href="../Semester_pages/semester3.html">III Semester</a></li>
+            <li><a class="dropdown-item" href="../Semester_pages/semester5.html">V Semester</a></li>
+            <li><a class="dropdown-item" href="../Semester_pages/semester7.html">VII Semester</a></li>
           </ul>
 
       </ul>
@@ -47,14 +45,14 @@
     <!-- main table -->
 <div class="container mb-4 mt-2">
 
-  <div class="container-fluid">
+ <div class="container-fluid">
 
 
-   <div class="row justify-content-center align-items-center mt-1 me-5">
+    <div class="row justify-content-center align-items-center mt-1 me-5">
 
         <!-- top Ranked -->
         <div class="col-auto text-center">
-            <h4 class="text-center  fw-semibold" style="color:#1e1b4b">Top Ranked electives for 1 semester</h4>
+            <h4 class="text-center  fw-semibold" style="color:#1e1b4b">Top Ranked electives for 7 semester</h4>
         </div>
 
         <!-- trophy icon -->
@@ -77,24 +75,35 @@
         <div class="col-12 col-md-4 col-lg-4 col-xl-2 mb-2 mb-xl-0">
         <select class="form-select" aria-label="Default select example" id="subject" >
           <option selected value="">Select Subject</option>
-          <option value="VAC">VAC</option>
-          <option value="AEC">AEC</option>
+          <option value="HU">Humanities</option>
+          <option value="MB">MBA</option>
+          <option value="AE">Autmotive Engineering</option>
+          <option value="BT">Biotechnology</option>
+          <option value="CE">Civil Engineering</option>
+          <option value="CH">Chemical Engineering</option>
+          <option value="CO">Computer Engineering</option>
+          <option value="EC">Electronics and Communication</option>
+          <option value="EE">Electrical Engineering</option>
+          <option value="EN">Environmental Engineering</option>
+          <option value="EP">Engineering Physics</option>
+          <option value="IT">Information Technology</option>
+          <option value="MC">Mathematics Computing</option>
+          <option value="ME">Mechanical Engineering</option>
+          <option value="PE">Production Engineering</option>
+          <option value="SE">Software Engineering</option>
           </select>
-        </div>
+          </div>
+
 
 <div class="search-container ">
   <input type="text" id="searchInput" class="form-control search-box" placeholder="Search electives...">
-</div>
-
-
-<!-- 
+</div><!-- 
   </select> -->
     </div>
 
 </div>
-<!-- style="max-height: 60vh; overflow-y: auto;" -->
-<div  class="table-responsive">
-  <table class="table table-hover table-borderless  custom-table ">
+
+<table class="table table-hover table-borderless  custom-table ">
   <thead class="table-header">
     <tr>
       <th scope="col">#</th>
@@ -105,13 +114,11 @@
 
   </thead>
 
-  <tbody  id="1_sem_table">
-
+  <tbody class="table-body" id="7_sem_table">
+    
   </tbody>
 
 </table>
-</div>
-
 
 
 </div>
@@ -150,6 +157,5 @@
 </body>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-<script src="//cdn.datatables.net/2.3.2/js/dataTables.min.js"></script>
-<script src="../Scripts/script_sem1.js"> </script>
+<script src="../Scripts/script_sem7.js"> </script>
 </html>
