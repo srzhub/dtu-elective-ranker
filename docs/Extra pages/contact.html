@@ -27,33 +27,41 @@
     <main>
 
         <!-- Navigation Bar -->
+        <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg custom-navbar" data-bs-theme="dark">
-
   <div class="container-fluid">
-    <a class="navbar-brand fw-bold fs-2" href="../index.html"> DTU Electives</a>
+    <!-- Logo -->
+    <a class="navbar-brand" href="../index.html">
+      <img src="../favicon.png" alt="DTU Electives Logo" width="40" height="40" class="d-inline-block align-text-top me-1 mb-1">
+      <span class="fw-bold fs-2 align-middle">DTU Electives</span>
+    </a>
+
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
+
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="../index.html">Home</a>
         </li>
-        
+        <li class="nav-item">
+          <a class="nav-link" href="../my-electives/my-electives.html">My Electives</a>
+        </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" href="../CS Semester/semester_cs.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Semester
           </a>
-
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="../Semester_pages/semester1.html">I Semester</a></li>
             <li><a class="dropdown-item" href="../Semester_pages/semester3.html">III Semester</a></li>
             <li><a class="dropdown-item" href="../Semester_pages/semester5.html">V Semester</a></li>
             <li><a class="dropdown-item" href="../Semester_pages/semester7.html">VII Semester</a></li>
           </ul>
-
+        </li>
       </ul>
-
+      <!-- Disabled Login Button -->
+      <!-- <button class="btn btn-outline-light" disabled>Login</button> -->
     </div>
   </div>
 </nav>
