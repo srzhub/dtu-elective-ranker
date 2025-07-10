@@ -1,0 +1,20 @@
+{
+  "code": "EP305",
+  "name": "Atomic And Molecular Physics",
+  "semester": 7.0,
+  "count": 30,
+  "avg_grade": 6.3,
+  "gradeCounts": {
+    "10": 3,
+    "9": 4,
+    "8": 4,
+    "7": 7,
+    "6": 3,
+    "5": 0,
+    "0": 3
+  },
+  "branchAverages": {
+    "EE": 5.0,
+    "EP": 6.39
+  }
+}

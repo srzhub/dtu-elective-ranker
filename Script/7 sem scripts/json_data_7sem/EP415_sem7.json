@@ -1,0 +1,22 @@
+{
+  "code": "EP415",
+  "name": "Nano Science And Technology",
+  "semester": 7.0,
+  "count": 56,
+  "avg_grade": 7.25,
+  "gradeCounts": {
+    "10": 4,
+    "9": 13,
+    "8": 21,
+    "7": 5,
+    "6": 4,
+    "5": 2,
+    "0": 4
+  },
+  "branchAverages": {
+    "CE": 8.0,
+    "CS": 6.5,
+    "EP": 7.33,
+    "ME": 4.0
+  }
+}

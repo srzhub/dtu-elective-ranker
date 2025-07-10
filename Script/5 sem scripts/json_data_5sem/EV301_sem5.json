@@ -1,0 +1,26 @@
+{
+  "code": "EV301",
+  "name": "Fundamentals Of Electric Vehicles",
+  "semester": 5.0,
+  "count": 20,
+  "avg_grade": 7.55,
+  "gradeCounts": {
+    "10": 0,
+    "9": 5,
+    "8": 7,
+    "7": 3,
+    "6": 4,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 7.5,
+    "EE": 6.0,
+    "EN": 6.0,
+    "MC": 8.0,
+    "ME": 7.75,
+    "PE": 8.0,
+    "SE": 9.0,
+    "co": 7.0
+  }
+}

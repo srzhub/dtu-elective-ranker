@@ -3,7 +3,7 @@
 let subjectData = []; //this will hold all the data
 
 //Fetching JSON data
-fetch('../json_data/sem5_data.json')
+fetch('../json_data/sem5_data_3.json')
 .then( response =>{
     if(!response.ok){
         throw new Error("Network response was not OK");
@@ -52,14 +52,28 @@ function changeTable(){
   changedData = subjectData.slice()
 
   //Sort
-  if(currentSort){
-    if(currentSort === "asc"){
-      changedData = changedData.sort( (a,b) => parseFloat(a.grade) - parseFloat(b.grade))
+// Assume currentSort is "asc" or "desc"
+if (currentSort) {
+  changedData.sort((a, b) => {
+    // pick a sentinel so empty grades always compare as the *smallest*
+    // when sorting desc (so they end up last), and as the *largest*
+    // when sorting asc (so they also end up last).
+    const sentinelA = (a.grade === "" || a.grade == null)
+      ? (currentSort === "asc" ? Infinity : -Infinity)
+      : parseFloat(a.grade);
+    const sentinelB = (b.grade === "" || b.grade == null)
+      ? (currentSort === "asc" ? Infinity : -Infinity)
+      : parseFloat(b.grade);
+
+    // now do normal numeric compare
+    if (currentSort === "asc") {
+      return sentinelA - sentinelB;
+    } else {
+      return sentinelB - sentinelA;
     }
-    else{
-      changedData = changedData.sort( (a,b) => parseFloat(b.grade) - parseFloat(a.grade))
-    }
-  }
+  });
+}
+
 
   //Filter
   if(currentFilter){
@@ -90,9 +104,18 @@ function changeTable(){
                   <td>${i+1}</td>
                   <td>${data[i].code}</td>
                   <td>${data[i].title}</td>
+                  <td>${data[i].slot}</td>
+                  <td>${data[i].remark}</td>
                   <td>${data[i].grade}</td>
                 </tr>`;
 
       table.appendChild(row);
     }
   }
+
+        //   <th>#</th>
+        // <th>Course Code</th>
+        // <th>Course Name</th>
+        // <th>Slot</th>
+        // <th>Average GP</th>
+        // <th>Remark</th>

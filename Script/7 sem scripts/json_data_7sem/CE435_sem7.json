@@ -1,0 +1,25 @@
+{
+  "code": "CE435",
+  "name": "Landslide Hazard Assessment",
+  "semester": 7.0,
+  "count": 73,
+  "avg_grade": 8.315,
+  "gradeCounts": {
+    "10": 9,
+    "9": 20,
+    "8": 33,
+    "7": 8,
+    "6": 2,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "BT": 9.0,
+    "CE": 8.29,
+    "CS": 9.5,
+    "EC": 5.0,
+    "EE": 8.0,
+    "EP": 9.0,
+    "IT": 10.0
+  }
+}

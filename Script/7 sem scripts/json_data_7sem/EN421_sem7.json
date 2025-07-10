@@ -1,0 +1,26 @@
+{
+  "code": "EN421",
+  "name": "Design Of Water Distribution Network",
+  "semester": 7.0,
+  "count": 61,
+  "avg_grade": 6.918,
+  "gradeCounts": {
+    "10": 5,
+    "9": 7,
+    "8": 14,
+    "7": 17,
+    "6": 8,
+    "5": 2,
+    "0": 3
+  },
+  "branchAverages": {
+    "CE": 5.8,
+    "CS": 7.5,
+    "EC": 7.11,
+    "EE": 6.92,
+    "EN": 7.08,
+    "IT": 6.0,
+    "ME": 6.67,
+    "SE": 6.5
+  }
+}

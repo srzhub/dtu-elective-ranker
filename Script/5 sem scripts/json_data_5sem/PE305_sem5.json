@@ -1,0 +1,23 @@
+{
+  "code": "PE305",
+  "name": "Advance Machine Design",
+  "semester": 5.0,
+  "count": 19,
+  "avg_grade": 7.579,
+  "gradeCounts": {
+    "10": 2,
+    "9": 4,
+    "8": 3,
+    "7": 4,
+    "6": 6,
+    "5": 0,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 8.0,
+    "MC": 7.0,
+    "ME": 8.0,
+    "PE": 7.5,
+    "SE": 7.0
+  }
+}

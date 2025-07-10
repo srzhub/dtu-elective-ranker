@@ -1,0 +1,25 @@
+{
+  "code": "VAC5",
+  "name": "Emotional Intelligence",
+  "semester": 3.0,
+  "count": 28,
+  "gradeCounts": {
+    "10": 4,
+    "9": 22,
+    "8": 2,
+    "7": 0,
+    "6": 0,
+    "5": 0,
+    "0": 0
+  },
+  "branchAverages": {
+    "BT": 9.0,
+    "CE": 9.0,
+    "EC": 10.0,
+    "EE": 9.0,
+    "EN": 9.0,
+    "EP": 8.67,
+    "ME": 9.29,
+    "SE": 9.0
+  }
+}

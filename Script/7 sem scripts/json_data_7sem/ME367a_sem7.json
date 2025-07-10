@@ -1,0 +1,23 @@
+{
+  "code": "ME367a",
+  "name": "Finite Element Methods",
+  "semester": 7.0,
+  "count": 19,
+  "avg_grade": 7.684,
+  "gradeCounts": {
+    "10": 1,
+    "9": 5,
+    "8": 4,
+    "7": 5,
+    "6": 4,
+    "5": 0,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 6.0,
+    "CS": 9.0,
+    "EE": 9.0,
+    "ME": 7.73,
+    "PE": 6.0
+  }
+}

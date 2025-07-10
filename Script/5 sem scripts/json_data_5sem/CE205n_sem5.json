@@ -1,0 +1,21 @@
+{
+  "code": "CE205n",
+  "name": "Fluid Mechanics",
+  "semester": 5.0,
+  "count": 7,
+  "avg_grade": 8.0,
+  "gradeCounts": {
+    "10": 0,
+    "9": 2,
+    "8": 3,
+    "7": 2,
+    "6": 0,
+    "5": 0,
+    "0": 0
+  },
+  "branchAverages": {
+    "EE": 8.67,
+    "MC": 7.0,
+    "co": 7.67
+  }
+}

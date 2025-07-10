@@ -1,0 +1,29 @@
+{
+  "code": "IT351a",
+  "name": "Artificial Intelligence And Machine Learning",
+  "semester": 5.0,
+  "count": 87,
+  "avg_grade": 7.31,
+  "gradeCounts": {
+    "10": 10,
+    "9": 17,
+    "8": 23,
+    "7": 16,
+    "6": 9,
+    "5": 5,
+    "0": 5
+  },
+  "branchAverages": {
+    "AE": 7.0,
+    "BT": 6.4,
+    "CE": 8.0,
+    "CH": 3.5,
+    "EE": 8.53,
+    "EN": 5.38,
+    "IT": 4.0,
+    "MC": 8.27,
+    "ME": 7.14,
+    "PE": 7.17,
+    "co": 4.67
+  }
+}

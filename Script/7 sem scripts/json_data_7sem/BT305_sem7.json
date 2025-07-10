@@ -1,0 +1,26 @@
+{
+  "code": "BT305",
+  "name": "Instrumentation In Biotechnology",
+  "semester": 7.0,
+  "count": 34,
+  "avg_grade": 7.882,
+  "gradeCounts": {
+    "10": 7,
+    "9": 6,
+    "8": 9,
+    "7": 5,
+    "6": 3,
+    "5": 3,
+    "0": 0
+  },
+  "branchAverages": {
+    "BT": 8.33,
+    "CE": 7.67,
+    "CS": 7.33,
+    "EC": 9.0,
+    "EN": 7.0,
+    "MC": 8.0,
+    "ME": 6.0,
+    "SE": 8.86
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "code": "SE325",
+  "name": "Web Technology",
+  "semester": 5.0,
+  "count": 85,
+  "avg_grade": 8.388,
+  "gradeCounts": {
+    "10": 9,
+    "9": 36,
+    "8": 25,
+    "7": 10,
+    "6": 4,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 10.0,
+    "BT": 8.0,
+    "CH": 6.0,
+    "EE": 7.0,
+    "IT": 8.0,
+    "MC": 8.0,
+    "ME": 7.5,
+    "SE": 8.42,
+    "co": 8.92
+  }
+}

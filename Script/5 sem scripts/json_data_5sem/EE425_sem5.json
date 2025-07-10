@@ -1,0 +1,21 @@
+{
+  "code": "EE425",
+  "name": "IC Technology",
+  "semester": 5.0,
+  "count": 14,
+  "avg_grade": 6.0,
+  "gradeCounts": {
+    "10": 1,
+    "9": 1,
+    "8": 4,
+    "7": 1,
+    "6": 1,
+    "5": 4,
+    "0": 2
+  },
+  "branchAverages": {
+    "EE": 6.55,
+    "SE": 2.5,
+    "co": 7.0
+  }
+}

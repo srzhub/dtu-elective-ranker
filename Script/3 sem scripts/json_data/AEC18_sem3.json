@@ -1,0 +1,31 @@
+{
+  "code": "AEC18",
+  "name": "Spoken Skills in English",
+  "semester": 3.0,
+  "count": 44,
+  "avg_grade": 9.0,
+  "gradeCounts": {
+    "10": 9,
+    "9": 29,
+    "8": 4,
+    "7": 1,
+    "6": 1,
+    "5": 0,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 9.5,
+    "BT": 7.0,
+    "CE": 9.0,
+    "CH": 9.0,
+    "CS": 9.33,
+    "EC": 7.5,
+    "EE": 9.12,
+    "EN": 10.0,
+    "EP": 9.4,
+    "IT": 9.33,
+    "MC": 9.0,
+    "ME": 8.67,
+    "SE": 8.6
+  }
+}

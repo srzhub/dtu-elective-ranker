@@ -1,0 +1,30 @@
+{
+  "code": "BT411",
+  "name": "Industrial Biotechnology",
+  "semester": 7.0,
+  "count": 77,
+  "avg_grade": 8.714,
+  "gradeCounts": {
+    "10": 26,
+    "9": 19,
+    "8": 19,
+    "7": 11,
+    "6": 1,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "BT": 8.98,
+    "CE": 8.33,
+    "CH": 9.0,
+    "CS": 8.5,
+    "EC": 9.0,
+    "EE": 8.0,
+    "EN": 7.0,
+    "EP": 8.2,
+    "MC": 7.0,
+    "ME": 9.0,
+    "PE": 10.0,
+    "SE": 8.25
+  }
+}

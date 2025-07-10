@@ -1,0 +1,27 @@
+{
+  "code": "ME353a",
+  "name": "Renewable Sources Of Energy",
+  "semester": 5.0,
+  "count": 168,
+  "avg_grade": 7.869,
+  "gradeCounts": {
+    "10": 19,
+    "9": 40,
+    "8": 53,
+    "7": 32,
+    "6": 15,
+    "5": 6,
+    "0": 2
+  },
+  "branchAverages": {
+    "AE": 6.0,
+    "CH": 7.5,
+    "EE": 7.75,
+    "EN": 8.0,
+    "IT": 8.4,
+    "MC": 8.0,
+    "ME": 7.87,
+    "SE": 7.67,
+    "co": 8.0
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": "CO425",
+  "name": "Information And Network Security",
+  "semester": 7.0,
+  "count": 232,
+  "avg_grade": 7.405,
+  "gradeCounts": {
+    "10": 10,
+    "9": 48,
+    "8": 69,
+    "7": 55,
+    "6": 27,
+    "5": 11,
+    "0": 4
+  },
+  "branchAverages": {
+    "AE": 4.0,
+    "BT": 5.33,
+    "CH": 4.0,
+    "CS": 7.61,
+    "EC": 7.12,
+    "EE": 6.33,
+    "EN": 4.0,
+    "EP": 7.0,
+    "IT": 7.94,
+    "MC": 7.0,
+    "ME": 8.0,
+    "SE": 7.24
+  }
+}

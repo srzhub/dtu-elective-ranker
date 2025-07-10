@@ -1,0 +1,27 @@
+{
+  "code": "BT407",
+  "name": "Bioprocess Tech & Downstream Process",
+  "semester": 7.0,
+  "count": 42,
+  "avg_grade": 7.143,
+  "gradeCounts": {
+    "10": 4,
+    "9": 7,
+    "8": 8,
+    "7": 9,
+    "6": 7,
+    "5": 4,
+    "0": 1
+  },
+  "branchAverages": {
+    "BT": 7.77,
+    "CE": 7.25,
+    "CS": 6.5,
+    "EE": 5.5,
+    "EN": 6.5,
+    "MC": 7.0,
+    "ME": 6.0,
+    "PE": 7.0,
+    "SE": 6.5
+  }
+}

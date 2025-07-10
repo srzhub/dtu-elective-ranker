@@ -1,0 +1,28 @@
+{
+  "code": "VAC19",
+  "name": "Science & Practice of Happiness",
+  "semester": 1.0,
+  "count": 48,
+  "avg_grade": 7.708,
+  "gradeCounts": {
+    "10": 5,
+    "9": 11,
+    "8": 12,
+    "7": 9,
+    "6": 7,
+    "5": 4,
+    "0": 0
+  },
+  "branchAverages": {
+    "CE": 7.0,
+    "CO": 8.67,
+    "EC": 8.29,
+    "EE": 7.33,
+    "EN": 7.0,
+    "EP": 7.0,
+    "IT": 8.33,
+    "MC": 6.33,
+    "ME": 6.0,
+    "PE": 6.67
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "code": "EC309",
+  "name": "Bio-Medical Electronics & Instrumentation",
+  "semester": 5.0,
+  "count": 6,
+  "avg_grade": 7.833,
+  "gradeCounts": {
+    "10": 1,
+    "9": 1,
+    "8": 1,
+    "7": 2,
+    "6": 1,
+    "5": 0,
+    "0": 0
+  },
+  "branchAverages": {
+    "BT": 7.5,
+    "EE": 8.5,
+    "co": 7.5
+  }
+}

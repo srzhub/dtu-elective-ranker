@@ -1,0 +1,25 @@
+{
+  "code": "EC313",
+  "name": "Microprocessor And Interfacing",
+  "semester": 5.0,
+  "count": 21,
+  "avg_grade": 6.143,
+  "gradeCounts": {
+    "10": 1,
+    "9": 1,
+    "8": 1,
+    "7": 6,
+    "6": 5,
+    "5": 2,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 7.0,
+    "EE": 6.25,
+    "EN": 5.0,
+    "IT": 6.0,
+    "PE": 4.0,
+    "SE": 4.0,
+    "co": 6.86
+  }
+}

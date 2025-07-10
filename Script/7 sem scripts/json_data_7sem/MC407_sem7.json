@@ -1,0 +1,21 @@
+{
+  "code": "MC407",
+  "name": "Cryptography And Network",
+  "semester": 7.0,
+  "count": 87,
+  "avg_grade": 7.954,
+  "gradeCounts": {
+    "10": 12,
+    "9": 20,
+    "8": 26,
+    "7": 15,
+    "6": 9,
+    "5": 5,
+    "0": 0
+  },
+  "branchAverages": {
+    "CS": 8.0,
+    "EE": 8.0,
+    "MC": 7.95
+  }
+}

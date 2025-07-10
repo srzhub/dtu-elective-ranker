@@ -1,0 +1,24 @@
+{
+  "code": "SE409",
+  "name": "Software Maintenance",
+  "semester": 7.0,
+  "count": 62,
+  "avg_grade": 7.903,
+  "gradeCounts": {
+    "10": 4,
+    "9": 21,
+    "8": 19,
+    "7": 10,
+    "6": 5,
+    "5": 1,
+    "0": 1
+  },
+  "branchAverages": {
+    "CH": 6.0,
+    "CS": 6.25,
+    "IT": 8.0,
+    "MC": 8.0,
+    "ME": 9.0,
+    "SE": 8.04
+  }
+}

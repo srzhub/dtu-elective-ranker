@@ -1,0 +1,28 @@
+{
+  "code": "AEC4",
+  "name": "Business Communication and Presentation Skills",
+  "semester": 3.0,
+  "count": 50,
+  "gradeCounts": {
+    "10": 3,
+    "9": 14,
+    "8": 17,
+    "7": 16,
+    "6": 0,
+    "5": 0,
+    "0": 0
+  },
+  "branchAverages": {
+    "BT": 9.0,
+    "CE": 7.6,
+    "CS": 8.31,
+    "EC": 8.1,
+    "EE": 8.5,
+    "EP": 8.2,
+    "IT": 7.0,
+    "MC": 7.75,
+    "ME": 7.33,
+    "PE": 7.5,
+    "SE": 9.0
+  }
+}

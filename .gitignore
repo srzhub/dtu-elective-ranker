@@ -4,10 +4,9 @@
 *.csv
 
 # Ignore PDF files
-*.pdf
+
 
 # Ignore imgs and svgs
-*.svg
 *.jpeg
 *.img
 *.png

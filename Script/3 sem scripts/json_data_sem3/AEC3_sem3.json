@@ -1,0 +1,29 @@
+{
+  "code": "AEC3",
+  "name": "Appreciation of Short Stories",
+  "semester": 3.0,
+  "count": 58,
+  "gradeCounts": {
+    "10": 0,
+    "9": 2,
+    "8": 23,
+    "7": 21,
+    "6": 6,
+    "5": 3,
+    "0": 1
+  },
+  "branchAverages": {
+    "AE": 7.33,
+    "CE": 6.0,
+    "CH": 7.5,
+    "CS": 7.9,
+    "EC": 7.33,
+    "EE": 7.12,
+    "EP": 6.5,
+    "IT": 7.5,
+    "MC": 7.0,
+    "ME": 7.0,
+    "PE": 7.4,
+    "SE": 5.33
+  }
+}

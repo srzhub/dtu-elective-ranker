@@ -1,0 +1,27 @@
+{
+  "code": "CO411",
+  "name": ": Computer Vision",
+  "semester": 7.0,
+  "count": 58,
+  "avg_grade": 7.707,
+  "gradeCounts": {
+    "10": 8,
+    "9": 11,
+    "8": 17,
+    "7": 8,
+    "6": 9,
+    "5": 2,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 6.0,
+    "CS": 8.19,
+    "EE": 7.0,
+    "EP": 8.5,
+    "IT": 4.0,
+    "MC": 6.75,
+    "ME": 4.0,
+    "PE": 8.0,
+    "SE": 7.14
+  }
+}

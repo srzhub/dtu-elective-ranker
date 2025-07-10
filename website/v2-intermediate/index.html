@@ -1,136 +1,166 @@
 <html lang="en">
 <head>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="stylesv1.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 <style>
 
+
 </style>
 <body>
+  <main>
 <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg custom-navbar" data-bs-theme="dark"    >
   <div class="container-fluid">
-    <a class="navbar-brand fw-bold fs-2" href="#"> DTU Electives Ranker </a>
+    <a class="navbar-brand fw-bold fs-2" href="#">
+      DTU Electives
+    </a>
+
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" aria-current="page" href="indexv1.html">Home</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
+        
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" href="CS Semester/semester_cs.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Semester
           </a>
 
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">I Semester</a></li>
-            <li><a class="dropdown-item" href="#">III Semester</a></li>
-            <li><a class="dropdown-item" href="#">V Semester</a></li>
+            <li><a class="dropdown-item" href="Semester_pages/semester1.html">I Semester</a></li>
+            <li><a class="dropdown-item" href="Semester_pages/semester3.html">III Semester</a></li>
+            <li><a class="dropdown-item" href="Semester_pages/semester5.html">V Semester</a></li>
+            <li><a class="dropdown-item" href="Semester_pages/semester7.html">VII Semester</a></li>
           </ul>
 
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" aria-disabled="true">Disabled</a>
-        </li>
       </ul>
-      <form class="d-flex" role="search">
-        <input class="form-control me-2" type="search" placeholder=" Search Subject" aria-label="Search"/>
-        <button class="btn btn-outline-success" type="submit">Search</button>
-      </form>
+
     </div>
   </div>
 </nav>
 
-<!-- Search section -->
-<div class="container-fluid">
-    <div class="row ">
-        <div class="col text-center fs-1 fst-italic mt-4 mb-4" style="color:#311b57">Search for a specific subject</div>
-    </div>
-    <div class="row justify-content-center mb-5">
-        <!-- Semester dropdown -->
-        <div class="col-auto">
-            <select class="form-select mt-2 custom-dropdown-menu" aria-label="Default select example">
-                <option selected>Choose Semester</option>
-                <option value="I">First Semester</option>
-                <option value="III">Third Semester</option>
-                <option value="V">Fifth Semester</option>
-                <option value="VII">Seventh Semester</option>
-            </select>
-        </div>
-        <!-- Search Bar -->
-        <div class="col-5">
-            <!-- <label for="searchSubject" class="form-label mt-1"></label> -->
-            <input type="text" class="form-control mt-2 custom-input-btn" id="searchSubject" placeholder="Search subject (Code/Name)  ">
+
+<!-- Hero Section -->
+
+<section class="hero-fullscreen">
+      <!-- Select semester section -->
+      <div class="container-fluid  ">
+
+        <div class="row align-items-center">
+          <div class="col-md-5  d-none d-lg-flex justify-content-center mt-3">
+            <img src="undraw_education_3vwh (1).svg" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-md-7 text-center text-lg-start ">
+                      <h1 class=" fw-bold" >Choose your upcoming semester to find the best electives.</h1>
+          <p class="lead mb-4 fs-5">Quickly see how your peers performed and make informed choices.</p>
+          <div class="d-flex flex-wrap gap-4 justify-content-center justify-content-md-start">
+
+            <a href="Semester_pages/semester1.html" class="btn btn-primary btn-lg custom-sem-btn">Semester I</a>
+            <a href="Semester_pages/semester3.html" class="btn btn-primary btn-lg custom-sem-btn">Semester III</a>
+            <a href="Semester_pages/semester5.html" class="btn btn-primary btn-lg custom-sem-btn">Semester V</a>
+            <a href="Semester_pages/semester7.html" class="btn btn-primary btn-lg custom-sem-btn">Semester VII</a>
+          </div>
+          </div>
         </div>
 
+<!-- Improved: Semester & Branch Selection Section -->
+<div class="row align-items-center mt-3 gy-4">
+  
+  <!-- Left Column: Form -->
+  <div class="col-md-7">
+    <div class="p-4  h-100">
+      <h2 class="fw-bold mb-4">Explore complete subject list and syllabus for your branch</h2>
+
+      <form action="CS Semester/semester_cs.html" method="GET">
+
+        <div class="mb-4">
+          <label for="branch"  class="form-label fw-semibold">Select Branch</label>
+          <select id="branch" name="branch" class="form-select">
+            <option selected disabled>Choose branch</option>
+            <option value="CO">Computer Science (CS)</option>
+            
+          </select>
+        </div>
+
+        <div class="mb-4">
+          <label for="sem"  class="form-label fw-semibold">Select Semester</label>
+          <select id="sem" name="sem" class="form-select">
+            <option selected disabled>Choose semester</option>
+            <option value="1">Semester I</option>
+            <option value="2">Semester II</option>
+            <option value="3">Semester III</option>
+            <option value="4">Semester IV</option>
+            <option value="5">Semester V</option>
+            <option value="6">Semester VI</option>
+          </select>
+        </div>
+
+
+
+        <button type="submit" class="btn btn-primary w-100 custom-sem-btn" src="CS Semester/semester_cs.html">Show Electives</button>
+      </form>
     </div>
+  </div>
+
+  <!-- Right Column: Illustration -->
+  
+  <div class="col-md-5 d-none d-md-flex justify-content-center">
+    <img src="undraw_exams_d2tf.svg" class="img-fluid" alt="Student choosing subjects illustration">
+  </div>
 
 </div>
- <!-- /Search section -->
 
-<!-- Semester Section -->
-    <div class="container-fluid">
-        <div class="row ">
-            <div class="col text-center fs-1 fst-italic mt-4 mb-4" style="color:#311b57">View the Grade Point Average (GPA) for each subject of your upcoming semester</div>
-        </div>
-        <div class="row justify-content-center mb-5">
-            <div class="col-auto">
-                <button class="btn btn-primary btn-lg custom-sem-btn mx-2 my-2">Semester I</button>
-            </div>
-            <div class="col-auto">
-                <button class="btn btn-primary btn-lg custom-sem-btn mx-2 my-2">Semester III</button>
-            </div>
-            <div class="col-auto">
-                <button class="btn btn-primary btn-lg custom-sem-btn mx-2 my-2">Semester V</button>
-            </div>
-            <div class="col-auto">
-                <button class="btn btn-primary btn-lg custom-sem-btn mx-2 my-2">Semester VII</button>
-            </div>
 
-        </div>
-    </div>
+
+</section>
+
 <!-- /Semester Section -->
-    
+
+
+</main>
+
 <!-- Footer Section-->
 
     <footer 
-    class="text-center text-lg-start"
-    style = "background-color: #0f172a;">
+    class="text-center text-lg-start footer-custom"
+    style = "background-color: #3730a3;">
 
-        <!-- Section: Social Media -->
-        <section
-            class=" d-flex justify-content-between p-4"
-            style="background-color: #3730a3;">
-
-            <!-- Left: get connected -->
-            <div class="me-5">
-                <span class="text-white" >Connect with me on my socials:</span>
+        
+        <div class="container-fluid text-white mt-3">
+          <div class="row justify-content-center mb-4 ">
+            <div class="col-auto mx-4 px-2  ">
+               <a href="Extra pages/about.html" class="text-white">[About]</a> 
             </div>
+            <div class="col-auto mx-4 px-2">
+               <a href="https://github.com/srzhub" class="text-white">[Github]</a> 
+            </div>
+            <div class="col-auto mx-4 px-2">
+               <a href="Extra pages/contact.html" class="text-white">[Contact]</a> 
+            </div>
+            <div class="col-auto mx-4 px-2">
+               <a href="Extra pages/privacy.html" class="text-white">[Privacy Policy]</a> 
+            </div>  
+             <div class="col-auto mx-4 px-2">
+               <a href="Extra pages/credits.html" class="text-white">[Credits]</a> 
+            </div>
+          </div>
 
-            <!-- Right: All Social Media Icons -->
-             <div>
-                <a href="" class="text-white me-4">
-                    <i class="fab fa-instagram"></i>
-                </a>
-                <a href="" class="text-white me-4">
-                    <i class="fab fa-linkedin"></i>
-                </a>
-                <a href="" class="text-white me-4">
-                    <i class="fab fa-github"></i>
-                </a>
-             </div>
-        </section>
-        <!-- /Section: Social Media -->
-
+          <div class="row justify-content-center mb-4 ">
+            <div class="col-auto ">Made with &#9829 for DTU students | by <a href="https://www.instagram.com/suhaib.rz/ " style="color: white; text-decoration: none;">Suhaib Aazmi</a> </div>
+          </div>
+        </div>
     </footer>
+    
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </html>

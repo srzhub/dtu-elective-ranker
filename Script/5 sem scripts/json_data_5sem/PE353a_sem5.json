@@ -1,0 +1,26 @@
+{
+  "code": "PE353a",
+  "name": "Supply Chain Management",
+  "semester": 5.0,
+  "count": 65,
+  "avg_grade": 7.723,
+  "gradeCounts": {
+    "10": 7,
+    "9": 17,
+    "8": 14,
+    "7": 13,
+    "6": 11,
+    "5": 2,
+    "0": 1
+  },
+  "branchAverages": {
+    "CE": 6.67,
+    "CH": 8.33,
+    "EE": 8.5,
+    "EN": 9.0,
+    "MC": 6.5,
+    "ME": 6.33,
+    "PE": 7.8,
+    "SE": 8.6
+  }
+}

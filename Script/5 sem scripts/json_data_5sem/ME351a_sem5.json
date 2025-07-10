@@ -1,0 +1,24 @@
+{
+  "code": "ME351a",
+  "name": "Power Plant Engineering",
+  "semester": 5.0,
+  "count": 137,
+  "avg_grade": 7.832,
+  "gradeCounts": {
+    "10": 9,
+    "9": 27,
+    "8": 60,
+    "7": 24,
+    "6": 12,
+    "5": 4,
+    "0": 1
+  },
+  "branchAverages": {
+    "AE": 7.29,
+    "CE": 8.33,
+    "EN": 8.0,
+    "MC": 8.0,
+    "ME": 7.85,
+    "PE": 8.0
+  }
+}

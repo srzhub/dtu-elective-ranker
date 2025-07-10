@@ -1,0 +1,29 @@
+{
+  "code": "CH417",
+  "name": "Polymer Waste Management",
+  "semester": 7.0,
+  "count": 75,
+  "avg_grade": 7.933,
+  "gradeCounts": {
+    "10": 8,
+    "9": 21,
+    "8": 29,
+    "7": 7,
+    "6": 6,
+    "5": 1,
+    "0": 2
+  },
+  "branchAverages": {
+    "CE": 9.0,
+    "CH": 7.84,
+    "CS": 6.5,
+    "EC": 7.5,
+    "EE": 7.75,
+    "EN": 7.75,
+    "EP": 7.5,
+    "MC": 8.5,
+    "ME": 8.2,
+    "PE": 9.5,
+    "SE": 9.0
+  }
+}

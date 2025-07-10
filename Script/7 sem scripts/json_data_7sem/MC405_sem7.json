@@ -1,0 +1,25 @@
+{
+  "code": "MC405",
+  "name": "Graph Theory",
+  "semester": 7.0,
+  "count": 81,
+  "avg_grade": 7.654,
+  "gradeCounts": {
+    "10": 7,
+    "9": 18,
+    "8": 20,
+    "7": 23,
+    "6": 8,
+    "5": 3,
+    "0": 1
+  },
+  "branchAverages": {
+    "AE": 9.0,
+    "EC": 7.0,
+    "EE": 4.0,
+    "EP": 7.0,
+    "IT": 5.0,
+    "MC": 7.77,
+    "SE": 8.0
+  }
+}

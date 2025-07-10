@@ -1,0 +1,25 @@
+{
+  "code": "EE323",
+  "name": "Fundamentals Of Machine Learning",
+  "semester": 5.0,
+  "count": 32,
+  "avg_grade": 7.531,
+  "gradeCounts": {
+    "10": 1,
+    "9": 8,
+    "8": 9,
+    "7": 5,
+    "6": 7,
+    "5": 2,
+    "0": 0
+  },
+  "branchAverages": {
+    "CE": 7.0,
+    "EE": 7.31,
+    "EN": 5.0,
+    "IT": 7.0,
+    "MC": 8.0,
+    "PE": 6.0,
+    "co": 8.23
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "code": "CH315",
+  "name": "Plastic Technology",
+  "semester": 5.0,
+  "count": 41,
+  "avg_grade": 5.902,
+  "gradeCounts": {
+    "10": 2,
+    "9": 2,
+    "8": 6,
+    "7": 9,
+    "6": 7,
+    "5": 7,
+    "0": 4
+  },
+  "branchAverages": {
+    "AE": 0.0,
+    "CE": 2.5,
+    "CH": 6.33,
+    "ME": 3.67,
+    "SE": 7.5,
+    "co": 7.0
+  }
+}

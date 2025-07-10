@@ -1,0 +1,1082 @@
+[
+  {
+    "code": "AE317",
+    "title": "Power Units And Transmission",
+    "slot": "E1",
+    "remark": "",
+    "subject": "AE",
+    "grade": 7.271
+  },
+  {
+    "code": "CE201n",
+    "title": "Introduction To Earth, Atmosphere, Climate, And Environmental Sciences",
+    "slot": "E1",
+    "remark": "not for CE and 7 sem",
+    "subject": "CE",
+    "grade": ""
+  },
+  {
+    "code": "CE301n",
+    "title": "Geotechnical Engineering",
+    "slot": "E1",
+    "remark": "not for CE and 7 sem",
+    "subject": "CE",
+    "grade": ""
+  },
+  {
+    "code": "CH203",
+    "title": "Transport Phenomena",
+    "slot": "E1",
+    "remark": "not for CH",
+    "subject": "CH",
+    "grade": 7.171
+  },
+  {
+    "code": "CH301",
+    "title": "Polymeric Materials",
+    "slot": "E1",
+    "remark": "not for CH",
+    "subject": "CH",
+    "grade": 6.615
+  },
+  {
+    "code": "CS203",
+    "title": "Object Oriented Programming Concepts",
+    "slot": "E1",
+    "remark": "not for CS & 7 sem",
+    "subject": "CO",
+    "grade": 8.012
+  },
+  {
+    "code": "CS301",
+    "title": "Compiler Design",
+    "slot": "E1",
+    "remark": "not for CS & 7 sem",
+    "subject": "CO",
+    "grade": 8.1
+  },
+  {
+    "code": "CS313",
+    "title": "Quantum Computing",
+    "slot": "E1",
+    "remark": "only for 5 sem",
+    "subject": "CO",
+    "grade": ""
+  },
+  {
+    "code": "EC307n",
+    "title": "Semiconductor Device Electronics",
+    "slot": "E1",
+    "remark": "only for 5 sem",
+    "subject": "EC",
+    "grade": 5.286
+  },
+  {
+    "code": "EE307n",
+    "title": "Signals And Systems",
+    "slot": "E1",
+    "remark": "only for 5 sem",
+    "subject": "EE",
+    "grade": 7.167
+  },
+  {
+    "code": "EE325",
+    "title": "Internet Of Things",
+    "slot": "E1",
+    "remark": "",
+    "subject": "EE",
+    "grade": 7.134
+  },
+  {
+    "code": "EN311n",
+    "title": "Environmental Pollution & E-Waste Management",
+    "slot": "E1",
+    "remark": "only for 5 sem",
+    "subject": "EN",
+    "grade": ""
+  },
+  {
+    "code": "EP209n",
+    "title": "Quantum Mechanics",
+    "slot": "E1",
+    "remark": "not for EP and 7 sem",
+    "subject": "EP",
+    "grade": ""
+  },
+  {
+    "code": "EV301",
+    "title": "Fundamentals Of Electric Vehicles",
+    "slot": "E1",
+    "remark": "",
+    "subject": "EV",
+    "grade": 7.55
+  },
+  {
+    "code": "IT301n",
+    "title": "Compiler Design",
+    "slot": "E1",
+    "remark": "not for IT",
+    "subject": "IT",
+    "grade": 8.5
+  },
+  {
+    "code": "IT309n",
+    "title": "Cyber Laws",
+    "slot": "E1",
+    "remark": "only for 5 sem",
+    "subject": "IT",
+    "grade": 8.66
+  },
+  {
+    "code": "IT311n",
+    "title": "Malware Analysis",
+    "slot": "E1",
+    "remark": "only for 5 sem",
+    "subject": "IT",
+    "grade": 8.159
+  },
+  {
+    "code": "IT321n",
+    "title": "Introduction To Security Of Cyber-Physical Systems",
+    "slot": "E1",
+    "remark": "only for 5 sem",
+    "subject": "IT",
+    "grade": ""
+  },
+  {
+    "code": "IT431",
+    "title": "Information Security And Audit",
+    "slot": "E1",
+    "remark": "",
+    "subject": "IT",
+    "grade": ""
+  },
+  {
+    "code": "MBA-107",
+    "title": "Marketing Management",
+    "slot": "E1",
+    "remark": "",
+    "subject": "MB",
+    "grade": 7.182
+  },
+  {
+    "code": "MC207",
+    "title": "Engineering Analysis And Design (Differential Equations And Applications)",
+    "slot": "E1",
+    "remark": "",
+    "subject": "MC",
+    "grade": 6.863
+  },
+  {
+    "code": "MC313n",
+    "title": "Operation Research",
+    "slot": "E1",
+    "remark": "only for 5 sem",
+    "subject": "MC",
+    "grade": 7.294
+  },
+  {
+    "code": "ME309n",
+    "title": "Clean Energy",
+    "slot": "E1",
+    "remark": "only for 5 sem",
+    "subject": "ME",
+    "grade": ""
+  },
+  {
+    "code": "SE203n",
+    "title": "Data Structures",
+    "slot": "E1",
+    "remark": "not for SE and 7 sem",
+    "subject": "SE",
+    "grade": 7.414
+  },
+  {
+    "code": "SE325n",
+    "title": "Theory Of Computation",
+    "slot": "E1",
+    "remark": "only for 5 sem",
+    "subject": "SE",
+    "grade": 7.424
+  },
+  {
+    "code": "AE307",
+    "title": "Combustion Generated Pollution",
+    "slot": "E2",
+    "remark": "",
+    "subject": "AE",
+    "grade": 7.29
+  },
+  {
+    "code": "BT325n",
+    "title": "Drug Design & Delivery",
+    "slot": "E2",
+    "remark": "only for 5 sem",
+    "subject": "BT",
+    "grade": ""
+  },
+  {
+    "code": "CE207n",
+    "title": "Surveying & Geoinformatics",
+    "slot": "E2",
+    "remark": "not for CE and 7 sem",
+    "subject": "CE",
+    "grade": ""
+  },
+  {
+    "code": "CH417",
+    "title": "Polymer Waste Management",
+    "slot": "E2",
+    "remark": "",
+    "subject": "CH",
+    "grade": 7.933
+  },
+  {
+    "code": "CH429",
+    "title": "Energy Resources",
+    "slot": "E2",
+    "remark": "",
+    "subject": "CH",
+    "grade": 8.164
+  },
+  {
+    "code": "CO301",
+    "title": "Software Engineering",
+    "slot": "E2",
+    "remark": "not for CS & 7 sem",
+    "subject": "CO",
+    "grade": 8.034
+  },
+  {
+    "code": "CO303",
+    "title": "Theory Of Computation",
+    "slot": "E2",
+    "remark": "not for CS & 7 sem",
+    "subject": "CO",
+    "grade": 7.292
+  },
+  {
+    "code": "CS207",
+    "title": "Operating Systems Design",
+    "slot": "E2",
+    "remark": "not for CS & 7 sem",
+    "subject": "CO",
+    "grade": 8.41
+  },
+  {
+    "code": "CS309",
+    "title": "Distributed Systems",
+    "slot": "E2",
+    "remark": "only for 5 sem",
+    "subject": "CO",
+    "grade": 8.442
+  },
+  {
+    "code": "EC317",
+    "title": "Control System",
+    "slot": "E2",
+    "remark": "",
+    "subject": "EC",
+    "grade": 4.3
+  },
+  {
+    "code": "EE321a",
+    "title": "Soft Computing Techniques",
+    "slot": "E2",
+    "remark": "",
+    "subject": "EE",
+    "grade": 8.651
+  },
+  {
+    "code": "EE323",
+    "title": "Fundamentals Of Machine Learning",
+    "slot": "E2",
+    "remark": "",
+    "subject": "EE",
+    "grade": 7.531
+  },
+  {
+    "code": "EN207n",
+    "title": "Water Treatment & Design",
+    "slot": "E2",
+    "remark": "not for EN and 7 sem",
+    "subject": "EN",
+    "grade": ""
+  },
+  {
+    "code": "EN309n",
+    "title": "Environmental Toxicology",
+    "slot": "E2",
+    "remark": "only for 5 sem",
+    "subject": "EN",
+    "grade": ""
+  },
+  {
+    "code": "EN413",
+    "title": "Water And Soil Conservation",
+    "slot": "E2",
+    "remark": "",
+    "subject": "EN",
+    "grade": ""
+  },
+  {
+    "code": "EP307n",
+    "title": "Principles And Applications In Nuclear Engineering",
+    "slot": "E2",
+    "remark": "only for 5 sem",
+    "subject": "EP",
+    "grade": ""
+  },
+  {
+    "code": "EV351n",
+    "title": "Energy Storage System For Electric And Hybrid Vehicles",
+    "slot": "E2",
+    "remark": "only for 5 sem",
+    "subject": "EV",
+    "grade": ""
+  },
+  {
+    "code": "IT201",
+    "title": "Data Structure",
+    "slot": "E2",
+    "remark": "not for IT",
+    "subject": "IT",
+    "grade": 7.352
+  },
+  {
+    "code": "IT203n",
+    "title": "Data Structures",
+    "slot": "E2",
+    "remark": "not for IT & 7 sem",
+    "subject": "IT",
+    "grade": 7.352
+  },
+  {
+    "code": "IT303",
+    "title": "Computer Networks",
+    "slot": "E2",
+    "remark": "not for IT",
+    "subject": "IT",
+    "grade": 7.931
+  },
+  {
+    "code": "IT313n",
+    "title": "Internet Of Things",
+    "slot": "E2",
+    "remark": "only for 5 sem",
+    "subject": "IT",
+    "grade": 7.134
+  },
+  {
+    "code": "IT429",
+    "title": "Cyber Laws",
+    "slot": "E2",
+    "remark": "",
+    "subject": "IT",
+    "grade": 8.66
+  },
+  {
+    "code": "MBASC215",
+    "title": "Logistics Management",
+    "slot": "E2",
+    "remark": "",
+    "subject": "MB",
+    "grade": ""
+  },
+  {
+    "code": "MC303",
+    "title": "Stochastic Processes",
+    "slot": "E2",
+    "remark": "",
+    "subject": "MC",
+    "grade": 7.023
+  },
+  {
+    "code": "ME323n",
+    "title": "Value Engineering",
+    "slot": "E2",
+    "remark": "only for 5 sem",
+    "subject": "ME",
+    "grade": ""
+  },
+  {
+    "code": "SE427",
+    "title": "Software Project Management",
+    "slot": "E2",
+    "remark": "",
+    "subject": "SE",
+    "grade": 9.567
+  },
+  {
+    "code": "AE309",
+    "title": "Operations Research",
+    "slot": "E3",
+    "remark": "",
+    "subject": "AE",
+    "grade": ""
+  },
+  {
+    "code": "CE209n",
+    "title": "Analysis Of Structures -I",
+    "slot": "E3",
+    "remark": "not for CE and 7 sem",
+    "subject": "CE",
+    "grade": ""
+  },
+  {
+    "code": "CE303n",
+    "title": "Environment Engineering-Ii",
+    "slot": "E3",
+    "remark": "not for CE and 7 sem",
+    "subject": "CE",
+    "grade": ""
+  },
+  {
+    "code": "CH201",
+    "title": "Chemical Engineering Process Calculations",
+    "slot": "E3",
+    "remark": "not for CH",
+    "subject": "CH",
+    "grade": 7.7
+  },
+  {
+    "code": "CO327",
+    "title": "Machine Learning",
+    "slot": "E3",
+    "remark": "",
+    "subject": "CO",
+    "grade": 7.777
+  },
+  {
+    "code": "CS205",
+    "title": "Algorithm Design And Analysis",
+    "slot": "E3",
+    "remark": "not for CS and 7 sem",
+    "subject": "CO",
+    "grade": 7.8
+  },
+  {
+    "code": "CS303",
+    "title": "Machine Learning",
+    "slot": "E3",
+    "remark": "not for CS and 7 sem",
+    "subject": "CO",
+    "grade": 7.777
+  },
+  {
+    "code": "CS311",
+    "title": "Information Theory And Coding",
+    "slot": "E3",
+    "remark": "only for 5 sem",
+    "subject": "CO",
+    "grade": 7.566
+  },
+  {
+    "code": "EC309",
+    "title": "Biomedical Electronics And Instrumentation",
+    "slot": "E3",
+    "remark": "",
+    "subject": "EC",
+    "grade": 7.833
+  },
+  {
+    "code": "EE309n",
+    "title": "Power Station Practices",
+    "slot": "E3",
+    "remark": "only for 5 sem",
+    "subject": "EE",
+    "grade": 6.73
+  },
+  {
+    "code": "EE313n",
+    "title": "Energy Efficient Motors",
+    "slot": "E3",
+    "remark": "only for 5 sem",
+    "subject": "EE",
+    "grade": ""
+  },
+  {
+    "code": "EN307n",
+    "title": "Soil Pollution & Remediation",
+    "slot": "E3",
+    "remark": "only for 5 sem",
+    "subject": "EN",
+    "grade": 7.17
+  },
+  {
+    "code": "EP3091",
+    "title": "Biophysics",
+    "slot": "E3",
+    "remark": "only for 5 sem",
+    "subject": "EP",
+    "grade": 6.778
+  },
+  {
+    "code": "EV353",
+    "title": "E-Mobility",
+    "slot": "E3",
+    "remark": "",
+    "subject": "EV",
+    "grade": 6.818
+  },
+  {
+    "code": "IT307n",
+    "title": "Deep Learning",
+    "slot": "E3",
+    "remark": "only for 5 sem",
+    "subject": "IT",
+    "grade": 7.79
+  },
+  {
+    "code": "IT319n",
+    "title": "Information And Network Security",
+    "slot": "E3",
+    "remark": "only for 5 sem",
+    "subject": "IT",
+    "grade": 8.034
+  },
+  {
+    "code": "IT323",
+    "title": "Machine Learning",
+    "slot": "E3",
+    "remark": "",
+    "subject": "IT",
+    "grade": 7.729
+  },
+  {
+    "code": "MBAMK219",
+    "title": "Marketing Research",
+    "slot": "E3",
+    "remark": "",
+    "subject": "MB",
+    "grade": ""
+  },
+  {
+    "code": "MBASC213",
+    "title": "Total Quality Management",
+    "slot": "E3",
+    "remark": "",
+    "subject": "MB",
+    "grade": 7.667
+  },
+  {
+    "code": "MC205n",
+    "title": "Probability And Statistics",
+    "slot": "E3",
+    "remark": "only for 5 sem",
+    "subject": "MC",
+    "grade": 7.033
+  },
+  {
+    "code": "MC309",
+    "title": "Number Theory",
+    "slot": "E3",
+    "remark": "",
+    "subject": "MC",
+    "grade": ""
+  },
+  {
+    "code": "PE319",
+    "title": "Total Life Cycle Management",
+    "slot": "E3",
+    "remark": "",
+    "subject": "PE",
+    "grade": ""
+  },
+  {
+    "code": "SE209n",
+    "title": "Software Engineering Methodologies",
+    "slot": "E3",
+    "remark": "not for SE and 7 sem",
+    "subject": "SE",
+    "grade": ""
+  },
+  {
+    "code": "SE307n",
+    "title": "Software Requirement Engineering",
+    "slot": "E3",
+    "remark": "only for 5 sem",
+    "subject": "SE",
+    "grade": 8.192
+  },
+  {
+    "code": "CE203n",
+    "title": "Design Of Structure-1",
+    "slot": "E4",
+    "remark": "not for CE and 7 sem",
+    "subject": "CE",
+    "grade": ""
+  },
+  {
+    "code": "CE307n",
+    "title": "Application Of Geo-Informatics, Remote Sensing, And Gis In Engineering",
+    "slot": "E4",
+    "remark": "only for 5 sem",
+    "subject": "CE",
+    "grade": ""
+  },
+  {
+    "code": "CH303",
+    "title": "Mass Transfer -1",
+    "slot": "E4",
+    "remark": "not for CH",
+    "subject": "CH",
+    "grade": 6.163
+  },
+  {
+    "code": "CH321n",
+    "title": "Rubber Technology",
+    "slot": "E4",
+    "remark": "only for 5 sem",
+    "subject": "CH",
+    "grade": 6.915
+  },
+  {
+    "code": "CS209",
+    "title": "Software Engineering",
+    "slot": "E4",
+    "remark": "not for CS and 7 sem",
+    "subject": "CO",
+    "grade": 8.034
+  },
+  {
+    "code": "CS305",
+    "title": "Information And Network Security",
+    "slot": "E4",
+    "remark": "not for CS and 7 sem",
+    "subject": "CO",
+    "grade": 8.034
+  },
+  {
+    "code": "CS311",
+    "title": "Information Theory And Coding",
+    "slot": "E4",
+    "remark": "only for 5 sem",
+    "subject": "CO",
+    "grade": 7.566
+  },
+  {
+    "code": "EC313",
+    "title": "Microprocessor & Interfacing",
+    "slot": "E4",
+    "remark": "",
+    "subject": "EC",
+    "grade": 6.143
+  },
+  {
+    "code": "EE311n",
+    "title": "Special Electrical Mechines",
+    "slot": "E4",
+    "remark": "only for 5 sem",
+    "subject": "EE",
+    "grade": ""
+  },
+  {
+    "code": "EE317",
+    "title": "Renewable Energy Systems",
+    "slot": "E4",
+    "remark": "",
+    "subject": "EE",
+    "grade": 6.547
+  },
+  {
+    "code": "EN315n",
+    "title": "Automobile Emission & Control",
+    "slot": "E4",
+    "remark": "only for 5 sem",
+    "subject": "EN",
+    "grade": ""
+  },
+  {
+    "code": "EN417",
+    "title": "Environmental Risk Assesment",
+    "slot": "E4",
+    "remark": "",
+    "subject": "EN",
+    "grade": ""
+  },
+  {
+    "code": "EP311n",
+    "title": "Cosmology And Astrophysics",
+    "slot": "E4",
+    "remark": "only for 5 sem",
+    "subject": "EP",
+    "grade": 8.26
+  },
+  {
+    "code": "EV355n",
+    "title": "Electric Vechicles Design, Dynamics And Testing",
+    "slot": "E4",
+    "remark": "only for 5 sem",
+    "subject": "EV",
+    "grade": ""
+  },
+  {
+    "code": "EV357",
+    "title": "Converters And Charging Infrastructure",
+    "slot": "E4",
+    "remark": "",
+    "subject": "EV",
+    "grade": 6.622
+  },
+  {
+    "code": "IT201",
+    "title": "Data Structure",
+    "slot": "E4",
+    "remark": "not for IT",
+    "subject": "IT",
+    "grade": 7.352
+  },
+  {
+    "code": "IT203n",
+    "title": "Data Structures",
+    "slot": "E4",
+    "remark": "not for IT",
+    "subject": "IT",
+    "grade": 7.352
+  },
+  {
+    "code": "IT307",
+    "title": "Pattern Recognition",
+    "slot": "E4",
+    "remark": "",
+    "subject": "IT",
+    "grade": 7.677
+  },
+  {
+    "code": "IT307n",
+    "title": "Deep Learning",
+    "slot": "E4",
+    "remark": "only for 5 sem",
+    "subject": "IT",
+    "grade": 7.79
+  },
+  {
+    "code": "MBA-105",
+    "title": "Financial & Cost Accounting",
+    "slot": "E4",
+    "remark": "",
+    "subject": "MB",
+    "grade": ""
+  },
+  {
+    "code": "MBAMK213",
+    "title": "Consumer Behaviour",
+    "slot": "E4",
+    "remark": "",
+    "subject": "MB",
+    "grade": 6.923
+  },
+  {
+    "code": "MC307n",
+    "title": "Artificial Intelligence",
+    "slot": "E4",
+    "remark": "only for 5 sem",
+    "subject": "MC",
+    "grade": 8.74
+  },
+  {
+    "code": "ME307n",
+    "title": "Power Plant Engineering",
+    "slot": "E4",
+    "remark": "only for 5 sem",
+    "subject": "ME",
+    "grade": 8.49
+  },
+  {
+    "code": "PE311",
+    "title": "Tapid Prototyping Tooling And Manufacturing",
+    "slot": "E4",
+    "remark": "",
+    "subject": "PE",
+    "grade": ""
+  },
+  {
+    "code": "SC301",
+    "title": "Advanced Semiconductor Device Physics",
+    "slot": "E4",
+    "remark": "",
+    "subject": "SC",
+    "grade": ""
+  },
+  {
+    "code": "CE205n",
+    "title": "Fluid Mechanics",
+    "slot": "E5",
+    "remark": "not for CE and 7 sem",
+    "subject": "CE",
+    "grade": 8
+  },
+  {
+    "code": "CE309n",
+    "title": "Wind Loads On Structures",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "CE",
+    "grade": ""
+  },
+  {
+    "code": "CE311n",
+    "title": "Disaster Management",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "CE",
+    "grade": 6.35
+  },
+  {
+    "code": "CE313n",
+    "title": "Rock Engineering",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "CE",
+    "grade": 7.527
+  },
+  {
+    "code": "CE315n",
+    "title": "Advanced Mechanics Of Soils",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "CE",
+    "grade": ""
+  },
+  {
+    "code": "CE317n",
+    "title": "Water Power Engineering",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "CE",
+    "grade": ""
+  },
+  {
+    "code": "CE319n",
+    "title": "Water Resources Planning And System Engineering",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "CE",
+    "grade": ""
+  },
+  {
+    "code": "CE321n",
+    "title": "Computational Fluid Dynamics",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "CE",
+    "grade": 7
+  },
+  {
+    "code": "CE323n",
+    "title": "Quantity Survey And Estimation",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "CE",
+    "grade": ""
+  },
+  {
+    "code": "CE325n",
+    "title": "Geodesy And Navigation",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "CE",
+    "grade": ""
+  },
+  {
+    "code": "CE327n",
+    "title": "Ai In Civil Engineering",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "CE",
+    "grade": ""
+  },
+  {
+    "code": "CE329n",
+    "title": "Concrete Technology",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "CE",
+    "grade": ""
+  },
+  {
+    "code": "CH307n",
+    "title": "Characterization Of Materials",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "CH",
+    "grade": 6.571
+  },
+  {
+    "code": "CH309n",
+    "title": "Petroleum Refining Engineering",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "CH",
+    "grade": 8.324
+  },
+  {
+    "code": "CO325",
+    "title": "Probability And Statistics",
+    "slot": "E5",
+    "remark": "",
+    "subject": "CO",
+    "grade": 7.581
+  },
+  {
+    "code": "CS309",
+    "title": "Distributed Systems",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "CO",
+    "grade": 8.442
+  },
+  {
+    "code": "EC311",
+    "title": "Algorithm Design And Analysis",
+    "slot": "E5",
+    "remark": "",
+    "subject": "EC",
+    "grade": 6.111
+  },
+  {
+    "code": "EE315",
+    "title": "Digital Control And State Variable Analysis",
+    "slot": "E5",
+    "remark": "",
+    "subject": "EE",
+    "grade": 5.778
+  },
+  {
+    "code": "EE319",
+    "title": "Digital System Design",
+    "slot": "E5",
+    "remark": "",
+    "subject": "EE",
+    "grade": ""
+  },
+  {
+    "code": "EN313n",
+    "title": "Advance Surveying",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "EN",
+    "grade": ""
+  },
+  {
+    "code": "EP315n",
+    "title": "Advanced Semiconductor Device Physics",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "EP",
+    "grade": ""
+  },
+  {
+    "code": "EP317n",
+    "title": "Advanced Wafer Processing",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "EP",
+    "grade": 6.222
+  },
+  {
+    "code": "IT321",
+    "title": "Malware Analysis",
+    "slot": "E5",
+    "remark": "",
+    "subject": "IT",
+    "grade": 8.159
+  },
+  {
+    "code": "IT325",
+    "title": "Secure Coding",
+    "slot": "E5",
+    "remark": "",
+    "subject": "IT",
+    "grade": ""
+  },
+  {
+    "code": "IT411",
+    "title": "Digital Image Processing",
+    "slot": "E5",
+    "remark": "",
+    "subject": "IT",
+    "grade": 8.056
+  },
+  {
+    "code": "IT425",
+    "title": "Natural Language Processing",
+    "slot": "E5",
+    "remark": "",
+    "subject": "IT",
+    "grade": 8.57
+  },
+  {
+    "code": "IT427",
+    "title": "Intrusion Detection And Information Warfare",
+    "slot": "E5",
+    "remark": "",
+    "subject": "IT",
+    "grade": 8.333
+  },
+  {
+    "code": "MC307n",
+    "title": "Artificial Intelligence",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "MC",
+    "grade": 8.74
+  },
+  {
+    "code": "ME317n",
+    "title": "Computational Fluid Dynamics",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "ME",
+    "grade": 7
+  },
+  {
+    "code": "ME319n",
+    "title": "Finite Elements Methods",
+    "slot": "E5",
+    "remark": "only for 5 sem",
+    "subject": "ME",
+    "grade": 7.146
+  },
+  {
+    "code": "SC303",
+    "title": "Advanced Wafer Processing",
+    "slot": "E5",
+    "remark": "",
+    "subject": "SC",
+    "grade": 6.222
+  },
+  {
+    "code": "IT303",
+    "title": "Computer Networks",
+    "slot": "E6",
+    "remark": "not for IT",
+    "subject": "IT",
+    "grade": 7.931
+  },
+  {
+    "code": "IT351a",
+    "title": "Artificial Intelligence And Machine Learning",
+    "slot": "E6",
+    "remark": "",
+    "subject": "IT",
+    "grade": 7.31
+  },
+  {
+    "code": "IT407",
+    "title": "Information And Network Security",
+    "slot": "E6",
+    "remark": "",
+    "subject": "IT",
+    "grade": 8.034
+  },
+  {
+    "code": "IT433",
+    "title": "Multi Modal Data Processing",
+    "slot": "E6",
+    "remark": "",
+    "subject": "IT",
+    "grade": 8.417
+  }
+]

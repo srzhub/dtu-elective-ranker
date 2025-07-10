@@ -1,0 +1,19 @@
+{
+  "code": "AE303",
+  "name": "Fluid Mechanics And Hydraulic Machines",
+  "semester": 5.0,
+  "count": 77,
+  "avg_grade": 6.753,
+  "gradeCounts": {
+    "10": 6,
+    "9": 13,
+    "8": 14,
+    "7": 15,
+    "6": 11,
+    "5": 8,
+    "0": 5
+  },
+  "branchAverages": {
+    "AE": 6.75
+  }
+}

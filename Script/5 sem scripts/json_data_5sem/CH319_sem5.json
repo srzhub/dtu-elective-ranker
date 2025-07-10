@@ -1,0 +1,26 @@
+{
+  "code": "CH319",
+  "name": "Rubber Technology",
+  "semester": 5.0,
+  "count": 82,
+  "avg_grade": 6.915,
+  "gradeCounts": {
+    "10": 7,
+    "9": 14,
+    "8": 20,
+    "7": 12,
+    "6": 6,
+    "5": 11,
+    "0": 3
+  },
+  "branchAverages": {
+    "AE": 5.0,
+    "CE": 5.25,
+    "CH": 7.26,
+    "EN": 9.0,
+    "MC": 8.0,
+    "ME": 7.4,
+    "SE": 6.0,
+    "co": 7.67
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "code": "CO415",
+  "name": "Wireless And Mobile Computing",
+  "semester": 7.0,
+  "count": 242,
+  "avg_grade": 8.223,
+  "gradeCounts": {
+    "10": 32,
+    "9": 86,
+    "8": 65,
+    "7": 36,
+    "6": 14,
+    "5": 8,
+    "0": 1
+  },
+  "branchAverages": {
+    "AE": 6.0,
+    "CE": 5.0,
+    "CH": 6.0,
+    "CS": 8.38,
+    "EC": 8.0,
+    "EE": 7.16,
+    "EP": 9.0,
+    "IT": 8.57,
+    "MC": 8.25,
+    "PE": 7.0,
+    "SE": 7.96
+  }
+}

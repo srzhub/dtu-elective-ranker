@@ -1,13 +1,43 @@
 <html lang="en">
 <head>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="stylesv1.css">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DTU Electives</title>
+  <!-- SEO Title & Description -->
+  <title>DTU Electives | Smart Subject & Syllabus Guide for DTU Students</title>
+  <meta name="description" content="Explore DTU electives, syllabus PDFs, and subject performance data. Choose your semester wisely with real student insights.">
+
+  <!-- Favicon -->
+  <link rel="icon" href="./favicon.ico" type="image/x-icon" />
+
+  <!-- Fonts & Icons -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
+
+  <!-- Styles -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="stylesv1.css" />
+
+  <!-- Open Graph for Social Media -->
+  <meta property="og:title" content="DTU Electives | Plan Smarter, Choose Better" />
+  <meta property="og:description" content="A helpful tool for DTU students to explore syllabus and elective performance data." />
+  <meta property="og:image" content="https://dtuelectives.in/favicon.png" /> <!-- Replace with your logo or banner -->
+  <meta property="og:url" content="https://dtuelectives.in/" />
+  <meta property="og:type" content="website" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="DTU Electives" />
+  <meta name="twitter:description" content="Explore electives, syllabus PDFs, and subject performance to choose smarter." />
+  <meta name="twitter:image" content="https://dtuelectives.in/favicon.png" />
+
+  <!-- Canonical Link -->
+  <link rel="canonical" href="https://dtuelectives.in/" />
+
+  <!-- Robots (Allow indexing) -->
+  <meta name="robots" content="index, follow" />
 </head>
+
 <style>
 
 
@@ -15,35 +45,41 @@
 <body>
   <main>
 <!-- Navigation Bar -->
-    <nav class="navbar navbar-expand-lg custom-navbar" data-bs-theme="dark"    >
+
+    <nav class="navbar navbar-expand-lg custom-navbar" data-bs-theme="dark">
   <div class="container-fluid">
-    <a class="navbar-brand fw-bold fs-2" href="#">
-      DTU Electives
+    <!-- Logo -->
+    <a class="navbar-brand" href="#">
+      <img src="favicon.png" alt="DTU Electives Logo" width="40" height="40" class="d-inline-block align-text-top me-1 mb-1">
+      <span class="fw-bold fs-2 align-middle">DTU Electives</span>
     </a>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
+
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="indexv1.html">Home</a>
+          <a class="nav-link active" aria-current="page" href="index.html">Home</a>
         </li>
-        
+        <li class="nav-item">
+          <a class="nav-link" href="my-electives/my-electives.html">My Electives</a>
+        </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="CS Semester/semester_cs.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Semester
           </a>
-
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="Semester_pages/semester1.html">I Semester</a></li>
             <li><a class="dropdown-item" href="Semester_pages/semester3.html">III Semester</a></li>
             <li><a class="dropdown-item" href="Semester_pages/semester5.html">V Semester</a></li>
             <li><a class="dropdown-item" href="Semester_pages/semester7.html">VII Semester</a></li>
           </ul>
-
+        </li>
       </ul>
-
+      <!-- Disabled Login Button -->
+      <!-- <button class="btn btn-outline-light" disabled>Login</button> -->
     </div>
   </div>
 </nav>
@@ -57,11 +93,11 @@
 
         <div class="row align-items-center mb-1">
           <div class="col-md-4  d-none d-lg-flex justify-content-center mt-5">
-            <img src="undraw_education_3vwh (1).svg" class="img-fluid" alt="">
+            <img src="svgs/undraw_education_3vwh (1).svg" class="img-fluid" alt="">
           </div>
 
           <div class="col-md-7 text-center text-lg-start  hero-text ">
-                      <h1 class=" fw-bold mt-3 mt-md-0" >Choose your upcoming semester to find the best electives.</h1>
+              <h1 class=" fw-bold mt-3 mt-md-0" >Choose your upcoming semester to find the best electives.</h1>
           <p class="lead mb-4 fs-5 d-none d-md-block">Quickly see how your peers performed and make informed choices.</p>
           <div class="d-flex flex-wrap gap-4 justify-content-center justify-content-md-start">
 
@@ -121,11 +157,32 @@
   <!-- Right Column: Illustration -->
   
   <div class="col-md-4 d-none d-md-flex justify-content-center">
-    <img src="undraw_exams_d2tf.svg" class="img-fluid" alt="Student choosing subjects illustration">
+    <img src="svgs/undraw_exams_d2tf.svg" class="img-fluid" alt="Student choosing subjects illustration">
   </div>
 
 </div>
 
+        <hr class="mt-4" />
+
+    <!-- My Electives Link Section -->
+<section class="my-5 py-4">
+    <div class="container ">
+        <div class="card p-4 shadow-sm border-0 form-subjects hero-text"> <div class="row align-items-center">
+                <div class="col-md-7 text-center text-md-start mb-4 mb-md-0 ">
+                    <h2 class="fw-bold mb-3 text-custom-hub">Your Personalized Elective Hub</h2> <p class="lead mb-4 text-secondary"> Easily review, modify, and keep track of all your selected subjects in one convenient place.
+                    </p>
+                    <a href="my-electives.html" class="btn btn-primary btn-lg custom-sem-btn">Go to My Electives</a>
+                </div>
+                <div class="col-md-5 text-center ">
+                    <ul class="list-unstyled text-start fs-5">
+                        <li class="mb-2"><i class="bi bi-check-circle-fill me-2 text-success"></i> Quick access to syllabi</li> <li class="mb-2"><i class="bi bi-check-circle-fill me-2 text-success"></i> Easy subject removal</li>
+                        <li class="mb-2"><i class="bi bi-check-circle-fill me-2 text-success"></i> Organize your choices</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 </section>
@@ -145,19 +202,19 @@
         <div class="container-fluid text-white mt-3">
           <div class="row justify-content-center mb-4 ">
             <div class="col-auto mx-4 px-2  ">
-               <a href="Extra pages/about.html" class="text-white">[About]</a> 
+               <a href="Extra pages/about.html" class="text-white">About</a> 
             </div>
             <div class="col-auto mx-4 px-2">
-               <a href="https://github.com/srzhub" class="text-white">[Github]</a> 
+               <a href="https://github.com/srzhub" class="text-white">Github</a> 
             </div>
             <div class="col-auto mx-4 px-2">
-               <a href="Extra pages/contact.html" class="text-white">[Contact]</a> 
+               <a href="Extra pages/contact.html" class="text-white">Contact</a> 
             </div>
             <div class="col-auto mx-4 px-2">
-               <a href="Extra pages/privacy.html" class="text-white">[Privacy Policy]</a> 
+               <a href="Extra pages/privacy.html" class="text-white">Privacy Policy</a> 
             </div>  
              <div class="col-auto mx-4 px-2">
-               <a href="Extra pages/credits.html" class="text-white">[Credits]</a> 
+               <a href="Extra pages/credits.html" class="text-white">Credits</a> 
             </div>
           </div>
 

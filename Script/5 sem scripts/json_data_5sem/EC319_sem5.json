@@ -1,0 +1,19 @@
+{
+  "code": "EC319",
+  "name": "CMOS Analog Integrated Circuit",
+  "semester": 5.0,
+  "count": 4,
+  "avg_grade": 2.75,
+  "gradeCounts": {
+    "10": 0,
+    "9": 0,
+    "8": 0,
+    "7": 0,
+    "6": 1,
+    "5": 1,
+    "0": 2
+  },
+  "branchAverages": {
+    "EE": 2.75
+  }
+}

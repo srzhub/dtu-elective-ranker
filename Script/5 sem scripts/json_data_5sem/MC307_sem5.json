@@ -1,0 +1,23 @@
+{
+  "code": "MC307",
+  "name": "Object Oriented Programming",
+  "semester": 5.0,
+  "count": 96,
+  "avg_grade": 8.531,
+  "gradeCounts": {
+    "10": 17,
+    "9": 47,
+    "8": 17,
+    "7": 9,
+    "6": 3,
+    "5": 1,
+    "0": 1
+  },
+  "branchAverages": {
+    "BT": 6.0,
+    "EE": 8.75,
+    "MC": 8.6,
+    "ME": 7.0,
+    "PE": 8.0
+  }
+}

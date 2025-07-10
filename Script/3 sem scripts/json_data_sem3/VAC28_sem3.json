@@ -1,0 +1,30 @@
+{
+  "code": "VAC28",
+  "name":  "Meditation and Conscious Living",
+  "semester": 3.0,
+  "count": 0,
+  "gradeCounts": {
+    "10": 23,
+    "9": 18,
+    "8": 5,
+    "7": 4,
+    "6": 1,
+    "5": 1,
+    "0": 2
+  },
+  "branchAverages": {
+    "AE": 9.33,
+    "BT": 6.33,
+    "CE": 9.0,
+    "CH": 9.0,
+    "CS": 9.0,
+    "EC": 9.25,
+    "EE": 8.86,
+    "EN": 8.0,
+    "EP": 8.33,
+    "IT": 9.6,
+    "MC": 9.0,
+    "ME": 6.25,
+    "PE": 9.0
+  }
+}

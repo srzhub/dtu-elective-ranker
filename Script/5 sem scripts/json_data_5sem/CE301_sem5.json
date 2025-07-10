@@ -1,0 +1,25 @@
+{
+  "code": "CE301",
+  "name": "Analysis Of Determinate Structures",
+  "semester": 5.0,
+  "count": 159,
+  "avg_grade": 6.56,
+  "gradeCounts": {
+    "10": 10,
+    "9": 22,
+    "8": 23,
+    "7": 26,
+    "6": 33,
+    "5": 25,
+    "0": 6
+  },
+  "branchAverages": {
+    "CE": 6.53,
+    "EE": 9.0,
+    "EN": 8.0,
+    "MC": 9.0,
+    "ME": 6.0,
+    "PE": 5.0,
+    "co": 5.5
+  }
+}

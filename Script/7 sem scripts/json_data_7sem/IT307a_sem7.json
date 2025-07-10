@@ -1,0 +1,27 @@
+{
+  "code": "IT307a",
+  "name": "Pattern Recognition",
+  "semester": 7.0,
+  "count": 49,
+  "avg_grade": 7.735,
+  "gradeCounts": {
+    "10": 2,
+    "9": 12,
+    "8": 18,
+    "7": 10,
+    "6": 3,
+    "5": 3,
+    "0": 0
+  },
+  "branchAverages": {
+    "CS": 8.3,
+    "EC": 9.0,
+    "EE": 6.75,
+    "EP": 8.0,
+    "IT": 8.0,
+    "MC": 7.7,
+    "ME": 7.33,
+    "PE": 7.0,
+    "SE": 6.0
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "code": "EE313b",
+  "name": "Engineering Analysis And Design",
+  "semester": 7.0,
+  "count": 19,
+  "avg_grade": 6.737,
+  "gradeCounts": {
+    "10": 1,
+    "9": 3,
+    "8": 4,
+    "7": 4,
+    "6": 3,
+    "5": 1,
+    "0": 1
+  },
+  "branchAverages": {
+    "EE": 6.74
+  }
+}

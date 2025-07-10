@@ -27,7 +27,7 @@ body > main {
     border-radius: 12px;
     padding: 10px 20px;
     background-color: #4f46e5;
-
+    color:white;
     font-weight: 600;
     transition: 0.3s;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -51,7 +51,15 @@ body > main {
     position: sticky;
     top:0;
     z-index: 1020;
+
     
+}
+
+.navbar-brand{
+    height: 100%;           /* fill the full flex container height */
+   max-height: 56px;    
+  width: auto;            /* preserve aspect ratio */
+  object-fit: contain;
 }
 
 
@@ -60,7 +68,7 @@ body > main {
   border-radius: 16px;
   padding: 26px;
   border: 1px solid #e5e0ff;
-  box-shadow: 0 4px 20px rgba(120, 72, 232, 0.2);
+  box-shadow: 0 4px 20px rgba(120, 72, 232, 0.15);
 } 
 
 /* Fade in animation  */
@@ -73,6 +81,12 @@ body > main {
   animation: fadeInUp 0.6s ease forwards;
 }
 
+
+/* In stylesv1.css */
+.text-custom-hub {
+    color: linear-gradient(90deg, #3730a3 0%, #6d28d9 100%); 
+    
+}
 
 
 /* --- Semester Pages --- */
@@ -130,3 +144,47 @@ custom select dropdown */
 }
 
 
+ /* --- My electives Page --- */
+.btn-add {
+  background-color: #22c55e;
+  color: white;
+  border: none;
+  padding: 6px 14px;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
+.btn-add:hover {
+  background-color: #16a34a;
+}
+
+.btn-remove {
+  background-color: #ef4444;
+  color: white;
+  border: none;
+  padding: 6px 14px;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
+.btn-remove:hover {
+  background-color: #dc2626;
+}
+
+
+/* Styles for the collapse icon */
+.collapse-icon {
+    transition: transform 0.3s ease; 
+    display: inline-block; 
+    
+}
+
+/* Rotate the icon when the button's aria-expanded is true (meaning the collapse is open) */
+.btn[aria-expanded="true"] .collapse-icon {
+    transform: rotate(180deg); 
+}
+
+/*  Adjust button link style for the heading */
+.btn-link.fs-4 {
+    color: inherit; 
+}

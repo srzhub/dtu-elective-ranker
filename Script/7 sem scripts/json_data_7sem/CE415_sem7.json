@@ -1,0 +1,27 @@
+{
+  "code": "CE415",
+  "name": "Transportation Safety And Environment",
+  "semester": 7.0,
+  "count": 73,
+  "avg_grade": 7.74,
+  "gradeCounts": {
+    "10": 6,
+    "9": 16,
+    "8": 20,
+    "7": 18,
+    "6": 11,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "BT": 9.0,
+    "CE": 7.88,
+    "CS": 8.5,
+    "EC": 7.0,
+    "EE": 6.8,
+    "EN": 7.67,
+    "IT": 7.67,
+    "MC": 8.0,
+    "ME": 7.25
+  }
+}

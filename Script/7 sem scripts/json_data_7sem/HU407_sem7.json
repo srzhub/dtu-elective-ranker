@@ -1,0 +1,30 @@
+{
+  "code": "HU407",
+  "name": "Wealth And Poverty Of Nations- Indian Economic",
+  "semester": 7.0,
+  "count": 64,
+  "avg_grade": 8.203,
+  "gradeCounts": {
+    "10": 6,
+    "9": 18,
+    "8": 27,
+    "7": 10,
+    "6": 2,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "CE": 8.0,
+    "CH": 8.5,
+    "CS": 8.48,
+    "EC": 8.67,
+    "EE": 7.71,
+    "EN": 6.0,
+    "EP": 7.0,
+    "IT": 8.4,
+    "MC": 8.5,
+    "ME": 7.9,
+    "PE": 6.5,
+    "SE": 9.5
+  }
+}

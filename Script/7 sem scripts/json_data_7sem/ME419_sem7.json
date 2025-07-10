@@ -1,0 +1,23 @@
+{
+  "code": "ME419",
+  "name": "Robotics And Automation",
+  "semester": 7.0,
+  "count": 71,
+  "avg_grade": 7.93,
+  "gradeCounts": {
+    "10": 7,
+    "9": 21,
+    "8": 22,
+    "7": 8,
+    "6": 8,
+    "5": 4,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 6.4,
+    "EE": 9.0,
+    "EP": 10.0,
+    "ME": 8.02,
+    "PE": 7.75
+  }
+}

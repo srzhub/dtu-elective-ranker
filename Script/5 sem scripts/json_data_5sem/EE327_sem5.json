@@ -1,0 +1,23 @@
+{
+  "code": "EE327",
+  "name": "Introduction To Python Programming",
+  "semester": 5.0,
+  "count": 32,
+  "avg_grade": 8.25,
+  "gradeCounts": {
+    "10": 4,
+    "9": 11,
+    "8": 11,
+    "7": 3,
+    "6": 1,
+    "5": 2,
+    "0": 0
+  },
+  "branchAverages": {
+    "CE": 9.0,
+    "EE": 7.65,
+    "IT": 8.33,
+    "SE": 9.0,
+    "co": 9.11
+  }
+}

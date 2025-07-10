@@ -1,0 +1,26 @@
+{
+  "code": "VAC29",
+  "name": "Physical Education & Sports",
+  "semester": 3.0,
+  "count": 17,
+  "gradeCounts": {
+    "10": 5,
+    "9": 2,
+    "8": 4,
+    "7": 4,
+    "6": 1,
+    "5": 0,
+    "0": 1
+  },
+  "branchAverages": {
+    "BT": 10.0,
+    "CE": 8.5,
+    "CS": 0.0,
+    "EC": 7.0,
+    "EE": 8.0,
+    "EP": 10.0,
+    "IT": 8.0,
+    "MC": 6.0,
+    "ME": 10.0
+  }
+}

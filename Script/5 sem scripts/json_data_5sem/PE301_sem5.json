@@ -1,0 +1,19 @@
+{
+  "code": "PE301",
+  "name": "Casting Technology",
+  "semester": 5.0,
+  "count": 73,
+  "avg_grade": 7.521,
+  "gradeCounts": {
+    "10": 5,
+    "9": 9,
+    "8": 25,
+    "7": 20,
+    "6": 9,
+    "5": 4,
+    "0": 0
+  },
+  "branchAverages": {
+    "PE": 7.52
+  }
+}

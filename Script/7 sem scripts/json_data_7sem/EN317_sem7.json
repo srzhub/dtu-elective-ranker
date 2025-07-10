@@ -1,0 +1,27 @@
+{
+  "code": "EN317",
+  "name": "Environmental",
+  "semester": 7.0,
+  "count": 22,
+  "avg_grade": 6.182,
+  "gradeCounts": {
+    "10": 0,
+    "9": 0,
+    "8": 2,
+    "7": 8,
+    "6": 6,
+    "5": 4,
+    "0": 0
+  },
+  "branchAverages": {
+    "CE": 5.5,
+    "CS": 6.33,
+    "EC": 6.0,
+    "EE": 6.0,
+    "EN": 5.5,
+    "MC": 6.67,
+    "ME": 7.67,
+    "PE": 6.0,
+    "SE": 5.0
+  }
+}

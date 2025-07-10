@@ -1,0 +1,25 @@
+{
+  "code": "AE307",
+  "name": "Combustion Generated Pollution",
+  "semester": 5.0,
+  "count": 69,
+  "avg_grade": 7.29,
+  "gradeCounts": {
+    "10": 7,
+    "9": 13,
+    "8": 20,
+    "7": 9,
+    "6": 11,
+    "5": 3,
+    "0": 3
+  },
+  "branchAverages": {
+    "AE": 7.06,
+    "CH": 7.67,
+    "EE": 8.0,
+    "IT": 6.0,
+    "ME": 8.29,
+    "PE": 8.33,
+    "SE": 7.75
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "code": "PE417",
+  "name": "Materials Management",
+  "semester": 7.0,
+  "count": 69,
+  "avg_grade": 7.536,
+  "gradeCounts": {
+    "10": 10,
+    "9": 12,
+    "8": 17,
+    "7": 14,
+    "6": 6,
+    "5": 6,
+    "0": 1
+  },
+  "branchAverages": {
+    "AE": 8.0,
+    "CH": 4.0,
+    "CS": 8.12,
+    "EC": 5.2,
+    "EE": 8.0,
+    "EN": 6.25,
+    "IT": 8.33,
+    "MC": 10.0,
+    "ME": 8.06,
+    "PE": 7.44,
+    "SE": 7.33
+  }
+}

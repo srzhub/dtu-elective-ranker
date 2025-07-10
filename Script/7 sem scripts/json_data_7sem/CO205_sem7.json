@@ -1,0 +1,27 @@
+{
+  "code": "CO205",
+  "name": "Discrete Structures",
+  "semester": 7.0,
+  "count": 78,
+  "avg_grade": 8.141,
+  "gradeCounts": {
+    "10": 12,
+    "9": 20,
+    "8": 22,
+    "7": 16,
+    "6": 7,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 7.0,
+    "CE": 8.0,
+    "EC": 8.36,
+    "EE": 8.21,
+    "EN": 9.0,
+    "EP": 7.25,
+    "ME": 8.0,
+    "PE": 9.0,
+    "SE": 8.36
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": "VAC13",
+  "name": "Negotiation & Leadership",
+  "semester": 3.0,
+  "count": 62,
+  "avg_grade": 8.274,
+  "gradeCounts": {
+    "10": 9,
+    "9": 16,
+    "8": 23,
+    "7": 11,
+    "6": 3,
+    "5": 0,
+    "0": 0
+  },
+  "branchAverages": {
+    "CE": 7.6,
+    "CH": 8.0,
+    "CS": 9.0,
+    "EC": 8.33,
+    "EE": 8.25,
+    "EN": 7.0,
+    "EP": 7.0,
+    "IT": 8.43,
+    "MC": 7.5,
+    "ME": 8.5,
+    "PE": 8.0,
+    "SE": 7.2
+  }
+}

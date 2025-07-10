@@ -1,0 +1,28 @@
+{
+  "code": "CH409",
+  "name": "Plant Engineering And Process",
+  "semester": 7.0,
+  "count": 73,
+  "avg_grade": 7.836,
+  "gradeCounts": {
+    "10": 3,
+    "9": 15,
+    "8": 31,
+    "7": 16,
+    "6": 7,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "CE": 6.83,
+    "CH": 7.9,
+    "CS": 7.5,
+    "EC": 7.0,
+    "EE": 9.0,
+    "EN": 8.0,
+    "IT": 8.0,
+    "MC": 6.0,
+    "ME": 7.5,
+    "PE": 9.0
+  }
+}

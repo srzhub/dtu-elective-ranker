@@ -1,0 +1,20 @@
+{
+  "code": "EC407",
+  "name": "Optical Communication",
+  "semester": 7.0,
+  "count": 146,
+  "avg_grade": 6.856,
+  "gradeCounts": {
+    "10": 11,
+    "9": 16,
+    "8": 23,
+    "7": 37,
+    "6": 27,
+    "5": 14,
+    "0": 0
+  },
+  "branchAverages": {
+    "EC": 6.85,
+    "EE": 7.0
+  }
+}

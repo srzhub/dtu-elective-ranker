@@ -1,0 +1,25 @@
+{
+  "code": "PE351",
+  "name": "Advance Machining Process",
+  "semester": 7.0,
+  "count": 24,
+  "avg_grade": 7.667,
+  "gradeCounts": {
+    "10": 2,
+    "9": 5,
+    "8": 6,
+    "7": 7,
+    "6": 2,
+    "5": 2,
+    "0": 0
+  },
+  "branchAverages": {
+    "CE": 9.0,
+    "CH": 8.0,
+    "CS": 6.0,
+    "EN": 5.0,
+    "MC": 8.0,
+    "ME": 8.83,
+    "PE": 7.31
+  }
+}

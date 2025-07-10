@@ -1,0 +1,30 @@
+{
+  "code": "AEC11",
+  "name": "Soft Skills and Personality Development",
+  "semester": 1.0,
+  "count": 53,
+  "avg_grade": 8.925,
+  "gradeCounts": {
+    "10": 13,
+    "9": 23,
+    "8": 17,
+    "7": 0,
+    "6": 0,
+    "5": 0,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 8.0,
+    "CE": 8.5,
+    "CH": 8.67,
+    "CO": 9.5,
+    "EC": 9.0,
+    "EE": 9.17,
+    "EN": 8.0,
+    "EP": 8.5,
+    "IT": 9.25,
+    "MC": 8.67,
+    "ME": 8.83,
+    "SE": 9.0
+  }
+}

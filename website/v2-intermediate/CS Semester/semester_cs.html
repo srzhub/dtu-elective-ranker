@@ -1,0 +1,195 @@
+<html lang="en">
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="//cdn.datatables.net/2.3.2/css/dataTables.dataTables.min.css">
+    <link rel="stylesheet" href="../stylesv1.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <main>
+
+        <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg custom-navbar" data-bs-theme="dark">
+
+  <div class="container-fluid">
+    <a class="navbar-brand fw-bold fs-2" href="../index.html"> DTU Electives</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="../index.html">Home</a>
+        </li>
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Semester
+          </a>
+
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="../Semester_pages/semester1.html">I Semester</a></li>
+            <li><a class="dropdown-item" href="../Semester_pages/semester3.html">III Semester</a></li>
+            <li><a class="dropdown-item" href="../Semester_pages/semester5.html">V Semester</a></li>
+            <li><a class="dropdown-item" href="../Semester_pages/semester7.html">VII Semester</a></li>
+          </ul>
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+ <!-- Heading and change semester button -->
+<div class="d-flex justify-content-center align-items-center mb-3 mt-3">
+  <h2 id="page-title" class="fw-bold me-4 ">Semester 5 Subjects - CS</h2>
+
+  <div class="d-flex align-items-center gap-2 pb-2">
+    <label for="semToggle" class="mb-0 fw-semibold">Change Semester:</label>
+    <select id="semToggle" class="form-select form-select-sm w-auto">
+      <option value="1">Sem I</option>
+      <option value="2">Sem II</option>
+      <option value="3">Sem III</option>
+      <option value="4">Sem IV</option>
+      <option value="5">Sem V</option>
+      <option value="6">Sem VI</option>
+    </select>
+  </div>
+</div>
+
+
+<div id="mandatory-section">
+    <h2 class="fw-medium fs-3 ms-2">Manadatory Subjects</h2>
+    <div  class="table-responsive" >
+  <table class="table table-hover table-borderless  custom-table ">
+  <thead class="table-header">
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Subject Code</th>
+      <th scope="col">Subject Name</th>
+      <th scope="col">MTE</th>
+      <th scope="col">ETE</th>
+      <th scope="col">Syllabus</th>
+    </tr>
+
+  </thead>
+
+  <tbody  id="mandatory-table">
+
+  </tbody>
+
+</table>
+</div>
+</div>
+
+
+
+<div id="elective-section">
+    <h2 class="fw-medium fs-3 ms-2 mt-1">Department Electives</h2>
+    <div  class="table-responsive" >
+  <table class="table table-hover table-borderless  custom-table ">
+  <thead class="table-header">
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Subject Code</th>
+      <th scope="col">Subject Name</th>
+      <th scope="col">MTE</th>
+      <th scope="col">ETE</th>
+      <th scope="col">Syllabus</th>
+      
+    </tr>
+
+  </thead>
+
+  <tbody  id="elective-table">
+
+  </tbody>
+
+    </table>
+    </div>
+</div>
+
+<!-- Button to get open electives -->
+
+<div class="text-center my-4 ">
+    <h2 id="elective-text" class="fw-medium"> View all the open electives for your semester</h2>
+    
+    <button class="btn btn-outline-primary custom-sem-btn" style="color: white;" id="open-elective-button">View Open electives</button>
+</div>
+
+
+<!-- 
+<div id="open-elective">
+    <h2>Find the best ranked electives for your semester</h2>
+    <button  class="btn btn-primary btn-lg custom-sem-btn"> Helo</button>
+</div> -->
+
+</main>
+
+
+
+
+    <footer 
+    class="text-center text-lg-start footer-custom"
+    style = "background-color: #3730a3;">
+
+        
+        <div class="container-fluid text-white mt-3">
+          <div class="row justify-content-center mb-4 ">
+            <div class="col-auto mx-4 px-2  ">
+               <a href="../Extra pages/about.html" class="text-white">[About]</a> 
+            </div>
+            <div class="col-auto mx-4 px-2">
+               <a href="https://github.com/srzhub" class="text-white">[Github]</a> 
+            </div>
+            <div class="col-auto mx-4 px-2">
+               <a href="../Extra pages/contact.html" class="text-white">[Contact]</a> 
+            </div>
+            <div class="col-auto mx-4 px-2">
+               <a href="../Extra pages/privacy.html" class="text-white">[Privacy Policy]</a> 
+            </div>  
+             <div class="col-auto mx-4 px-2">
+               <a href="../Extra pages/credits.html" class="text-white">[Credits]</a> 
+            </div>
+          </div>
+
+          <div class="row justify-content-center mb-4 ">
+            <div class="col-auto ">Made with &#9829 for DTU students | by <a href="https://www.instagram.com/suhaib.rz/ " style="color: white; text-decoration: none;">Suhaib Aazmi</a> </div>
+          </div>
+        </div>
+    </footer>
+
+
+    <!-- Modal for PDF Viewer -->
+<div class="modal fade" id="pdfModal" tabindex="-1" aria-labelledby="pdfModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-xl modal-dialog-centered" >
+    <div class="modal-content" >
+      <div class="modal-header" >
+        <h5 class="modal-title" id="pdfModalLabel" >Syllabus Viewer</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body p-0" style="height: 80vh;">
+        <iframe id="pdfViewerFrame" src="" width="100%" height="100%" style="border: none;"></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="//cdn.datatables.net/2.3.2/js/dataTables.min.js"></script>
+<script src="semester_cs_script.js"></script>
+
+
+
+
+</body>
+
+
+
+</html>

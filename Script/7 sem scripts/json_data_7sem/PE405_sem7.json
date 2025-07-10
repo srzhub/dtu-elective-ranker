@@ -1,0 +1,27 @@
+{
+  "code": "PE405",
+  "name": "Metal Forming And Press Working",
+  "semester": 7.0,
+  "count": 73,
+  "avg_grade": 6.356,
+  "gradeCounts": {
+    "10": 4,
+    "9": 6,
+    "8": 9,
+    "7": 14,
+    "6": 14,
+    "5": 12,
+    "0": 0
+  },
+  "branchAverages": {
+    "CE": 6.5,
+    "CS": 7.5,
+    "EE": 6.27,
+    "EN": 6.4,
+    "EP": 6.0,
+    "MC": 5.0,
+    "ME": 6.42,
+    "PE": 6.5,
+    "SE": 4.5
+  }
+}

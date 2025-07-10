@@ -1,0 +1,25 @@
+{
+  "code": "CH305",
+  "name": "Characterization Of Materials",
+  "semester": 5.0,
+  "count": 21,
+  "avg_grade": 6.571,
+  "gradeCounts": {
+    "10": 3,
+    "9": 1,
+    "8": 3,
+    "7": 5,
+    "6": 5,
+    "5": 2,
+    "0": 2
+  },
+  "branchAverages": {
+    "CE": 7.0,
+    "CH": 7.88,
+    "EE": 8.0,
+    "EN": 0.0,
+    "ME": 5.6,
+    "PE": 7.5,
+    "co": 5.67
+  }
+}
