@@ -1,0 +1,24 @@
+IT SUBJECTS
+IT 303 Computer Networks
+IT319	Software Project Management
+IT351	Data Structures and Algorithms
+IT357	Computer Architecture
+IT359	Introduction to Database Systems
+
+IT310	Pattern Recognition
+IT312	Secure Coding
+IT320	Natural Language Processing
+
+Missing:
+IT314	Wireless Ad hoc Mobile Networks
+IT352	Deep Learning Applications  
+IT322	Cyber and Digital Forensics
+
+7 SEM:
+1	IT425	Social Networks	
+2	IT427	Intrusion Detection and Info. Warfare	
+3	IT405	High Performance Computing
+13	IT451	Intro. to Cyber and Physical Systems
+
+CS SUBJECTS
+CS301	Compiler Design

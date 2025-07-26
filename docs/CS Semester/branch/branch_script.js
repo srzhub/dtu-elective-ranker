@@ -7,7 +7,7 @@ document.getElementById("page-title").textContent = `Semester ${sem} Subjects - 
 document.getElementById("elective-text").textContent = `View all the open electives for ${sem} semester`
 
 
-fetch('cs_all_years.json')
+fetch('branch_json/cs_all_years.json')
 .then( response =>{
     if(!response.ok){
         throw new Error("Network response was not OK");

@@ -1,6 +1,6 @@
 // Fetch data from json file
-let allSubjects = [];
-fetch("../CS Semester/sem_cs.json")
+let allSubjects = []; 
+fetch("../CS Semester/combined.json")
   .then(res => res.json())
   .then(data => {
     allSubjects = data;
@@ -133,21 +133,25 @@ function showToast(message, color = "bg-success") {
   toast.show();
 }
 
-// -- Add mandatory subjects of each sem autmomatically
+// -- Add mandatory subjects of each sem and branch autmomatically
 
+const branchFilter = document.getElementById("branchToggle")
 const semFilter = document.getElementById("semToggle");
-semFilter.addEventListener("change", (e) => {
-  const newSem = parseInt(e.target.value);
-  // Select mandatory subjects for the chosen semester
-  const mandatorySubs = allSubjects.filter(s => s.semester === newSem && s.type === "Mandatory");
-  // Overwrite saved electives
-  localStorage.setItem("myElectives", JSON.stringify(mandatorySubs));
-  // Notify user of auto-add
-  showToast(`Added ${mandatorySubs.length} mandatory subjects for Semester ${newSem}`, "bg-info");
-  // Re-render the My Electives table
-  renderElectives();
-});
 
+function updateElectivesFromFilters(){
+  const newSem = parseInt(semFilter.value);
+  const newBranch = branchFilter.value
+
+  if(!newSem || !newBranch) return;
+
+  const mandatorySubjects = allSubjects.filter(
+    s => s.semester === newSem && s.branch === newBranch && s.type ==="Mandatory"
+  );
+  localStorage.setItem("myElectives", JSON.stringify(mandatorySubjects));
+  renderElectives();
+}
+semFilter.addEventListener("change", updateElectivesFromFilters);
+branchFilter.addEventListener("change", updateElectivesFromFilters);
 
 // Bulk‑download all saved syllabi as a ZIP
 async function downloadAllZipped() {

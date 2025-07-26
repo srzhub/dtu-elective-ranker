@@ -133,13 +133,16 @@
     <div class="p-4  h-100">
       <h2 class="fw-bold mb-4  text-center text-md-start ">Explore complete subject list and syllabus for your branch</h2>
 
-      <form action="CS Semester/semester_cs.html" method="GET" class="form-subjects">
+      <form id="branchForm" method="GET" class="form-subjects">
 
         <div class="mb-4">
           <label for="branch"  class="form-label fw-semibold">Select Branch</label>
           <select id="branch" name="branch" class="form-select">
-            <!-- <option selected disabled>Choose branch</option> --> 
-            <option selected value="CO">Computer Science (CS)</option>
+            <!-- <option selected disabled>Choose branch</option> -->
+            <option  selected disabled>Choose Branch</option>
+            <option  value="CO">Computer Science (CS)</option>
+            <option  value="IT">Information Technology (IT)</option>
+            <option  value="SE">Software Engineering (SE)</option>
 
             
           </select>
@@ -155,12 +158,14 @@
             <option value="4">Semester IV</option>
             <option value="5">Semester V</option>
             <option value="6">Semester VI</option>
+            <option value="7">Semester VII</option>
+            <option value="8">Semester VIII</option>
           </select>
         </div>
 
 
 
-        <button type="submit" class="btn btn-primary w-100 custom-sem-btn" src="CS Semester/semester_cs.html">
+        <button type="submit" class="btn btn-primary w-100 custom-sem-btn">
           Find Subjects & Syllabus
         </button>
       </form>
@@ -239,4 +244,26 @@
     
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<script>
+  const form = document.getElementById('branchForm');
+  const branchSelect = document.getElementById('branch');
+  const semSelect = document.getElementById('sem');
+
+  form.addEventListener('submit', e => {
+    const branch = branchSelect.value.toLowerCase(); // e.g. "co" or "it"
+    // Prevent default so we can set action dynamically
+    e.preventDefault();
+    const sem = semSelect.value; // e.g. "3"
+    if (!branch || !sem) {
+      alert('Please choose both branch and semester');
+      return;
+    }
+    // Build the target URL: e.g. "CS Semester/semester_it.html?branch=IT&sem=3"
+    form.action = `CS Semester/semester_${branch}.html?branch=${branch.toUpperCase()}&sem=${sem}`;
+    form.submit();
+  });
+</script>
+
+
 </html>
