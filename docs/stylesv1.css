@@ -188,3 +188,10 @@ custom select dropdown */
 .btn-link.fs-4 {
     color: inherit; 
 }
+
+/* Branch Page */
+
+  /* purple color on syllabus icon */
+  .text-purple {
+  color: #6f42c1; /* Bootstrap's purple shade */
+}

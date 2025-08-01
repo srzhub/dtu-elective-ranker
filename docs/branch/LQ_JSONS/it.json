@@ -1,0 +1,912 @@
+[
+  {
+    "semester": 1,
+    "code": "IT101",
+    "title": "Mathematics-I",
+    "credits": 4,
+    "Category": "BSC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT101.pdf"
+  },
+  {
+    "semester": 1,
+    "code": "IT103",
+    "title": "Physics/Programming Fundamentals",
+    "credits": 4,
+    "Category": "BSC/ESC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT103.pdf?alt=media&token=3926cfe3-4dbb-4bf0-ae03-30c5050636e5"
+  },
+  {
+    "semester": 1,
+    "code": "IT105",
+    "title": "Basic Electrical Engineering",
+    "credits": 4,
+    "Category": "BSC/ESC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT105.pdf"
+  },
+  {
+    "semester": 1,
+    "code": "IT107",
+    "title": "Basic of Electronics & Communication",
+    "credits": 4,
+    "Category": "BSC/ESC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT107.pdf"
+  },
+  {
+    "semester": 1,
+    "code": "IT109",
+    "title": "Fundamentals of Web Design",
+    "credits": 2,
+    "Category": "SEC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT109.pdf?alt=media&token=5518adb1-1430-4e9e-9b14-3d5b294834cd"
+  },
+  {
+    "semester": 2,
+    "code": "IT102",
+    "title": "Mathematics-II",
+    "credits": 4,
+    "Category": "BSC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT102.pdf?alt=media&token=5a5119e1-bbab-4d0a-9324-122aa8c4b9bc"
+  },
+  {
+    "semester": 2,
+    "code": "IT104",
+    "title": "Programming Fundamentals/Physics",
+    "credits": 4,
+    "Category": "ESC/BSC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT104.pdf?alt=media&token=a4fc1f4a-d4fa-4941-836f-c7d24af8aaf6"
+  },
+  {
+    "semester": 2,
+    "code": "IT106",
+    "title": "Discrete Structures",
+    "credits": 4,
+    "Category": "BSC/ESC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT106.pdf?alt=media&token=d5b35aef-d8be-420d-9ff7-b23f67477479"
+  },
+  {
+    "semester": 2,
+    "code": "IT108",
+    "title": "Object Oriented Programming",
+    "credits": 4,
+    "Category": "BSC/ESC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT108.pdf"
+  },
+  {
+    "semester": 2,
+    "code": "IT110",
+    "title": "Open Source Programming",
+    "credits": 2,
+    "Category": "SEC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT110.pdf"
+  },
+  {
+    "semester": 3,
+    "code": "IT201",
+    "title": "Digital Systems and Microcontrollers",
+    "credits": 4,
+    "Category": "ESC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT201.pdf"
+  },
+  {
+    "semester": 3,
+    "code": "IT203",
+    "title": "Data Structures",
+    "credits": 4,
+    "Category": "DCC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT203.pdf?alt=media&token=04727589-9566-418f-aaa2-a97e7478b1d6"
+  },
+  {
+    "semester": 3,
+    "code": "IT205",
+    "title": "Data Science and Visualization",
+    "credits": 4,
+    "Category": "DCC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT205.pdf?alt=media&token=352dcc63-6498-4c63-be6c-63c675479b54"
+  },
+  {
+    "semester": 3,
+    "code": "IT207",
+    "title": "Data Communications",
+    "credits": 4,
+    "Category": "DCC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT207.pdf?alt=media&token=994786ff-10e9-4bb4-9feb-a10361ad7328"
+  },
+  {
+    "semester": 3,
+    "code": "IT209",
+    "title": "Theory of Computation",
+    "credits": 4,
+    "Category": "DCC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT209.pdf?alt=media&token=4633d287-5d95-4701-b5ea-8acd48f61709"
+  },
+  {
+    "semester": 4,
+    "code": "IT202",
+    "title": "Software Engineering",
+    "credits": 4,
+    "Category": "ESC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT202.pdf?alt=media&token=84399105-2d72-41a0-aedb-81c19f987b4b"
+  },
+  {
+    "semester": 4,
+    "code": "IT204",
+    "title": "Algorithm Design and Analysis",
+    "credits": 4,
+    "Category": "DCC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT204.pdf?alt=media&token=ca2f6329-d30b-4325-b535-872f0ac2c4e9"
+  },
+  {
+    "semester": 4,
+    "code": "IT206",
+    "title": "Operating Systems",
+    "credits": 4,
+    "Category": "DCC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT206.pdf?alt=media&token=5af30bf9-5cd8-4e33-a912-18a8febfa0ce"
+  },
+  {
+    "semester": 4,
+    "code": "IT208",
+    "title": "Database Management Systems",
+    "credits": 4,
+    "Category": "DCC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT208.pdf?alt=media&token=e846d693-806e-4fb7-bfc6-2475eded4e89"
+  },
+  {
+    "semester": 4,
+    "code": "IT210",
+    "title": "Machine Learning",
+    "credits": 4,
+    "Category": "DCC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT210.pdf?alt=media&token=4ebf1052-bce6-4502-b199-accd0981e13f"
+  },
+  {
+    "semester": 5,
+    "code": "IT301",
+    "title": "Compiler Design",
+    "credits": 4,
+    "Category": "DCC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT301.pdf?alt=media&token=2f6e2193-24f1-4320-bd8d-e5b7e4ba9a20"
+  },
+  {
+    "semester": 5,
+    "code": "IT303",
+    "title": "Computer Networks",
+    "credits": 4,
+    "Category": "DCC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT303.pdf?alt=media&token=84588b90-3266-4898-99b5-8de6f2ba0c67"
+  },
+  {
+    "semester": 5,
+    "code": "IT305",
+    "title": "Computer Organization and Architecture",
+    "credits": 4,
+    "Category": "DCC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT305.pdf?alt=media&token=5f48012a-bfae-4e9d-8dfc-88bd3d7c9462"
+  },
+  {
+    "semester": 5,
+    "code": "SECXX",
+    "title": "Engg. Economics/Fundamentals of Mgmt.",
+    "credits": 3,
+    "Category": "SEC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/SECXX.pdf"
+  },
+  {
+    "semester": 5,
+    "code": "IT309",
+    "title": "Deep Learning",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT309.pdf?alt=media&token=57edb62c-e57d-4017-ae1a-faed50e7155b"
+  },
+  {
+    "semester": 5,
+    "code": "IT311",
+    "title": "Cyber Laws",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT311.pdf?alt=media&token=8cdbd511-5c77-4072-ba38-5b09ce1bdeea"
+  },
+  {
+    "semester": 5,
+    "code": "IT313",
+    "title": "Malware Analysis",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT313.pdf?alt=media&token=19341ddf-f4f9-4288-9501-d9cee0d36655"
+  },
+  {
+    "semester": 5,
+    "code": "IT315",
+    "title": "Internet of Things",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT315.pdf?alt=media&token=b5ac322d-288e-4ac9-89d0-cac1c2637bce"
+  },
+  {
+    "semester": 5,
+    "code": "IT317",
+    "title": "Computer Graphics",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT317.pdf?alt=media&token=6f78f44b-da4f-44e1-8da1-f1cb033faa26"
+  },
+  {
+    "semester": 5,
+    "code": "IT319",
+    "title": "Software Project Management",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT319.pdf?alt=media&token=b52da039-706a-46ae-a1a7-8a974ec398f3"
+  },
+  {
+    "semester": 5,
+    "code": "IT351",
+    "title": "Data Structures and Algorithms",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT351.pdf?alt=media&token=0743476f-39ce-413c-ab3b-ee97a43e56e6"
+  },
+  {
+    "semester": 5,
+    "code": "IT353",
+    "title": "Information and Network Security",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT353.pdf?alt=media&token=cbcd76d1-bbde-46de-a409-d96b15bb61dd"
+  },
+  {
+    "semester": 5,
+    "code": "IT355",
+    "title": "Introduction to Computer Networks",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT355.pdf?alt=media&token=ecd7f91f-44fc-4810-89d4-3476681ca9fd"
+  },
+  {
+    "semester": 5,
+    "code": "IT357",
+    "title": "Computer Architecture",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT357.pdf?alt=media&token=b38bf987-1fb3-4c88-a741-45f7392adaf7"
+  },
+  {
+    "semester": 5,
+    "code": "IT359",
+    "title": "Introduction to Database Systems",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT359.pdf?alt=media&token=35461e40-3b84-45d7-adea-9ff075c54b5a"
+  },
+  {
+    "semester": 5,
+    "code": "IT361",
+    "title": "Computer Vision and Applications",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT361.pdf?alt=media&token=9ce8f8b4-be74-423e-8672-5ec87cba2d69"
+  },
+  {
+    "semester": 6,
+    "code": "IT302",
+    "title": "Data Engineering and Analytics",
+    "credits": 4,
+    "Category": "DCC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT302.pdf?alt=media&token=d5e43549-26f5-46a9-876d-08fb7fc83523"
+  },
+  {
+    "semester": 6,
+    "code": "IT304",
+    "title": "Cyber Security",
+    "credits": 4,
+    "Category": "DCC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT304.pdf?alt=media&token=33d09c9d-7b9e-457c-9db0-c2b5863c749c"
+  },
+  {
+    "semester": 6,
+    "code": "SECXX",
+    "title": "Fundamentals of Mgmt./Engg. Economics",
+    "credits": 3,
+    "Category": "SEC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/SECXX.pdf"
+  },
+  {
+    "semester": 6,
+    "code": "IT308",
+    "title": "Distributed and Cloud Computing",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT308.pdf?alt=media&token=b7e4ae41-c548-49bb-adb5-116485038bf2"
+  },
+  {
+    "semester": 6,
+    "code": "IT310",
+    "title": "Pattern Recognition",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT310.pdf?alt=media&token=c846b11e-e482-4706-b3dc-da8846bea499"
+  },
+  {
+    "semester": 6,
+    "code": "IT312",
+    "title": "Secure Coding",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT312.pdf?alt=media&token=6b76f6bb-fc04-46fc-b99e-343272d4ee58"
+  },
+  {
+    "semester": 6,
+    "code": "IT314",
+    "title": "Wireless Ad hoc Mobile Networks",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT314.pdf"
+  },
+  {
+    "semester": 6,
+    "code": "IT316",
+    "title": "Blockchain Technology",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT316.pdf?alt=media&token=917addf1-5cf8-43e2-b916-6ab5b471631e"
+  },
+  {
+    "semester": 6,
+    "code": "IT318",
+    "title": "Digital Image Processing",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT318.pdf?alt=media&token=781cac08-d4cc-4fe0-9607-235bced3cf80"
+  },
+  {
+    "semester": 6,
+    "code": "IT320",
+    "title": "Natural Language Processing",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT320.pdf?alt=media&token=e3de327f-2435-4f71-98c7-49cc2768061e"
+  },
+  {
+    "semester": 6,
+    "code": "IT322",
+    "title": "Cyber and Digital Forensics",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT322.pdf"
+  },
+  {
+    "semester": 6,
+    "code": "IT324",
+    "title": "Computer Vision",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT324.pdf?alt=media&token=1bcd6d2f-e6bb-4d5d-b753-d09384fb8c9e"
+  },
+  {
+    "semester": 6,
+    "code": "IT326",
+    "title": "Artificial Intelligence",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT326.pdf?alt=media&token=99ddb0ae-765a-4815-8957-2db9395a9c2d"
+  },
+  {
+    "semester": 6,
+    "code": "IT328",
+    "title": "Software Testing",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT328.pdf?alt=media&token=2edead4f-d6aa-478a-8983-df9ab2643612"
+  },
+  {
+    "semester": 6,
+    "code": "IT330",
+    "title": "Competitive Programming",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT330.pdf?alt=media&token=66df2690-a712-46db-a156-badf14d267e7"
+  },
+  {
+    "semester": 6,
+    "code": "IT352",
+    "title": "Deep Learning Applications",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT352.pdf"
+  },
+  {
+    "semester": 6,
+    "code": "IT354",
+    "title": "Introduction to JAVA programming",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT354.pdf"
+  },
+  {
+    "semester": 6,
+    "code": "IT356",
+    "title": "Operating System Principles",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT356.pdf?alt=media&token=69a20238-807f-4364-a8f4-a0171e85cdcb"
+  },
+  {
+    "semester": 6,
+    "code": "IT358",
+    "title": "Data Analysis using R",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT358.pdf"
+  },
+  {
+    "semester": 6,
+    "code": "IT360",
+    "title": "Dependable Machine Learning",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT360.pdf?alt=media&token=5c17acac-65f0-41c7-a08d-641df59c6754"
+  },
+  {
+    "semester": 6,
+    "code": "IT362",
+    "title": "Embedded Systems",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT362.pdf?alt=media&token=0fa5aaf4-4020-4230-b7ba-9144b81e8c80"
+  },
+  {
+    "semester": 7,
+    "code": "IT401",
+    "title": "B.Tech Project-I",
+    "credits": 4,
+    "Category": "DCC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT401.pdf"
+  },
+  {
+    "semester": 7,
+    "code": "IT403",
+    "title": "Internship",
+    "credits": 2,
+    "Category": "DCC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT403.pdf"
+  },
+  {
+    "semester": 7,
+    "code": "IT425",
+    "title": "Social Networks",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT425.pdf"
+  },
+  {
+    "semester": 7,
+    "code": "IT427",
+    "title": "Intrusion Detection and Info. Warfare",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT427.pdf"
+  },
+  {
+    "semester": 7,
+    "code": "IT405",
+    "title": "High Performance Computing",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT405.pdf?alt=media&token=ab93480a-92ba-4abb-8850-df21097ba927"
+  },
+  {
+    "semester": 7,
+    "code": "IT407",
+    "title": "High Speed Networks",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT407.pdf?alt=media&token=86926308-3991-4a08-8dbd-375e3ee61743"
+  },
+  {
+    "semester": 7,
+    "code": "IT409",
+    "title": "Information Security and Audit",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT409.pdf?alt=media&token=c3585b2e-d58f-4afc-8a85-c62c158f0e5e"
+  },
+  {
+    "semester": 7,
+    "code": "IT411",
+    "title": "Multimedia System Design",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT411.pdf?alt=media&token=b172d5c3-e2a1-4c00-9432-33fc51eb3403"
+  },
+  {
+    "semester": 7,
+    "code": "IT413",
+    "title": "Multimodal Data Processing",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT413.pdf"
+  },
+  {
+    "semester": 7,
+    "code": "IT415",
+    "title": "Big Data Analysis",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT415.pdf?alt=media&token=5825d5ba-a97a-4284-996b-699d5be8b682"
+  },
+  {
+    "semester": 7,
+    "code": "IT417",
+    "title": "Mobile and Digital Forensics",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT417.pdf?alt=media&token=8601ea65-d7a1-4b6d-b969-248b93532904"
+  },
+  {
+    "semester": 7,
+    "code": "IT419",
+    "title": "Soft Computing",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT419.pdf?alt=media&token=f8a87dcf-62d7-4e10-886c-d236c4ed68a4"
+  },
+  {
+    "semester": 7,
+    "code": "IT421",
+    "title": "Augmented Reality & Virtual Reality",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT421.pdf?alt=media&token=b6620685-1f0a-47be-9a20-22d5cd1e3bf0"
+  },
+  {
+    "semester": 7,
+    "code": "IT423",
+    "title": "Enterprise JAVA",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT423.pdf?alt=media&token=8df5baac-fa53-4427-a914-cd0a068d268d"
+  },
+  {
+    "semester": 7,
+    "code": "IT451",
+    "title": "Intro. to Cyber and Physical Systems",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT451.pdf"
+  },
+  {
+    "semester": 7,
+    "code": "IT453",
+    "title": "Data Warehousing and Data Mining",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT453.pdf?alt=media&token=9edf696a-f82d-42bf-8121-f8b9a2f6a97e"
+  },
+  {
+    "semester": 7,
+    "code": "IT455",
+    "title": "Game Theory",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT455.pdf?alt=media&token=594a0d44-91df-46ad-bc82-6ac191869871"
+  },
+  {
+    "semester": 7,
+    "code": "IT457",
+    "title": "Information Theory and Coding",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT457.pdf"
+  },
+  {
+    "semester": 7,
+    "code": "IT459",
+    "title": "Pattern Recognition and Applications",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT459.pdf?alt=media&token=aad46a8e-9f01-4374-b10d-0d2ed56a9e1b"
+  },
+  {
+    "semester": 7,
+    "code": "IT461",
+    "title": "Grid and Cluster Computing",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT461.pdf?alt=media&token=87147022-93a5-4bc7-86a4-cac29912a4bc"
+  },
+  {
+    "semester": 7,
+    "code": "VACXX",
+    "title": "Indian Knowledge Systems",
+    "credits": "NC",
+    "Category": "VAC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/VACXX.pdf"
+  },
+  {
+    "semester": 8,
+    "code": "IT402",
+    "title": "B.Tech Project-II",
+    "credits": 8,
+    "Category": "DCC",
+    "type": "Mandatory",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT402.pdf"
+  },
+  {
+    "semester": 8,
+    "code": "IT414",
+    "title": "Speech & Natural Lang. Understanding",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT414.pdf"
+  },
+  {
+    "semester": 8,
+    "code": "IT404",
+    "title": "Ethical Hacking",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT404.pdf?alt=media&token=4e74294e-14a4-4928-a6e2-058a7f81c98e"
+  },
+  {
+    "semester": 8,
+    "code": "IT406",
+    "title": "Quantum Computing",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT406.pdf?alt=media&token=bcaf641f-23ea-4a6f-bde9-db2faeb88be5"
+  },
+  {
+    "semester": 8,
+    "code": "IT408",
+    "title": "GPU Computing",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT408.pdf?alt=media&token=d4a6ed91-6947-43ba-b82d-d07702962bc2"
+  },
+  {
+    "semester": 8,
+    "code": "IT410",
+    "title": "Autonomous Systems and Robotics",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT410.pdf"
+  },
+  {
+    "semester": 8,
+    "code": "IT412",
+    "title": "Semantic Web and Web Mining",
+    "credits": 4,
+    "Category": "DEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT412.pdf"
+  },
+  {
+    "semester": 8,
+    "code": "IT452",
+    "title": "Mobile Application Development",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT452.pdf?alt=media&token=78551439-fbb4-4b9f-9c4e-094ffb67fedc"
+  },
+  {
+    "semester": 8,
+    "code": "IT454",
+    "title": "Edge and Fog Computing",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT454.pdf?alt=media&token=72c4ecc9-da98-4c32-a73b-7bdfcb9e20bd"
+  },
+  {
+    "semester": 8,
+    "code": "IT456",
+    "title": "Cognitive Computing",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT456.pdf?alt=media&token=bc6a3cd6-a2aa-4529-97ad-8baef3cc1464"
+  },
+  {
+    "semester": 8,
+    "code": "IT458",
+    "title": "Neuromorphic Computing",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT458.pdf?alt=media&token=5b5016e8-3996-4811-b73e-2ac51fa91581"
+  },
+  {
+    "semester": 8,
+    "code": "IT460",
+    "title": "Optimization Techniques",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT460.pdf?alt=media&token=89e71603-cd14-46e5-a2d5-57d1235511fe"
+  },
+  {
+    "semester": 8,
+    "code": "IT462",
+    "title": "Pervasive and Ubiquitous Computing",
+    "credits": 4,
+    "Category": "GEC",
+    "type": "Elective",
+    "branch": "IT",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT462.pdf?alt=media&token=50b4f355-801f-440b-8dd7-ff65b0678fc3"
+  }
+]

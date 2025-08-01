@@ -107,14 +107,24 @@
                 <option value="4">Sem IV</option>
                 <option value="5">Sem V</option>
                 <option value="6">Sem VI</option>
+                <option value="7">Sem VII</option>
+                <option value="8">Sem VIII</option>
             </select>
         </div>
     </div>
         <div class="col-md-4 d-flex justify-content-md-end justify-content-start mt-2 mt-md-0"> <div class="d-flex align-items-center gap-2"> <label for="semToggle" class="mb-0 fw-semibold">Change Branch:</label>
             <select id="branchToggle" class="form-select form-select-sm w-auto">
-                <option value="CO">Computer Science(CS)</option>
-                <option value="IT">Information Technology(IT)</option>
-                <option value="SE">Sofware Engineering(SE)</option>
+            <option  value="CO">Computer Science (CS)</option>
+            <option  value="IT">Information Technology (IT)</option>
+            <option  value="SE">Software Engineering (SE)</option>
+            <option  value="MC">Mathematics & Computing (MNC)</option>
+            <option  value="EC">Electronics & Communication (ECE)</option>
+            <option  value="EE">Electrical Engineering (EE)</option>
+            <option  value="ME">Mechanical Engineering (ME)</option>
+            <option  value="AE">Automobile Engineering (AE)</option>
+            <option  value="EP">Engineering Physics (EP)</option>
+            <option  value="CE">Civil Engineering (CE)</option>
+            <option  value="BT">Biotechnology (BT)</option>
             </select>
         </div>
     </div>
@@ -168,9 +178,18 @@
                 <div class="col-md-4">
                     <label class="form-label">Branch</label>
                     <select id="filterBranch" class="form-select">
-                        <option value="CO">Computer Science(CS)</option>
-                        <option value="IT">Information Technology(IT)</option>
-                        <option value="SE">Sofware Engineering(SE)</option>
+            <option value="">All Branches</option>
+            <option  value="CO">Computer Science (CS)</option>
+            <option  value="IT">Information Technology (IT)</option>
+            <option  value="SE">Software Engineering (SE)</option>
+            <option  value="MC">Mathematics & Computing (MNC)</option>
+            <option  value="EC">Electronics & Communication (ECE)</option>
+            <option  value="EE">Electrical Engineering (EE)</option>
+            <option  value="ME">Mechanical Engineering (ME)</option>
+            <option  value="AE">Automobile Engineering (AE)</option>
+            <option  value="EP">Engineering Physics (EP)</option>
+            <option  value="CE">Civil Engineering (CE)</option>
+            <option  value="BT">Biotechnology (BT)</option>
 
                     </select>
                 </div>
@@ -190,7 +209,7 @@
 
                 <div class="col-md-4">
                     <label class="form-label">Keyword</label>
-                    <input id="searchKeyword" class="form-control" placeholder="e.g. AI, Data, Cloud">
+                    <input id="searchKeyword" class="form-control" placeholder="e.g. AI, Data, Cloud" oninput="filterSubjects()">
                 </div>
             </div>
             <button class="btn btn-primary mt-3 custom-sem-btn" onclick="filterSubjects()">Search</button>

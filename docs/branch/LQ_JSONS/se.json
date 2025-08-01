@@ -1,0 +1,764 @@
+[
+  {
+    "code": "AM101",
+    "title": "Mathematics-I",
+    "Category": "BSC",
+    "MTE": 25,
+    "ETE": 50,
+    "type": "Mandatory",
+    "semester": 1,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAM101.pdf?alt=media&token=a5dbdf66-4634-4fe8-81f1-3553890fc159"
+  },
+  {
+    "code": "AP101",
+    "title": "Physics",
+    "Category": "BSC",
+    "MTE": 25,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 1,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAP101.pdf?alt=media&token=c59cc1ef-034d-476b-a00e-c37ff142f267"
+  },
+  {
+    "code": "EC101",
+    "title": "Basic Electronics & Communication Engineering",
+    "Category": "ESC",
+    "MTE": 25,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 1,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FEC101.pdf?alt=media&token=83698373-b94f-4da3-b21d-daf5a30f3e46"
+  },
+  {
+    "code": "EE101",
+    "title": "Basic Electrical Engineering-I",
+    "Category": "ESC",
+    "MTE": 25,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 1,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FEE101.pdf?alt=media&token=9b092b75-dad5-4002-9cf1-e17ae289a733"
+  },
+  {
+    "code": "SE103",
+    "title": "Computer Workshop-I",
+    "Category": "SEC",
+    "MTE": 0,
+    "ETE": 0,
+    "type": "Mandatory",
+    "semester": 1,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE103.pdf?alt=media&token=2960efbf-7f16-4b7a-8d9d-9c97fb9bd7c8"
+  },
+  {
+    "code": "AM102",
+    "title": "Mathematics-II",
+    "Category": "BSC",
+    "MTE": 25,
+    "ETE": 50,
+    "type": "Mandatory",
+    "semester": 2,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAM102.pdf?alt=media&token=745578d1-7c38-4ae5-a5be-a325ae5ae4ed"
+  },
+  {
+    "code": "CO102",
+    "title": "Programming Fundamentals",
+    "Category": "ESC",
+    "MTE": 25,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 2,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FCO102.pdf?alt=media&token=f9ff451a-9405-44f2-8e4d-6baae237f595"
+  },
+  {
+    "code": "SE102",
+    "title": "Fundamentals of Computers",
+    "Category": "ESC",
+    "MTE": 25,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 2,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE102.pdf?alt=media&token=886c78a1-54af-4f93-900d-4c30aeeea2e9"
+  },
+  {
+    "code": "SE104",
+    "title": "Fundamentals of Software Engineering",
+    "Category": "DCC",
+    "MTE": 25,
+    "ETE": 50,
+    "type": "Mandatory",
+    "semester": 2,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE104.pdf?alt=media&token=9132e5fb-6752-4b66-bbe6-dc7318348d60"
+  },
+  {
+    "code": "SE106",
+    "title": "Computer Workshop-II",
+    "Category": "SEC",
+    "MTE": null,
+    "ETE": null,
+    "type": "Mandatory",
+    "semester": 2,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE106.pdf?alt=media&token=87c1888b-9140-4ad0-8e66-594581f0403a"
+  },
+  {
+    "code": "SE201",
+    "title": "Digital Systems & Design",
+    "Category": "ESC",
+    "MTE": 25,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 3,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE201.pdf?alt=media&token=b127522f-d96d-4277-ade7-a9da23c5306b"
+  },
+  {
+    "code": "SE203",
+    "title": "Data Structures",
+    "Category": "DCC",
+    "MTE": 25,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 3,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE203.pdf?alt=media&token=ba65df89-28dc-4ad0-846b-0b6afcc1bd8c"
+  },
+  {
+    "code": "SE205",
+    "title": "Object-Oriented Programming",
+    "Category": "DCC",
+    "MTE": 25,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 3,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE205.pdf?alt=media&token=4751ecf0-da65-4e5b-a8c2-88f1048f6a57"
+  },
+  {
+    "code": "SE207",
+    "title": "Operating System",
+    "Category": "DCC",
+    "MTE": 25,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 3,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE207.pdf?alt=media&token=c09cb2d8-0a53-42ac-8dc1-4e27c84edc16"
+  },
+  {
+    "code": "SE209",
+    "title": "Software Engineering Methodologies",
+    "Category": "DCC",
+    "MTE": 25,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 3,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE209.pdf?alt=media&token=46fec9e1-b0b7-4747-a892-4c1d63ab98b7"
+  },
+  {
+    "code": "SE202",
+    "title": "Computer System Architecture",
+    "Category": "ESC",
+    "MTE": 25,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 4,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE202.pdf?alt=media&token=46bd6077-b927-4991-bb25-84ed0964b0a7"
+  },
+  {
+    "code": "SE204",
+    "title": "Object-Oriented Software Engineering",
+    "Category": "DCC",
+    "MTE": 25,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 4,
+    "branch": "SE",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/SE204.pdf"
+  },
+  {
+    "code": "SE206",
+    "title": "Machine Learning",
+    "Category": "DCC",
+    "MTE": 25,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 4,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE206.pdf?alt=media&token=f20e2bc8-8d6a-4d82-8250-cdae4f6dd546"
+  },
+  {
+    "code": "SE208",
+    "title": "Database Management Systems",
+    "Category": "DCC",
+    "MTE": 25,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 4,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE208.pdf?alt=media&token=97b3ce40-b5c4-4eea-8e67-71d80ae50dbe"
+  },
+  {
+    "code": "MSE210",
+    "title": "Algorithm Design and Analysis",
+    "Category": "DCC",
+    "MTE": 25,
+    "ETE": 50,
+    "type": "Mandatory",
+    "semester": 4,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMSE210.pdf?alt=media&token=979d0c2d-1631-421d-9b3e-a59ec9349890"
+  },
+  {
+    "code": "SE301",
+    "title": "Software Testing",
+    "Category": "DCC",
+    "MTE": 20,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE301.pdf?alt=media&token=d5f1ed9e-e0a7-4496-839c-29a44bc62e80"
+  },
+  {
+    "code": "SE303",
+    "title": "Software Quality and Metrics",
+    "Category": "DCC",
+    "MTE": 20,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE303.pdf?alt=media&token=83673d2c-414e-41fe-b69b-58fa012c7a98"
+  },
+  {
+    "code": "SE305",
+    "title": "Computer Networks",
+    "Category": "DCC",
+    "MTE": 20,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE305.pdf?alt=media&token=60e9d355-6905-480c-849c-b70b805e8fce"
+  },
+  {
+    "code": "HU301",
+    "title": "Engineering Economics / Fundamentals of Management",
+    "Category": "SEC",
+    "MTE": 25,
+    "ETE": 50,
+    "type": "Mandatory",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FHU301.pdf?alt=media&token=6c5a4354-e5ff-4484-a9a7-3f2b7ed1798c"
+  },
+  {
+    "code": "SE302",
+    "title": "Empirical Software Engineering",
+    "Category": "DCC",
+    "MTE": 20,
+    "ETE": 40,
+    "type": "Mandatory",
+    "semester": 6,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE302.pdf?alt=media&token=ef505941-864c-42cc-a58e-612558737527"
+  },
+  {
+    "code": "SE304",
+    "title": "Compiler Design",
+    "Category": "DCC",
+    "MTE": 25,
+    "ETE": 50,
+    "type": "Mandatory",
+    "semester": 6,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE304.pdf?alt=media&token=43af1d54-31b2-4cf1-9f53-91245c8234ac"
+  },
+  {
+    "code": "HU302",
+    "title": "Fundamentals of Management / Engineering Economics",
+    "Category": "SEC",
+    "MTE": 25,
+    "ETE": 50,
+    "type": "Mandatory",
+    "semester": 6,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FHU302.pdf?alt=media&token=1d781bd8-4c90-4e3c-90e3-7128a6400d1a"
+  },
+  {
+    "code": "SE401",
+    "title": "B. Tech Project-I",
+    "Category": "DCC",
+    "MTE": 0,
+    "ETE": 0,
+    "type": "Mandatory",
+    "semester": 7,
+    "branch": "SE",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/SE401.pdf"
+  },
+  {
+    "code": "SE403",
+    "title": "Internship",
+    "Category": "DCC",
+    "MTE": 0,
+    "ETE": 0,
+    "type": "Mandatory",
+    "semester": 7,
+    "branch": "SE",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/SE403.pdf"
+  },
+  {
+    "code": "SE402",
+    "title": "B. Tech Project-II",
+    "Category": "DCC",
+    "MTE": 0,
+    "ETE": 0,
+    "type": "Mandatory",
+    "semester": 8,
+    "branch": "SE",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/SE402.pdf"
+  },
+  {
+    "code": "SE307",
+    "title": "Software Requirement Engineering",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE307.pdf?alt=media&token=ed1f09e9-f737-4a1e-8970-960d9416b5b1"
+  },
+  {
+    "code": "SE309",
+    "title": "Computer Graphics",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE309.pdf?alt=media&token=9c73ff61-a56f-4096-8602-de49f69537e9"
+  },
+  {
+    "code": "SE311",
+    "title": "Information Theory and Coding",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE311.pdf?alt=media&token=714881f1-e378-4afe-b9f7-bdf2bb55a9f4"
+  },
+  {
+    "code": "SE313",
+    "title": "Digital Signal Processing",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE313.pdf?alt=media&token=884fb2d4-da91-4f80-be5b-d88f7a809f8b"
+  },
+  {
+    "code": "SE315",
+    "title": "Advanced Data Structures",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE315.pdf?alt=media&token=de90625c-176a-43b9-9af2-c578da5fc6a9"
+  },
+  {
+    "code": "SE317",
+    "title": "Discrete Structures",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE317.pdf?alt=media&token=1ff96202-b4a8-4940-83a8-a2eb62dea039"
+  },
+  {
+    "code": "SE319",
+    "title": "Distributed Systems",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE319.pdf?alt=media&token=7c2613ea-0330-4b8b-8ad3-c0d7afe7fe78"
+  },
+  {
+    "code": "SE321",
+    "title": "Soft Computing",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE321.pdf?alt=media&token=0ee97c59-f4b3-42f9-b926-5963f138273b"
+  },
+  {
+    "code": "SE323",
+    "title": "Artificial Intelligence",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE323.pdf?alt=media&token=d4cb83d4-b716-4a73-9847-c059b2a9b01d"
+  },
+  {
+    "code": "SE325",
+    "title": "Theory of Computation",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE325.pdf?alt=media&token=9fd861c0-b442-4d5b-8041-4bb730137a16"
+  },
+  {
+    "code": "SE327",
+    "title": "Web Technology",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE327.pdf?alt=media&token=06300e30-4d76-432c-9dd8-0ddc773c059b"
+  },
+  {
+    "code": "SE329",
+    "title": "Methods for Data Analysis",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE329.pdf?alt=media&token=b2ce9810-de1f-43a0-bab8-1fe5daad0b95"
+  },
+  {
+    "code": "SE331",
+    "title": "Predictive Analytics",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE331.pdf?alt=media&token=b4115517-ddf1-48aa-8687-3254017a1917"
+  },
+  {
+    "code": "SE333",
+    "title": "Artificial Intelligence for Sports",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE333.pdf?alt=media&token=13cf8e7e-8686-4b88-adce-830605459254"
+  },
+  {
+    "code": "SE335",
+    "title": "Minor Project (Only for students who opt for Minor)",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 5,
+    "branch": "SE",
+    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/SE335.pdf"
+  },
+  {
+    "code": "SE306",
+    "title": "Software Reliability",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 6,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE306.pdf?alt=media&token=14e57c79-a7fe-4729-8238-cca2efcb00b9"
+  },
+  {
+    "code": "SE308",
+    "title": "Multimedia Systems",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 6,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE308.pdf?alt=media&token=7e59dfcc-e2ad-4c29-beb5-47c1b2760951"
+  },
+  {
+    "code": "SE310",
+    "title": "Parallel Computer Architecture",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 6,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE310.pdf?alt=media&token=40b7dce2-d758-4026-8ad8-3c362152d61d"
+  },
+  {
+    "code": "SE312",
+    "title": "Introduction to Health Care Analytics",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 6,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE312.pdf?alt=media&token=b4d64778-a87e-40b7-9750-cbeb72563f31"
+  },
+  {
+    "code": "SE314",
+    "title": "Natural Language Processing",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 6,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE314.pdf?alt=media&token=72d93f84-ea93-4300-b8e7-25176d595be6"
+  },
+  {
+    "code": "SE316",
+    "title": "Advanced Database Management Systems",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 6,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE316.pdf?alt=media&token=c1fd89fb-cce2-4d2f-ab42-ffa11c2e3acc"
+  },
+  {
+    "code": "SE318",
+    "title": "Data Compression",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 6,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE318.pdf?alt=media&token=20281710-6f03-4555-982f-a577c8e2b359"
+  },
+  {
+    "code": "SE320",
+    "title": "Real Time Systems",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 6,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE320.pdf?alt=media&token=95c5f3a1-90f7-4916-9a8a-bb247102d03c"
+  },
+  {
+    "code": "SE322",
+    "title": "Parallel Algorithms",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 6,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE322.pdf?alt=media&token=e6276efe-fa99-403b-b859-afc786756117"
+  },
+  {
+    "code": "SE324",
+    "title": "Probability and Statistics",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 6,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE324.pdf?alt=media&token=6dbcce74-2bb9-483b-8a8f-663f3ea08a8f"
+  },
+  {
+    "code": "SE326",
+    "title": "Artificial Intelligence for Sports Surfaces and Equipments",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 6,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE326.pdf?alt=media&token=40db17c9-c948-42a8-876e-91bbe1a3c95f"
+  },
+  {
+    "code": "SE328",
+    "title": "Sports Business Analytics",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 6,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE328.pdf?alt=media&token=a29e474e-4427-4af9-afbd-69485a81c013"
+  },
+  {
+    "code": "SE405",
+    "title": "Software Maintenance",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 7,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE405.pdf?alt=media&token=cf4ada3d-4292-44de-98e5-47b6af293cd8"
+  },
+  {
+    "code": "SE407",
+    "title": "Deep Learning",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 7,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE407.pdf?alt=media&token=b31e1923-594d-4da6-aee6-0b1c83915e2d"
+  },
+  {
+    "code": "SE409",
+    "title": "Grid and Cluster Computing",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 7,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE409.pdf?alt=media&token=87e2c1af-3017-4c6d-be60-dcb25977e710"
+  },
+  {
+    "code": "SE411",
+    "title": "Pattern Recognition",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 7,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE411.pdf?alt=media&token=da0e3648-8dd6-4157-a207-f726124b3b56"
+  },
+  {
+    "code": "SE413",
+    "title": "Agile Software Process",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 7,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE413.pdf?alt=media&token=4697687a-6ad1-4363-a48a-45976fdfa196"
+  },
+  {
+    "code": "SE415",
+    "title": "Cyber-Forensics",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 7,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE415.pdf?alt=media&token=f742a208-76cb-4fd5-944b-d837c46c4081"
+  },
+  {
+    "code": "SE417",
+    "title": "Robotics",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 7,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE417.pdf?alt=media&token=ebd3ffa9-60da-4b94-950c-b9ea16d41c66"
+  },
+  {
+    "code": "SE419",
+    "title": "Wireless and Mobile Computing",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 7,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE419.pdf?alt=media&token=480bb399-8483-4b11-987e-251d31666123"
+  },
+  {
+    "code": "SE421",
+    "title": "Intellectual Property Rights and Cyber Laws",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 7,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE421.pdf?alt=media&token=7f48ccad-31c3-4133-80e3-c4e5e1c461dc"
+  },
+  {
+    "code": "SE423",
+    "title": "Software Project Management",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 7,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE423.pdf?alt=media&token=3c37ea1f-8886-4cd2-bbfe-378e0b15e323"
+  },
+  {
+    "code": "SE425",
+    "title": "Data Warehouse and Data Mining",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 7,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE425.pdf?alt=media&token=894ea899-37ea-4a1a-a581-036051b2a90b"
+  },
+  {
+    "code": "SE427",
+    "title": "Data Management and Ethics",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 7,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE427.pdf?alt=media&token=cb8e90bf-d396-4036-8585-e038e52afdc9"
+  },
+  {
+    "code": "SE429",
+    "title": "GPU Computing",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 7,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE429.pdf?alt=media&token=cd5abb5b-e94a-49fc-a69a-affdbd724675"
+  },
+  {
+    "code": "SE431",
+    "title": "Data Security and Privacy",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 7,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE431.pdf?alt=media&token=23e443e1-2a41-478b-9d2e-7eb8d3b9ac33"
+  },
+  {
+    "code": "SE433",
+    "title": "Quantum Computing",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 7,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE433.pdf?alt=media&token=1d9b9b60-2660-4600-8828-6d5e40c3e150"
+  },
+  {
+    "code": "SE404",
+    "title": "Advances in Software Engineering",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 8,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE404.pdf?alt=media&token=1d04e2cd-a698-4dfe-adb8-9b21af56a5c9"
+  },
+  {
+    "code": "SE406",
+    "title": "Information and Network Security",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 8,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE406.pdf?alt=media&token=f26b5660-9cf9-4783-bfd0-91487c69a27e"
+  },
+  {
+    "code": "SE408",
+    "title": "Swarm and Evolutionary Computing",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 8,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE408.pdf?alt=media&token=0af587a7-c44f-4925-a670-4072d5a54e24"
+  },
+  {
+    "code": "SE410",
+    "title": "Semantic Web and Web Mining",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 8,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE410.pdf?alt=media&token=e22bb66e-1cf3-4b09-b0a0-a67e092da7ce"
+  },
+  {
+    "code": "SE412",
+    "title": "Cloud Computing",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 8,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE412.pdf?alt=media&token=a25b03e1-cc1e-4234-b96d-8be5b76653e6"
+  },
+  {
+    "code": "SE414",
+    "title": "Big Data Analytics",
+    "Category": "DEC",
+    "type": "Elective",
+    "semester": 8,
+    "branch": "SE",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FSE414.pdf?alt=media&token=601859fb-0975-4f0b-a1c5-1ad9048d2049"
+  }
+]

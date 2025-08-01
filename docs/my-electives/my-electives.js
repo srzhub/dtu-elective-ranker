@@ -1,6 +1,6 @@
 // Fetch data from json file
 let allSubjects = []; 
-fetch("../CS Semester/combined.json")
+fetch("LQ_syllabi.json")
   .then(res => res.json())
   .then(data => {
     allSubjects = data;
@@ -14,7 +14,7 @@ function filterSubjects() {
   const keyword = document.getElementById("searchKeyword").value.toLowerCase();
 
   const filtered = allSubjects.filter(subj => {
-    const matchesBranch = subj.branch === branch;
+    const matchesBranch = !branch || subj.branch === branch;
     const matchesSem = !semester || subj.semester == semester;
     const matchesKeyword = subj.title.toLowerCase().includes(keyword);
     return matchesBranch && matchesSem && matchesKeyword;
@@ -35,6 +35,7 @@ function filterSubjects() {
     tbody.appendChild(tr);
   });
 }
+
 //Add electives
 function addElective(subject) {
   let saved = JSON.parse(localStorage.getItem("myElectives") || "[]");
@@ -82,7 +83,7 @@ function renderElectives() {
     const tr = document.createElement("tr");
     const hasPdf = subj.pdf && subj.pdf.trim() !== "";
     const syllabusIcon = hasPdf ? `
-      <button class="btn btn-sm btn-outline-secondary" onclick="openSyllabusModal('../CS Semester/${subj.pdf}')" title="View Syllabus">
+      <button class="btn btn-sm btn-outline-secondary" onclick="openSyllabusModal('${subj.pdf}')" title="View Syllabus">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi" viewBox="0 0 16 16">
           <path d="M5 7h6v1H5V7zm0 2h6v1H5V9z"/>
           <path d="M14 4.5V14a2 2 0 0 1-2 2H4a2 
