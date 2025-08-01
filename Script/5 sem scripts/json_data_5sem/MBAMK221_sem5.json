@@ -1,0 +1,25 @@
+{
+  "code": "MBAMK221",
+  "name": "Marketing Of Services",
+  "semester": 5.0,
+  "count": 16,
+  "avg_grade": 8.25,
+  "gradeCounts": {
+    "10": 1,
+    "9": 5,
+    "8": 9,
+    "7": 0,
+    "6": 0,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 8.0,
+    "BT": 9.0,
+    "EE": 8.67,
+    "MC": 7.67,
+    "ME": 8.0,
+    "PE": 8.0,
+    "SE": 8.0
+  }
+}

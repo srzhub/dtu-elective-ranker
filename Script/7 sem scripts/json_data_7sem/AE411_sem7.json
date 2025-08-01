@@ -1,0 +1,27 @@
+{
+  "code": "AE411",
+  "name": "Vehicle Maintenance And Tribology",
+  "semester": 7.0,
+  "count": 71,
+  "avg_grade": 7.507,
+  "gradeCounts": {
+    "10": 1,
+    "9": 7,
+    "8": 26,
+    "7": 31,
+    "6": 5,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 7.21,
+    "CS": 7.0,
+    "EC": 7.0,
+    "EE": 7.75,
+    "EP": 7.0,
+    "MC": 7.67,
+    "ME": 8.06,
+    "PE": 8.0,
+    "SE": 8.5
+  }
+}

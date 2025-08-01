@@ -1,0 +1,26 @@
+{
+  "code": "CE309",
+  "name": "Environmental Engineering Design",
+  "semester": 7.0,
+  "count": 15,
+  "avg_grade": 3.733,
+  "gradeCounts": {
+    "10": 0,
+    "9": 2,
+    "8": 0,
+    "7": 2,
+    "6": 4,
+    "5": 0,
+    "0": 7
+  },
+  "branchAverages": {
+    "CE": 9.0,
+    "CS": 4.67,
+    "EC": 0.0,
+    "EE": 7.0,
+    "IT": 2.0,
+    "ME": 0.0,
+    "PE": 0.0,
+    "SE": 6.0
+  }
+}

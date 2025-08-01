@@ -1,0 +1,31 @@
+{
+  "code": "CH307",
+  "name": "Petroleum Refining Engineering",
+  "semester": 7.0,
+  "count": 62,
+  "avg_grade": 8.597,
+  "gradeCounts": {
+    "10": 15,
+    "9": 23,
+    "8": 18,
+    "7": 2,
+    "6": 3,
+    "5": 0,
+    "0": 1
+  },
+  "branchAverages": {
+    "BT": 9.0,
+    "CE": 8.5,
+    "CH": 7.93,
+    "CS": 8.88,
+    "EC": 9.14,
+    "EE": 8.33,
+    "EN": 9.17,
+    "EP": 7.0,
+    "IT": 9.33,
+    "MC": 8.33,
+    "ME": 9.0,
+    "PE": 7.0,
+    "SE": 9.0
+  }
+}

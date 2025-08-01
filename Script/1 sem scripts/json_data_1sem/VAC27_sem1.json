@@ -1,0 +1,31 @@
+{
+  "code": "VAC27",
+  "name": "Introduction to Environmental Science",
+  "semester": 1.0,
+  "count": 165,
+  "avg_grade": 7.17,
+  "gradeCounts": {
+    "10": 9,
+    "9": 18,
+    "8": 43,
+    "7": 48,
+    "6": 26,
+    "5": 15,
+    "0": 1
+  },
+  "branchAverages": {
+    "AE": 8.0,
+    "BT": 6.08,
+    "CE": 7.0,
+    "CH": 8.0,
+    "CO": 8.33,
+    "EC": 7.67,
+    "EE": 9.5,
+    "EP": 7.25,
+    "IT": 7.14,
+    "MC": 7.29,
+    "ME": 7.03,
+    "PE": 7.56,
+    "SE": 6.63
+  }
+}

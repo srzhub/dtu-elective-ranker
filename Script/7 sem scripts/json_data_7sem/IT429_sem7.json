@@ -1,0 +1,22 @@
+{
+  "code": "IT429",
+  "name": "Cyber Laws",
+  "semester": 7.0,
+  "count": 86,
+  "avg_grade": 8.349,
+  "gradeCounts": {
+    "10": 10,
+    "9": 38,
+    "8": 31,
+    "7": 2,
+    "6": 1,
+    "5": 0,
+    "0": 2
+  },
+  "branchAverages": {
+    "CS": 8.55,
+    "IT": 8.28,
+    "MC": 8.5,
+    "SE": 8.0
+  }
+}

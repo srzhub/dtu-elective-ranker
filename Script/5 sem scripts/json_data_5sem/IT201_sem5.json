@@ -1,0 +1,25 @@
+{
+  "code": "IT201",
+  "name": "Data Structures",
+  "semester": 5.0,
+  "count": 71,
+  "avg_grade": 7.352,
+  "gradeCounts": {
+    "10": 8,
+    "9": 21,
+    "8": 12,
+    "7": 11,
+    "6": 9,
+    "5": 2,
+    "0": 4
+  },
+  "branchAverages": {
+    "AE": 6.5,
+    "CE": 7.29,
+    "CH": 4.8,
+    "EE": 8.27,
+    "EN": 5.0,
+    "ME": 7.45,
+    "PE": 6.57
+  }
+}

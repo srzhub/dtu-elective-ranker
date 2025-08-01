@@ -1,0 +1,19 @@
+{
+  "code": "SE301a",
+  "name": "Software Testing",
+  "semester": 5.0,
+  "count": 174,
+  "avg_grade": 7.948,
+  "gradeCounts": {
+    "10": 13,
+    "9": 62,
+    "8": 48,
+    "7": 27,
+    "6": 12,
+    "5": 10,
+    "0": 2
+  },
+  "branchAverages": {
+    "SE": 7.95
+  }
+}

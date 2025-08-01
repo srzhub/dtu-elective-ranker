@@ -1,0 +1,29 @@
+{
+  "code": "VAC25",
+  "name": "Value Driven Leadership",
+  "semester": 1.0,
+  "count": 71,
+  "avg_grade": 7.718,
+  "gradeCounts": {
+    "10": 7,
+    "9": 18,
+    "8": 23,
+    "7": 10,
+    "6": 7,
+    "5": 4,
+    "0": 2
+  },
+  "branchAverages": {
+    "AE": 6.0,
+    "CE": 7.6,
+    "CO": 7.86,
+    "EC": 8.0,
+    "EE": 7.0,
+    "EP": 8.0,
+    "IT": 8.0,
+    "MC": 7.75,
+    "ME": 7.25,
+    "PE": 9.0,
+    "SE": 8.0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "code": "EC455",
+  "name": "Data Analytics",
+  "semester": 7.0,
+  "count": 140,
+  "avg_grade": 7.207,
+  "gradeCounts": {
+    "10": 18,
+    "9": 19,
+    "8": 26,
+    "7": 28,
+    "6": 27,
+    "5": 12,
+    "0": 2
+  },
+  "branchAverages": {
+    "BT": 4.0,
+    "CS": 8.0,
+    "EC": 7.34,
+    "EE": 6.0,
+    "EP": 6.8,
+    "ME": 5.25
+  }
+}

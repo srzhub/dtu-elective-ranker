@@ -1,0 +1,20 @@
+{
+  "code": "EE407",
+  "name": "Measurement And Instrumentation",
+  "semester": 7.0,
+  "count": 32,
+  "avg_grade": 7.719,
+  "gradeCounts": {
+    "10": 5,
+    "9": 7,
+    "8": 6,
+    "7": 8,
+    "6": 5,
+    "5": 0,
+    "0": 1
+  },
+  "branchAverages": {
+    "AE": 0.0,
+    "EE": 7.97
+  }
+}

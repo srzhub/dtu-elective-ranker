@@ -1,0 +1,21 @@
+{
+  "code": "EE321a",
+  "name": "Soft Computing\nTechniques",
+  "semester": 7.0,
+  "count": 23,
+  "avg_grade": 8.13,
+  "gradeCounts": {
+    "10": 2,
+    "9": 10,
+    "8": 6,
+    "7": 2,
+    "6": 1,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "CS": 7.0,
+    "EC": 8.0,
+    "EE": 8.25
+  }
+}

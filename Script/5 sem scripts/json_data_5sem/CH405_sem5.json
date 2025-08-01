@@ -1,0 +1,23 @@
+{
+  "code": "CH405",
+  "name": "Fiber Technology",
+  "semester": 5.0,
+  "count": 38,
+  "avg_grade": 7.526,
+  "gradeCounts": {
+    "10": 5,
+    "9": 9,
+    "8": 5,
+    "7": 9,
+    "6": 7,
+    "5": 2,
+    "0": 1
+  },
+  "branchAverages": {
+    "CE": 8.0,
+    "CH": 7.74,
+    "MC": 7.0,
+    "ME": 6.0,
+    "co": 5.67
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "code": "VAC6",
+  "name": "Extension Outreach Activities",
+  "semester": 1.0,
+  "count": 77,
+  "avg_grade": 8.961,
+  "gradeCounts": {
+    "10": 18,
+    "9": 46,
+    "8": 12,
+    "7": 0,
+    "6": 0,
+    "5": 0,
+    "0": 1
+  },
+  "branchAverages": {
+    "BT": 9.0,
+    "CE": 8.75,
+    "CH": 8.0,
+    "CO": 9.38,
+    "EC": 9.33,
+    "EE": 9.0,
+    "EN": 9.0,
+    "EP": 9.67,
+    "IT": 9.4,
+    "MC": 9.11,
+    "ME": 9.2,
+    "PE": 9.0,
+    "SE": 7.43
+  }
+}

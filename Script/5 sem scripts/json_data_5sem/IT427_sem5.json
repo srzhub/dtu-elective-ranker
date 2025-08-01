@@ -1,0 +1,21 @@
+{
+  "code": "IT427",
+  "name": "Intrusion Detection And Information",
+  "semester": 5.0,
+  "count": 12,
+  "avg_grade": 8.333,
+  "gradeCounts": {
+    "10": 3,
+    "9": 4,
+    "8": 2,
+    "7": 2,
+    "6": 0,
+    "5": 0,
+    "0": 0
+  },
+  "branchAverages": {
+    "IT": 7.6,
+    "SE": 7.5,
+    "co": 9.4
+  }
+}

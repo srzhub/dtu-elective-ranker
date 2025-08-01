@@ -1,0 +1,29 @@
+{
+  "code": "MBAMK213",
+  "name": "Consumer Behaviour",
+  "semester": 7.0,
+  "count": 51,
+  "avg_grade": 7.333,
+  "gradeCounts": {
+    "10": 4,
+    "9": 10,
+    "8": 11,
+    "7": 10,
+    "6": 9,
+    "5": 4,
+    "0": 0
+  },
+  "branchAverages": {
+    "BT": 10.0,
+    "CE": 6.0,
+    "CS": 7.69,
+    "EC": 8.0,
+    "EE": 8.0,
+    "EP": 9.0,
+    "IT": 6.75,
+    "MC": 7.33,
+    "ME": 6.67,
+    "PE": 8.0,
+    "SE": 7.71
+  }
+}

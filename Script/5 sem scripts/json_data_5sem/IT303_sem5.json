@@ -1,0 +1,27 @@
+{
+  "code": "IT303",
+  "name": "Computer Networks",
+  "semester": 5.0,
+  "count": 175,
+  "avg_grade": 7.931,
+  "gradeCounts": {
+    "10": 19,
+    "9": 60,
+    "8": 46,
+    "7": 18,
+    "6": 14,
+    "5": 12,
+    "0": 1
+  },
+  "branchAverages": {
+    "AE": 6.0,
+    "CE": 8.0,
+    "CH": 4.0,
+    "EE": 8.67,
+    "EN": 6.5,
+    "IT": 7.97,
+    "MC": 8.31,
+    "ME": 7.25,
+    "PE": 7.33
+  }
+}

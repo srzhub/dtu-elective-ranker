@@ -1,0 +1,21 @@
+{
+  "code": "MC305",
+  "name": "Operations Research",
+  "semester": 5.0,
+  "count": 109,
+  "avg_grade": 7.294,
+  "gradeCounts": {
+    "10": 2,
+    "9": 16,
+    "8": 37,
+    "7": 29,
+    "6": 14,
+    "5": 8,
+    "0": 1
+  },
+  "branchAverages": {
+    "MC": 7.24,
+    "SE": 4.0,
+    "co": 8.38
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "code": "EN407",
+  "name": "Vibration Analysis & Control Of Noise Pollution",
+  "semester": 7.0,
+  "count": 65,
+  "avg_grade": 6.262,
+  "gradeCounts": {
+    "10": 2,
+    "9": 8,
+    "8": 9,
+    "7": 13,
+    "6": 14,
+    "5": 8,
+    "0": 4
+  },
+  "branchAverages": {
+    "CE": 6.5,
+    "CS": 7.8,
+    "EC": 7.4,
+    "EE": 7.29,
+    "EN": 5.25,
+    "EP": 6.0,
+    "IT": 8.5,
+    "MC": 6.5,
+    "ME": 2.0,
+    "PE": 4.0,
+    "SE": 4.38
+  }
+}

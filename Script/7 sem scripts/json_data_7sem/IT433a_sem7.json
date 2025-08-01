@@ -1,0 +1,22 @@
+{
+  "code": "IT433a",
+  "name": "Multi Modal Data Processing",
+  "semester": 7.0,
+  "count": 15,
+  "avg_grade": 8.467,
+  "gradeCounts": {
+    "10": 1,
+    "9": 6,
+    "8": 7,
+    "7": 1,
+    "6": 0,
+    "5": 0,
+    "0": 0
+  },
+  "branchAverages": {
+    "CS": 8.33,
+    "IT": 8.44,
+    "MC": 8.5,
+    "SE": 9.0
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "code": "SE323",
+  "name": "Theory Of Computation",
+  "semester": 5.0,
+  "count": 33,
+  "avg_grade": 7.424,
+  "gradeCounts": {
+    "10": 2,
+    "9": 8,
+    "8": 7,
+    "7": 7,
+    "6": 6,
+    "5": 0,
+    "0": 0
+  },
+  "branchAverages": {
+    "SE": 7.42
+  }
+}

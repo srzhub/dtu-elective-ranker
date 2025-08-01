@@ -1,0 +1,19 @@
+{
+  "code": "EP307",
+  "name": "Biophysics",
+  "semester": 7.0,
+  "count": 18,
+  "avg_grade": 6.778,
+  "gradeCounts": {
+    "10": 0,
+    "9": 2,
+    "8": 2,
+    "7": 7,
+    "6": 5,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "EP": 6.78
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "code": "AE317",
+  "name": "Power Units And",
+  "semester": 7.0,
+  "count": 21,
+  "avg_grade": 7.381,
+  "gradeCounts": {
+    "10": 1,
+    "9": 4,
+    "8": 6,
+    "7": 4,
+    "6": 3,
+    "5": 3,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 7.0,
+    "EP": 8.0,
+    "ME": 7.67,
+    "PE": 8.5
+  }
+}

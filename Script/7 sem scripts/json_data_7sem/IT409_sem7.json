@@ -1,0 +1,24 @@
+{
+  "code": "IT409",
+  "name": "Enterprise Java Programming",
+  "semester": 7.0,
+  "count": 35,
+  "avg_grade": 8.286,
+  "gradeCounts": {
+    "10": 6,
+    "9": 11,
+    "8": 9,
+    "7": 5,
+    "6": 4,
+    "5": 0,
+    "0": 0
+  },
+  "branchAverages": {
+    "CS": 7.0,
+    "EE": 8.0,
+    "EP": 6.0,
+    "IT": 8.58,
+    "MC": 9.0,
+    "SE": 7.75
+  }
+}

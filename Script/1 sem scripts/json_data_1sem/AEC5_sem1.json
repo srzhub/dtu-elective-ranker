@@ -1,0 +1,28 @@
+{
+  "code": "AEC5",
+  "name": "Communication Skills",
+  "semester": 1.0,
+  "count": 50,
+  "avg_grade": 7.64,
+  "gradeCounts": {
+    "10": 5,
+    "9": 18,
+    "8": 13,
+    "7": 8,
+    "6": 1,
+    "5": 0,
+    "0": 4
+  },
+  "branchAverages": {
+    "BT": 2.25,
+    "CE": 8.0,
+    "CH": 8.0,
+    "CO": 8.25,
+    "EE": 7.73,
+    "EP": 7.0,
+    "IT": 9.0,
+    "MC": 8.71,
+    "ME": 8.33,
+    "SE": 10.0
+  }
+}

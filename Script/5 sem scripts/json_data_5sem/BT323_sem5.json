@@ -1,0 +1,26 @@
+{
+  "code": "BT323",
+  "name": "Population Genetics",
+  "semester": 5.0,
+  "count": 79,
+  "avg_grade": 7.152,
+  "gradeCounts": {
+    "10": 3,
+    "9": 14,
+    "8": 19,
+    "7": 16,
+    "6": 15,
+    "5": 7,
+    "0": 0
+  },
+  "branchAverages": {
+    "BT": 7.25,
+    "CE": 6.8,
+    "EE": 7.67,
+    "EN": 5.5,
+    "IT": 5.0,
+    "MC": 6.83,
+    "ME": 10.0,
+    "SE": 5.0
+  }
+}

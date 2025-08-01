@@ -1,0 +1,19 @@
+{
+  "code": "EE429",
+  "name": "Power Electronics Application To Photo-Voltaic System",
+  "semester": 5.0,
+  "count": 14,
+  "avg_grade": 5.643,
+  "gradeCounts": {
+    "10": 0,
+    "9": 0,
+    "8": 3,
+    "7": 1,
+    "6": 3,
+    "5": 2,
+    "0": 0
+  },
+  "branchAverages": {
+    "EE": 5.64
+  }
+}

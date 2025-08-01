@@ -1,0 +1,24 @@
+{
+  "code": "CE307a",
+  "name": "Advanced Geo-Technical Engineering",
+  "semester": 5.0,
+  "count": 51,
+  "avg_grade": 6.314,
+  "gradeCounts": {
+    "10": 6,
+    "9": 7,
+    "8": 8,
+    "7": 8,
+    "6": 8,
+    "5": 3,
+    "0": 7
+  },
+  "branchAverages": {
+    "CE": 6.89,
+    "CH": 9.0,
+    "EN": 0.0,
+    "IT": 2.0,
+    "ME": 2.5,
+    "co": 6.3
+  }
+}

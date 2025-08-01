@@ -1,0 +1,26 @@
+{
+  "code": "CO203",
+  "name": "Object Oriented Programming",
+  "semester": 5.0,
+  "count": 83,
+  "avg_grade": 8.012,
+  "gradeCounts": {
+    "10": 8,
+    "9": 20,
+    "8": 29,
+    "7": 18,
+    "6": 7,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 9.5,
+    "BT": 7.54,
+    "CE": 7.75,
+    "CH": 7.33,
+    "EE": 8.54,
+    "EN": 7.25,
+    "ME": 8.0,
+    "PE": 7.86
+  }
+}

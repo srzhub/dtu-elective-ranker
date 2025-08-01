@@ -1,0 +1,24 @@
+{
+  "code": "ME409",
+  "name": "Mechatronics",
+  "semester": 7.0,
+  "count": 69,
+  "avg_grade": 7.971,
+  "gradeCounts": {
+    "10": 9,
+    "9": 14,
+    "8": 21,
+    "7": 18,
+    "6": 5,
+    "5": 2,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 6.8,
+    "EC": 9.0,
+    "EE": 7.0,
+    "IT": 8.67,
+    "ME": 8.05,
+    "PE": 8.0
+  }
+}

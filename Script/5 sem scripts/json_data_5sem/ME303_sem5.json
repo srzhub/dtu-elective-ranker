@@ -1,0 +1,19 @@
+{
+  "code": "ME303",
+  "name": "Dynamics Of Machines",
+  "semester": 5.0,
+  "count": 259,
+  "avg_grade": 6.958,
+  "gradeCounts": {
+    "10": 18,
+    "9": 30,
+    "8": 54,
+    "7": 63,
+    "6": 49,
+    "5": 25,
+    "0": 5
+  },
+  "branchAverages": {
+    "ME": 6.96
+  }
+}

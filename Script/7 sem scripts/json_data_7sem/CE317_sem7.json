@@ -1,0 +1,22 @@
+{
+  "code": "CE317",
+  "name": "Solid Waste Management & Air Pollution Control",
+  "semester": 7.0,
+  "count": 27,
+  "avg_grade": 6.667,
+  "gradeCounts": {
+    "10": 1,
+    "9": 2,
+    "8": 5,
+    "7": 9,
+    "6": 4,
+    "5": 5,
+    "0": 1
+  },
+  "branchAverages": {
+    "CE": 6.61,
+    "CS": 6.5,
+    "IT": 6.0,
+    "MC": 10.0
+  }
+}

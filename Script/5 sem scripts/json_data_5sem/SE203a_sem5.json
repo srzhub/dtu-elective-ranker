@@ -1,0 +1,24 @@
+{
+  "code": "SE203a",
+  "name": "Data Structures",
+  "semester": 5.0,
+  "count": 29,
+  "avg_grade": 7.414,
+  "gradeCounts": {
+    "10": 2,
+    "9": 7,
+    "8": 5,
+    "7": 7,
+    "6": 4,
+    "5": 3,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 6.5,
+    "CE": 6.67,
+    "EE": 7.82,
+    "EN": 5.0,
+    "ME": 7.67,
+    "PE": 7.33
+  }
+}

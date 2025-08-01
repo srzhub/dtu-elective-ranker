@@ -1,0 +1,22 @@
+{
+  "code": "EC305",
+  "name": "Semiconductor Device Electronics",
+  "semester": 5.0,
+  "count": 7,
+  "avg_grade": 5.286,
+  "gradeCounts": {
+    "10": 1,
+    "9": 1,
+    "8": 0,
+    "7": 1,
+    "6": 1,
+    "5": 1,
+    "0": 2
+  },
+  "branchAverages": {
+    "BT": 0.0,
+    "EE": 8.0,
+    "EN": 0.0,
+    "ME": 5.0
+  }
+}

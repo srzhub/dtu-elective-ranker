@@ -1,0 +1,23 @@
+{
+  "code": "MC303",
+  "name": "Stochastic Processes",
+  "semester": 5.0,
+  "count": 171,
+  "avg_grade": 7.023,
+  "gradeCounts": {
+    "10": 8,
+    "9": 29,
+    "8": 33,
+    "7": 48,
+    "6": 24,
+    "5": 16,
+    "0": 4
+  },
+  "branchAverages": {
+    "AE": 4.0,
+    "CE": 5.0,
+    "MC": 7.09,
+    "ME": 4.0,
+    "SE": 6.67
+  }
+}

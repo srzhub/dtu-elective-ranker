@@ -1,0 +1,26 @@
+{
+  "code": "IT321",
+  "name": "Malware Analysis",
+  "semester": 5.0,
+  "count": 138,
+  "avg_grade": 8.159,
+  "gradeCounts": {
+    "10": 19,
+    "9": 45,
+    "8": 35,
+    "7": 19,
+    "6": 18,
+    "5": 2,
+    "0": 0
+  },
+  "branchAverages": {
+    "EE": 8.6,
+    "EN": 6.0,
+    "IT": 8.22,
+    "MC": 8.12,
+    "ME": 7.8,
+    "PE": 6.0,
+    "SE": 8.09,
+    "co": 7.89
+  }
+}

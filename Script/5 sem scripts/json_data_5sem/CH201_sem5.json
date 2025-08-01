@@ -1,0 +1,23 @@
+{
+  "code": "CH201",
+  "name": "Chemical Engineering Process",
+  "semester": 5.0,
+  "count": 10,
+  "avg_grade": 7.7,
+  "gradeCounts": {
+    "10": 0,
+    "9": 3,
+    "8": 3,
+    "7": 3,
+    "6": 0,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 8.5,
+    "CE": 7.5,
+    "EN": 5.0,
+    "MC": 9.0,
+    "SE": 7.33
+  }
+}

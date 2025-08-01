@@ -1,0 +1,24 @@
+{
+  "code": "IT425",
+  "name": "Natural Language Processing",
+  "semester": 7.0,
+  "count": 56,
+  "avg_grade": 8.0,
+  "gradeCounts": {
+    "10": 10,
+    "9": 18,
+    "8": 11,
+    "7": 7,
+    "6": 4,
+    "5": 5,
+    "0": 1
+  },
+  "branchAverages": {
+    "EE": 8.75,
+    "EP": 8.14,
+    "IT": 8.08,
+    "ME": 7.5,
+    "PE": 7.33,
+    "SE": 6.67
+  }
+}

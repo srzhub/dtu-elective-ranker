@@ -1,0 +1,20 @@
+{
+  "code": "CE423",
+  "name": "Advanced Transportation Engineering",
+  "semester": 7.0,
+  "count": 73,
+  "avg_grade": 7.603,
+  "gradeCounts": {
+    "10": 4,
+    "9": 13,
+    "8": 24,
+    "7": 17,
+    "6": 13,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "CE": 7.63,
+    "ME": 6.5
+  }
+}

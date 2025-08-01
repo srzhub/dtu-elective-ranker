@@ -1,0 +1,25 @@
+{
+  "code": "EV355",
+  "name": "Chargers And Charging Infrastructure",
+  "semester": 7.0,
+  "count": 26,
+  "avg_grade": 7.577,
+  "gradeCounts": {
+    "10": 3,
+    "9": 3,
+    "8": 6,
+    "7": 9,
+    "6": 4,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "CS": 7.94,
+    "EE": 7.33,
+    "EN": 6.0,
+    "IT": 6.0,
+    "MC": 7.0,
+    "ME": 6.0,
+    "PE": 7.0
+  }
+}

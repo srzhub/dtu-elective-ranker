@@ -1,0 +1,19 @@
+{
+  "code": "EE409a",
+  "name": "Switchgear And Protection",
+  "semester": 5.0,
+  "count": 37,
+  "avg_grade": 7.243,
+  "gradeCounts": {
+    "10": 4,
+    "9": 5,
+    "8": 9,
+    "7": 6,
+    "6": 7,
+    "5": 3,
+    "0": 0
+  },
+  "branchAverages": {
+    "EE": 7.24
+  }
+}

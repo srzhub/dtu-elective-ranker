@@ -1,0 +1,21 @@
+{
+  "code": "AEC6",
+  "name": "Communicative Hindi (Only for foreign national students)",
+  "semester": 3.0,
+  "count": 14,
+  "gradeCounts": {
+    "10": 11,
+    "9": 1,
+    "8": 1,
+    "7": 0,
+    "6": 1,
+    "5": 0,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 8.0,
+    "CS": 9.64,
+    "EC": 9.0,
+    "SE": 10.0
+  }
+}

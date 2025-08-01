@@ -1,0 +1,24 @@
+{
+  "code": "IT407",
+  "name": "Information And Network Security",
+  "semester": 7.0,
+  "count": 107,
+  "avg_grade": 8.336,
+  "gradeCounts": {
+    "10": 19,
+    "9": 41,
+    "8": 22,
+    "7": 17,
+    "6": 4,
+    "5": 2,
+    "0": 1
+  },
+  "branchAverages": {
+    "BT": 7.33,
+    "CS": 7.71,
+    "EE": 9.0,
+    "EP": 8.67,
+    "IT": 8.4,
+    "SE": 8.4
+  }
+}

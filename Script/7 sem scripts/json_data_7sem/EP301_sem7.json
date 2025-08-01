@@ -1,0 +1,22 @@
+{
+  "code": "EP301",
+  "name": "Semiconductor Devices",
+  "semester": 7.0,
+  "count": 5,
+  "avg_grade": 4.2,
+  "gradeCounts": {
+    "10": 0,
+    "9": 0,
+    "8": 0,
+    "7": 1,
+    "6": 0,
+    "5": 2,
+    "0": 1
+  },
+  "branchAverages": {
+    "CS": 0.0,
+    "EE": 5.0,
+    "IT": 4.0,
+    "ME": 7.0
+  }
+}

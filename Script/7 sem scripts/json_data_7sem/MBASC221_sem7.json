@@ -1,0 +1,30 @@
+{
+  "code": "MBASC221",
+  "name": "Supply Chain Planning And Execution",
+  "semester": 7.0,
+  "count": 58,
+  "avg_grade": 7.948,
+  "gradeCounts": {
+    "10": 5,
+    "9": 20,
+    "8": 16,
+    "7": 9,
+    "6": 5,
+    "5": 2,
+    "0": 1
+  },
+  "branchAverages": {
+    "BT": 8.0,
+    "CE": 5.6,
+    "CS": 8.64,
+    "EC": 7.71,
+    "EE": 7.67,
+    "EN": 6.0,
+    "EP": 8.5,
+    "IT": 8.0,
+    "MC": 8.75,
+    "ME": 8.5,
+    "PE": 9.0,
+    "SE": 8.33
+  }
+}

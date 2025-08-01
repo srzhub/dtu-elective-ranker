@@ -1,0 +1,23 @@
+{
+  "code": "CE315",
+  "name": "Rock Engineering",
+  "semester": 5.0,
+  "count": 55,
+  "avg_grade": 7.527,
+  "gradeCounts": {
+    "10": 6,
+    "9": 10,
+    "8": 15,
+    "7": 9,
+    "6": 8,
+    "5": 5,
+    "0": 0
+  },
+  "branchAverages": {
+    "CE": 7.61,
+    "EE": 6.0,
+    "EN": 8.0,
+    "IT": 6.0,
+    "PE": 7.0
+  }
+}

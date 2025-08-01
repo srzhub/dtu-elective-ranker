@@ -1,0 +1,26 @@
+{
+  "code": "CE303",
+  "name": "Design Of Rcc Structure",
+  "semester": 5.0,
+  "count": 168,
+  "avg_grade": 7.619,
+  "gradeCounts": {
+    "10": 10,
+    "9": 38,
+    "8": 55,
+    "7": 42,
+    "6": 11,
+    "5": 6,
+    "0": 4
+  },
+  "branchAverages": {
+    "AE": 7.0,
+    "CE": 7.86,
+    "CH": 8.0,
+    "EE": 8.0,
+    "EN": 5.33,
+    "ME": 6.75,
+    "SE": 5.5,
+    "co": 5.5
+  }
+}

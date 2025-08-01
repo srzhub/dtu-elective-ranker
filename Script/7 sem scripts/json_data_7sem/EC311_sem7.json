@@ -1,0 +1,19 @@
+{
+  "code": "EC311",
+  "name": "Algorithms Analysis And Design",
+  "semester": 7.0,
+  "count": 9,
+  "avg_grade": 6.111,
+  "gradeCounts": {
+    "10": 0,
+    "9": 0,
+    "8": 0,
+    "7": 5,
+    "6": 1,
+    "5": 2,
+    "0": 0
+  },
+  "branchAverages": {
+    "EC": 6.11
+  }
+}

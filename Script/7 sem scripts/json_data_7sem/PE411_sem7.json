@@ -1,0 +1,29 @@
+{
+  "code": "PE411",
+  "name": "Computer Integrated Design And",
+  "semester": 7.0,
+  "count": 73,
+  "avg_grade": 8.082,
+  "gradeCounts": {
+    "10": 10,
+    "9": 11,
+    "8": 33,
+    "7": 13,
+    "6": 6,
+    "5": 0,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 8.0,
+    "CE": 7.0,
+    "CH": 7.0,
+    "CS": 9.0,
+    "EC": 9.0,
+    "EE": 8.0,
+    "EN": 10.0,
+    "MC": 9.0,
+    "ME": 8.14,
+    "PE": 7.97,
+    "SE": 7.33
+  }
+}

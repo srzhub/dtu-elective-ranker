@@ -1,0 +1,28 @@
+{
+  "code": "CO431",
+  "name": "Reinforcement Learning",
+  "semester": 7.0,
+  "count": 55,
+  "avg_grade": 7.164,
+  "gradeCounts": {
+    "10": 4,
+    "9": 10,
+    "8": 13,
+    "7": 12,
+    "6": 6,
+    "5": 4,
+    "0": 1
+  },
+  "branchAverages": {
+    "AE": 5.5,
+    "CH": 5.0,
+    "CS": 7.6,
+    "EC": 8.0,
+    "EE": 5.33,
+    "EP": 8.0,
+    "IT": 7.78,
+    "MC": 6.67,
+    "ME": 6.0,
+    "SE": 6.67
+  }
+}

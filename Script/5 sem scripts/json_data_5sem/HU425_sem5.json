@@ -1,0 +1,25 @@
+{
+  "code": "HU425",
+  "name": "Soft Skills Development",
+  "semester": 5.0,
+  "count": 20,
+  "avg_grade": 8.05,
+  "gradeCounts": {
+    "10": 4,
+    "9": 8,
+    "8": 3,
+    "7": 2,
+    "6": 1,
+    "5": 1,
+    "0": 1
+  },
+  "branchAverages": {
+    "CE": 6.0,
+    "EE": 8.6,
+    "IT": 7.5,
+    "MC": 8.5,
+    "ME": 8.5,
+    "PE": 9.0,
+    "co": 8.0
+  }
+}

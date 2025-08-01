@@ -1,0 +1,25 @@
+{
+  "code": "CO201",
+  "name": "Data Structures",
+  "semester": 5.0,
+  "count": 91,
+  "avg_grade": 7.429,
+  "gradeCounts": {
+    "10": 8,
+    "9": 15,
+    "8": 21,
+    "7": 24,
+    "6": 12,
+    "5": 9,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 7.6,
+    "CE": 7.31,
+    "CH": 6.62,
+    "EE": 8.07,
+    "EN": 5.75,
+    "ME": 7.25,
+    "PE": 7.33
+  }
+}

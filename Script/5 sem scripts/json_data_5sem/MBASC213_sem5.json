@@ -1,0 +1,25 @@
+{
+  "code": "MBASC213",
+  "name": "Total Quality Management",
+  "semester": 5.0,
+  "count": 15,
+  "avg_grade": 7.667,
+  "gradeCounts": {
+    "10": 0,
+    "9": 4,
+    "8": 5,
+    "7": 4,
+    "6": 1,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 7.0,
+    "CH": 9.0,
+    "EN": 5.0,
+    "IT": 7.67,
+    "ME": 6.5,
+    "SE": 8.0,
+    "co": 8.5
+  }
+}

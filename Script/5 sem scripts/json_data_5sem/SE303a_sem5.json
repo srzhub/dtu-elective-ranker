@@ -1,0 +1,19 @@
+{
+  "code": "SE303a",
+  "name": "Software Quality Metrics",
+  "semester": 5.0,
+  "count": 172,
+  "avg_grade": 7.814,
+  "gradeCounts": {
+    "10": 13,
+    "9": 60,
+    "8": 47,
+    "7": 23,
+    "6": 16,
+    "5": 5,
+    "0": 4
+  },
+  "branchAverages": {
+    "SE": 7.81
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": "AEC13",
+  "name": "Logical Reasoning",
+  "semester": 1.0,
+  "count": 62,
+  "avg_grade": 7.968,
+  "gradeCounts": {
+    "10": 3,
+    "9": 23,
+    "8": 19,
+    "7": 8,
+    "6": 4,
+    "5": 5,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 7.67,
+    "CH": 7.0,
+    "CO": 9.0,
+    "EC": 8.29,
+    "EE": 7.56,
+    "EN": 9.0,
+    "EP": 7.0,
+    "IT": 7.5,
+    "MC": 8.57,
+    "ME": 8.0,
+    "PE": 5.0,
+    "SE": 8.55
+  }
+}

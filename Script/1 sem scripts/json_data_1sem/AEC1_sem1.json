@@ -1,0 +1,29 @@
+{
+  "code": "AEC1",
+  "name": "Appreciation of Fiction",
+  "semester": 1.0,
+  "count": 50,
+  "avg_grade": 7.36,
+  "gradeCounts": {
+    "10": 7,
+    "9": 11,
+    "8": 13,
+    "7": 7,
+    "6": 6,
+    "5": 2,
+    "0": 4
+  },
+  "branchAverages": {
+    "BT": 5.5,
+    "CE": 7.5,
+    "CH": 8.0,
+    "CO": 8.33,
+    "EE": 5.75,
+    "EN": 6.0,
+    "EP": 7.67,
+    "IT": 6.33,
+    "MC": 9.0,
+    "ME": 7.18,
+    "SE": 8.5
+  }
+}

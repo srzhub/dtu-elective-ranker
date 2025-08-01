@@ -1,0 +1,28 @@
+{
+  "code": "HU327",
+  "name": "Non-Verbal Communication",
+  "semester": 5.0,
+  "count": 38,
+  "avg_grade": 8.553,
+  "gradeCounts": {
+    "10": 5,
+    "9": 20,
+    "8": 7,
+    "7": 4,
+    "6": 1,
+    "5": 1,
+    "0": 0
+  },
+  "branchAverages": {
+    "BT": 5.0,
+    "CE": 7.5,
+    "CH": 8.0,
+    "EE": 8.33,
+    "IT": 9.2,
+    "MC": 8.62,
+    "ME": 8.33,
+    "PE": 8.0,
+    "SE": 8.62,
+    "co": 9.17
+  }
+}

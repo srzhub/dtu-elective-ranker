@@ -1,0 +1,31 @@
+{
+  "code": "AEC25",
+  "name": "Entrepreneurship Exploration",
+  "semester": 1.0,
+  "count": 55,
+  "avg_grade": 7.727,
+  "gradeCounts": {
+    "10": 6,
+    "9": 13,
+    "8": 14,
+    "7": 11,
+    "6": 6,
+    "5": 3,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 9.0,
+    "BT": 6.5,
+    "CE": 7.0,
+    "CH": 7.0,
+    "CO": 9.5,
+    "EC": 8.12,
+    "EE": 7.5,
+    "EP": 7.25,
+    "IT": 8.25,
+    "MC": 7.33,
+    "ME": 7.17,
+    "PE": 8.5,
+    "SE": 7.0
+  }
+}

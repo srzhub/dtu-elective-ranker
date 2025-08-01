@@ -1,0 +1,24 @@
+{
+  "code": "HU301a",
+  "name": "Engineering Economics",
+  "semester": 5.0,
+  "count": 1084,
+  "avg_grade": 7.86,
+  "gradeCounts": {
+    "10": 98,
+    "9": 320,
+    "8": 327,
+    "7": 167,
+    "6": 103,
+    "5": 41,
+    "0": 15
+  },
+  "branchAverages": {
+    "BT": 7.9,
+    "EE": 7.74,
+    "EN": 8.2,
+    "IT": 7.94,
+    "SE": 8.02,
+    "co": 7.78
+  }
+}

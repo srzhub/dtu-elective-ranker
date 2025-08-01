@@ -1,0 +1,25 @@
+{
+  "code": "CH303",
+  "name": "Mass Transfer-1",
+  "semester": 7.0,
+  "count": 15,
+  "avg_grade": 7.267,
+  "gradeCounts": {
+    "10": 2,
+    "9": 5,
+    "8": 1,
+    "7": 2,
+    "6": 2,
+    "5": 2,
+    "0": 1
+  },
+  "branchAverages": {
+    "CS": 7.25,
+    "EE": 8.33,
+    "EN": 0.0,
+    "IT": 8.0,
+    "MC": 8.25,
+    "PE": 5.0,
+    "SE": 9.0
+  }
+}

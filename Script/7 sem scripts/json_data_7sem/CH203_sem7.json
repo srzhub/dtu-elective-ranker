@@ -1,0 +1,23 @@
+{
+  "code": "CH203",
+  "name": "Transport Phenomena",
+  "semester": 7.0,
+  "count": 30,
+  "avg_grade": 8.5,
+  "gradeCounts": {
+    "10": 8,
+    "9": 10,
+    "8": 9,
+    "7": 1,
+    "6": 1,
+    "5": 0,
+    "0": 1
+  },
+  "branchAverages": {
+    "BT": 6.0,
+    "CS": 8.57,
+    "EE": 8.0,
+    "MC": 8.75,
+    "SE": 9.0
+  }
+}

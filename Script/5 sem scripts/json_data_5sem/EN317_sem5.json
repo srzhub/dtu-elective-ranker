@@ -1,0 +1,24 @@
+{
+  "code": "EN317",
+  "name": "Environmental Engineering",
+  "semester": 5.0,
+  "count": 54,
+  "avg_grade": 6.333,
+  "gradeCounts": {
+    "10": 1,
+    "9": 3,
+    "8": 8,
+    "7": 15,
+    "6": 10,
+    "5": 8,
+    "0": 0
+  },
+  "branchAverages": {
+    "AE": 5.0,
+    "CE": 5.33,
+    "EE": 6.3,
+    "EN": 6.67,
+    "ME": 5.17,
+    "SE": 7.0
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": "PE361a",
+  "name": "Total Quality Managemen",
+  "semester": 7.0,
+  "count": 66,
+  "avg_grade": 7.424,
+  "gradeCounts": {
+    "10": 0,
+    "9": 9,
+    "8": 27,
+    "7": 17,
+    "6": 9,
+    "5": 4,
+    "0": 0
+  },
+  "branchAverages": {
+    "CE": 6.4,
+    "CH": 8.0,
+    "CS": 7.5,
+    "EC": 8.0,
+    "EE": 7.5,
+    "EN": 7.5,
+    "EP": 7.33,
+    "IT": 8.0,
+    "MC": 7.45,
+    "ME": 8.17,
+    "PE": 6.8,
+    "SE": 8.5
+  }
+}
