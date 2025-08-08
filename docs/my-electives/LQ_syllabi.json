@@ -19,6 +19,56 @@
     "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAP101.pdf?alt=media&token=c59cc1ef-034d-476b-a00e-c37ff142f267",
     "timetable": ""
   },
+   {
+    "code": "MBA-107",
+    "title": "Marketing Management",
+    "semester": 5,
+    "branch": "MB",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMBA-107.pdf?alt=media&token=48d3dfb0-39ce-4e5d-9388-db13be3ee4c7",
+    "timetable": ""
+  },
+  {
+    "code": "MBAMK-213",
+    "title": "Consumer Behaviour",
+    "semester": 5,
+    "branch": "MB",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMBAMK_213.pdf?alt=media&token=8a6120a9-7580-434e-ae43-77ff195f648c",
+    "timetable": ""
+  },
+  {
+    "code": "MBAMK-219",
+    "title": "Marketing Research",
+    "semester": 5,
+    "branch": "MB",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMBAMK_219.pdf?alt=media&token=94833f06-2b17-4ca9-9f4a-5f5f120681ac",
+    "timetable": ""
+  },
+  {
+    "code": "MBASC-213",
+    "title": "Total Quality Management",
+    "semester": 5,
+    "branch": "MB",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMBASC_213.pdf?alt=media&token=60a5d91b-cf98-4e1f-a461-178baed762f0",
+    "timetable": ""
+  },
+  {
+    "code": "MBASC-215",
+    "title": "Logistics Management",
+    "semester": 5,
+    "branch": "MB",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMBASC_215.pdf?alt=media&token=1a4c61dc-f9a6-4b18-8f25-f5d17add94a5",
+    "timetable": ""
+  },
   {
     "code": "CE101",
     "title": "Basic Civil Engineering",
