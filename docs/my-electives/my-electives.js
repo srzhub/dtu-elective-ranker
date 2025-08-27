@@ -1,6 +1,6 @@
 // Fetch data from json file
 let allSubjects = []; 
-fetch("LQ_syllabi.json")
+fetch("syllabi.json")
   .then(res => res.json())
   .then(data => {
     allSubjects = data;
@@ -83,7 +83,7 @@ function renderElectives() {
     const tr = document.createElement("tr");
     const hasPdf = subj.pdf && subj.pdf.trim() !== "";
     const syllabusIcon = hasPdf ? `
-      <button class="btn btn-md btn-outline-secondary text-purple" onclick="openSyllabusModal('${subj.pdf}')" title="View Syllabus">
+      <button class="btn btn-md btn-outline-secondary text-purple syllabus-btn" onclick="openSyllabusModal('${subj.pdf}.pdf')" title="View Syllabus">
         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="bi" viewBox="0 0 16 16">
           <path d="M5 7h6v1H5V7zm0 2h6v1H5V9z"/>
           <path d="M14 4.5V14a2 2 0 0 1-2 2H4a2 
@@ -104,7 +104,16 @@ function renderElectives() {
       <td><button class="btn btn-sm btn-danger" onclick="removeElective('${subj.code}')">Remove</button></td>
     `;
     tbody.appendChild(tr);
+
+    // if (hasPdf) {
+    //   const link = document.createElement("link");
+    //   link.rel = "prefetch";
+    //   link.href = subj.pdf;   // or `/syllabus/${subj.code}`
+    //   link.as = "document";
+    //   document.head.appendChild(link);
+    // }
   });
+
 }
 
 // Open syllabus modal on the page itself (opens in new tab on mobile)

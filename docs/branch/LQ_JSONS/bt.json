@@ -9,7 +9,7 @@
     "grade": "",
     "semester": 1,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAM101.pdf?alt=media&token=9e1a0d82-e575-4ace-bd6a-8feb1a8c93c8"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AM101.pdf"
   },
   {
     "code": "AP101",
@@ -21,7 +21,7 @@
     "grade": "",
     "semester": 1,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAP101.pdf?alt=media&token=0e69224e-ad91-4680-8bf0-055e29a8e5d3"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AP101.pdf"
   },
   {
     "code": "EC101",
@@ -33,7 +33,7 @@
     "grade": "",
     "semester": 1,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FEC101.pdf?alt=media&token=30854b79-c9a7-491b-a509-f4441a251145"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/EC101.pdf"
   },
   {
     "code": "AC101",
@@ -45,7 +45,7 @@
     "grade": "",
     "semester": 1,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAC101.pdf?alt=media&token=3ba5b4c3-fa6d-47b1-a711-d6a8668fbd36"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AC101.pdf"
   },
   {
     "code": "BT103",
@@ -57,7 +57,7 @@
     "grade": "",
     "semester": 1,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT103.pdf?alt=media&token=a2d2d407-d6ed-4326-9090-39c8e714e227"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT103.pdf"
   },
   {
     "code": "AEC/VAC",
@@ -69,7 +69,7 @@
     "grade": "",
     "semester": 1,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/AEC/VAC.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AEC/VAC.pdf"
   },
   {
     "code": "AM102",
@@ -81,7 +81,7 @@
     "grade": "",
     "semester": 2,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAM102.pdf?alt=media&token=0a961225-9d53-43a1-9b98-a3847e546675"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AM102.pdf"
   },
   {
     "code": "CO102",
@@ -93,7 +93,7 @@
     "grade": "",
     "semester": 2,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FCO102.pdf?alt=media&token=8e5ba525-6fa8-4093-8e6f-a59ffbe647f8"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/CO102.pdf"
   },
   {
     "code": "BT102",
@@ -105,7 +105,7 @@
     "grade": "",
     "semester": 2,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT102.pdf?alt=media&token=38a9c01d-7498-4075-b991-916df78ebad0"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT102.pdf"
   },
   {
     "code": "BT104",
@@ -117,7 +117,7 @@
     "grade": "",
     "semester": 2,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT104.pdf?alt=media&token=9e4d2378-378d-4db7-92d2-9ac76ca3df8e"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT104.pdf"
   },
   {
     "code": "BT106",
@@ -129,7 +129,7 @@
     "grade": "",
     "semester": 2,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT106.pdf?alt=media&token=4876f077-c53c-4eeb-acae-9cc03def3581"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT106.pdf"
   },
   {
     "code": "AEC/VAC",
@@ -141,7 +141,7 @@
     "grade": "",
     "semester": 2,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/AEC/VAC.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AEC/VAC.pdf"
   },
   {
     "code": "BT201",
@@ -153,7 +153,7 @@
     "grade": "",
     "semester": 3,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT201.pdf?alt=media&token=3fc03321-6c52-4ee4-b635-6b85f981fa81"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT201.pdf"
   },
   {
     "code": "BT203",
@@ -165,7 +165,7 @@
     "grade": "",
     "semester": 3,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT203.pdf?alt=media&token=844ab985-aece-40fc-bc5b-9939630aeae5"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT203.pdf"
   },
   {
     "code": "BT205",
@@ -177,7 +177,7 @@
     "grade": "",
     "semester": 3,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT205.pdf?alt=media&token=d3c2bf53-64dd-49a0-9bdd-a23625c7d776"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT205.pdf"
   },
   {
     "code": "BT207",
@@ -189,7 +189,7 @@
     "grade": "",
     "semester": 3,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT207.pdf?alt=media&token=4b348890-0fdb-4c4c-8b9c-bf20304be5dd"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT207.pdf"
   },
   {
     "code": "BT209",
@@ -201,7 +201,7 @@
     "grade": "",
     "semester": 3,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT209.pdf?alt=media&token=84c25c38-1bb5-4ea7-80d3-8b19e9a2ed83"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT209.pdf"
   },
   {
     "code": "BT202",
@@ -213,7 +213,7 @@
     "grade": "",
     "semester": 4,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT202.pdf?alt=media&token=875af262-6712-43fa-a697-311c98121cea"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT202.pdf"
   },
   {
     "code": "BT204",
@@ -225,7 +225,7 @@
     "grade": "",
     "semester": 4,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT204.pdf?alt=media&token=dd9d385b-6527-44c6-b7c6-26207eedcf67"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT204.pdf"
   },
   {
     "code": "BT206",
@@ -237,7 +237,7 @@
     "grade": "",
     "semester": 4,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT206.pdf?alt=media&token=8353e0c6-483b-45c5-aea0-dc084cc9b9a7"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT206.pdf"
   },
   {
     "code": "BT208",
@@ -249,7 +249,7 @@
     "grade": "",
     "semester": 4,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT208.pdf?alt=media&token=216f1501-6c17-495d-b931-5f6641d3fe8b"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT208.pdf"
   },
   {
     "code": "BT210",
@@ -261,7 +261,7 @@
     "grade": "",
     "semester": 4,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT210.pdf?alt=media&token=e77b7a78-0bba-46e6-bdfc-bda291768a69"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT210.pdf"
   },
   {
     "code": "BT301",
@@ -273,7 +273,7 @@
     "grade": "",
     "semester": 5,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT301.pdf?alt=media&token=daaab667-69f0-41e3-8702-81fca3247bed"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT301.pdf"
   },
   {
     "code": "BT303",
@@ -285,7 +285,7 @@
     "grade": "",
     "semester": 5,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT303.pdf?alt=media&token=fe8262fd-a3e0-48e1-836b-6697ba70c9f5"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT303.pdf"
   },
   {
     "code": "BT305",
@@ -297,7 +297,7 @@
     "grade": "",
     "semester": 5,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT305.pdf?alt=media&token=e8c7f09d-e7ff-4877-8803-d47960c84855"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT305.pdf"
   },
   {
     "code": "BT307",
@@ -309,7 +309,7 @@
     "grade": "",
     "semester": 5,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT307.pdf?alt=media&token=2f6b6434-0f8e-4fc6-b487-54357387ed27"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT307.pdf"
   },
   {
     "code": "BT-309",
@@ -321,7 +321,7 @@
     "grade": "",
     "semester": 5,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-309.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-309.pdf"
   },
   {
     "code": "BT-311",
@@ -333,7 +333,7 @@
     "grade": "",
     "semester": 5,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-311.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-311.pdf"
   },
   {
     "code": "BT-313",
@@ -345,7 +345,7 @@
     "grade": "",
     "semester": 5,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-313.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-313.pdf"
   },
   {
     "code": "BT-315",
@@ -357,7 +357,7 @@
     "grade": "",
     "semester": 5,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-315.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-315.pdf"
   },
   {
     "code": "BT-317",
@@ -369,7 +369,7 @@
     "grade": "",
     "semester": 5,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-317.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-317.pdf"
   },
   {
     "code": "BT-319",
@@ -381,7 +381,7 @@
     "grade": "",
     "semester": 5,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-319.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-319.pdf"
   },
   {
     "code": "BT-321",
@@ -393,7 +393,7 @@
     "grade": "",
     "semester": 5,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-321.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-321.pdf"
   },
   {
     "code": "BT-323",
@@ -405,7 +405,7 @@
     "grade": "",
     "semester": 5,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-323.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-323.pdf"
   },
   {
     "code": "BT-325",
@@ -417,7 +417,7 @@
     "grade": "",
     "semester": 5,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-325.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-325.pdf"
   },
   {
     "code": "BT302",
@@ -429,7 +429,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT302.pdf?alt=media&token=896fb9d6-0343-465f-818e-3b564d5b2f97"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT302.pdf"
   },
   {
     "code": "BT304",
@@ -441,7 +441,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT304.pdf?alt=media&token=76ae641a-1941-48df-b063-4aee720594a4"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT304.pdf"
   },
   {
     "code": "BT306",
@@ -453,7 +453,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT306.pdf?alt=media&token=f3fb40a3-bfe3-4866-9fcd-2caac72b9a94"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT306.pdf"
   },
   {
     "code": "BT-308",
@@ -465,7 +465,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-308.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-308.pdf"
   },
   {
     "code": "BT-310",
@@ -477,7 +477,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-310.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-310.pdf"
   },
   {
     "code": "BT-312",
@@ -489,7 +489,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-312.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-312.pdf"
   },
   {
     "code": "BT-314",
@@ -501,7 +501,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-314.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-314.pdf"
   },
   {
     "code": "BT-316",
@@ -513,7 +513,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-316.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-316.pdf"
   },
   {
     "code": "BT-318",
@@ -525,7 +525,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-318.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-318.pdf"
   },
   {
     "code": "BT-320",
@@ -537,7 +537,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-320.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-320.pdf"
   },
   {
     "code": "BT-322",
@@ -549,7 +549,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-322.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-322.pdf"
   },
   {
     "code": "BT-324",
@@ -561,7 +561,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-324.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-324.pdf"
   },
   {
     "code": "BT-326",
@@ -573,7 +573,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-326.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-326.pdf"
   },
   {
     "code": "BT-328",
@@ -585,7 +585,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-328.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-328.pdf"
   },
   {
     "code": "BT-330",
@@ -597,7 +597,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-330.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-330.pdf"
   },
   {
     "code": "BT-332",
@@ -609,7 +609,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-332.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-332.pdf"
   },
   {
     "code": "BT-334",
@@ -621,7 +621,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-334.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-334.pdf"
   },
   {
     "code": "BT-336",
@@ -633,7 +633,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-336.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-336.pdf"
   },
   {
     "code": "BT-338",
@@ -645,7 +645,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-338.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-338.pdf"
   },
   {
     "code": "BT-340",
@@ -657,7 +657,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-340.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-340.pdf"
   },
   {
     "code": "BT-342",
@@ -669,7 +669,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-342.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-342.pdf"
   },
   {
     "code": "BT-344",
@@ -681,7 +681,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-344.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-344.pdf"
   },
   {
     "code": "BT-346",
@@ -693,7 +693,7 @@
     "grade": "",
     "semester": 6,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-346.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-346.pdf"
   },
   {
     "code": "BT401",
@@ -705,7 +705,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT401.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT401.pdf"
   },
   {
     "code": "BT403",
@@ -717,7 +717,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT403.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT403.pdf"
   },
   {
     "code": "BT-405",
@@ -729,7 +729,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-405.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-405.pdf"
   },
   {
     "code": "BT-407",
@@ -741,7 +741,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-407.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-407.pdf"
   },
   {
     "code": "BT-409",
@@ -753,7 +753,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-409.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-409.pdf"
   },
   {
     "code": "BT-411",
@@ -765,7 +765,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-411.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-411.pdf"
   },
   {
     "code": "BT-413",
@@ -777,7 +777,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-413.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-413.pdf"
   },
   {
     "code": "BT-415",
@@ -789,7 +789,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-415.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-415.pdf"
   },
   {
     "code": "BT-417",
@@ -801,7 +801,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-417.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-417.pdf"
   },
   {
     "code": "BT-419",
@@ -813,7 +813,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-419.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-419.pdf"
   },
   {
     "code": "BT-421",
@@ -825,7 +825,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-421.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-421.pdf"
   },
   {
     "code": "BT-423",
@@ -837,7 +837,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-423.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-423.pdf"
   },
   {
     "code": "BT-425",
@@ -849,7 +849,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-425.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-425.pdf"
   },
   {
     "code": "BT-427",
@@ -861,7 +861,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-427.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-427.pdf"
   },
   {
     "code": "BT429",
@@ -873,7 +873,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT429.pdf?alt=media&token=d0281e87-d293-4c67-834a-5454d8d68b5f"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT429.pdf"
   },
   {
     "code": "BT-431",
@@ -885,7 +885,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-431.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-431.pdf"
   },
   {
     "code": "BT433",
@@ -897,7 +897,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT433.pdf?alt=media&token=feba0cb2-ddfe-4eef-a798-8b5b8624e8af"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT433.pdf"
   },
   {
     "code": "BT435",
@@ -909,7 +909,7 @@
     "grade": "",
     "semester": 7,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT435.pdf?alt=media&token=f746445d-167d-4b4e-a216-dc87bf886bbf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT435.pdf"
   },
   {
     "code": "BT402",
@@ -921,7 +921,7 @@
     "grade": "",
     "semester": 8,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT402.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT402.pdf"
   },
   {
     "code": "BT-404",
@@ -933,7 +933,7 @@
     "grade": "",
     "semester": 8,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-404.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-404.pdf"
   },
   {
     "code": "BT-406",
@@ -945,7 +945,7 @@
     "grade": "",
     "semester": 8,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-406.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-406.pdf"
   },
   {
     "code": "BT-408",
@@ -957,7 +957,7 @@
     "grade": "",
     "semester": 8,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-408.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-408.pdf"
   },
   {
     "code": "BT-410",
@@ -969,7 +969,7 @@
     "grade": "",
     "semester": 8,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-410.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-410.pdf"
   },
   {
     "code": "BT-412",
@@ -981,7 +981,7 @@
     "grade": "",
     "semester": 8,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-412.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-412.pdf"
   },
   {
     "code": "BT-414",
@@ -993,7 +993,7 @@
     "grade": "",
     "semester": 8,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-414.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-414.pdf"
   },
   {
     "code": "BT-416",
@@ -1005,7 +1005,7 @@
     "grade": "",
     "semester": 8,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-416.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-416.pdf"
   },
   {
     "code": "BT-418",
@@ -1017,7 +1017,7 @@
     "grade": "",
     "semester": 8,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-418.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-418.pdf"
   },
   {
     "code": "BT-420",
@@ -1029,7 +1029,7 @@
     "grade": "",
     "semester": 8,
     "branch": "BT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/BT-420.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT-420.pdf"
   },
   {
     "code": "BT422",
@@ -1041,6 +1041,6 @@
     "grade": "",
     "semester": 8,
     "branch": "BT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FBT422.pdf?alt=media&token=06f53794-6b49-4ae6-bd4c-dd272038a513"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/BT422.pdf"
   }
 ]

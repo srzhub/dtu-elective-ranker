@@ -9,7 +9,7 @@
     "grade": "",
     "semester": 1,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAM101.pdf?alt=media&token=9e1a0d82-e575-4ace-bd6a-8feb1a8c93c8"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AM101.pdf"
   },
   {
     "code": "AP101",
@@ -21,7 +21,7 @@
     "grade": "",
     "semester": 1,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAP101.pdf?alt=media&token=0e69224e-ad91-4680-8bf0-055e29a8e5d3"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AP101.pdf"
   },
   {
     "code": "CE101",
@@ -33,7 +33,7 @@
     "grade": "",
     "semester": 1,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FCE101.pdf?alt=media&token=d02cd25e-3979-4ada-b5ff-43326848bfc8"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/CE101.pdf"
   },
   {
     "code": "EE101",
@@ -45,7 +45,7 @@
     "grade": "",
     "semester": 1,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FEE101.pdf?alt=media&token=0bd45957-ab53-448b-8fea-8ce8ddee97b6"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/EE101.pdf"
   },
   {
     "code": "AE103",
@@ -57,7 +57,7 @@
     "grade": "",
     "semester": 1,
     "branch": "AE",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/AE103.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE103.pdf"
   },
   {
     "code": "AEC/VAC",
@@ -69,7 +69,7 @@
     "grade": "",
     "semester": 1,
     "branch": "AE",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/AEC/VAC.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AEC/VAC.pdf"
   },
   {
     "code": "AM102",
@@ -81,7 +81,7 @@
     "grade": "",
     "semester": 2,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAM102.pdf?alt=media&token=0a961225-9d53-43a1-9b98-a3847e546675"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AM102.pdf"
   },
   {
     "code": "CO102",
@@ -93,7 +93,7 @@
     "grade": "",
     "semester": 2,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FCO102.pdf?alt=media&token=8e5ba525-6fa8-4093-8e6f-a59ffbe647f8"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/CO102.pdf"
   },
   {
     "code": "AE102",
@@ -105,7 +105,7 @@
     "grade": "",
     "semester": 2,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE102.pdf?alt=media&token=3204ece1-2dfb-4f65-8c35-d1a56efc4450"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE102.pdf"
   },
   {
     "code": "AE104",
@@ -117,7 +117,7 @@
     "grade": "",
     "semester": 2,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE104.pdf?alt=media&token=9638aa6e-4b02-4e53-936b-efe8b985cb91"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE104.pdf"
   },
   {
     "code": "AE106",
@@ -129,7 +129,7 @@
     "grade": "",
     "semester": 2,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE106.pdf?alt=media&token=ebe87a90-6a0d-42c8-a29b-6364084d6f0b"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE106.pdf"
   },
   {
     "code": "AEC/VAC",
@@ -141,7 +141,7 @@
     "grade": "",
     "semester": 2,
     "branch": "AE",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/AEC/VAC.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AEC/VAC.pdf"
   },
   {
     "code": "AE301",
@@ -153,7 +153,7 @@
     "grade": "",
     "semester": 5,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE301.pdf?alt=media&token=b5443472-1d77-4f10-a139-dc9afa156041"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE301.pdf"
   },
   {
     "code": "AE303",
@@ -165,7 +165,7 @@
     "grade": "",
     "semester": 5,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE303.pdf?alt=media&token=f8672125-23b1-4516-adbe-8fdd3697cad4"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE303.pdf"
   },
   {
     "code": "AE305",
@@ -177,7 +177,7 @@
     "grade": "",
     "semester": 5,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE305.pdf?alt=media&token=59a6b280-deb3-43ff-8c08-c05e1d261b30"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE305.pdf"
   },
   {
     "code": "HU301",
@@ -189,7 +189,7 @@
     "grade": "",
     "semester": 5,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FHU301.pdf?alt=media&token=a8d351e6-1293-4ecb-909f-2f54880a62c2"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/HU301.pdf"
   },
   {
     "code": "GEC-1",
@@ -201,7 +201,7 @@
     "grade": "",
     "semester": 5,
     "branch": "AE",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/GEC-1.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/GEC-1.pdf"
   },
   {
     "code": "AE307",
@@ -213,7 +213,7 @@
     "grade": "",
     "semester": 5,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE307.pdf?alt=media&token=8c9e5c58-eabb-4747-a38b-9970bfd683ab"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE307.pdf"
   },
   {
     "code": "AE309",
@@ -225,7 +225,7 @@
     "grade": "",
     "semester": 5,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE309.pdf?alt=media&token=126e3f87-fb70-49a7-8ca4-7e25330c8318"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE309.pdf"
   },
   {
     "code": "AE311",
@@ -237,7 +237,7 @@
     "grade": "",
     "semester": 5,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE311.pdf?alt=media&token=a8cfa478-a6ef-4cac-822e-b6aee8303c5d"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE311.pdf"
   },
   {
     "code": "AE313",
@@ -249,7 +249,7 @@
     "grade": "",
     "semester": 5,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE313.pdf?alt=media&token=73274b8b-1268-46d3-bbdf-543abf1cb5a5"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE313.pdf"
   },
   {
     "code": "AE315",
@@ -261,7 +261,7 @@
     "grade": "",
     "semester": 5,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE315.pdf?alt=media&token=1e0c3618-fb00-47e1-b1a3-48b9cf8c4066"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE315.pdf"
   },
   {
     "code": "AE317",
@@ -273,7 +273,7 @@
     "grade": "",
     "semester": 5,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE317.pdf?alt=media&token=148dab3e-e330-48ca-a4ea-5ee65d60e64b"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE317.pdf"
   },
   {
     "code": "AE319",
@@ -285,7 +285,7 @@
     "grade": "",
     "semester": 5,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE319.pdf?alt=media&token=0c89bc79-064b-4c1f-b2eb-bf4226c4c1eb"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE319.pdf"
   },
   {
     "code": "AE321",
@@ -297,7 +297,7 @@
     "grade": "",
     "semester": 5,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE321.pdf?alt=media&token=59d8e13a-f0d1-4371-9b41-f3ccb8374867"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE321.pdf"
   },
   {
     "code": "AE323",
@@ -309,7 +309,7 @@
     "grade": "",
     "semester": 5,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE323.pdf?alt=media&token=4a76503a-b5d5-40e0-a10d-f050556b7a14"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE323.pdf"
   },
   {
     "code": "AE302",
@@ -321,7 +321,7 @@
     "grade": "",
     "semester": 6,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE302.pdf?alt=media&token=95e67a8b-9767-4325-b32b-6b34bf20786b"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE302.pdf"
   },
   {
     "code": "AE304",
@@ -333,7 +333,7 @@
     "grade": "",
     "semester": 6,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE304.pdf?alt=media&token=0a9a2f76-65e1-43cc-be43-3538cf6b3712"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE304.pdf"
   },
   {
     "code": "MG302",
@@ -345,7 +345,7 @@
     "grade": "",
     "semester": 6,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMG302.pdf?alt=media&token=12fbde29-ca60-4895-97fa-f7ddfc6e94fe"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/MG302.pdf"
   },
   {
     "code": "GEC-2",
@@ -357,7 +357,7 @@
     "grade": "",
     "semester": 6,
     "branch": "AE",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/GEC-2.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/GEC-2.pdf"
   },
   {
     "code": "AE306",
@@ -369,7 +369,7 @@
     "grade": "",
     "semester": 6,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE306.pdf?alt=media&token=cca11451-b4c4-4e73-b4aa-9362cb0e4405"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE306.pdf"
   },
   {
     "code": "AE308",
@@ -381,7 +381,7 @@
     "grade": "",
     "semester": 6,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE308.pdf?alt=media&token=758f15a0-f9e2-411e-902b-e5f8e0c64f89"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE308.pdf"
   },
   {
     "code": "AE310",
@@ -393,7 +393,7 @@
     "grade": "",
     "semester": 6,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE310.pdf?alt=media&token=7a87b61d-95c8-47b4-bde9-001f56c8de1b"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE310.pdf"
   },
   {
     "code": "AE312",
@@ -405,7 +405,7 @@
     "grade": "",
     "semester": 6,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE312.pdf?alt=media&token=e4c79f25-9bbc-40d5-af8d-9364e4640901"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE312.pdf"
   },
   {
     "code": "AE314",
@@ -417,7 +417,7 @@
     "grade": "",
     "semester": 6,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE314.pdf?alt=media&token=2d487213-86f9-44f9-880a-c5871c9a887f"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE314.pdf"
   },
   {
     "code": "AE316",
@@ -429,7 +429,7 @@
     "grade": "",
     "semester": 6,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE316.pdf?alt=media&token=f010ad31-f1c4-4ad5-bf79-a20e69a54586"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE316.pdf"
   },
   {
     "code": "AE318",
@@ -441,7 +441,7 @@
     "grade": "",
     "semester": 6,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE318.pdf?alt=media&token=342487b3-f72e-4a4f-959c-875788961c80"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE318.pdf"
   },
   {
     "code": "AE320",
@@ -453,7 +453,7 @@
     "grade": "",
     "semester": 6,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE320.pdf?alt=media&token=c67d02ba-2d23-4461-8503-a5c0c5652bf2"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE320.pdf"
   },
   {
     "code": "AE322",
@@ -465,7 +465,7 @@
     "grade": "",
     "semester": 6,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE322.pdf?alt=media&token=4a59700b-b10c-436b-9969-ec39edccc632"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE322.pdf"
   },
   {
     "code": "AE324",
@@ -477,7 +477,7 @@
     "grade": "",
     "semester": 6,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE324.pdf?alt=media&token=9a84dc26-df78-4286-9047-b79ed4f7bcff"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE324.pdf"
   },
   {
     "code": "AE326",
@@ -489,7 +489,7 @@
     "grade": "",
     "semester": 6,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE326.pdf?alt=media&token=f0700c80-fe5f-4bad-992a-a88c8cb980a9"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE326.pdf"
   },
   {
     "code": "AE328",
@@ -501,7 +501,7 @@
     "grade": "",
     "semester": 6,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE328.pdf?alt=media&token=21814059-6570-46f4-8465-172ea43ca720"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE328.pdf"
   },
   {
     "code": "AE401",
@@ -513,7 +513,7 @@
     "grade": "",
     "semester": 7,
     "branch": "AE",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/AE401.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE401.pdf"
   },
   {
     "code": "AE403",
@@ -525,7 +525,7 @@
     "grade": "",
     "semester": 7,
     "branch": "AE",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/AE403.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE403.pdf"
   },
   {
     "code": "GEC-3",
@@ -537,7 +537,7 @@
     "grade": "",
     "semester": 7,
     "branch": "AE",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/GEC-3.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/GEC-3.pdf"
   },
   {
     "code": "VAC-IKS",
@@ -549,7 +549,7 @@
     "grade": "",
     "semester": 7,
     "branch": "AE",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/VAC-IKS.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/VAC-IKS.pdf"
   },
   {
     "code": "AE405",
@@ -561,7 +561,7 @@
     "grade": "",
     "semester": 7,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE405.pdf?alt=media&token=1f76bd2c-f5ba-4564-93f3-72b161497252"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE405.pdf"
   },
   {
     "code": "AE407",
@@ -573,7 +573,7 @@
     "grade": "",
     "semester": 7,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE407.pdf?alt=media&token=e7b8b9f4-baa9-489a-a128-0df551b038c0"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE407.pdf"
   },
   {
     "code": "AE409",
@@ -585,7 +585,7 @@
     "grade": "",
     "semester": 7,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE409.pdf?alt=media&token=312bfe09-f321-42a7-8ede-a93510376cb4"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE409.pdf"
   },
   {
     "code": "AE411",
@@ -597,7 +597,7 @@
     "grade": "",
     "semester": 7,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE411.pdf?alt=media&token=6aeca130-dc58-4a6a-87b4-9aeebc6ef5fd"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE411.pdf"
   },
   {
     "code": "AE413",
@@ -609,7 +609,7 @@
     "grade": "",
     "semester": 7,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE413.pdf?alt=media&token=4547f233-0142-4afc-bf56-55921abe1b7c"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE413.pdf"
   },
   {
     "code": "AE415",
@@ -621,7 +621,7 @@
     "grade": "",
     "semester": 7,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE415.pdf?alt=media&token=b89bf008-d56f-4e9a-bdd0-947cc4b83f8f"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE415.pdf"
   },
   {
     "code": "AE417",
@@ -633,7 +633,7 @@
     "grade": "",
     "semester": 7,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE417.pdf?alt=media&token=0fd7c005-b284-429b-b58e-e4f7d19922cd"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE417.pdf"
   },
   {
     "code": "AE419",
@@ -645,7 +645,7 @@
     "grade": "",
     "semester": 7,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE419.pdf?alt=media&token=8bff63d2-05ba-42be-a6f6-82e608de2396"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE419.pdf"
   },
   {
     "code": "AE421",
@@ -657,7 +657,7 @@
     "grade": "",
     "semester": 7,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE421.pdf?alt=media&token=962c4cc2-eb49-43b1-a762-f0a9928ed963"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE421.pdf"
   },
   {
     "code": "AE423",
@@ -669,7 +669,7 @@
     "grade": "",
     "semester": 7,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE423.pdf?alt=media&token=3f00a50c-0a00-4125-a666-ba120d65b58e"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE423.pdf"
   },
   {
     "code": "AE425",
@@ -681,7 +681,7 @@
     "grade": "",
     "semester": 7,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE425.pdf?alt=media&token=63c35ad0-d9e0-4139-be51-3b2431eed1ab"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE425.pdf"
   },
   {
     "code": "AE402",
@@ -693,7 +693,7 @@
     "grade": "",
     "semester": 8,
     "branch": "AE",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/AE402.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE402.pdf"
   },
   {
     "code": "GEC-4",
@@ -705,7 +705,7 @@
     "grade": "",
     "semester": 8,
     "branch": "AE",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/GEC-4.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/GEC-4.pdf"
   },
   {
     "code": "AE404",
@@ -717,7 +717,7 @@
     "grade": "",
     "semester": 8,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE404.pdf?alt=media&token=7b95ce69-e43b-4cd6-8ea1-530cf7516016"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE404.pdf"
   },
   {
     "code": "AE406",
@@ -729,7 +729,7 @@
     "grade": "",
     "semester": 8,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE406.pdf?alt=media&token=a5a5e2cf-d3b1-4827-8a89-47c7dadadfff"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE406.pdf"
   },
   {
     "code": "AE408",
@@ -741,7 +741,7 @@
     "grade": "",
     "semester": 8,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE408.pdf?alt=media&token=2e4b78cc-1fdc-4a83-b42f-d1bdc53dbc50"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE408.pdf"
   },
   {
     "code": "AE410",
@@ -753,7 +753,7 @@
     "grade": "",
     "semester": 8,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE410.pdf?alt=media&token=0093e51f-b25f-4b19-acfc-02e12937ea05"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE410.pdf"
   },
   {
     "code": "AE412",
@@ -765,7 +765,7 @@
     "grade": "",
     "semester": 8,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE412.pdf?alt=media&token=c5efa8dd-10f8-475d-9f45-706b336ee900"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE412.pdf"
   },
   {
     "code": "AE414",
@@ -777,7 +777,7 @@
     "grade": "",
     "semester": 8,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE414.pdf?alt=media&token=2d2abc9c-ca25-449b-a6d9-d381e02de0e6"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE414.pdf"
   },
   {
     "code": "AE416",
@@ -789,7 +789,7 @@
     "grade": "",
     "semester": 8,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE416.pdf?alt=media&token=348c1f90-2901-47a9-8b6a-716088cc2c1b"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE416.pdf"
   },
   {
     "code": "AE418",
@@ -801,7 +801,7 @@
     "grade": "",
     "semester": 8,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE418.pdf?alt=media&token=8445ac3a-6d00-4f67-8f1b-f7799c621143"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE418.pdf"
   },
   {
     "code": "AE420",
@@ -813,7 +813,7 @@
     "grade": "",
     "semester": 8,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE420.pdf?alt=media&token=80eab7b3-4c1b-4586-be97-0233c2686d6c"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE420.pdf"
   },
   {
     "code": "AE422",
@@ -825,7 +825,7 @@
     "grade": "",
     "semester": 8,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE422.pdf?alt=media&token=2dcbd3a1-8599-4fc9-87b4-92f204d64255"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE422.pdf"
   },
   {
     "code": "AE424",
@@ -837,6 +837,6 @@
     "grade": "",
     "semester": 8,
     "branch": "AE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAE424.pdf?alt=media&token=b6bab624-8257-4bbe-b054-7c18c27a699e"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AE424.pdf"
   }
 ]

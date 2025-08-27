@@ -18,10 +18,10 @@
     <link rel="stylesheet" href="../stylesv1.css">
     
     
-  <title>DTU Electives – My Electives (All Semesters)</title>
+<title>DTU Syllabus – All Semesters & Branches | DTU Electives</title>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Explore all electives for your branch and semester. Easily view all syllabus PDFs.">
+  <meta name="description" content="View and download the complete DTU syllabus for all branches and semesters. Get the latest official DTU syllabus PDFs for easy access.">
 
   <!-- Canonical URL -->
   <link rel="canonical" href="https://dtuelectives.in/CS%20Semester/semester_cs.html" />
@@ -89,8 +89,8 @@
 
 
 
-      <h1 class="text-center fw-bold mt-4">My Subjects</h1>
-      <p class="text-center" style="font-size: 1rem; color: #555;">Select your branch and semester to view your subjects and their syllabus</p>
+      <h1 class="text-center fw-bold mt-4">DTU Syllabus – All Semesters & Branches</h1>
+      <p class="text-center" style="font-size: 1rem; color: #555;">Select your branch and semester to view your syllabus</p>
 
 
 
@@ -145,8 +145,7 @@
     </div>
   </div>
 
-  <p class="text-center fst-italic">These are the latest syllabi according to the DTU website, if your professor is following a different syllabus, do use that.</p>
-
+  
     <!-- <div class="row align-items-end">
       <div class="col text-end me-5 pe-5">
         <button class="custom-sem-btn btn-lg" id="downloadButton" >Download all syllabi</button>
@@ -178,7 +177,15 @@
     <div class="collapse" id="searchCollapse">
         <div class="card p-4 shadow-sm mb-4 form-subjects">
             <div class="row g-3 align-items-end">
-                <div class="col-md-4">
+
+                  <!-- Keyword -->
+                <div class="col-md-8">
+                    <label class="form-label ">Subject Name</label>
+                    <input id="searchKeyword" class="form-control" placeholder="e.g. Distributed, Malware, Software" oninput="filterSubjects()">
+                </div>
+
+              <!-- Branches -->
+                <div class="col-md-2">
                     <label class="form-label">Branch</label>
                     <select id="filterBranch" class="form-select">
             <option value="">All Branches</option>
@@ -198,7 +205,8 @@
                     </select>
                 </div>
 
-                <div class="col-md-4">
+                <!-- Semesters -->
+                <div class="col-md-2">
                     <label class="form-label">Semester</label>
                     <select id="filterSemester" class="form-select">
                         <option value="">All</option>
@@ -211,10 +219,6 @@
                     </select>
                 </div>
 
-                <div class="col-md-4">
-                    <label class="form-label">Keyword</label>
-                    <input id="searchKeyword" class="form-control" placeholder="e.g. AI, Data, Cloud" oninput="filterSubjects()">
-                </div>
             </div>
             <button class="btn btn-primary mt-3 custom-sem-btn" onclick="filterSubjects()">Search</button>
         </div>
@@ -230,6 +234,9 @@
             </table>
         </div>
     </div>
+
+    <p class="text-center fst-italic">These are the latest syllabi according to the DTU website, if your professor is following a different syllabus, do use that.</p>
+
 </div>
 
 

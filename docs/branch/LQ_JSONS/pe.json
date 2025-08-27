@@ -9,7 +9,7 @@
     "grade": "",
     "semester": 1,
     "branch": "PE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAM101.pdf?alt=media&token=9e1a0d82-e575-4ace-bd6a-8feb1a8c93c8"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AM101.pdf"
   },
   {
     "code": "AP101",
@@ -21,7 +21,7 @@
     "grade": "",
     "semester": 1,
     "branch": "PE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAP101.pdf?alt=media&token=0e69224e-ad91-4680-8bf0-055e29a8e5d3"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AP101.pdf"
   },
   {
     "code": "EE105",
@@ -33,7 +33,7 @@
     "grade": "",
     "semester": 1,
     "branch": "PE",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/EE105.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/EE105.pdf"
   },
   {
     "code": "AC101",
@@ -45,7 +45,7 @@
     "grade": "",
     "semester": 1,
     "branch": "PE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAC101.pdf?alt=media&token=3ba5b4c3-fa6d-47b1-a711-d6a8668fbd36"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AC101.pdf"
   },
   {
     "code": "PE103",
@@ -57,7 +57,7 @@
     "grade": "",
     "semester": 1,
     "branch": "PE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FPE103.pdf?alt=media&token=56f76f9d-ab96-4517-b587-f08ca716cede"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/PE103.pdf"
   },
   {
     "code": "AEC/VAC",
@@ -69,7 +69,7 @@
     "grade": "",
     "semester": 1,
     "branch": "PE",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/AEC/VAC.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AEC/VAC.pdf"
   },
   {
     "code": "AM102",
@@ -81,7 +81,7 @@
     "grade": "",
     "semester": 2,
     "branch": "PE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAM102.pdf?alt=media&token=0a961225-9d53-43a1-9b98-a3847e546675"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AM102.pdf"
   },
   {
     "code": "CO102",
@@ -93,7 +93,7 @@
     "grade": "",
     "semester": 2,
     "branch": "PE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FCO102.pdf?alt=media&token=8e5ba525-6fa8-4093-8e6f-a59ffbe647f8"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/CO102.pdf"
   },
   {
     "code": "PE102",
@@ -105,7 +105,7 @@
     "grade": "",
     "semester": 2,
     "branch": "PE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FPE102.pdf?alt=media&token=e06de0ae-7878-4d3c-bd87-78f2e9657dcb"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/PE102.pdf"
   },
   {
     "code": "PE104",
@@ -117,7 +117,7 @@
     "grade": "",
     "semester": 2,
     "branch": "PE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FPE104.pdf?alt=media&token=ed2dc2e9-e260-4987-9f62-feb3fc1cf5e3"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/PE104.pdf"
   },
   {
     "code": "PE106",
@@ -129,7 +129,7 @@
     "grade": "",
     "semester": 2,
     "branch": "PE",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FPE106.pdf?alt=media&token=dd7deb3b-f8ee-4c69-85b3-42dd443b91be"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/PE106.pdf"
   },
   {
     "code": "AEC/VAC",
@@ -141,6 +141,6 @@
     "grade": "",
     "semester": 2,
     "branch": "PE",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/AEC/VAC.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AEC/VAC.pdf"
   }
 ]

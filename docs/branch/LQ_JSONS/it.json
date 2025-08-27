@@ -7,7 +7,7 @@
     "Category": "BSC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT101.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT101.pdf"
   },
   {
     "semester": 1,
@@ -17,7 +17,7 @@
     "Category": "BSC/ESC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT103.pdf?alt=media&token=dcdc8924-e89b-49f3-95d2-e7cc9d4e9984"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT103.pdf"
   },
   {
     "semester": 1,
@@ -27,7 +27,7 @@
     "Category": "BSC/ESC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT105.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT105.pdf"
   },
   {
     "semester": 1,
@@ -37,7 +37,7 @@
     "Category": "BSC/ESC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT107.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT107.pdf"
   },
   {
     "semester": 1,
@@ -47,7 +47,7 @@
     "Category": "SEC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT109.pdf?alt=media&token=25cb083f-9660-48f5-9892-9726467e2533"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT109.pdf"
   },
   {
     "semester": 2,
@@ -57,7 +57,7 @@
     "Category": "BSC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT102.pdf?alt=media&token=d758a18b-6a09-4177-aa29-2bc6f09c4e5f"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT102.pdf"
   },
   {
     "semester": 2,
@@ -67,7 +67,7 @@
     "Category": "ESC/BSC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT104.pdf?alt=media&token=9b87fe68-69e7-4e9b-8f6a-eced8eb4e162"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT104.pdf"
   },
   {
     "semester": 2,
@@ -77,7 +77,7 @@
     "Category": "BSC/ESC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT106.pdf?alt=media&token=88b77b4d-669a-4acc-b21c-84d90f1e6001"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT106.pdf"
   },
   {
     "semester": 2,
@@ -87,7 +87,7 @@
     "Category": "BSC/ESC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT108.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT108.pdf"
   },
   {
     "semester": 2,
@@ -97,7 +97,7 @@
     "Category": "SEC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT110.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT110.pdf"
   },
   {
     "semester": 3,
@@ -107,7 +107,7 @@
     "Category": "ESC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT201.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT201.pdf"
   },
   {
     "semester": 3,
@@ -117,7 +117,7 @@
     "Category": "DCC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT203.pdf?alt=media&token=5211f1b7-f881-4931-b77d-41f1edd1aeb0"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT203.pdf"
   },
   {
     "semester": 3,
@@ -127,7 +127,7 @@
     "Category": "DCC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT205.pdf?alt=media&token=171a01bd-690f-4338-b1f0-f83ceb353876"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT205.pdf"
   },
   {
     "semester": 3,
@@ -137,7 +137,7 @@
     "Category": "DCC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT207.pdf?alt=media&token=eaf0d015-e3b7-41e8-955b-4bb57a572b79"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT207.pdf"
   },
   {
     "semester": 3,
@@ -147,7 +147,7 @@
     "Category": "DCC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT209.pdf?alt=media&token=a3c6ab99-fe40-4f21-942f-1d45163556cc"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT209.pdf"
   },
   {
     "semester": 4,
@@ -157,7 +157,7 @@
     "Category": "ESC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT202.pdf?alt=media&token=dca4b077-b41b-4adf-ad3e-07b0aefc7491"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT202.pdf"
   },
   {
     "semester": 4,
@@ -167,7 +167,7 @@
     "Category": "DCC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT204.pdf?alt=media&token=7dcf83df-fa6f-4d96-a906-faa7906529d0"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT204.pdf"
   },
   {
     "semester": 4,
@@ -177,7 +177,7 @@
     "Category": "DCC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT206.pdf?alt=media&token=82fcb7dd-b770-46fd-832e-faf4ff5f9833"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT206.pdf"
   },
   {
     "semester": 4,
@@ -187,7 +187,7 @@
     "Category": "DCC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT208.pdf?alt=media&token=8904001a-6c13-416c-9672-5b0a6e16ecf5"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT208.pdf"
   },
   {
     "semester": 4,
@@ -197,7 +197,7 @@
     "Category": "DCC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT210.pdf?alt=media&token=3f8cf9d0-6704-4ee3-a4dc-3eec64a359f2"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT210.pdf"
   },
   {
     "semester": 5,
@@ -207,7 +207,7 @@
     "Category": "DCC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT301.pdf?alt=media&token=b29a28af-6048-4ccc-86f9-4eb62fef6d40"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT301.pdf"
   },
   {
     "semester": 5,
@@ -217,7 +217,7 @@
     "Category": "DCC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT303.pdf?alt=media&token=0505a5f1-de80-4026-b1f1-7672d6dba9ac"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT303.pdf"
   },
   {
     "semester": 5,
@@ -227,7 +227,7 @@
     "Category": "DCC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT305.pdf?alt=media&token=859bfa7c-78a3-404b-9c6a-3a32051f1d57"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT305.pdf"
   },
   {
     "semester": 5,
@@ -237,7 +237,7 @@
     "Category": "SEC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/SECXX.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/SECXX.pdf"
   },
   {
     "semester": 5,
@@ -247,7 +247,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT309.pdf?alt=media&token=48b67631-4eec-4991-b191-88b1088a505f"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT309.pdf"
   },
   {
     "semester": 5,
@@ -257,7 +257,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT311.pdf?alt=media&token=d8d3ea26-3f16-4044-8c95-f17b3412b99c"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT311.pdf"
   },
   {
     "semester": 5,
@@ -267,7 +267,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT313.pdf?alt=media&token=c6055ad1-dc1b-4190-9548-34b397909400"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT313.pdf"
   },
   {
     "semester": 5,
@@ -277,7 +277,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT315.pdf?alt=media&token=cff82f8c-df99-477b-98f6-fb98dcaaa475"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT315.pdf"
   },
   {
     "semester": 5,
@@ -287,7 +287,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT317.pdf?alt=media&token=0e21d097-5771-4ee5-bff7-4913e47166e1"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT317.pdf"
   },
   {
     "semester": 5,
@@ -297,7 +297,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT319.pdf?alt=media&token=b678729b-8b3d-438b-af1a-6475c694a5f4"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT319.pdf"
   },
   {
     "semester": 5,
@@ -307,7 +307,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT351.pdf?alt=media&token=9e0897fb-db9f-4619-befe-e6572038ac23"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT351.pdf"
   },
   {
     "semester": 5,
@@ -317,7 +317,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT353.pdf?alt=media&token=8dd97e02-696b-430a-a977-062d73fe8bb4"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT353.pdf"
   },
   {
     "semester": 5,
@@ -327,7 +327,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT355.pdf?alt=media&token=723c447c-fbbd-46a3-a7f8-cdf4f35d40aa"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT355.pdf"
   },
   {
     "semester": 5,
@@ -337,7 +337,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT357.pdf?alt=media&token=273cf374-5a4e-4808-b015-559966126a3d"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT357.pdf"
   },
   {
     "semester": 5,
@@ -347,7 +347,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT359.pdf?alt=media&token=ce1bf3bd-36c2-4cea-bd12-64581549bdf9"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT359.pdf"
   },
   {
     "semester": 5,
@@ -357,7 +357,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT361.pdf?alt=media&token=5d9bfce6-fed7-48e4-93a5-b620c17963f7"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT361.pdf"
   },
   {
     "semester": 6,
@@ -367,7 +367,7 @@
     "Category": "DCC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT302.pdf?alt=media&token=41cdb527-cc99-4491-89ab-56334d67471c"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT302.pdf"
   },
   {
     "semester": 6,
@@ -377,7 +377,7 @@
     "Category": "DCC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT304.pdf?alt=media&token=843bceb9-07b6-49a8-98e2-b18170fa350d"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT304.pdf"
   },
   {
     "semester": 6,
@@ -387,7 +387,7 @@
     "Category": "SEC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/SECXX.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/SECXX.pdf"
   },
   {
     "semester": 6,
@@ -397,7 +397,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT308.pdf?alt=media&token=88f283e3-0bc5-485e-9b0b-da2727ae44bb"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT308.pdf"
   },
   {
     "semester": 6,
@@ -407,7 +407,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT310.pdf?alt=media&token=590fbc20-7282-486e-bd90-25ae9ff62604"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT310.pdf"
   },
   {
     "semester": 6,
@@ -417,7 +417,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT312.pdf?alt=media&token=274639a7-ff0d-4ff2-b714-2485ee32ed06"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT312.pdf"
   },
   {
     "semester": 6,
@@ -427,7 +427,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT314.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT314.pdf"
   },
   {
     "semester": 6,
@@ -437,7 +437,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT316.pdf?alt=media&token=846259bd-8e7f-4bf0-abb5-b2adfb93ec53"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT316.pdf"
   },
   {
     "semester": 6,
@@ -447,7 +447,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT318.pdf?alt=media&token=d2d52b0b-c81a-4e5d-a9eb-106dd7a12aa3"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT318.pdf"
   },
   {
     "semester": 6,
@@ -457,7 +457,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT320.pdf?alt=media&token=2079282d-f6a1-4ba4-a659-3c83ae7f34ef"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT320.pdf"
   },
   {
     "semester": 6,
@@ -467,7 +467,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT322.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT322.pdf"
   },
   {
     "semester": 6,
@@ -477,7 +477,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT324.pdf?alt=media&token=c5e65e2f-da5c-483f-a8a0-7a21b6bb8f57"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT324.pdf"
   },
   {
     "semester": 6,
@@ -487,7 +487,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT326.pdf?alt=media&token=5d7c056c-b0c4-4b0f-9065-68dc60af6243"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT326.pdf"
   },
   {
     "semester": 6,
@@ -497,7 +497,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT328.pdf?alt=media&token=9be1b9ca-6f5a-4ca4-ada3-1c0b29870d36"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT328.pdf"
   },
   {
     "semester": 6,
@@ -507,7 +507,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT330.pdf?alt=media&token=39bf84ab-64f0-4e42-8151-c91b729897ce"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT330.pdf"
   },
   {
     "semester": 6,
@@ -517,7 +517,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT352.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT352.pdf"
   },
   {
     "semester": 6,
@@ -527,7 +527,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT354.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT354.pdf"
   },
   {
     "semester": 6,
@@ -537,7 +537,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT356.pdf?alt=media&token=99f9913a-cfc5-42f1-9543-b745db9ec1a1"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT356.pdf"
   },
   {
     "semester": 6,
@@ -547,7 +547,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT358.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT358.pdf"
   },
   {
     "semester": 6,
@@ -557,7 +557,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT360.pdf?alt=media&token=9429a1a2-6da6-4845-978e-a67540925f3e"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT360.pdf"
   },
   {
     "semester": 6,
@@ -567,7 +567,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT362.pdf?alt=media&token=c6d88d99-8fc3-418c-9c52-4065a4bb65d5"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT362.pdf"
   },
   {
     "semester": 7,
@@ -577,7 +577,7 @@
     "Category": "DCC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT401.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT401.pdf"
   },
   {
     "semester": 7,
@@ -587,7 +587,7 @@
     "Category": "DCC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT403.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT403.pdf"
   },
   {
     "semester": 7,
@@ -597,7 +597,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT425.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT425.pdf"
   },
   {
     "semester": 7,
@@ -607,7 +607,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT427.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT427.pdf"
   },
   {
     "semester": 7,
@@ -617,7 +617,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT405.pdf?alt=media&token=9dbc5a4f-2652-4508-93a6-8f9c384a0084"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT405.pdf"
   },
   {
     "semester": 7,
@@ -627,7 +627,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT407.pdf?alt=media&token=0663f740-8605-4342-abd5-5ca40d1364b4"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT407.pdf"
   },
   {
     "semester": 7,
@@ -637,7 +637,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT409.pdf?alt=media&token=da648804-c22f-46c7-9faa-2406f72615ff"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT409.pdf"
   },
   {
     "semester": 7,
@@ -647,7 +647,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT411.pdf?alt=media&token=a60d25e3-ff1c-4f4a-b391-cccd3264a59c"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT411.pdf"
   },
   {
     "semester": 7,
@@ -657,7 +657,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT413.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT413.pdf"
   },
   {
     "semester": 7,
@@ -667,7 +667,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT415.pdf?alt=media&token=795f6bac-3d75-475a-9e8c-d66e5c630b72"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT415.pdf"
   },
   {
     "semester": 7,
@@ -677,7 +677,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT417.pdf?alt=media&token=b2a59e6d-ccbd-432b-8889-7f23de3732fa"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT417.pdf"
   },
   {
     "semester": 7,
@@ -687,7 +687,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT419.pdf?alt=media&token=a95777ea-6c5c-40a0-99c8-7192814a1d4c"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT419.pdf"
   },
   {
     "semester": 7,
@@ -697,7 +697,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT421.pdf?alt=media&token=2814e535-4f01-429a-ac4c-04c04d758daf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT421.pdf"
   },
   {
     "semester": 7,
@@ -707,7 +707,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT423.pdf?alt=media&token=d3795c1b-a3bc-4729-930d-3e764eff9a84"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT423.pdf"
   },
   {
     "semester": 7,
@@ -717,7 +717,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT451.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT451.pdf"
   },
   {
     "semester": 7,
@@ -727,7 +727,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT453.pdf?alt=media&token=9a31d01b-04cb-4c57-aaef-d64135935d35"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT453.pdf"
   },
   {
     "semester": 7,
@@ -737,7 +737,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT455.pdf?alt=media&token=55d5f5f1-f5bd-47ce-8897-9a6637ff70c9"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT455.pdf"
   },
   {
     "semester": 7,
@@ -747,7 +747,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT457.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT457.pdf"
   },
   {
     "semester": 7,
@@ -757,7 +757,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT459.pdf?alt=media&token=ef229a2b-eebc-4ffd-a9de-179732fff593"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT459.pdf"
   },
   {
     "semester": 7,
@@ -767,7 +767,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT461.pdf?alt=media&token=441485e6-4651-4196-b0cc-dbfc1682d072"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT461.pdf"
   },
   {
     "semester": 7,
@@ -777,7 +777,7 @@
     "Category": "VAC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/VACXX.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/VACXX.pdf"
   },
   {
     "semester": 8,
@@ -787,7 +787,7 @@
     "Category": "DCC",
     "type": "Mandatory",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT402.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT402.pdf"
   },
   {
     "semester": 8,
@@ -797,7 +797,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT414.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT414.pdf"
   },
   {
     "semester": 8,
@@ -807,7 +807,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT404.pdf?alt=media&token=bae4e99b-7dba-4231-b4b9-06d0fc634536"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT404.pdf"
   },
   {
     "semester": 8,
@@ -817,7 +817,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT406.pdf?alt=media&token=4150f56c-7b80-411d-b597-4855f45c9379"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT406.pdf"
   },
   {
     "semester": 8,
@@ -827,7 +827,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT408.pdf?alt=media&token=35d82137-0333-437d-ba8d-95acaab3829d"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT408.pdf"
   },
   {
     "semester": 8,
@@ -837,7 +837,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT410.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT410.pdf"
   },
   {
     "semester": 8,
@@ -847,7 +847,7 @@
     "Category": "DEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/IT412.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT412.pdf"
   },
   {
     "semester": 8,
@@ -857,7 +857,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT452.pdf?alt=media&token=d1e504e0-f875-4cc5-8cf4-bb537ae0e583"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT452.pdf"
   },
   {
     "semester": 8,
@@ -867,7 +867,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT454.pdf?alt=media&token=221f288b-520b-44b7-a73b-ab9bdf297f9d"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT454.pdf"
   },
   {
     "semester": 8,
@@ -877,7 +877,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT456.pdf?alt=media&token=8c99c711-5f5a-4d57-9835-7c9813cb487e"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT456.pdf"
   },
   {
     "semester": 8,
@@ -887,7 +887,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT458.pdf?alt=media&token=1ffa85a6-5554-48e6-a15f-6046ea16507c"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT458.pdf"
   },
   {
     "semester": 8,
@@ -897,7 +897,7 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT460.pdf?alt=media&token=b1d39da8-39d7-4dba-8b38-3ae0df34ce96"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT460.pdf"
   },
   {
     "semester": 8,
@@ -907,6 +907,6 @@
     "Category": "GEC",
     "type": "Elective",
     "branch": "IT",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FIT462.pdf?alt=media&token=423d9043-fe77-4f2a-9a40-ceb3a4bf5357"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT462.pdf"
   }
 ]

@@ -9,7 +9,7 @@
     "grade": "",
     "semester": 1,
     "branch": "EN",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAM101.pdf?alt=media&token=9e1a0d82-e575-4ace-bd6a-8feb1a8c93c8"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AM101.pdf"
   },
   {
     "code": "AP101",
@@ -21,7 +21,7 @@
     "grade": "",
     "semester": 1,
     "branch": "EN",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAP101.pdf?alt=media&token=0e69224e-ad91-4680-8bf0-055e29a8e5d3"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AP101.pdf"
   },
   {
     "code": "CE101",
@@ -33,7 +33,7 @@
     "grade": "",
     "semester": 1,
     "branch": "EN",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FCE101.pdf?alt=media&token=d02cd25e-3979-4ada-b5ff-43326848bfc8"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/CE101.pdf"
   },
   {
     "code": "AC101",
@@ -45,7 +45,7 @@
     "grade": "",
     "semester": 1,
     "branch": "EN",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAC101.pdf?alt=media&token=3ba5b4c3-fa6d-47b1-a711-d6a8668fbd36"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AC101.pdf"
   },
   {
     "code": "EN103",
@@ -57,7 +57,7 @@
     "grade": "",
     "semester": 1,
     "branch": "EN",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FEN103.pdf?alt=media&token=bcf0ace2-c912-4808-ad2d-25638e02752b"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/EN103.pdf"
   },
   {
     "code": "AEC/VAC",
@@ -69,7 +69,7 @@
     "grade": "",
     "semester": 1,
     "branch": "EN",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/AEC/VAC.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AEC/VAC.pdf"
   },
   {
     "code": "AM102",
@@ -81,7 +81,7 @@
     "grade": "",
     "semester": 2,
     "branch": "EN",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAM102.pdf?alt=media&token=0a961225-9d53-43a1-9b98-a3847e546675"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AM102.pdf"
   },
   {
     "code": "CO102",
@@ -93,7 +93,7 @@
     "grade": "",
     "semester": 2,
     "branch": "EN",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FCO102.pdf?alt=media&token=8e5ba525-6fa8-4093-8e6f-a59ffbe647f8"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/CO102.pdf"
   },
   {
     "code": "EN102",
@@ -105,7 +105,7 @@
     "grade": "",
     "semester": 2,
     "branch": "EN",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FEN102.pdf?alt=media&token=dc43f833-7ac1-46d4-b237-988060dd3d12"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/EN102.pdf"
   },
   {
     "code": "EN104",
@@ -117,7 +117,7 @@
     "grade": "",
     "semester": 2,
     "branch": "EN",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FEN104.pdf?alt=media&token=9f7ec5c5-ed13-4fe4-9d63-9b8d1c06432f"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/EN104.pdf"
   },
   {
     "code": "EN106",
@@ -129,7 +129,7 @@
     "grade": "",
     "semester": 2,
     "branch": "EN",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FEN106.pdf?alt=media&token=9d8257a3-f2f8-4a8c-a2ab-5bd5cd621b84"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/EN106.pdf"
   },
   {
     "code": "AEC/VAC",
@@ -141,6 +141,6 @@
     "grade": "",
     "semester": 2,
     "branch": "EN",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/AEC/VAC.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AEC/VAC.pdf"
   }
 ]

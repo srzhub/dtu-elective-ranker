@@ -1,13 +1,3 @@
-IT SUBJECTS
-IT 303 Computer Networks
-IT319	Software Project Management
-IT351	Data Structures and Algorithms
-IT357	Computer Architecture
-IT359	Introduction to Database Systems
-
-IT310	Pattern Recognition
-IT312	Secure Coding
-IT320	Natural Language Processing
 
 Missing:
 IT314	Wireless Ad hoc Mobile Networks

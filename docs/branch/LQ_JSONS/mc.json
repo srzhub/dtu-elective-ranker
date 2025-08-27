@@ -9,7 +9,7 @@
     "grade": "",
     "semester": 1,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAM101.pdf?alt=media&token=9e1a0d82-e575-4ace-bd6a-8feb1a8c93c8"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AM101.pdf"
   },
   {
     "code": "AP101",
@@ -21,7 +21,7 @@
     "grade": "",
     "semester": 1,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAP101.pdf?alt=media&token=0e69224e-ad91-4680-8bf0-055e29a8e5d3"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AP101.pdf"
   },
   {
     "code": "EC101",
@@ -33,7 +33,7 @@
     "grade": "",
     "semester": 1,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FEC101.pdf?alt=media&token=30854b79-c9a7-491b-a509-f4441a251145"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/EC101.pdf"
   },
   {
     "code": "ME105",
@@ -45,7 +45,7 @@
     "grade": "",
     "semester": 1,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FME105.pdf?alt=media&token=eaba4a89-b6c1-4294-8cd2-4f1589b32bc0"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/ME105.pdf"
   },
   {
     "code": "MC103",
@@ -57,7 +57,7 @@
     "grade": "",
     "semester": 1,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMC103.pdf?alt=media&token=0a45cf14-75de-4b18-bbed-4e81203f47bc"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/MC103.pdf"
   },
   {
     "code": "AEC/VAC",
@@ -69,7 +69,7 @@
     "grade": "",
     "semester": 1,
     "branch": "MC",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/AEC/VAC.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AEC/VAC.pdf"
   },
   {
     "code": "AM102",
@@ -81,7 +81,7 @@
     "grade": "",
     "semester": 2,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FAM102.pdf?alt=media&token=0a961225-9d53-43a1-9b98-a3847e546675"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AM102.pdf"
   },
   {
     "code": "CO102",
@@ -93,7 +93,7 @@
     "grade": "",
     "semester": 2,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FCO102.pdf?alt=media&token=8e5ba525-6fa8-4093-8e6f-a59ffbe647f8"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/CO102.pdf"
   },
   {
     "code": "MC102",
@@ -105,7 +105,7 @@
     "grade": "",
     "semester": 2,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMC102.pdf?alt=media&token=f43d5803-825e-4350-b812-26512664eaa1"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/MC102.pdf"
   },
   {
     "code": "MC104",
@@ -117,7 +117,7 @@
     "grade": "",
     "semester": 2,
     "branch": "MC",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/MC104.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/MC104.pdf"
   },
   {
     "code": "MC106",
@@ -129,7 +129,7 @@
     "grade": "",
     "semester": 2,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMC106.pdf?alt=media&token=65c19b01-b73b-4e20-b8ac-c7a40216421b"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/MC106.pdf"
   },
   {
     "code": "AEC/VAC",
@@ -141,7 +141,7 @@
     "grade": "",
     "semester": 2,
     "branch": "MC",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/AEC/VAC.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AEC/VAC.pdf"
   },
   {
     "code": "MC201",
@@ -153,7 +153,7 @@
     "grade": "",
     "semester": 3,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMC201.pdf?alt=media&token=81e52d8c-d725-44ed-91a5-05ab00055412"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/MC201.pdf"
   },
   {
     "code": "MC203",
@@ -165,7 +165,7 @@
     "grade": "",
     "semester": 3,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMC203.pdf?alt=media&token=279b0070-14c8-4b5c-8284-8510bc9a4f7b"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/MC203.pdf"
   },
   {
     "code": "MC205",
@@ -177,7 +177,7 @@
     "grade": "",
     "semester": 3,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMC205.pdf?alt=media&token=b0d555a7-cd70-4fae-8399-92eeb7339947"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/MC205.pdf"
   },
   {
     "code": "MC207",
@@ -189,7 +189,7 @@
     "grade": "",
     "semester": 3,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMC207.pdf?alt=media&token=6d72b798-5de4-4c03-afdc-2c5b710acbe6"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/MC207.pdf"
   },
   {
     "code": "MC209",
@@ -201,7 +201,7 @@
     "grade": "",
     "semester": 3,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMC209.pdf?alt=media&token=4f9696c0-d3ff-407f-bbe9-792f71735836"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/MC209.pdf"
   },
   {
     "code": "AEC/VAC-3",
@@ -213,7 +213,7 @@
     "grade": "",
     "semester": 3,
     "branch": "MC",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/AEC/VAC-3.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AEC/VAC-3.pdf"
   },
   {
     "code": "MS299",
@@ -225,7 +225,7 @@
     "grade": "",
     "semester": 3,
     "branch": "MC",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/MS299.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/MS299.pdf"
   },
   {
     "code": "MC202",
@@ -237,7 +237,7 @@
     "grade": "",
     "semester": 4,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMC202.pdf?alt=media&token=6638a2e1-43b9-43c6-999f-ea1ae5cc3ad2"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/MC202.pdf"
   },
   {
     "code": "MC204",
@@ -249,7 +249,7 @@
     "grade": "",
     "semester": 4,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMC204.pdf?alt=media&token=dcdb5f9f-6a3b-465f-8fc2-78f485430af1"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/MC204.pdf"
   },
   {
     "code": "MC206",
@@ -261,7 +261,7 @@
     "grade": "",
     "semester": 4,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMC206.pdf?alt=media&token=435e511b-9629-479a-a257-37873df99017"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/MC206.pdf"
   },
   {
     "code": "MC208",
@@ -273,7 +273,7 @@
     "grade": "",
     "semester": 4,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMC208.pdf?alt=media&token=f94f7dcc-2643-4fb1-a01a-eef35daaee43"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/MC208.pdf"
   },
   {
     "code": "MC210",
@@ -285,7 +285,7 @@
     "grade": "",
     "semester": 4,
     "branch": "MC",
-    "pdf": "https://firebasestorage.googleapis.com/v0/b/dtu-electives-ranker.firebasestorage.app/o/lq_syllabi%2FMC210.pdf?alt=media&token=9cdbfc18-4fb2-46e2-97ff-7f84f8894ff1"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/MC210.pdf"
   },
   {
     "code": "AEC/VAC-4",
@@ -297,6 +297,6 @@
     "grade": "",
     "semester": 4,
     "branch": "MC",
-    "pdf": "https://storage.googleapis.com/dtu-electives-ranker.firebasestorage.app/hd_syllabi/AEC/VAC-4.pdf"
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/AEC/VAC-4.pdf"
   }
 ]
