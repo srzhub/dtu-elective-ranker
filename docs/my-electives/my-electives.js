@@ -163,7 +163,12 @@ function updateElectivesFromFilters(){
 semFilter.addEventListener("change", updateElectivesFromFilters);
 branchFilter.addEventListener("change", updateElectivesFromFilters);
 
-// Bulk‑download all saved syllabi as a ZIP
+
+
+
+
+
+// Bulk‑download all saved syllabi as a ZIP (NOT FUNCTIONAL RIGHT NOW)
 async function downloadAllZipped() {
   const saved = JSON.parse(localStorage.getItem("myElectives") || "[]");
   if (saved.length === 0) {

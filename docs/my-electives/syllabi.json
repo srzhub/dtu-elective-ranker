@@ -4119,6 +4119,16 @@
     "pdf": "https://dtu-electives-ranker.web.app/syllabus/IT305",
     "timetable": ""
   },
+    {
+    "code": "HU301",
+    "title": "Engineering Economics",
+    "semester": 5,
+    "branch": "IT",
+    "Category": "HMC",
+    "type": "Mandatory",
+    "pdf": "https://dtu-electives-ranker.web.app/syllabus/HU301",
+    "timetable": ""
+  },
   {
     "code": "IT309",
     "title": "Deep Learning",
