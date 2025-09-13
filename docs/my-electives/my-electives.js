@@ -29,8 +29,9 @@ function filterSubjects() {
       <td>${subj.code}</td>
       <td>${subj.title}</td>
       <td>${subj.semester}</td>
-      <td>${subj.Category}</td>
       <td><button class="btn btn-sm btn-success" onclick='addElective(${JSON.stringify(subj)})'>Add</button></td>
+      <td>${subj.Category}</td>
+
     `;
     tbody.appendChild(tr);
   });
@@ -105,13 +106,6 @@ function renderElectives() {
     `;
     tbody.appendChild(tr);
 
-    // if (hasPdf) {
-    //   const link = document.createElement("link");
-    //   link.rel = "prefetch";
-    //   link.href = subj.pdf;   // or `/syllabus/${subj.code}`
-    //   link.as = "document";
-    //   document.head.appendChild(link);
-    // }
   });
 
 }
