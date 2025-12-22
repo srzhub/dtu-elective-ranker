@@ -6288,5 +6288,215 @@
     "type": "Elective",
     "pdf": "https://dtu-electives-ranker.web.app/syllabus/SE414",
     "timetable": ""
+  },
+  {
+    "code": "HU 312",
+    "title": "Microeconomics",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU312",
+    "timetable": ""
+  },
+  {
+    "code": "HU 305",
+    "title": "Macroeconomics",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU305",
+    "timetable": ""
+  },
+  {
+    "code": "HU 306",
+    "title": "Money, Banking and Finance",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU306",
+    "timetable": ""
+  },
+  {
+    "code": "HU 307",
+    "title": "Basic Econometrics",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU307",
+    "timetable": ""
+  },
+  {
+    "code": "HU 308",
+    "title": "Mathematical Economics",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU308",
+    "timetable": ""
+  },
+  {
+    "code": "HU 309",
+    "title": "Indian Economy",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU309",
+    "timetable": ""
+  },
+  {
+    "code": "HU 310",
+    "title": "International Economics",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU310",
+    "timetable": ""
+  },
+  {
+    "code": "HU 405",
+    "title": "Economic Growth",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU405",
+    "timetable": ""
+  },
+  {
+    "code": "HU 406",
+    "title": "Public Finance and Policy",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU406",
+    "timetable": ""
+  },
+  {
+    "code": "HU 407",
+    "title": "Wealth and Poverty of Nations",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU407",
+    "timetable": ""
+  },
+  {
+    "code": "HU 317",
+    "title": "Basic Communication Skills",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU317",
+    "timetable": ""
+  },
+  {
+    "code": "HU 318",
+    "title": "Professional Writing Skills",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU318",
+    "timetable": ""
+  },
+  {
+    "code": "HU 325",
+    "title": "Creative Writing Skills",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU325",
+    "timetable": ""
+  },
+  {
+    "code": "HU 326",
+    "title": "Rhetoric and Public Speaking",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU326",
+    "timetable": ""
+  },
+  {
+    "code": "HU 327",
+    "title": "Non-Verbal Communication",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU327",
+    "timetable": ""
+  },
+  {
+    "code": "HU 328",
+    "title": "Theatre and stagecraft",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU328",
+    "timetable": ""
+  },
+  {
+    "code": "HU 425",
+    "title": "Soft Skills Development",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU425",
+    "timetable": ""
+  },
+  {
+    "code": "HU 426",
+    "title": "Language and Social Media",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU426",
+    "timetable": ""
+  },
+  {
+    "code": "HU 427",
+    "title": "Literary Appreciation",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU427",
+    "timetable": ""
+  },
+  {
+    "code": "HU 428",
+    "title": "Adaptation and Translation",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU428",
+    "timetable": ""
+  },
+  {
+    "code": "HU 429",
+    "title": "Advanced Spoken Skills",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU429",
+    "timetable": ""
   }
 ]

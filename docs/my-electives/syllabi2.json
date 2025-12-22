@@ -1,0 +1,6502 @@
+[
+  {
+    "code": "AM101",
+    "title": "Mathematics -1",
+    "semester": 1,
+    "branch": "AE",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM101",
+    "timetable": ""
+  },
+  {
+    "code": "AM101",
+    "title": "Mathematics -1",
+    "semester": 1,
+    "branch": "AE",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM101",
+    "timetable": ""
+  },
+  {
+    "code": "AM101",
+    "title": "Mathematics -1",
+    "semester": 1,
+    "branch": "IT",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM101",
+    "timetable": ""
+  },
+  {
+    "code": "AP101",
+    "title": "Physics",
+    "semester": 1,
+    "branch": "AE",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AP101",
+    "timetable": ""
+  },
+  {
+    "code": "MBA-107",
+    "title": "Marketing Management",
+    "semester": 5,
+    "branch": "MB",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/MBA-107",
+    "timetable": ""
+  },
+  {
+    "code": "MBAMK-213",
+    "title": "Consumer Behaviour",
+    "semester": 5,
+    "branch": "MB",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/MBAMK-213",
+    "timetable": ""
+  },
+  {
+    "code": "MBAMK-219",
+    "title": "Marketing Research",
+    "semester": 5,
+    "branch": "MB",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/MBAMK-219",
+    "timetable": ""
+  },
+  {
+    "code": "MBASC-213",
+    "title": "Total Quality Management",
+    "semester": 5,
+    "branch": "MB",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/MBASC-213",
+    "timetable": ""
+  },
+  {
+    "code": "MBASC-215",
+    "title": "Logistics Management",
+    "semester": 5,
+    "branch": "MB",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/MBASC-215",
+    "timetable": ""
+  },
+  {
+    "code": "CE101",
+    "title": "Basic Civil Engineering",
+    "semester": 1,
+    "branch": "AE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE101",
+    "timetable": ""
+  },
+  {
+    "code": "EE101",
+    "title": "Basic Electrical Engineering I",
+    "semester": 1,
+    "branch": "AE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EE101",
+    "timetable": ""
+  },
+  {
+    "code": "AM102",
+    "title": "Mathematics-II",
+    "semester": 2,
+    "branch": "AE",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM102",
+    "timetable": ""
+  },
+  {
+    "code": "CO102",
+    "title": "Programming Fundamentals",
+    "semester": 2,
+    "branch": "AE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CO102",
+    "timetable": ""
+  },
+  {
+    "code": "AE102",
+    "title": "Electronics and Communication concepts for Mechanical Engineers",
+    "semester": 2,
+    "branch": "AE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AE102",
+    "timetable": ""
+  },
+  {
+    "code": "AE104",
+    "title": "Engineering Mechanics",
+    "semester": 2,
+    "branch": "AE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AE104",
+    "timetable": ""
+  },
+  {
+    "code": "AE106",
+    "title": "Engineering Graphics",
+    "semester": 2,
+    "branch": "AE",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AE106",
+    "timetable": ""
+  },
+  {
+    "code": "AE301",
+    "title": "Manufacturing technology",
+    "semester": 5,
+    "branch": "AE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AE301",
+    "timetable": ""
+  },
+  {
+    "code": "AE303",
+    "title": "Design of Machine elements",
+    "semester": 5,
+    "branch": "AE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AE303",
+    "timetable": ""
+  },
+  {
+    "code": "AE305",
+    "title": "Measurements and Instrumentation",
+    "semester": 5,
+    "branch": "AE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AE305",
+    "timetable": ""
+  },
+  {
+    "code": "HU301",
+    "title": "Engineering Economics",
+    "semester": 5,
+    "branch": "AE",
+    "Category": "HMC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/HU301",
+    "timetable": ""
+  },
+  {
+    "code": "AE307",
+    "title": "Combustion Generated Pollution",
+    "semester": 5,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE307",
+    "timetable": ""
+  },
+  {
+    "code": "AE309",
+    "title": "Operation Research",
+    "semester": 5,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE309",
+    "timetable": ""
+  },
+  {
+    "code": "AE311",
+    "title": "Tyre Technology",
+    "semester": 5,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE311",
+    "timetable": ""
+  },
+  {
+    "code": "AE313",
+    "title": "Thermal Engineering",
+    "semester": 5,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE313",
+    "timetable": ""
+  },
+  {
+    "code": "AE315",
+    "title": "Turbo machinery and gas dynamics",
+    "semester": 5,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE315",
+    "timetable": ""
+  },
+  {
+    "code": "AE317",
+    "title": "Power units and transmission",
+    "semester": 5,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE317",
+    "timetable": ""
+  },
+  {
+    "code": "AE319",
+    "title": "Computer Simulation of I.C. Engine Process",
+    "semester": 5,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE319",
+    "timetable": ""
+  },
+  {
+    "code": "AE321",
+    "title": "Advanced strength of material",
+    "semester": 5,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE321",
+    "timetable": ""
+  },
+  {
+    "code": "AE323",
+    "title": "Finite Element Methods and Applications",
+    "semester": 5,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE323",
+    "timetable": ""
+  },
+  {
+    "code": "AE302",
+    "title": "I C Engines",
+    "semester": 6,
+    "branch": "AE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AE302",
+    "timetable": ""
+  },
+  {
+    "code": "AE304",
+    "title": "Alternative fuels and energy systems",
+    "semester": 6,
+    "branch": "AE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AE304",
+    "timetable": ""
+  },
+  {
+    "code": "MG302",
+    "title": "Fundamentals of management",
+    "semester": 6,
+    "branch": "AE",
+    "Category": "HMC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MG302",
+    "timetable": ""
+  },
+  {
+    "code": "AE306",
+    "title": "Automotive Aerodynamics & CFD",
+    "semester": 6,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE306",
+    "timetable": ""
+  },
+  {
+    "code": "AE308",
+    "title": "Advanced Manufacturing Technology",
+    "semester": 6,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE308",
+    "timetable": ""
+  },
+  {
+    "code": "AE310",
+    "title": "Quality Management & Six Sigma Applications",
+    "semester": 6,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE310",
+    "timetable": ""
+  },
+  {
+    "code": "AE312",
+    "title": "Metrology",
+    "semester": 6,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE312",
+    "timetable": ""
+  },
+  {
+    "code": "AE314",
+    "title": "Advances in Welding & Casting",
+    "semester": 6,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE314",
+    "timetable": ""
+  },
+  {
+    "code": "AE316",
+    "title": "Materials for automobile components",
+    "semester": 6,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE316",
+    "timetable": ""
+  },
+  {
+    "code": "AE318",
+    "title": "Tribology and lubrication",
+    "semester": 6,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE318",
+    "timetable": ""
+  },
+  {
+    "code": "AE320",
+    "title": "Reliability & Maintenance Engineering",
+    "semester": 6,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE320",
+    "timetable": ""
+  },
+  {
+    "code": "AE322",
+    "title": "Elastic & Plastic Behaviour of Materials",
+    "semester": 6,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE322",
+    "timetable": ""
+  },
+  {
+    "code": "AE324",
+    "title": "Production Planning & Inventory Control",
+    "semester": 6,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE324",
+    "timetable": ""
+  },
+  {
+    "code": "AE326",
+    "title": "Supply Chain Management",
+    "semester": 6,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE326",
+    "timetable": ""
+  },
+  {
+    "code": "AE328",
+    "title": "Computer Integrated Manufacturing Systems",
+    "semester": 6,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE328",
+    "timetable": ""
+  },
+  {
+    "code": "AE405",
+    "title": "Design of Automobile Components",
+    "semester": 7,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE405",
+    "timetable": ""
+  },
+  {
+    "code": "AE407",
+    "title": "Production And Operations Management",
+    "semester": 7,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE407",
+    "timetable": ""
+  },
+  {
+    "code": "AE409",
+    "title": "Computer Aided Vehicle Design and Safety",
+    "semester": 7,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE409",
+    "timetable": ""
+  },
+  {
+    "code": "AE411",
+    "title": "Vehicle Maintenance & Tribology",
+    "semester": 7,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE411",
+    "timetable": ""
+  },
+  {
+    "code": "AE413",
+    "title": "Vehicle Transport Management",
+    "semester": 7,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE413",
+    "timetable": ""
+  },
+  {
+    "code": "AE415",
+    "title": "Power Plant Engineering",
+    "semester": 7,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE415",
+    "timetable": ""
+  },
+  {
+    "code": "AE417",
+    "title": "Robotics & Automation",
+    "semester": 7,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE417",
+    "timetable": ""
+  },
+  {
+    "code": "AE419",
+    "title": "Nuclear Energy",
+    "semester": 7,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE419",
+    "timetable": ""
+  },
+  {
+    "code": "AE421",
+    "title": "Product design and development",
+    "semester": 7,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE421",
+    "timetable": ""
+  },
+  {
+    "code": "AE423",
+    "title": "Financial Management",
+    "semester": 7,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE423",
+    "timetable": ""
+  },
+  {
+    "code": "AE425",
+    "title": "Fracture mechanics",
+    "semester": 7,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE425",
+    "timetable": ""
+  },
+  {
+    "code": "AE404",
+    "title": "Total Life Cycle Management",
+    "semester": 8,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE404",
+    "timetable": ""
+  },
+  {
+    "code": "AE406",
+    "title": "Refrigeration & Automobile Air Conditioning",
+    "semester": 8,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE406",
+    "timetable": ""
+  },
+  {
+    "code": "AE408",
+    "title": "Fuel Cells",
+    "semester": 8,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE408",
+    "timetable": ""
+  },
+  {
+    "code": "AE410",
+    "title": "Modern Vehicle Technology",
+    "semester": 8,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE410",
+    "timetable": ""
+  },
+  {
+    "code": "AE412",
+    "title": "Automobiles Vibration System Analysis",
+    "semester": 8,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE412",
+    "timetable": ""
+  },
+  {
+    "code": "AE414",
+    "title": "Renewable Energy Sources",
+    "semester": 8,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE414",
+    "timetable": ""
+  },
+  {
+    "code": "AE416",
+    "title": "Vehicle Safety Engineering",
+    "semester": 8,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE416",
+    "timetable": ""
+  },
+  {
+    "code": "AE418",
+    "title": "Packaging Technology",
+    "semester": 8,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE418",
+    "timetable": ""
+  },
+  {
+    "code": "AE420",
+    "title": "Mechatronics",
+    "semester": 8,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE420",
+    "timetable": ""
+  },
+  {
+    "code": "AE422",
+    "title": "Tractors and Farm Equipment and Off-Road Vehicles",
+    "semester": 8,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE422",
+    "timetable": ""
+  },
+  {
+    "code": "AE424",
+    "title": "Automobile process control",
+    "semester": 8,
+    "branch": "AE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/AE424",
+    "timetable": ""
+  },
+  {
+    "code": "AM101",
+    "title": "Mathematics - 1",
+    "semester": 1,
+    "branch": "BT",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM101",
+    "timetable": ""
+  },
+  {
+    "code": "AP101",
+    "title": "Applied Physics",
+    "semester": 1,
+    "branch": "BT",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AP101",
+    "timetable": ""
+  },
+  {
+    "code": "EC101",
+    "title": "Basic Electronics & Communication Engineering",
+    "semester": 1,
+    "branch": "BT",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC101",
+    "timetable": ""
+  },
+  {
+    "code": "AC101",
+    "title": "Applied Chemistry",
+    "semester": 1,
+    "branch": "BT",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AC101",
+    "timetable": ""
+  },
+  {
+    "code": "BT103",
+    "title": "Applied Aquaculture",
+    "semester": 1,
+    "branch": "BT",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT103",
+    "timetable": ""
+  },
+  {
+    "code": "AM102",
+    "title": "Mathematics-II",
+    "semester": 2,
+    "branch": "BT",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM102",
+    "timetable": ""
+  },
+  {
+    "code": "CO102",
+    "title": "Programming Fundamentals",
+    "semester": 2,
+    "branch": "BT",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CO102",
+    "timetable": ""
+  },
+  {
+    "code": "BT102",
+    "title": "Biochemical Engineering Principles",
+    "semester": 2,
+    "branch": "BT",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT102",
+    "timetable": ""
+  },
+  {
+    "code": "BT104",
+    "title": "Introduction to Biotechnology",
+    "semester": 2,
+    "branch": "BT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT104",
+    "timetable": ""
+  },
+  {
+    "code": "BT106",
+    "title": "Development of Scientific Instrumentations and its applications",
+    "semester": 2,
+    "branch": "BT",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT106",
+    "timetable": ""
+  },
+  {
+    "code": "BT201",
+    "title": "Applied mathematics",
+    "semester": 3,
+    "branch": "BT",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT201",
+    "timetable": ""
+  },
+  {
+    "code": "BT203",
+    "title": "Cell Biology",
+    "semester": 3,
+    "branch": "BT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT203",
+    "timetable": ""
+  },
+  {
+    "code": "BT205",
+    "title": "Genetics",
+    "semester": 3,
+    "branch": "BT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT205",
+    "timetable": ""
+  },
+  {
+    "code": "BT207",
+    "title": "Fundamentals of computational biology",
+    "semester": 3,
+    "branch": "BT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT207",
+    "timetable": ""
+  },
+  {
+    "code": "BT209",
+    "title": "Bioprocess Technology and Downstream Processing",
+    "semester": 3,
+    "branch": "BT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT209",
+    "timetable": ""
+  },
+  {
+    "code": "BT202",
+    "title": "Molecular Biology",
+    "semester": 4,
+    "branch": "BT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT202",
+    "timetable": ""
+  },
+  {
+    "code": "BT204",
+    "title": "Data Structure and Algorithm",
+    "semester": 4,
+    "branch": "BT",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT204",
+    "timetable": ""
+  },
+  {
+    "code": "BT206",
+    "title": "Microbiology",
+    "semester": 4,
+    "branch": "BT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT206",
+    "timetable": ""
+  },
+  {
+    "code": "BT208",
+    "title": "Advances in computational biology",
+    "semester": 4,
+    "branch": "BT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT208",
+    "timetable": ""
+  },
+  {
+    "code": "BT210",
+    "title": "Biochemistry",
+    "semester": 4,
+    "branch": "BT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT210",
+    "timetable": ""
+  },
+  {
+    "code": "BT301",
+    "title": "Immunology and Immunotechnology",
+    "semester": 5,
+    "branch": "BT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT301",
+    "timetable": ""
+  },
+  {
+    "code": "BT303",
+    "title": "Genetic Engineering",
+    "semester": 5,
+    "branch": "BT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT303",
+    "timetable": ""
+  },
+  {
+    "code": "BT305",
+    "title": "Environmental Biotechnology",
+    "semester": 5,
+    "branch": "BT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT305",
+    "timetable": ""
+  },
+  {
+    "code": "BT307",
+    "title": "Engineering economics/Fundamentals of Management",
+    "semester": 5,
+    "branch": "BT",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT307",
+    "timetable": ""
+  },
+  {
+    "code": "BT302",
+    "title": "Plant Biotechnology",
+    "semester": 6,
+    "branch": "BT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT302",
+    "timetable": ""
+  },
+  {
+    "code": "BT304",
+    "title": "Animal Biotechnology",
+    "semester": 6,
+    "branch": "BT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT304",
+    "timetable": ""
+  },
+  {
+    "code": "BT306",
+    "title": "Engineering economics/ Fundamentals of Management",
+    "semester": 6,
+    "branch": "BT",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/BT306",
+    "timetable": ""
+  },
+  {
+    "code": "BT429",
+    "title": "Bioprocess Plant Designing",
+    "semester": 7,
+    "branch": "BT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/BT429",
+    "timetable": ""
+  },
+  {
+    "code": "BT433",
+    "title": "Biomedical Instrumentation, biosensor and transducer",
+    "semester": 7,
+    "branch": "BT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/BT433",
+    "timetable": ""
+  },
+  {
+    "code": "BT435",
+    "title": "Biostatistics",
+    "semester": 7,
+    "branch": "BT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/BT435",
+    "timetable": ""
+  },
+  {
+    "code": "BT422",
+    "title": "Tissue Engineering and Artificial Organs",
+    "semester": 8,
+    "branch": "BT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/BT422",
+    "timetable": ""
+  },
+  {
+    "code": "AM101",
+    "title": "Mathematics - 1",
+    "semester": 1,
+    "branch": "CE",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM101",
+    "timetable": ""
+  },
+  {
+    "code": "AP101",
+    "title": "Physics",
+    "semester": 1,
+    "branch": "CE",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AP101",
+    "timetable": ""
+  },
+  {
+    "code": "ME107",
+    "title": "Basic Mechanical Engineering",
+    "semester": 1,
+    "branch": "CE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/ME107",
+    "timetable": ""
+  },
+  {
+    "code": "CE103",
+    "title": "Testing of Civil Engineering Materials",
+    "semester": 1,
+    "branch": "CE",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE103",
+    "timetable": ""
+  },
+  {
+    "code": "AM102",
+    "title": "Mathematics-II",
+    "semester": 2,
+    "branch": "CE",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM102",
+    "timetable": ""
+  },
+  {
+    "code": "CO102",
+    "title": "Programming Fundamentals",
+    "semester": 2,
+    "branch": "CE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CO102",
+    "timetable": ""
+  },
+  {
+    "code": "CE102",
+    "title": "Statistical Methods for Engineers",
+    "semester": 2,
+    "branch": "CE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE102",
+    "timetable": ""
+  },
+  {
+    "code": "CE104",
+    "title": "Mechanics of Solids",
+    "semester": 2,
+    "branch": "CE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE104",
+    "timetable": ""
+  },
+  {
+    "code": "CE201",
+    "title": "Introduction to Earth, Atmosphere, Climate, and Environmental Sciences",
+    "semester": 3,
+    "branch": "CE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE201",
+    "timetable": ""
+  },
+  {
+    "code": "CE203",
+    "title": "Design of Structure-I",
+    "semester": 3,
+    "branch": "CE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE203",
+    "timetable": ""
+  },
+  {
+    "code": "CE205",
+    "title": "Fluid Mechanics",
+    "semester": 3,
+    "branch": "CE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE205",
+    "timetable": ""
+  },
+  {
+    "code": "CE207",
+    "title": "Surveying & Geoinformatics",
+    "semester": 3,
+    "branch": "CE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE207",
+    "timetable": ""
+  },
+  {
+    "code": "CE209",
+    "title": "Analysis of Structures-I",
+    "semester": 3,
+    "branch": "CE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE209",
+    "timetable": ""
+  },
+  {
+    "code": "CE202",
+    "title": "Smart City Planning and Intelligent Transportation",
+    "semester": 4,
+    "branch": "CE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE202",
+    "timetable": ""
+  },
+  {
+    "code": "CE204",
+    "title": "Analysis of Structures -II",
+    "semester": 4,
+    "branch": "CE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE204",
+    "timetable": ""
+  },
+  {
+    "code": "CE206",
+    "title": "Soil Mechanics",
+    "semester": 4,
+    "branch": "CE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE206",
+    "timetable": ""
+  },
+  {
+    "code": "CE208",
+    "title": "Environmental Engineering-I",
+    "semester": 4,
+    "branch": "CE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE208",
+    "timetable": ""
+  },
+  {
+    "code": "CE210",
+    "title": "Hydraulic & Hydraulics Machines",
+    "semester": 4,
+    "branch": "CE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE210",
+    "timetable": ""
+  },
+  {
+    "code": "CE301",
+    "title": "Geotechnical Engineering",
+    "semester": 5,
+    "branch": "CE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE301",
+    "timetable": ""
+  },
+  {
+    "code": "CE303",
+    "title": "Environment Engineering-II",
+    "semester": 5,
+    "branch": "CE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE303",
+    "timetable": ""
+  },
+  {
+    "code": "CE305",
+    "title": "Transportation Engineering",
+    "semester": 5,
+    "branch": "CE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE305",
+    "timetable": ""
+  },
+  {
+    "code": "HU301",
+    "title": "Engineering Economics/Fundamentals of Management",
+    "semester": 5,
+    "branch": "CE",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/HU301",
+    "timetable": ""
+  },
+  {
+    "code": "CE307",
+    "title": "Application of Geo-informatics, Remote sensing and GIS in Engineering",
+    "semester": 5,
+    "branch": "CE",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE307",
+    "timetable": ""
+  },
+  {
+    "code": "CE309",
+    "title": "Wind Loads on Structures",
+    "semester": 5,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE309",
+    "timetable": ""
+  },
+  {
+    "code": "CE311",
+    "title": "Disaster Management",
+    "semester": 5,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE311",
+    "timetable": ""
+  },
+  {
+    "code": "CE313",
+    "title": "Rock Engineering",
+    "semester": 5,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE313",
+    "timetable": ""
+  },
+  {
+    "code": "CE315",
+    "title": "Advanced Mechanics of Soils",
+    "semester": 5,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE315",
+    "timetable": ""
+  },
+  {
+    "code": "CE317",
+    "title": "Water Power Engineering",
+    "semester": 5,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE317",
+    "timetable": ""
+  },
+  {
+    "code": "CE319",
+    "title": "Water Recourses Planning and System Engineering",
+    "semester": 5,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE319",
+    "timetable": ""
+  },
+  {
+    "code": "CE321",
+    "title": "Computational Fluid Dynamics",
+    "semester": 5,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE321",
+    "timetable": ""
+  },
+  {
+    "code": "CE323",
+    "title": "Quantity Survey and Estimation",
+    "semester": 5,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE323",
+    "timetable": ""
+  },
+  {
+    "code": "CE325",
+    "title": "Geodesy and Navigation",
+    "semester": 5,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE325",
+    "timetable": ""
+  },
+  {
+    "code": "CE327",
+    "title": "Al in Civil Engineering",
+    "semester": 5,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE327",
+    "timetable": ""
+  },
+  {
+    "code": "CE329",
+    "title": "Concrete Technology",
+    "semester": 5,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE329",
+    "timetable": ""
+  },
+  {
+    "code": "CE302",
+    "title": "Design of steel structures",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE302",
+    "timetable": ""
+  },
+  {
+    "code": "CE304",
+    "title": "Water Resource Engineering",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE304",
+    "timetable": ""
+  },
+  {
+    "code": "HU302",
+    "title": "Engineering Economics/Fundamentals of Management",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/HU302",
+    "timetable": ""
+  },
+  {
+    "code": "CE308",
+    "title": "Advanced Design of Structures",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE308",
+    "timetable": ""
+  },
+  {
+    "code": "CE310",
+    "title": "Advanced Design of Steel Structures",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE310",
+    "timetable": ""
+  },
+  {
+    "code": "CE312",
+    "title": "Analysis and Design of Underground Structures",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE312",
+    "timetable": ""
+  },
+  {
+    "code": "CE314",
+    "title": "Theory of Elasticity and Plasticity of Soil",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE314",
+    "timetable": ""
+  },
+  {
+    "code": "CE316",
+    "title": "Advanced Fluid Mechanics",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE316",
+    "timetable": ""
+  },
+  {
+    "code": "CE318",
+    "title": "Environmental Aspects of Water Resources",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE318",
+    "timetable": ""
+  },
+  {
+    "code": "CE320",
+    "title": "Transportation Safety and Environment",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE320",
+    "timetable": ""
+  },
+  {
+    "code": "CE322",
+    "title": "Tunnel, Ports and Harbour Engineering",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE322",
+    "timetable": ""
+  },
+  {
+    "code": "CE342",
+    "title": "Experimental Mechanics",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE342",
+    "timetable": ""
+  },
+  {
+    "code": "CE324",
+    "title": "Earthquake Technology",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE324",
+    "timetable": ""
+  },
+  {
+    "code": "CE326",
+    "title": "Cyclonic Risk and Management",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE326",
+    "timetable": ""
+  },
+  {
+    "code": "CE328",
+    "title": "Fire Safety",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE328",
+    "timetable": ""
+  },
+  {
+    "code": "CE330",
+    "title": "Geotechnical Processes",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE330",
+    "timetable": ""
+  },
+  {
+    "code": "CE332",
+    "title": "Transportation Geo-techniques",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE332",
+    "timetable": ""
+  },
+  {
+    "code": "CE334",
+    "title": "Design of Hydraulic Structures",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE334",
+    "timetable": ""
+  },
+  {
+    "code": "CE336",
+    "title": "Advanced Groundwater Hydrology",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE336",
+    "timetable": ""
+  },
+  {
+    "code": "CE338",
+    "title": "Advanced Transportation Engineering",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE338",
+    "timetable": ""
+  },
+  {
+    "code": "CE340",
+    "title": "Solid Waste Management and Air Pollution",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE340",
+    "timetable": ""
+  },
+  {
+    "code": "CE344",
+    "title": "Building materials, masonry, prestressing and construction management",
+    "semester": 6,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE344",
+    "timetable": ""
+  },
+  {
+    "code": "CE405",
+    "title": "Wind Effects on Structures and Wind Energy Systems",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE405",
+    "timetable": ""
+  },
+  {
+    "code": "CE407",
+    "title": "Introduction to Building Information Modelling (BIM)",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE407",
+    "timetable": ""
+  },
+  {
+    "code": "CE409",
+    "title": "Design of Bridges",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE409",
+    "timetable": ""
+  },
+  {
+    "code": "CE415",
+    "title": "Geotechnical Exploration and Excavation Methods",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE415",
+    "timetable": ""
+  },
+  {
+    "code": "CE423",
+    "title": "Advanced Open Channel Flow",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE423",
+    "timetable": ""
+  },
+  {
+    "code": "CE425",
+    "title": "Flood and Drought Estimation and Management",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE425",
+    "timetable": ""
+  },
+  {
+    "code": "CE431",
+    "title": "Traffic Engineering",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE431",
+    "timetable": ""
+  },
+  {
+    "code": "CE433",
+    "title": "Advanced Surveying and Geoinformatics",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE433",
+    "timetable": ""
+  },
+  {
+    "code": "CE441",
+    "title": "Finite Element Method",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE441",
+    "timetable": ""
+  },
+  {
+    "code": "CE445",
+    "title": "Integrated Intelligent Transportation System",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE445",
+    "timetable": ""
+  },
+  {
+    "code": "CE411",
+    "title": "Forensic Engineering",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE411",
+    "timetable": ""
+  },
+  {
+    "code": "CE413",
+    "title": "Vulnerability and Risk Management",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE413",
+    "timetable": ""
+  },
+  {
+    "code": "CE417",
+    "title": "Computer Methods in Geotechnical Engineering",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE417",
+    "timetable": ""
+  },
+  {
+    "code": "CE419",
+    "title": "Environmental Geo-techniques",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE419",
+    "timetable": ""
+  },
+  {
+    "code": "CE421",
+    "title": "Geosynthetics",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE421",
+    "timetable": ""
+  },
+  {
+    "code": "CE427",
+    "title": "Advanced Hydrology",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE427",
+    "timetable": ""
+  },
+  {
+    "code": "CE429",
+    "title": "Urban Water Resources Management",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE429",
+    "timetable": ""
+  },
+  {
+    "code": "CE435",
+    "title": "Construction Project Management",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE435",
+    "timetable": ""
+  },
+  {
+    "code": "CE437",
+    "title": "Construction and Design Aspects in Transportation Engineering",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE437",
+    "timetable": ""
+  },
+  {
+    "code": "CE439",
+    "title": "Traffic and Transport Planning",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE439",
+    "timetable": ""
+  },
+  {
+    "code": "CE443",
+    "title": "Sustainable Building Materials",
+    "semester": 7,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE443",
+    "timetable": ""
+  },
+  {
+    "code": "CE404",
+    "title": "Structural Health Monitoring and Sustainability",
+    "semester": 8,
+    "branch": "CE",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE404",
+    "timetable": ""
+  },
+  {
+    "code": "CE406",
+    "title": "Prestress Concrete Structures",
+    "semester": 8,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE406",
+    "timetable": ""
+  },
+  {
+    "code": "CE408",
+    "title": "Retrofitting of Structures",
+    "semester": 8,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE408",
+    "timetable": ""
+  },
+  {
+    "code": "CE410",
+    "title": "Advanced Geotechnical Engineering",
+    "semester": 8,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE410",
+    "timetable": ""
+  },
+  {
+    "code": "CE412",
+    "title": "Climate Change and Sustainable Development",
+    "semester": 8,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE412",
+    "timetable": ""
+  },
+  {
+    "code": "CE414",
+    "title": "Urban Planning and Flood Management",
+    "semester": 8,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE414",
+    "timetable": ""
+  },
+  {
+    "code": "CE416",
+    "title": "Design of Masonry, Timber & Bamboo Structures",
+    "semester": 8,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE416",
+    "timetable": ""
+  },
+  {
+    "code": "CE418",
+    "title": "Water Resources Management",
+    "semester": 8,
+    "branch": "CE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CE418",
+    "timetable": ""
+  },
+  {
+    "code": "AM101",
+    "title": "Mathematics - 1",
+    "semester": 1,
+    "branch": "CH",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM101",
+    "timetable": ""
+  },
+  {
+    "code": "AP101",
+    "title": "Physics",
+    "semester": 1,
+    "branch": "CH",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AP101",
+    "timetable": ""
+  },
+  {
+    "code": "ME101",
+    "title": "Computer Aided Engineering Graphics-1",
+    "semester": 1,
+    "branch": "CH",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/ME101",
+    "timetable": ""
+  },
+  {
+    "code": "CH103",
+    "title": "Unit Process in Chemical Synthesis-l",
+    "semester": 1,
+    "branch": "CH",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CH103",
+    "timetable": ""
+  },
+  {
+    "code": "AM102",
+    "title": "Mathematics-II",
+    "semester": 2,
+    "branch": "CH",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM102",
+    "timetable": ""
+  },
+  {
+    "code": "CO102",
+    "title": "Programming Fundamentals",
+    "semester": 2,
+    "branch": "CH",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CO102",
+    "timetable": ""
+  },
+  {
+    "code": "CH102",
+    "title": "Mechanical Engineering Concepts for Chemical Engineers",
+    "semester": 2,
+    "branch": "CH",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CH102",
+    "timetable": ""
+  },
+  {
+    "code": "CH104",
+    "title": "Introduction to Chemical Engineering",
+    "semester": 2,
+    "branch": "CH",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CH104",
+    "timetable": ""
+  },
+  {
+    "code": "CH106",
+    "title": "Unit Process in Chemical Synthesis-II",
+    "semester": 2,
+    "branch": "CH",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CH106",
+    "timetable": ""
+  },
+  {
+    "code": "CS301",
+    "title": "Compiler Design",
+    "semester": 5,
+    "branch": "CO",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS301",
+    "timetable": ""
+  },
+  {
+    "code": "CS303",
+    "title": "Machine Learning",
+    "semester": 5,
+    "branch": "CO",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS303",
+    "timetable": ""
+  },
+  {
+    "code": "CS305",
+    "title": "Parallel Computer Architecture",
+    "semester": 6,
+    "branch": "CO",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS305",
+    "timetable": ""
+  },
+  {
+    "code": "HU301",
+    "title": "Engineering Economics",
+    "semester": 5,
+    "branch": "CO",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/HU301",
+    "timetable": ""
+  },
+  {
+    "code": "CS307",
+    "title": "Modelling And Simulation",
+    "semester": 5,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS307",
+    "timetable": ""
+  },
+  {
+    "code": "CS309",
+    "title": "Distributed System",
+    "semester": 5,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS309",
+    "timetable": ""
+  },
+  {
+    "code": "CS311",
+    "title": "Information Theory And Coding",
+    "semester": 5,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS311",
+    "timetable": ""
+  },
+  {
+    "code": "CS313",
+    "title": "Quantum Computing",
+    "semester": 5,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS313",
+    "timetable": ""
+  },
+  {
+    "code": "CS315",
+    "title": "Advanced Data Structures",
+    "semester": 5,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS315",
+    "timetable": ""
+  },
+  {
+    "code": "CS317",
+    "title": "Microprocessors And Interfacing",
+    "semester": 5,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS317",
+    "timetable": ""
+  },
+  {
+    "code": "CS319",
+    "title": "Computer Graphics",
+    "semester": 5,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS319",
+    "timetable": ""
+  },
+  {
+    "code": "CS302",
+    "title": "Information And Network Security",
+    "semester": 5,
+    "branch": "CO",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS302",
+    "timetable": ""
+  },
+  {
+    "code": "CS304",
+    "title": "Data Warehousing And Data Mining",
+    "semester": 6,
+    "branch": "CO",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS304",
+    "timetable": ""
+  },
+  {
+    "code": "MG301",
+    "title": "Fundamentals Of Management",
+    "semester": 6,
+    "branch": "CO",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MG301",
+    "timetable": ""
+  },
+  {
+    "code": "CS306",
+    "title": "Optimization Techniques",
+    "semester": 6,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS306",
+    "timetable": ""
+  },
+  {
+    "code": "CS308",
+    "title": "Soft Computing",
+    "semester": 6,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS308",
+    "timetable": ""
+  },
+  {
+    "code": "CS310",
+    "title": "Enterprise Java Programming",
+    "semester": 6,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS310",
+    "timetable": ""
+  },
+  {
+    "code": "CS312",
+    "title": "Embedded Systems",
+    "semester": 6,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS312",
+    "timetable": ""
+  },
+  {
+    "code": "CS314",
+    "title": "Data Compression",
+    "semester": 6,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS314",
+    "timetable": ""
+  },
+  {
+    "code": "CS316",
+    "title": "Parallel Algorithms",
+    "semester": 6,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS316",
+    "timetable": ""
+  },
+  {
+    "code": "CS318",
+    "title": "Deep Learning",
+    "semester": 6,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS318",
+    "timetable": ""
+  },
+  {
+    "code": "CS320",
+    "title": "Blockchain And Applications",
+    "semester": 6,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS320",
+    "timetable": ""
+  },
+  {
+    "code": "CS322",
+    "title": "Optical Networks",
+    "semester": 6,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS322",
+    "timetable": ""
+  },
+  {
+    "code": "CS324",
+    "title": "High Speed Networks",
+    "semester": 6,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS324",
+    "timetable": ""
+  },
+  {
+    "code": "CS326",
+    "title": "Advanced Database Management Systems",
+    "semester": 6,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS326",
+    "timetable": ""
+  },
+  {
+    "code": "CS328",
+    "title": "Multimedia System Design",
+    "semester": 6,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS328",
+    "timetable": ""
+  },
+  {
+    "code": "AM101",
+    "title": "Mathematics - I",
+    "semester": 1,
+    "branch": "CO",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM101",
+    "timetable": ""
+  },
+  {
+    "code": "CO101",
+    "title": "Programming Fundamentals",
+    "semester": 1,
+    "branch": "CO",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CO101",
+    "timetable": ""
+  },
+  {
+    "code": "EC101",
+    "title": "Basic Electronics & Communication Engineering",
+    "semester": 1,
+    "branch": "CO",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC101",
+    "timetable": ""
+  },
+  {
+    "code": "ME105",
+    "title": "Computer Aided Engineering Graphics-II",
+    "semester": 1,
+    "branch": "CO",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/ME105",
+    "timetable": ""
+  },
+  {
+    "code": "CS103",
+    "title": "Web Designing",
+    "semester": 1,
+    "branch": "CO",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS103",
+    "timetable": ""
+  },
+  {
+    "code": "AM102",
+    "title": "Mathematics-II",
+    "semester": 2,
+    "branch": "CO",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM102",
+    "timetable": ""
+  },
+  {
+    "code": "AP102",
+    "title": "Physics",
+    "semester": 2,
+    "branch": "CO",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AP102",
+    "timetable": ""
+  },
+  {
+    "code": "CS102",
+    "title": "Discrete Structure",
+    "semester": 2,
+    "branch": "CO",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS102",
+    "timetable": ""
+  },
+  {
+    "code": "CS104",
+    "title": "Data Structures",
+    "semester": 2,
+    "branch": "CO",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS104",
+    "timetable": ""
+  },
+  {
+    "code": "CS106",
+    "title": "Basics of Machine Learning & Application",
+    "semester": 2,
+    "branch": "CO",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS106",
+    "timetable": ""
+  },
+  {
+    "code": "CS203",
+    "title": "Object Oriented Programming Concepts",
+    "semester": 3,
+    "branch": "CO",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS203",
+    "timetable": ""
+  },
+  {
+    "code": "CS205",
+    "title": "Design and Analysis of Algorithms",
+    "semester": 3,
+    "branch": "CO",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS205",
+    "timetable": ""
+  },
+  {
+    "code": "CS207",
+    "title": "Operating Systems Design",
+    "semester": 3,
+    "branch": "CO",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS207",
+    "timetable": ""
+  },
+  {
+    "code": "CS209",
+    "title": "Software Engineering",
+    "semester": 3,
+    "branch": "CO",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS209",
+    "timetable": ""
+  },
+  {
+    "code": "CS202",
+    "title": "Probability and Statistics",
+    "semester": 4,
+    "branch": "CO",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS202",
+    "timetable": ""
+  },
+  {
+    "code": "CS204",
+    "title": "Theory of Computation",
+    "semester": 4,
+    "branch": "CO",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS204",
+    "timetable": ""
+  },
+  {
+    "code": "CS206",
+    "title": "Computer System Architecture and Organization",
+    "semester": 4,
+    "branch": "CO",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS206",
+    "timetable": ""
+  },
+  {
+    "code": "CS208",
+    "title": "Computer Networks",
+    "semester": 4,
+    "branch": "CO",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS208",
+    "timetable": ""
+  },
+  {
+    "code": "CS210",
+    "title": "Database Management Systems",
+    "semester": 4,
+    "branch": "CO",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CS210",
+    "timetable": ""
+  },
+  {
+    "code": "CS405",
+    "title": "Real Time System",
+    "semester": 7,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS405",
+    "timetable": ""
+  },
+  {
+    "code": "CS407",
+    "title": "Pattern Recognition",
+    "semester": 7,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS407",
+    "timetable": ""
+  },
+  {
+    "code": "CS409",
+    "title": "Reinforcement Learning",
+    "semester": 7,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS409",
+    "timetable": ""
+  },
+  {
+    "code": "CS411",
+    "title": "Cyber vulnerability and Ethical hacking",
+    "semester": 7,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS411",
+    "timetable": ""
+  },
+  {
+    "code": "CS413",
+    "title": "Computer Vision",
+    "semester": 7,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS413",
+    "timetable": ""
+  },
+  {
+    "code": "CS415",
+    "title": "Data Visualization",
+    "semester": 7,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS415",
+    "timetable": ""
+  },
+  {
+    "code": "CS417",
+    "title": "Wireless and Mobile Computing",
+    "semester": 7,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS417",
+    "timetable": ""
+  },
+  {
+    "code": "CS421",
+    "title": "Advance Web Technology",
+    "semester": 7,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS421",
+    "timetable": ""
+  },
+  {
+    "code": "CS423",
+    "title": "Big Data Analytics",
+    "semester": 7,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS423",
+    "timetable": ""
+  },
+  {
+    "code": "CS425",
+    "title": "Cloud Computing",
+    "semester": 7,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS425",
+    "timetable": ""
+  },
+  {
+    "code": "CS427",
+    "title": "Natural Language Processing",
+    "semester": 7,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS427",
+    "timetable": ""
+  },
+  {
+    "code": "CS404",
+    "title": "High Performance Computing",
+    "semester": 8,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS404",
+    "timetable": ""
+  },
+  {
+    "code": "CS406",
+    "title": "Grid and Cluster Computing",
+    "semester": 8,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS406",
+    "timetable": ""
+  },
+  {
+    "code": "CS408",
+    "title": "Swarm & Evolutionary Computing",
+    "semester": 8,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS408",
+    "timetable": ""
+  },
+  {
+    "code": "CS410",
+    "title": "Digital Image Processing",
+    "semester": 8,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS410",
+    "timetable": ""
+  },
+  {
+    "code": "CS412",
+    "title": "Intellectual Property Rights",
+    "semester": 8,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS412",
+    "timetable": ""
+  },
+  {
+    "code": "CS414",
+    "title": "Cyber Forensics",
+    "semester": 8,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS414",
+    "timetable": ""
+  },
+  {
+    "code": "CS416",
+    "title": "Semantic Web and Web Mining",
+    "semester": 8,
+    "branch": "CO",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/CS416",
+    "timetable": ""
+  },
+  {
+    "code": "AM101",
+    "title": "Mathematics - I",
+    "semester": 1,
+    "branch": "EC",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM101",
+    "timetable": ""
+  },
+  {
+    "code": "CO101",
+    "title": "Programming Fundamentals",
+    "semester": 1,
+    "branch": "EC",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CO101",
+    "timetable": ""
+  },
+  {
+    "code": "AC101",
+    "title": "Applied Chemistry",
+    "semester": 1,
+    "branch": "EC",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AC101",
+    "timetable": ""
+  },
+  {
+    "code": "EC103",
+    "title": "Electronics Workshop I",
+    "semester": 1,
+    "branch": "EC",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC103",
+    "timetable": ""
+  },
+  {
+    "code": "AM102",
+    "title": "Mathematics-II",
+    "semester": 2,
+    "branch": "EC",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM102",
+    "timetable": ""
+  },
+  {
+    "code": "AP102",
+    "title": "Physics",
+    "semester": 2,
+    "branch": "EC",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AP102",
+    "timetable": ""
+  },
+  {
+    "code": "EC102",
+    "title": "Data Structures and Algorithms",
+    "semester": 2,
+    "branch": "EC",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC102",
+    "timetable": ""
+  },
+  {
+    "code": "EC104",
+    "title": "Network Analysis & Synthesis",
+    "semester": 2,
+    "branch": "EC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC104",
+    "timetable": ""
+  },
+  {
+    "code": "EC106",
+    "title": "Electronics Workshop II",
+    "semester": 2,
+    "branch": "EC",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC106",
+    "timetable": ""
+  },
+  {
+    "code": "EC201",
+    "title": "Probability and Random Process",
+    "semester": 3,
+    "branch": "EC",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC201",
+    "timetable": ""
+  },
+  {
+    "code": "EC203",
+    "title": "Digital Design-1",
+    "semester": 3,
+    "branch": "EC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC203",
+    "timetable": ""
+  },
+  {
+    "code": "EC205",
+    "title": "Signal and Systems",
+    "semester": 3,
+    "branch": "EC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC205",
+    "timetable": ""
+  },
+  {
+    "code": "EC207",
+    "title": "Analog Electronics-1",
+    "semester": 3,
+    "branch": "EC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC207",
+    "timetable": ""
+  },
+  {
+    "code": "EC209",
+    "title": "Communication Systems",
+    "semester": 3,
+    "branch": "EC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC209",
+    "timetable": ""
+  },
+  {
+    "code": "EC202",
+    "title": "Electromagnetic Field Theory",
+    "semester": 4,
+    "branch": "EC",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC202",
+    "timetable": ""
+  },
+  {
+    "code": "EC204",
+    "title": "Digital Design-II",
+    "semester": 4,
+    "branch": "EC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC204",
+    "timetable": ""
+  },
+  {
+    "code": "EC206",
+    "title": "Digital Communication",
+    "semester": 4,
+    "branch": "EC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC206",
+    "timetable": ""
+  },
+  {
+    "code": "EC208",
+    "title": "Computer Architecture",
+    "semester": 4,
+    "branch": "EC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC208",
+    "timetable": ""
+  },
+  {
+    "code": "EC210",
+    "title": "Analog Electronics-II",
+    "semester": 4,
+    "branch": "EC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC210",
+    "timetable": ""
+  },
+  {
+    "code": "EC301",
+    "title": "Digital Signal Processing",
+    "semester": 5,
+    "branch": "EC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC301",
+    "timetable": ""
+  },
+  {
+    "code": "EC303",
+    "title": "Linear Integrated Circuit",
+    "semester": 5,
+    "branch": "EC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC303",
+    "timetable": ""
+  },
+  {
+    "code": "EC305",
+    "title": "Microwave & RF Communication",
+    "semester": 5,
+    "branch": "EC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC305",
+    "timetable": ""
+  },
+  {
+    "code": "EC307",
+    "title": "Semiconductor Device Electronics",
+    "semester": 5,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC307",
+    "timetable": ""
+  },
+  {
+    "code": "EC309",
+    "title": "Biomedical Electronics and Instrumentation",
+    "semester": 5,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC309",
+    "timetable": ""
+  },
+  {
+    "code": "EC311",
+    "title": "Algorithm Design and Analysis",
+    "semester": 5,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC311",
+    "timetable": ""
+  },
+  {
+    "code": "EC313",
+    "title": "Microprocessor & Interfacing",
+    "semester": 5,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC313",
+    "timetable": ""
+  },
+  {
+    "code": "EC315",
+    "title": "IC Technology",
+    "semester": 5,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC315",
+    "timetable": ""
+  },
+  {
+    "code": "EC317",
+    "title": "Control System",
+    "semester": 5,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC317",
+    "timetable": ""
+  },
+  {
+    "code": "EC302",
+    "title": "VLSI Design",
+    "semester": 6,
+    "branch": "EC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC302",
+    "timetable": ""
+  },
+  {
+    "code": "EC304",
+    "title": "Embedded System",
+    "semester": 6,
+    "branch": "EC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC304",
+    "timetable": ""
+  },
+  {
+    "code": "EC306",
+    "title": "Flexible Electronics",
+    "semester": 6,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC306",
+    "timetable": ""
+  },
+  {
+    "code": "EC308",
+    "title": "Analog Filter Design",
+    "semester": 6,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC308",
+    "timetable": ""
+  },
+  {
+    "code": "EC310",
+    "title": "Testing and Diagnosis Digital System Design",
+    "semester": 6,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC310",
+    "timetable": ""
+  },
+  {
+    "code": "EC312",
+    "title": "Software Define Radio",
+    "semester": 6,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC312",
+    "timetable": ""
+  },
+  {
+    "code": "EC314",
+    "title": "Machine Learning",
+    "semester": 6,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC314",
+    "timetable": ""
+  },
+  {
+    "code": "EC316",
+    "title": "Wireless Sensor Network",
+    "semester": 6,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC316",
+    "timetable": ""
+  },
+  {
+    "code": "EC318",
+    "title": "RF MEMS Design Technology",
+    "semester": 6,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC318",
+    "timetable": ""
+  },
+  {
+    "code": "EC320",
+    "title": "Soft Computing",
+    "semester": 6,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC320",
+    "timetable": ""
+  },
+  {
+    "code": "EC322",
+    "title": "Operating System",
+    "semester": 6,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC322",
+    "timetable": ""
+  },
+  {
+    "code": "EC324",
+    "title": "Speech Processing",
+    "semester": 6,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC324",
+    "timetable": ""
+  },
+  {
+    "code": "EC326",
+    "title": "Digital Image Processing",
+    "semester": 6,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC326",
+    "timetable": ""
+  },
+  {
+    "code": "EC328",
+    "title": "Information Theory and Coding",
+    "semester": 6,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC328",
+    "timetable": ""
+  },
+  {
+    "code": "EC401",
+    "title": "Radar Signal Processing",
+    "semester": 7,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC401",
+    "timetable": ""
+  },
+  {
+    "code": "EC403",
+    "title": "Statistical Signal Processing",
+    "semester": 7,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC403",
+    "timetable": ""
+  },
+  {
+    "code": "EC405",
+    "title": "System on Chip Design",
+    "semester": 7,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC405",
+    "timetable": ""
+  },
+  {
+    "code": "EC407",
+    "title": "Optical Communication",
+    "semester": 7,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC407",
+    "timetable": ""
+  },
+  {
+    "code": "EC409",
+    "title": "Computer Vision",
+    "semester": 7,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC409",
+    "timetable": ""
+  },
+  {
+    "code": "EC411",
+    "title": "Bio-Medical Signal Processing",
+    "semester": 7,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC411",
+    "timetable": ""
+  },
+  {
+    "code": "EC413",
+    "title": "MEMS and Sensor Design",
+    "semester": 7,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC413",
+    "timetable": ""
+  },
+  {
+    "code": "EC415",
+    "title": "Nanophotonics Devices for Communications",
+    "semester": 7,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC415",
+    "timetable": ""
+  },
+  {
+    "code": "EC417",
+    "title": "Spread Spectrum Communication",
+    "semester": 7,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC417",
+    "timetable": ""
+  },
+  {
+    "code": "EC419",
+    "title": "Adaptive Signal Processing",
+    "semester": 7,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC419",
+    "timetable": ""
+  },
+  {
+    "code": "EC421",
+    "title": "Data Analytics",
+    "semester": 7,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC421",
+    "timetable": ""
+  },
+  {
+    "code": "EC423",
+    "title": "Multi-rate Signal Processing",
+    "semester": 7,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC423",
+    "timetable": ""
+  },
+  {
+    "code": "EC402",
+    "title": "Smart Antennas",
+    "semester": 8,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC402",
+    "timetable": ""
+  },
+  {
+    "code": "EC404",
+    "title": "Wireless Communications",
+    "semester": 8,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC404",
+    "timetable": ""
+  },
+  {
+    "code": "EC406",
+    "title": "Deep Learning",
+    "semester": 8,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC406",
+    "timetable": ""
+  },
+  {
+    "code": "EC408",
+    "title": "Low-power VLSI Design",
+    "semester": 8,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC408",
+    "timetable": ""
+  },
+  {
+    "code": "EC410",
+    "title": "Estimation and Detection Theory",
+    "semester": 8,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC410",
+    "timetable": ""
+  },
+  {
+    "code": "EC412",
+    "title": "Fundamentals of MIMO",
+    "semester": 8,
+    "branch": "EC",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EC412",
+    "timetable": ""
+  },
+  {
+    "code": "AM101",
+    "title": "Mathematics - I",
+    "semester": 1,
+    "branch": "EE",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM101",
+    "timetable": ""
+  },
+  {
+    "code": "CO101",
+    "title": "Programming Fundamentals",
+    "semester": 1,
+    "branch": "EE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CO101",
+    "timetable": ""
+  },
+  {
+    "code": "CE101",
+    "title": "Basic Civil Engineering",
+    "semester": 1,
+    "branch": "EE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE101",
+    "timetable": ""
+  },
+  {
+    "code": "ME101",
+    "title": "Computer Aided Engineering Graphics-I",
+    "semester": 1,
+    "branch": "EE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/ME101",
+    "timetable": ""
+  },
+  {
+    "code": "EE103",
+    "title": "Electrical Workshop",
+    "semester": 1,
+    "branch": "EE",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EE103",
+    "timetable": ""
+  },
+  {
+    "code": "AM102",
+    "title": "Mathematics-II",
+    "semester": 2,
+    "branch": "EE",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM102",
+    "timetable": ""
+  },
+  {
+    "code": "AP102",
+    "title": "Physics",
+    "semester": 2,
+    "branch": "EE",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AP102",
+    "timetable": ""
+  },
+  {
+    "code": "EE102",
+    "title": "Data Structures and Algorithms",
+    "semester": 2,
+    "branch": "EE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EE102",
+    "timetable": ""
+  },
+  {
+    "code": "EE104",
+    "title": "Circuit and Field Theory",
+    "semester": 2,
+    "branch": "EE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EE104",
+    "timetable": ""
+  },
+  {
+    "code": "EE106",
+    "title": "PCB Fabrication and Testing",
+    "semester": 2,
+    "branch": "EE",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EE106",
+    "timetable": ""
+  },
+  {
+    "code": "AM101",
+    "title": "Mathematics -1",
+    "semester": 1,
+    "branch": "EN",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM101",
+    "timetable": ""
+  },
+  {
+    "code": "AP101",
+    "title": "Physics",
+    "semester": 1,
+    "branch": "EN",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AP101",
+    "timetable": ""
+  },
+  {
+    "code": "CE101",
+    "title": "Basic Civil Engineering",
+    "semester": 1,
+    "branch": "EN",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE101",
+    "timetable": ""
+  },
+  {
+    "code": "AC101",
+    "title": "Applied Chemistry",
+    "semester": 1,
+    "branch": "EN",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AC101",
+    "timetable": ""
+  },
+  {
+    "code": "EN103",
+    "title": "Water and Wastewater Analysis",
+    "semester": 1,
+    "branch": "EN",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EN103",
+    "timetable": ""
+  },
+  {
+    "code": "AM102",
+    "title": "Mathematics-II",
+    "semester": 2,
+    "branch": "EN",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM102",
+    "timetable": ""
+  },
+  {
+    "code": "CO102",
+    "title": "Programming Fundamentals",
+    "semester": 2,
+    "branch": "EN",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CO102",
+    "timetable": ""
+  },
+  {
+    "code": "EN102",
+    "title": "Environmental Awareness",
+    "semester": 2,
+    "branch": "EN",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EN102",
+    "timetable": ""
+  },
+  {
+    "code": "EN104",
+    "title": "Basic Environmental Engineering",
+    "semester": 2,
+    "branch": "EN",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EN104",
+    "timetable": ""
+  },
+  {
+    "code": "EN106",
+    "title": "Air Pollution and Waste Management",
+    "semester": 2,
+    "branch": "EN",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EN106",
+    "timetable": ""
+  },
+  {
+    "code": "AM101",
+    "title": "Mathematics-1",
+    "semester": 1,
+    "branch": "EP",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM101",
+    "timetable": ""
+  },
+  {
+    "code": "AP101",
+    "title": "Physics",
+    "semester": 1,
+    "branch": "EP",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AP101",
+    "timetable": ""
+  },
+  {
+    "code": "AC101",
+    "title": "Applied Chemistry",
+    "semester": 1,
+    "branch": "EP",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AC101",
+    "timetable": ""
+  },
+  {
+    "code": "EP103",
+    "title": "Engineering Physics Workshop-I",
+    "semester": 1,
+    "branch": "EP",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP103",
+    "timetable": ""
+  },
+  {
+    "code": "AM102",
+    "title": "Mathematics-II",
+    "semester": 2,
+    "branch": "EP",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM102",
+    "timetable": ""
+  },
+  {
+    "code": "CO102",
+    "title": "Programming Fundamentals",
+    "semester": 2,
+    "branch": "EP",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CO102",
+    "timetable": ""
+  },
+  {
+    "code": "EP102",
+    "title": "Computational Methods",
+    "semester": 2,
+    "branch": "EP",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP102",
+    "timetable": ""
+  },
+  {
+    "code": "EP104",
+    "title": "Fundamentals of Electrodynamics",
+    "semester": 2,
+    "branch": "EP",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP104",
+    "timetable": ""
+  },
+  {
+    "code": "EP106",
+    "title": "Engineering Physics Workshop-II",
+    "semester": 2,
+    "branch": "EP",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP106",
+    "timetable": ""
+  },
+  {
+    "code": "ESC-1",
+    "title": "Introduction to Computing",
+    "semester": 3,
+    "branch": "EP",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/ESC-1",
+    "timetable": ""
+  },
+  {
+    "code": "EP201",
+    "title": "Classical Mechanics",
+    "semester": 3,
+    "branch": "EP",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP201",
+    "timetable": ""
+  },
+  {
+    "code": "EP203",
+    "title": "Mathematical Physics",
+    "semester": 3,
+    "branch": "EP",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP203",
+    "timetable": ""
+  },
+  {
+    "code": "EP205",
+    "title": "Quantum Mechanics",
+    "semester": 3,
+    "branch": "EP",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP205",
+    "timetable": ""
+  },
+  {
+    "code": "EP207",
+    "title": "Digital and Analog Electronics",
+    "semester": 3,
+    "branch": "EP",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP207",
+    "timetable": ""
+  },
+  {
+    "code": "ESC-2",
+    "title": "Communication System",
+    "semester": 4,
+    "branch": "EP",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/ESC-2",
+    "timetable": ""
+  },
+  {
+    "code": "EP202",
+    "title": "Condensed Matter Physics",
+    "semester": 4,
+    "branch": "EP",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP202",
+    "timetable": ""
+  },
+  {
+    "code": "EP204",
+    "title": "Thermal Physics",
+    "semester": 4,
+    "branch": "EP",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP204",
+    "timetable": ""
+  },
+  {
+    "code": "EP206",
+    "title": "Microprocessor Architecture and Programming",
+    "semester": 4,
+    "branch": "EP",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP206",
+    "timetable": ""
+  },
+  {
+    "code": "EP208",
+    "title": "AI for Material Science",
+    "semester": 4,
+    "branch": "EP",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP208",
+    "timetable": ""
+  },
+  {
+    "code": "EP301",
+    "title": "Semiconductor Devices",
+    "semester": 5,
+    "branch": "EP",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP301",
+    "timetable": ""
+  },
+  {
+    "code": "EP303",
+    "title": "Electromagnetic Theory, antennas and Propagation",
+    "semester": 5,
+    "branch": "EP",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP303",
+    "timetable": ""
+  },
+  {
+    "code": "MG301",
+    "title": "Fundamentals of Management",
+    "semester": 5,
+    "branch": "EP",
+    "Category": "HMC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MG301",
+    "timetable": ""
+  },
+  {
+    "code": "EP305",
+    "title": "Atomic and Molecular Physics",
+    "semester": 5,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP305",
+    "timetable": ""
+  },
+  {
+    "code": "EP307",
+    "title": "Biophysics",
+    "semester": 5,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP307",
+    "timetable": ""
+  },
+  {
+    "code": "EP309",
+    "title": "Quantum Information and Computing",
+    "semester": 5,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP309",
+    "timetable": ""
+  },
+  {
+    "code": "EP311",
+    "title": "Computer Networking",
+    "semester": 5,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP311",
+    "timetable": ""
+  },
+  {
+    "code": "EP302",
+    "title": "Fiber Optics and Optical Communication",
+    "semester": 6,
+    "branch": "EP",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP302",
+    "timetable": ""
+  },
+  {
+    "code": "EP304",
+    "title": "Fabrication and Characterization of Materials",
+    "semester": 6,
+    "branch": "EP",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP304",
+    "timetable": ""
+  },
+  {
+    "code": "EP306",
+    "title": "Microwave Engineering",
+    "semester": 6,
+    "branch": "EP",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP306",
+    "timetable": ""
+  },
+  {
+    "code": "HU302",
+    "title": "Engineering Economics",
+    "semester": 6,
+    "branch": "EP",
+    "Category": "HMC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/HU302",
+    "timetable": ""
+  },
+  {
+    "code": "EP308",
+    "title": "Laser System and Instrumentation",
+    "semester": 6,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP308",
+    "timetable": ""
+  },
+  {
+    "code": "EP310",
+    "title": "Medical Physics and Physiological measurements",
+    "semester": 6,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP310",
+    "timetable": ""
+  },
+  {
+    "code": "EP312",
+    "title": "Fourier optics and holography",
+    "semester": 6,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP312",
+    "timetable": ""
+  },
+  {
+    "code": "EP314",
+    "title": "Instrumentation and Control",
+    "semester": 6,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP314",
+    "timetable": ""
+  },
+  {
+    "code": "EP316",
+    "title": "Cosmology and Astrophysics",
+    "semester": 6,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP316",
+    "timetable": ""
+  },
+  {
+    "code": "EP401",
+    "title": "B.Tech. Project-l",
+    "semester": 7,
+    "branch": "EP",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP401",
+    "timetable": ""
+  },
+  {
+    "code": "EP403",
+    "title": "Training Seminar",
+    "semester": 7,
+    "branch": "EP",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP403",
+    "timetable": ""
+  },
+  {
+    "code": "EP405",
+    "title": "VLSI and FPGA design",
+    "semester": 7,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP405",
+    "timetable": ""
+  },
+  {
+    "code": "EP407",
+    "title": "Mobile and Satellite communication",
+    "semester": 7,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP407",
+    "timetable": ""
+  },
+  {
+    "code": "EP409",
+    "title": "Information theory and coding",
+    "semester": 7,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP409",
+    "timetable": ""
+  },
+  {
+    "code": "EP411",
+    "title": "Advanced Simulation Techniques in Physics",
+    "semester": 7,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP411",
+    "timetable": ""
+  },
+  {
+    "code": "EP413",
+    "title": "Continuum Mechanics",
+    "semester": 7,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP413",
+    "timetable": ""
+  },
+  {
+    "code": "EP415",
+    "title": "Nano Science and Technology",
+    "semester": 7,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP415",
+    "timetable": ""
+  },
+  {
+    "code": "EP417",
+    "title": "Optical Electronics",
+    "semester": 7,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP417",
+    "timetable": ""
+  },
+  {
+    "code": "EP419",
+    "title": "Introduction to Automation and Motion Control",
+    "semester": 7,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP419",
+    "timetable": ""
+  },
+  {
+    "code": "EP421",
+    "title": "Principles of Nuclear Engineering",
+    "semester": 7,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP421",
+    "timetable": ""
+  },
+  {
+    "code": "EP423",
+    "title": "Space and Atmospheric Science-I",
+    "semester": 7,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP423",
+    "timetable": ""
+  },
+  {
+    "code": "EP425",
+    "title": "Plasma Science and Technology-I",
+    "semester": 7,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP425",
+    "timetable": ""
+  },
+  {
+    "code": "EP402",
+    "title": "B.Tech. Project-II",
+    "semester": 8,
+    "branch": "EP",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EP402",
+    "timetable": ""
+  },
+  {
+    "code": "EP404",
+    "title": "Alternative Energy Storage and Conversion Devices",
+    "semester": 8,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP404",
+    "timetable": ""
+  },
+  {
+    "code": "EP406",
+    "title": "Introduction to Spintronic",
+    "semester": 8,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP406",
+    "timetable": ""
+  },
+  {
+    "code": "EP408",
+    "title": "Integrated Optics",
+    "semester": 8,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP408",
+    "timetable": ""
+  },
+  {
+    "code": "EP410",
+    "title": "Robotic Engineering",
+    "semester": 8,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP410",
+    "timetable": ""
+  },
+  {
+    "code": "EP412",
+    "title": "Nuclear Materials for Engineering Applications",
+    "semester": 8,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP412",
+    "timetable": ""
+  },
+  {
+    "code": "EP414",
+    "title": "Space and Atmospheric Science-II",
+    "semester": 8,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP414",
+    "timetable": ""
+  },
+  {
+    "code": "EP416",
+    "title": "Plasma Science and Technology-II",
+    "semester": 8,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP416",
+    "timetable": ""
+  },
+  {
+    "code": "EP418",
+    "title": "Digital Signal Processing",
+    "semester": 8,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP418",
+    "timetable": ""
+  },
+  {
+    "code": "EP420",
+    "title": "Fuzzy Logic and Neural Networks",
+    "semester": 8,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP420",
+    "timetable": ""
+  },
+  {
+    "code": "EP422",
+    "title": "Embedded Systems Design",
+    "semester": 8,
+    "branch": "EP",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/EP422",
+    "timetable": ""
+  },
+  {
+    "code": "IT103",
+    "title": "Physics/Programming Fundamentals",
+    "semester": 1,
+    "branch": "IT",
+    "Category": "BSC/ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT103",
+    "timetable": ""
+  },
+  {
+    "code": "IT109",
+    "title": "Fundamentals of Web Design",
+    "semester": 1,
+    "branch": "IT",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT109",
+    "timetable": ""
+  },
+  {
+    "code": "AM102",
+    "title": "Mathematics-II",
+    "semester": 2,
+    "branch": "IT",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM102",
+    "timetable": ""
+  },
+  {
+    "code": "AP102",
+    "title": "Physics",
+    "semester": 2,
+    "branch": "IT",
+    "Category": "ESC/BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AP102",
+    "timetable": ""
+  },
+  {
+    "code": "IT104",
+    "title": "Object-Oriented Programming",
+    "semester": 2,
+    "branch": "IT",
+    "Category": "ESC/BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT104",
+    "timetable": ""
+  },
+  {
+    "code": "IT102",
+    "title": "Discrete Structures",
+    "semester": 2,
+    "branch": "IT",
+    "Category": "BSC/ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT102",
+    "timetable": ""
+  },
+  {
+    "code": "IT106",
+    "title": "Open Source Programming",
+    "semester": 2,
+    "branch": "IT",
+    "Category": "BSC/ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT106",
+    "timetable": ""
+  },
+  {
+    "code": "IT203",
+    "title": "Data Structures",
+    "semester": 3,
+    "branch": "IT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT203",
+    "timetable": ""
+  },
+  {
+    "code": "IT205",
+    "title": "Data Science and Visualization",
+    "semester": 3,
+    "branch": "IT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT205",
+    "timetable": ""
+  },
+  {
+    "code": "IT207",
+    "title": "Data Communications",
+    "semester": 3,
+    "branch": "IT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT207",
+    "timetable": ""
+  },
+  {
+    "code": "IT209",
+    "title": "Theory of Computation",
+    "semester": 3,
+    "branch": "IT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT209",
+    "timetable": ""
+  },
+  {
+    "code": "IT202",
+    "title": "Software Engineering",
+    "semester": 4,
+    "branch": "IT",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT202",
+    "timetable": ""
+  },
+  {
+    "code": "IT204",
+    "title": "Algorithm Design and Analysis",
+    "semester": 4,
+    "branch": "IT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT204",
+    "timetable": ""
+  },
+  {
+    "code": "IT206",
+    "title": "Operating Systems",
+    "semester": 4,
+    "branch": "IT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT206",
+    "timetable": ""
+  },
+  {
+    "code": "IT208",
+    "title": "Database Management Systems",
+    "semester": 4,
+    "branch": "IT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT208",
+    "timetable": ""
+  },
+  {
+    "code": "IT210",
+    "title": "Machine Learning",
+    "semester": 4,
+    "branch": "IT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT210",
+    "timetable": ""
+  },
+  {
+    "code": "IT301",
+    "title": "Compiler Design",
+    "semester": 5,
+    "branch": "IT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT301",
+    "timetable": ""
+  },
+  {
+    "code": "IT303",
+    "title": "Computer Networks",
+    "semester": 5,
+    "branch": "IT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT303",
+    "timetable": ""
+  },
+  {
+    "code": "IT305",
+    "title": "Computer Organization and Architecture",
+    "semester": 5,
+    "branch": "IT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT305",
+    "timetable": ""
+  },
+  {
+    "code": "HU301",
+    "title": "Engineering Economics",
+    "semester": 5,
+    "branch": "IT",
+    "Category": "HMC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/HU301",
+    "timetable": ""
+  },
+  {
+    "code": "IT309",
+    "title": "Deep Learning",
+    "semester": 5,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT309",
+    "timetable": ""
+  },
+  {
+    "code": "IT311",
+    "title": "Cyber Laws",
+    "semester": 5,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT311",
+    "timetable": ""
+  },
+  {
+    "code": "IT313",
+    "title": "Malware Analysis",
+    "semester": 5,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT313",
+    "timetable": ""
+  },
+  {
+    "code": "IT315",
+    "title": "Internet of Things",
+    "semester": 5,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT315",
+    "timetable": ""
+  },
+  {
+    "code": "IT317",
+    "title": "Computer Graphics",
+    "semester": 5,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT317",
+    "timetable": ""
+  },
+  {
+    "code": "IT319",
+    "title": "Software Project Management",
+    "semester": 5,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT319",
+    "timetable": ""
+  },
+  {
+    "code": "IT351",
+    "title": "Data Structures and Algorithms",
+    "semester": 5,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT351",
+    "timetable": ""
+  },
+  {
+    "code": "IT353",
+    "title": "Information and Network Security",
+    "semester": 5,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT353",
+    "timetable": ""
+  },
+  {
+    "code": "IT355",
+    "title": "Introduction to Computer Networks",
+    "semester": 5,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT355",
+    "timetable": ""
+  },
+  {
+    "code": "IT357",
+    "title": "Computer Architecture",
+    "semester": 5,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT357",
+    "timetable": ""
+  },
+  {
+    "code": "IT359",
+    "title": "Introduction to Database Systems",
+    "semester": 5,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT359",
+    "timetable": ""
+  },
+  {
+    "code": "IT361",
+    "title": "Computer Vision and Applications",
+    "semester": 5,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT361",
+    "timetable": ""
+  },
+  {
+    "code": "IT302",
+    "title": "Data Engineering and Analytics",
+    "semester": 6,
+    "branch": "IT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT302",
+    "timetable": ""
+  },
+  {
+    "code": "IT304",
+    "title": "Cyber Security",
+    "semester": 6,
+    "branch": "IT",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/IT304",
+    "timetable": ""
+  },
+  {
+    "code": "IT308",
+    "title": "Distributed and Cloud Computing",
+    "semester": 6,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT308",
+    "timetable": ""
+  },
+  {
+    "code": "IT310",
+    "title": "Pattern Recognition",
+    "semester": 6,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT310",
+    "timetable": ""
+  },
+  {
+    "code": "IT312",
+    "title": "Secure Coding",
+    "semester": 6,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT312",
+    "timetable": ""
+  },
+  {
+    "code": "IT316",
+    "title": "Blockchain Technology",
+    "semester": 6,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT316",
+    "timetable": ""
+  },
+  {
+    "code": "IT318",
+    "title": "Digital Image Processing",
+    "semester": 6,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT318",
+    "timetable": ""
+  },
+  {
+    "code": "IT320",
+    "title": "Natural Language Processing",
+    "semester": 6,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT320",
+    "timetable": ""
+  },
+  {
+    "code": "IT324",
+    "title": "Computer Vision",
+    "semester": 6,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT324",
+    "timetable": ""
+  },
+  {
+    "code": "IT326",
+    "title": "Artificial Intelligence",
+    "semester": 6,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT326",
+    "timetable": ""
+  },
+  {
+    "code": "IT328",
+    "title": "Software Testing",
+    "semester": 6,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT328",
+    "timetable": ""
+  },
+  {
+    "code": "IT330",
+    "title": "Competitive Programming",
+    "semester": 6,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT330",
+    "timetable": ""
+  },
+  {
+    "code": "IT356",
+    "title": "Operating System Principles",
+    "semester": 6,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT356",
+    "timetable": ""
+  },
+  {
+    "code": "IT360",
+    "title": "Dependable Machine Learning",
+    "semester": 6,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT360",
+    "timetable": ""
+  },
+  {
+    "code": "IT362",
+    "title": "Embedded Systems",
+    "semester": 6,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT362",
+    "timetable": ""
+  },
+  {
+    "code": "IT405",
+    "title": "High Performance Computing",
+    "semester": 7,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT405",
+    "timetable": ""
+  },
+  {
+    "code": "IT407",
+    "title": "High Speed Networks",
+    "semester": 7,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT407",
+    "timetable": ""
+  },
+  {
+    "code": "IT409",
+    "title": "Information Security and Audit",
+    "semester": 7,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT409",
+    "timetable": ""
+  },
+  {
+    "code": "IT411",
+    "title": "Multimedia System Design",
+    "semester": 7,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT411",
+    "timetable": ""
+  },
+  {
+    "code": "IT415",
+    "title": "Big Data Analysis",
+    "semester": 7,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT415",
+    "timetable": ""
+  },
+  {
+    "code": "IT417",
+    "title": "Mobile and Digital Forensics",
+    "semester": 7,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT417",
+    "timetable": ""
+  },
+  {
+    "code": "IT419",
+    "title": "Soft Computing",
+    "semester": 7,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT419",
+    "timetable": ""
+  },
+  {
+    "code": "IT421",
+    "title": "Augmented Reality & Virtual Reality",
+    "semester": 7,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT421",
+    "timetable": ""
+  },
+  {
+    "code": "IT423",
+    "title": "Enterprise JAVA",
+    "semester": 7,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT423",
+    "timetable": ""
+  },
+  {
+    "code": "IT453",
+    "title": "Data Warehousing and Data Mining",
+    "semester": 7,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT453",
+    "timetable": ""
+  },
+  {
+    "code": "IT455",
+    "title": "Game Theory",
+    "semester": 7,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT455",
+    "timetable": ""
+  },
+  {
+    "code": "IT459",
+    "title": "Pattern Recognition and Applications",
+    "semester": 7,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT459",
+    "timetable": ""
+  },
+  {
+    "code": "IT461",
+    "title": "Grid and Cluster Computing",
+    "semester": 7,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT461",
+    "timetable": ""
+  },
+  {
+    "code": "IT404",
+    "title": "Ethical Hacking",
+    "semester": 8,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT404",
+    "timetable": ""
+  },
+  {
+    "code": "IT406",
+    "title": "Quantum Computing",
+    "semester": 8,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT406",
+    "timetable": ""
+  },
+  {
+    "code": "IT408",
+    "title": "GPU Computing",
+    "semester": 8,
+    "branch": "IT",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT408",
+    "timetable": ""
+  },
+  {
+    "code": "IT452",
+    "title": "Mobile Application Development",
+    "semester": 8,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT452",
+    "timetable": ""
+  },
+  {
+    "code": "IT454",
+    "title": "Edge and Fog Computing",
+    "semester": 8,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT454",
+    "timetable": ""
+  },
+  {
+    "code": "IT456",
+    "title": "Cognitive Computing",
+    "semester": 8,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT456",
+    "timetable": ""
+  },
+  {
+    "code": "IT458",
+    "title": "Neuromorphic Computing",
+    "semester": 8,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT458",
+    "timetable": ""
+  },
+  {
+    "code": "IT460",
+    "title": "Optimization Techniques",
+    "semester": 8,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT460",
+    "timetable": ""
+  },
+  {
+    "code": "IT462",
+    "title": "Pervasive and Ubiquitous Computing",
+    "semester": 8,
+    "branch": "IT",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/IT462",
+    "timetable": ""
+  },
+  {
+    "code": "AM101",
+    "title": "Mathematics -1",
+    "semester": 1,
+    "branch": "MC",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM101",
+    "timetable": ""
+  },
+  {
+    "code": "AP101",
+    "title": "Physics",
+    "semester": 1,
+    "branch": "MC",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AP101",
+    "timetable": ""
+  },
+  {
+    "code": "EC101",
+    "title": "Basic Electronics & Communication Engineering",
+    "semester": 1,
+    "branch": "MC",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC101",
+    "timetable": ""
+  },
+  {
+    "code": "EC101",
+    "title": "Basic Electronics & Communication Engineering",
+    "semester": 1,
+    "branch": "IT",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC101",
+    "timetable": ""
+  },
+  {
+    "code": "ME105",
+    "title": "Computer Aided Engineering Graphics-II",
+    "semester": 1,
+    "branch": "MC",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/ME105",
+    "timetable": ""
+  },
+  {
+    "code": "MC103",
+    "title": "Python Programming",
+    "semester": 1,
+    "branch": "MC",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MC103",
+    "timetable": ""
+  },
+  {
+    "code": "AM102",
+    "title": "Mathematics-II",
+    "semester": 2,
+    "branch": "MC",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM102",
+    "timetable": ""
+  },
+  {
+    "code": "CO102",
+    "title": "Programming Fundamentals",
+    "semester": 2,
+    "branch": "MC",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CO102",
+    "timetable": ""
+  },
+  {
+    "code": "MC102",
+    "title": "Discrete Structure",
+    "semester": 2,
+    "branch": "MC",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MC102",
+    "timetable": ""
+  },
+  {
+    "code": "MC106",
+    "title": "MATLAB Programming",
+    "semester": 2,
+    "branch": "MC",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MC106",
+    "timetable": ""
+  },
+  {
+    "code": "MC201",
+    "title": "Data Structure",
+    "semester": 3,
+    "branch": "MC",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MC201",
+    "timetable": ""
+  },
+  {
+    "code": "MC203",
+    "title": "Real Analysis",
+    "semester": 3,
+    "branch": "MC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MC203",
+    "timetable": ""
+  },
+  {
+    "code": "MC205",
+    "title": "Probability and Statistics",
+    "semester": 3,
+    "branch": "MC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MC205",
+    "timetable": ""
+  },
+  {
+    "code": "MC207",
+    "title": "Modern Algebra",
+    "semester": 3,
+    "branch": "MC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MC207",
+    "timetable": ""
+  },
+  {
+    "code": "MC209",
+    "title": "Database Management Systems",
+    "semester": 3,
+    "branch": "MC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MC209",
+    "timetable": ""
+  },
+  {
+    "code": "MC202",
+    "title": "Operating Systems",
+    "semester": 4,
+    "branch": "MC",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MC202",
+    "timetable": ""
+  },
+  {
+    "code": "MC204",
+    "title": "Scientific Computing",
+    "semester": 4,
+    "branch": "MC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MC204",
+    "timetable": ""
+  },
+  {
+    "code": "MC206",
+    "title": "Analysis and Design of Algorithms",
+    "semester": 4,
+    "branch": "MC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MC206",
+    "timetable": ""
+  },
+  {
+    "code": "MC208",
+    "title": "Linear Algebra",
+    "semester": 4,
+    "branch": "MC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MC208",
+    "timetable": ""
+  },
+  {
+    "code": "MC210",
+    "title": "Differential Equations",
+    "semester": 4,
+    "branch": "MC",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MC210",
+    "timetable": ""
+  },
+  {
+    "code": "AM101",
+    "title": "Mathematics - 1",
+    "semester": 1,
+    "branch": "ME",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM101",
+    "timetable": ""
+  },
+  {
+    "code": "AP101",
+    "title": "Physics",
+    "semester": 1,
+    "branch": "ME",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AP101",
+    "timetable": ""
+  },
+  {
+    "code": "CE101",
+    "title": "Basic Civil Engineering",
+    "semester": 1,
+    "branch": "ME",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CE101",
+    "timetable": ""
+  },
+  {
+    "code": "EE101",
+    "title": "Basic Electrical Engineering I",
+    "semester": 1,
+    "branch": "ME",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EE101",
+    "timetable": ""
+  },
+  {
+    "code": "EE101",
+    "title": "Basic Electrical Engineering I",
+    "semester": 1,
+    "branch": "IT",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EE101",
+    "timetable": ""
+  },
+  {
+    "code": "ME103",
+    "title": "Workshop Practice",
+    "semester": 1,
+    "branch": "ME",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/ME103",
+    "timetable": ""
+  },
+  {
+    "code": "AM102",
+    "title": "Mathematics-II",
+    "semester": 2,
+    "branch": "ME",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM102",
+    "timetable": ""
+  },
+  {
+    "code": "CO102",
+    "title": "Programming Fundamentals",
+    "semester": 2,
+    "branch": "ME",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CO102",
+    "timetable": ""
+  },
+  {
+    "code": "ME102",
+    "title": "Electronics and Communication concepts for Mechanical Engineers",
+    "semester": 2,
+    "branch": "ME",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/ME102",
+    "timetable": ""
+  },
+  {
+    "code": "ME104",
+    "title": "Thermal Engineering-I",
+    "semester": 2,
+    "branch": "ME",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/ME104",
+    "timetable": ""
+  },
+  {
+    "code": "ME106",
+    "title": "Engineering Graphics",
+    "semester": 2,
+    "branch": "ME",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/ME106",
+    "timetable": ""
+  },
+  {
+    "code": "ME301",
+    "title": "Design of Machine Element - I",
+    "semester": 5,
+    "branch": "ME",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/ME301",
+    "timetable": ""
+  },
+  {
+    "code": "ME303",
+    "title": "Manufacturing Technology II",
+    "semester": 5,
+    "branch": "ME",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/ME303",
+    "timetable": ""
+  },
+  {
+    "code": "ME305",
+    "title": "Refrigeration and Air Conditioning",
+    "semester": 5,
+    "branch": "ME",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/ME305",
+    "timetable": ""
+  },
+  {
+    "code": "MG301",
+    "title": "Fundamentals of management",
+    "semester": 5,
+    "branch": "ME",
+    "Category": "HMC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MG301",
+    "timetable": ""
+  },
+  {
+    "code": "ME351",
+    "title": "Power Plant Engineering",
+    "semester": 5,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME351",
+    "timetable": ""
+  },
+  {
+    "code": "ME353",
+    "title": "Clean Energy",
+    "semester": 5,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME353",
+    "timetable": ""
+  },
+  {
+    "code": "ME355",
+    "title": "Thermal Systems",
+    "semester": 5,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME355",
+    "timetable": ""
+  },
+  {
+    "code": "ME357",
+    "title": "Industrial Engineering",
+    "semester": 5,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME357",
+    "timetable": ""
+  },
+  {
+    "code": "ME359",
+    "title": "Product Design & Simulation",
+    "semester": 5,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME359",
+    "timetable": ""
+  },
+  {
+    "code": "ME361",
+    "title": "Computational Fluid Dynamics",
+    "semester": 5,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME361",
+    "timetable": ""
+  },
+  {
+    "code": "ME363",
+    "title": "Finite Element Methods",
+    "semester": 5,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME363",
+    "timetable": ""
+  },
+  {
+    "code": "ME365",
+    "title": "Total Life Cycle Management",
+    "semester": 5,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME365",
+    "timetable": ""
+  },
+  {
+    "code": "ME367",
+    "title": "Value Engineering",
+    "semester": 5,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME367",
+    "timetable": ""
+  },
+  {
+    "code": "ME302",
+    "title": "Operations & Supply Chain management",
+    "semester": 6,
+    "branch": "ME",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/ME302",
+    "timetable": ""
+  },
+  {
+    "code": "ME304",
+    "title": "Design of Machine Elements - II",
+    "semester": 6,
+    "branch": "ME",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/ME304",
+    "timetable": ""
+  },
+  {
+    "code": "HU302",
+    "title": "Engineering Economics",
+    "semester": 6,
+    "branch": "ME",
+    "Category": "HMC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/HU302",
+    "timetable": ""
+  },
+  {
+    "code": "ME308",
+    "title": "Gas Dynamics & Jet Propulsion",
+    "semester": 6,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME308",
+    "timetable": ""
+  },
+  {
+    "code": "ME310",
+    "title": "Automation in Manufacturing",
+    "semester": 6,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME310",
+    "timetable": ""
+  },
+  {
+    "code": "ME312",
+    "title": "Quality Management & Six Sigma Applications",
+    "semester": 6,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME312",
+    "timetable": ""
+  },
+  {
+    "code": "ME314",
+    "title": "Mechanical Vibrations",
+    "semester": 6,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME314",
+    "timetable": ""
+  },
+  {
+    "code": "ME316",
+    "title": "Power Plant Engineering",
+    "semester": 6,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME316",
+    "timetable": ""
+  },
+  {
+    "code": "ME318",
+    "title": "Computer Aided Manufacturing",
+    "semester": 6,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME318",
+    "timetable": ""
+  },
+  {
+    "code": "ME320",
+    "title": "Reliability & Maintenance Engineering",
+    "semester": 6,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME320",
+    "timetable": ""
+  },
+  {
+    "code": "ME322",
+    "title": "Design of Mechanical Assemblies",
+    "semester": 6,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME322",
+    "timetable": ""
+  },
+  {
+    "code": "ME324",
+    "title": "System modeling, simulation and analysis",
+    "semester": 6,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME324",
+    "timetable": ""
+  },
+  {
+    "code": "ME326",
+    "title": "Pressure vessels and Piping Technology",
+    "semester": 6,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME326",
+    "timetable": ""
+  },
+  {
+    "code": "ME328",
+    "title": "Composite Material Technology",
+    "semester": 6,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME328",
+    "timetable": ""
+  },
+  {
+    "code": "ME330",
+    "title": "Production and Operations Management",
+    "semester": 6,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME330",
+    "timetable": ""
+  },
+  {
+    "code": "ME332",
+    "title": "Finite Element Method",
+    "semester": 6,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME332",
+    "timetable": ""
+  },
+  {
+    "code": "ME334",
+    "title": "Industrial Economics & Management",
+    "semester": 6,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME334",
+    "timetable": ""
+  },
+  {
+    "code": "ME407",
+    "title": "Carbon Capture and Climate Change",
+    "semester": 7,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME407",
+    "timetable": ""
+  },
+  {
+    "code": "ME409",
+    "title": "Mechatronics & Control",
+    "semester": 7,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME409",
+    "timetable": ""
+  },
+  {
+    "code": "ME411",
+    "title": "I.C. Engines",
+    "semester": 7,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME411",
+    "timetable": ""
+  },
+  {
+    "code": "ME413",
+    "title": "Metrology",
+    "semester": 7,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME413",
+    "timetable": ""
+  },
+  {
+    "code": "ME415",
+    "title": "Project Management",
+    "semester": 7,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME415",
+    "timetable": ""
+  },
+  {
+    "code": "ME417",
+    "title": "Robotics & Automation",
+    "semester": 7,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME417",
+    "timetable": ""
+  },
+  {
+    "code": "ME419",
+    "title": "Computational Fluid Dynamics",
+    "semester": 7,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME419",
+    "timetable": ""
+  },
+  {
+    "code": "ME421",
+    "title": "Advanced Manufacturing Processes",
+    "semester": 7,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME421",
+    "timetable": ""
+  },
+  {
+    "code": "ME423",
+    "title": "Operations Research",
+    "semester": 7,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME423",
+    "timetable": ""
+  },
+  {
+    "code": "ME425",
+    "title": "Industrial Tribology",
+    "semester": 7,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME425",
+    "timetable": ""
+  },
+  {
+    "code": "ME427",
+    "title": "Non-conventional Energy Sources",
+    "semester": 7,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME427",
+    "timetable": ""
+  },
+  {
+    "code": "ME429",
+    "title": "Computer Integrated Manufacturing",
+    "semester": 7,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME429",
+    "timetable": ""
+  },
+  {
+    "code": "ME431",
+    "title": "Optimization techniques",
+    "semester": 7,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME431",
+    "timetable": ""
+  },
+  {
+    "code": "ME404",
+    "title": "Industrial Engineering",
+    "semester": 8,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME404",
+    "timetable": ""
+  },
+  {
+    "code": "ME406",
+    "title": "Elastic & Plastic Behaviour of Materials",
+    "semester": 8,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME406",
+    "timetable": ""
+  },
+  {
+    "code": "ME408",
+    "title": "Combustion Generated Pollution",
+    "semester": 8,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME408",
+    "timetable": ""
+  },
+  {
+    "code": "ME410",
+    "title": "Advances in Welding & Casting",
+    "semester": 8,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME410",
+    "timetable": ""
+  },
+  {
+    "code": "ME412",
+    "title": "Supply Chain Management",
+    "semester": 8,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME412",
+    "timetable": ""
+  },
+  {
+    "code": "ME414",
+    "title": "Fracture Mechanics",
+    "semester": 8,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME414",
+    "timetable": ""
+  },
+  {
+    "code": "ME416",
+    "title": "Nuclear Energy",
+    "semester": 8,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME416",
+    "timetable": ""
+  },
+  {
+    "code": "ME418",
+    "title": "Operations and Manufacturing Strategy",
+    "semester": 8,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME418",
+    "timetable": ""
+  },
+  {
+    "code": "ME420",
+    "title": "Materials management",
+    "semester": 8,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME420",
+    "timetable": ""
+  },
+  {
+    "code": "ME422",
+    "title": "Fuel Cell",
+    "semester": 8,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME422",
+    "timetable": ""
+  },
+  {
+    "code": "ME424",
+    "title": "Sustainable Energy Technologies",
+    "semester": 8,
+    "branch": "ME",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/ME424",
+    "timetable": ""
+  },
+  {
+    "code": "AM101",
+    "title": "Mathematics - 1",
+    "semester": 1,
+    "branch": "PE",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM101",
+    "timetable": ""
+  },
+  {
+    "code": "AP101",
+    "title": "Physics",
+    "semester": 1,
+    "branch": "PE",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AP101",
+    "timetable": ""
+  },
+  {
+    "code": "AC101",
+    "title": "Applied Chemistry",
+    "semester": 1,
+    "branch": "PE",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AC101",
+    "timetable": ""
+  },
+  {
+    "code": "PE103",
+    "title": "Workshop Practice",
+    "semester": 1,
+    "branch": "PE",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/PE103",
+    "timetable": ""
+  },
+  {
+    "code": "AM102",
+    "title": "Mathematics-II",
+    "semester": 2,
+    "branch": "PE",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM102",
+    "timetable": ""
+  },
+  {
+    "code": "CO102",
+    "title": "Programming Fundamentals",
+    "semester": 2,
+    "branch": "PE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CO102",
+    "timetable": ""
+  },
+  {
+    "code": "PE102",
+    "title": "Electronics and Communication concepts for Mechanical Engineers",
+    "semester": 2,
+    "branch": "PE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/PE102",
+    "timetable": ""
+  },
+  {
+    "code": "PE104",
+    "title": "Engineering Materials & Metallurgy",
+    "semester": 2,
+    "branch": "PE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/PE104",
+    "timetable": ""
+  },
+  {
+    "code": "PE106",
+    "title": "Engineering Graphics",
+    "semester": 2,
+    "branch": "PE",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/PE106",
+    "timetable": ""
+  },
+  {
+    "code": "AM101",
+    "title": "Mathematics-I",
+    "semester": 1,
+    "branch": "SE",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM101",
+    "timetable": ""
+  },
+  {
+    "code": "AP101",
+    "title": "Physics",
+    "semester": 1,
+    "branch": "SE",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AP101",
+    "timetable": ""
+  },
+  {
+    "code": "EC101",
+    "title": "Basic Electronics & Communication Engineering",
+    "semester": 1,
+    "branch": "SE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EC101",
+    "timetable": ""
+  },
+  {
+    "code": "EE101",
+    "title": "Basic Electrical Engineering-I",
+    "semester": 1,
+    "branch": "SE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/EE101",
+    "timetable": ""
+  },
+  {
+    "code": "SE103",
+    "title": "Computer Workshop-I",
+    "semester": 1,
+    "branch": "SE",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/SE103",
+    "timetable": ""
+  },
+  {
+    "code": "AM102",
+    "title": "Mathematics-II",
+    "semester": 2,
+    "branch": "SE",
+    "Category": "BSC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/AM102",
+    "timetable": ""
+  },
+  {
+    "code": "CO102",
+    "title": "Programming Fundamentals",
+    "semester": 2,
+    "branch": "SE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/CO102",
+    "timetable": ""
+  },
+  {
+    "code": "SE102",
+    "title": "Fundamentals of Computers",
+    "semester": 2,
+    "branch": "SE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/SE102",
+    "timetable": ""
+  },
+  {
+    "code": "SE104",
+    "title": "Fundamentals of Software Engineering",
+    "semester": 2,
+    "branch": "SE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/SE104",
+    "timetable": ""
+  },
+  {
+    "code": "SE106",
+    "title": "Computer Workshop-II",
+    "semester": 2,
+    "branch": "SE",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/SE106",
+    "timetable": ""
+  },
+  {
+    "code": "SE201",
+    "title": "Digital Systems & Design",
+    "semester": 3,
+    "branch": "SE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/SE201",
+    "timetable": ""
+  },
+  {
+    "code": "SE203",
+    "title": "Data Structures",
+    "semester": 3,
+    "branch": "SE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/SE203",
+    "timetable": ""
+  },
+  {
+    "code": "SE205",
+    "title": "Object-Oriented Programming",
+    "semester": 3,
+    "branch": "SE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/SE205",
+    "timetable": ""
+  },
+  {
+    "code": "SE207",
+    "title": "Operating System",
+    "semester": 3,
+    "branch": "SE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/SE207",
+    "timetable": ""
+  },
+  {
+    "code": "SE209",
+    "title": "Software Engineering Methodologies",
+    "semester": 3,
+    "branch": "SE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/SE209",
+    "timetable": ""
+  },
+  {
+    "code": "SE202",
+    "title": "Computer System Architecture",
+    "semester": 4,
+    "branch": "SE",
+    "Category": "ESC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/SE202",
+    "timetable": ""
+  },
+  {
+    "code": "SE206",
+    "title": "Machine Learning",
+    "semester": 4,
+    "branch": "SE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/SE206",
+    "timetable": ""
+  },
+  {
+    "code": "SE208",
+    "title": "Database Management Systems",
+    "semester": 4,
+    "branch": "SE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/SE208",
+    "timetable": ""
+  },
+  {
+    "code": "MSE210",
+    "title": "Algorithm Design and Analysis",
+    "semester": 4,
+    "branch": "SE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/MSE210",
+    "timetable": ""
+  },
+  {
+    "code": "SE301",
+    "title": "Software Testing",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/SE301",
+    "timetable": ""
+  },
+  {
+    "code": "SE303",
+    "title": "Software Quality and Metrics",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/SE303",
+    "timetable": ""
+  },
+  {
+    "code": "SE305",
+    "title": "Computer Networks",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/SE305",
+    "timetable": ""
+  },
+  {
+    "code": "HU301",
+    "title": "Engineering Economics / Fundamentals of Management",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/HU301",
+    "timetable": ""
+  },
+  {
+    "code": "SE302",
+    "title": "Empirical Software Engineering",
+    "semester": 6,
+    "branch": "SE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/SE302",
+    "timetable": ""
+  },
+  {
+    "code": "SE304",
+    "title": "Compiler Design",
+    "semester": 6,
+    "branch": "SE",
+    "Category": "DCC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/SE304",
+    "timetable": ""
+  },
+  {
+    "code": "HU302",
+    "title": "Fundamentals of Management / Engineering Economics",
+    "semester": 6,
+    "branch": "SE",
+    "Category": "SEC",
+    "type": "Mandatory",
+    "pdf": "../syllabi/HU302",
+    "timetable": ""
+  },
+  {
+    "code": "SE307",
+    "title": "Software Requirement Engineering",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE307",
+    "timetable": ""
+  },
+  {
+    "code": "SE309",
+    "title": "Computer Graphics",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE309",
+    "timetable": ""
+  },
+  {
+    "code": "SE311",
+    "title": "Information Theory and Coding",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE311",
+    "timetable": ""
+  },
+  {
+    "code": "SE313",
+    "title": "Digital Signal Processing",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE313",
+    "timetable": ""
+  },
+  {
+    "code": "SE315",
+    "title": "Advanced Data Structures",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE315",
+    "timetable": ""
+  },
+  {
+    "code": "SE317",
+    "title": "Discrete Structures",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE317",
+    "timetable": ""
+  },
+  {
+    "code": "SE319",
+    "title": "Distributed Systems",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE319",
+    "timetable": ""
+  },
+  {
+    "code": "SE321",
+    "title": "Soft Computing",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE321",
+    "timetable": ""
+  },
+  {
+    "code": "SE323",
+    "title": "Artificial Intelligence",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE323",
+    "timetable": ""
+  },
+  {
+    "code": "SE325",
+    "title": "Theory of Computation",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE325",
+    "timetable": ""
+  },
+  {
+    "code": "SE327",
+    "title": "Web Technology",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE327",
+    "timetable": ""
+  },
+  {
+    "code": "SE329",
+    "title": "Methods for Data Analysis",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE329",
+    "timetable": ""
+  },
+  {
+    "code": "SE331",
+    "title": "Predictive Analytics",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE331",
+    "timetable": ""
+  },
+  {
+    "code": "SE333",
+    "title": "Artificial Intelligence for Sports",
+    "semester": 5,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE333",
+    "timetable": ""
+  },
+  {
+    "code": "SE306",
+    "title": "Software Reliability",
+    "semester": 6,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE306",
+    "timetable": ""
+  },
+  {
+    "code": "SE308",
+    "title": "Multimedia Systems",
+    "semester": 6,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE308",
+    "timetable": ""
+  },
+  {
+    "code": "SE310",
+    "title": "Parallel Computer Architecture",
+    "semester": 6,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE310",
+    "timetable": ""
+  },
+  {
+    "code": "SE312",
+    "title": "Introduction to Health Care Analytics",
+    "semester": 6,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE312",
+    "timetable": ""
+  },
+  {
+    "code": "SE314",
+    "title": "Natural Language Processing",
+    "semester": 6,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE314",
+    "timetable": ""
+  },
+  {
+    "code": "SE316",
+    "title": "Advanced Database Management Systems",
+    "semester": 6,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE316",
+    "timetable": ""
+  },
+  {
+    "code": "SE318",
+    "title": "Data Compression",
+    "semester": 6,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE318",
+    "timetable": ""
+  },
+  {
+    "code": "SE320",
+    "title": "Real Time Systems",
+    "semester": 6,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE320",
+    "timetable": ""
+  },
+  {
+    "code": "SE322",
+    "title": "Parallel Algorithms",
+    "semester": 6,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE322",
+    "timetable": ""
+  },
+  {
+    "code": "SE324",
+    "title": "Probability and Statistics",
+    "semester": 6,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE324",
+    "timetable": ""
+  },
+  {
+    "code": "SE326",
+    "title": "Artificial Intelligence for Sports Surfaces and Equipments",
+    "semester": 6,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE326",
+    "timetable": ""
+  },
+  {
+    "code": "SE328",
+    "title": "Sports Business Analytics",
+    "semester": 6,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE328",
+    "timetable": ""
+  },
+  {
+    "code": "SE405",
+    "title": "Software Maintenance",
+    "semester": 7,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE405",
+    "timetable": ""
+  },
+  {
+    "code": "SE407",
+    "title": "Deep Learning",
+    "semester": 7,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE407",
+    "timetable": ""
+  },
+  {
+    "code": "SE409",
+    "title": "Grid and Cluster Computing",
+    "semester": 7,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE409",
+    "timetable": ""
+  },
+  {
+    "code": "SE411",
+    "title": "Pattern Recognition",
+    "semester": 7,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE411",
+    "timetable": ""
+  },
+  {
+    "code": "SE413",
+    "title": "Agile Software Process",
+    "semester": 7,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE413",
+    "timetable": ""
+  },
+  {
+    "code": "SE415",
+    "title": "Cyber-Forensics",
+    "semester": 7,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE415",
+    "timetable": ""
+  },
+  {
+    "code": "SE417",
+    "title": "Robotics",
+    "semester": 7,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE417",
+    "timetable": ""
+  },
+  {
+    "code": "SE419",
+    "title": "Wireless and Mobile Computing",
+    "semester": 7,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE419",
+    "timetable": ""
+  },
+  {
+    "code": "SE421",
+    "title": "Intellectual Property Rights and Cyber Laws",
+    "semester": 7,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE421",
+    "timetable": ""
+  },
+  {
+    "code": "SE423",
+    "title": "Software Project Management",
+    "semester": 7,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE423",
+    "timetable": ""
+  },
+  {
+    "code": "SE425",
+    "title": "Data Warehouse and Data Mining",
+    "semester": 7,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE425",
+    "timetable": ""
+  },
+  {
+    "code": "SE427",
+    "title": "Data Management and Ethics",
+    "semester": 7,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE427",
+    "timetable": ""
+  },
+  {
+    "code": "SE429",
+    "title": "GPU Computing",
+    "semester": 7,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE429",
+    "timetable": ""
+  },
+  {
+    "code": "SE431",
+    "title": "Data Security and Privacy",
+    "semester": 7,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE431",
+    "timetable": ""
+  },
+  {
+    "code": "SE433",
+    "title": "Quantum Computing",
+    "semester": 7,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE433",
+    "timetable": ""
+  },
+  {
+    "code": "SE404",
+    "title": "Advances in Software Engineering",
+    "semester": 8,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE404",
+    "timetable": ""
+  },
+  {
+    "code": "SE406",
+    "title": "Information and Network Security",
+    "semester": 8,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE406",
+    "timetable": ""
+  },
+  {
+    "code": "SE408",
+    "title": "Swarm and Evolutionary Computing",
+    "semester": 8,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE408",
+    "timetable": ""
+  },
+  {
+    "code": "SE410",
+    "title": "Semantic Web and Web Mining",
+    "semester": 8,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE410",
+    "timetable": ""
+  },
+  {
+    "code": "SE412",
+    "title": "Cloud Computing",
+    "semester": 8,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE412",
+    "timetable": ""
+  },
+  {
+    "code": "SE414",
+    "title": "Big Data Analytics",
+    "semester": 8,
+    "branch": "SE",
+    "Category": "DEC",
+    "type": "Elective",
+    "pdf": "../syllabi/SE414",
+    "timetable": ""
+  },
+  {
+    "code": "HU 312",
+    "title": "Microeconomics",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU312",
+    "timetable": ""
+  },
+  {
+    "code": "HU 305",
+    "title": "Macroeconomics",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU305",
+    "timetable": ""
+  },
+  {
+    "code": "HU 306",
+    "title": "Money, Banking and Finance",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU306",
+    "timetable": ""
+  },
+  {
+    "code": "HU 307",
+    "title": "Basic Econometrics",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU307",
+    "timetable": ""
+  },
+  {
+    "code": "HU 308",
+    "title": "Mathematical Economics",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU308",
+    "timetable": ""
+  },
+  {
+    "code": "HU 309",
+    "title": "Indian Economy",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU309",
+    "timetable": ""
+  },
+  {
+    "code": "HU 310",
+    "title": "International Economics",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU310",
+    "timetable": ""
+  },
+  {
+    "code": "HU 405",
+    "title": "Economic Growth",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU405",
+    "timetable": ""
+  },
+  {
+    "code": "HU 406",
+    "title": "Public Finance and Policy",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU406",
+    "timetable": ""
+  },
+  {
+    "code": "HU 407",
+    "title": "Wealth and Poverty of Nations",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU407",
+    "timetable": ""
+  },
+  {
+    "code": "HU 317",
+    "title": "Basic Communication Skills",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU317",
+    "timetable": ""
+  },
+  {
+    "code": "HU 318",
+    "title": "Professional Writing Skills",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU318",
+    "timetable": ""
+  },
+  {
+    "code": "HU 325",
+    "title": "Creative Writing Skills",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU325",
+    "timetable": ""
+  },
+  {
+    "code": "HU 326",
+    "title": "Rhetoric and Public Speaking",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU326",
+    "timetable": ""
+  },
+  {
+    "code": "HU 327",
+    "title": "Non-Verbal Communication",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU327",
+    "timetable": ""
+  },
+  {
+    "code": "HU 328",
+    "title": "Theatre and stagecraft",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU328",
+    "timetable": ""
+  },
+  {
+    "code": "HU 425",
+    "title": "Soft Skills Development",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU425",
+    "timetable": ""
+  },
+  {
+    "code": "HU 426",
+    "title": "Language and Social Media",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU426",
+    "timetable": ""
+  },
+  {
+    "code": "HU 427",
+    "title": "Literary Appreciation",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU427",
+    "timetable": ""
+  },
+  {
+    "code": "HU 428",
+    "title": "Adaptation and Translation",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU428",
+    "timetable": ""
+  },
+  {
+    "code": "HU 429",
+    "title": "Advanced Spoken Skills",
+    "semester": 6,
+    "branch": "HU",
+    "Category": "GEC",
+    "type": "Elective",
+    "pdf": "../syllabi/HU429",
+    "timetable": ""
+  }
+]

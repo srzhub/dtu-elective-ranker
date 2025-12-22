@@ -9,7 +9,9 @@
   gtag('js', new Date());
 
   gtag('config', 'G-PZTLYTZ2G8');
+  
 </script>
+
 
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -55,6 +57,7 @@
 
 
 </style>
+
 <body>
   <main>
 <!-- Navigation Bar -->
@@ -80,14 +83,16 @@
           <a class="nav-link" href="my-electives/my-electives.html">Syllabus</a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="CS Semester/semester_cs.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Semester
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="Semester_pages/semester1.html">I Semester</a></li>
-            <li><a class="dropdown-item" href="Semester_pages/semester3.html">III Semester</a></li>
-            <li><a class="dropdown-item" href="Semester_pages/semester5.html">V Semester</a></li>
-            <li><a class="dropdown-item" href="Semester_pages/semester7.html">VII Semester</a></li>
+            <li><a class="dropdown-item" href="semester_pages2/semester2.html">2 Semester</a></li>
+            <li><a class="dropdown-item" href="semester_pages2/semester4.html">4 Semester</a></li>
+            <li><a class="dropdown-item" href="semester_pages2/semester5.html">5 Semester</a></li>
+            <li><a class="dropdown-item" href="semester_pages2/semester6.html">6 Semester</a></li>
+            <li><a class="dropdown-item" href="semester_pages2/semester7.html">7 Semester</a></li>
+
           </ul>
         </li>
       </ul>
@@ -101,35 +106,75 @@
 <!-- Hero Section -->
 
 <section class="hero-fullscreen">
+
+      <!-- Open electives section -->
+<div class="row align-items-center mb-4 mt-3">
+
+  <!-- Illustration (unchanged) -->
+  <div class="col-md-4 d-none d-lg-flex justify-content-center mt-5">
+    <img src="svgs/undraw_education_3vwh (1).svg" class="img-fluid" alt="">
+  </div>
+
+  <!-- Text + buttons -->
+  <div class="col-md-7 text-center text-lg-start hero-text">
+
+    <h1 class="fw-bold mt-3 mt-md-0">
+      Choose your semester to find the best electives.
+    </h1>
+
+    <p class="lead mb-4 fs-5 d-none d-md-block">
+      Quickly see how your peers performed and make informed choices.
+    </p>
+
+    <!-- 🔹 Upcoming Semesters -->
+    <h4 class="fw-semibold mb-3">Upcoming Semesters</h4>
+    <div class="d-flex flex-wrap gap-4 justify-content-center justify-content-md-start mb-4">
+
+      <!-- 2nd → link Semester I -->
+      <a href="semester_pages2/semester2.html"
+         class="btn btn-primary btn-lg custom-sem-btn">
+        Semester 2
+      </a>
+
+      <!-- 4th → link Semester III -->
+      <a href="semester_pages2/semester4.html"
+         class="btn btn-primary btn-lg custom-sem-btn">
+        Semester 4
+      </a>
+
+      <!-- 6th → link Semester VI -->
+      <a href="semester_pages2/semester6.html"
+         class="btn btn-primary btn-lg custom-sem-btn">
+        Semester 6
+      </a>
+    </div>
+
+    <!-- 🔹 Previous Semesters -->
+    <h4 class="fw-semibold mb-3">Previous Semesters</h4>
+    <div class="d-flex flex-wrap gap-4 justify-content-center justify-content-md-start">
+
+      <a href="semester_pages2/semester5.html"
+         class="btn btn-outline-primary btn-lg custom-sem-btn">
+        Semester 5
+      </a>
+
+      <a href="semester_pages2/semester7.html"
+         class="btn btn-outline-primary btn-lg custom-sem-btn">
+        Semester 7
+      </a>
+
+    </div>
+
+  </div>
+</div>
+
       <!-- Select semester section -->
       <div class="container-fluid  ">
 
-<!-- My Electives Link Section -->
-<section class="my-5 py-4">
-    <div class="container ">
-        <div class="card p-4 shadow-sm border-0 form-subjects hero-text"> <div class="row align-items-center">
-                <div class="col-md-7 text-center text-md-start mb-4 mb-md-0 ">
-                    <h2 class="fw-bold mb-3 text-custom-hub">Your Personalized Elective Hub</h2> <p class="lead mb-4 text-secondary"> Easily review, modify, and keep track of all your selected subjects in one convenient place.
-                    </p>
-                    <a href="my-electives/my-electives.html" class="btn btn-primary btn-lg custom-sem-btn">Go to Syllabus</a>
-                </div>
-                <div class="col-md-5 text-center ">
-                    <ul class="list-unstyled text-start fs-5">
-                        <li class="mb-2"><i class="bi bi-check-circle-fill me-2 text-success"></i> Quick access to syllabi</li> <li class="mb-2"><i class="bi bi-check-circle-fill me-2 text-success"></i> Easy subject removal</li>
-                        <li class="mb-2"><i class="bi bi-check-circle-fill me-2 text-success"></i> Organize your choices</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+      <hr class="mt-5" />
 
 
-
-
-        <hr class="mt-5" />
-
-<!-- Semester & Branch Selection Section -->
+      <!-- Semester & Branch Selection Section -->
 <div class="row align-items-center mt-0 gy-0">
   
   <!-- Left Column: Form -->
@@ -193,26 +238,36 @@
 
 </div>
 
+      <hr class="mt-5" />
+
+
+<!-- My Electives Link Section -->
+<section class="my-5 py-4">
+    <div class="container ">
+        <div class="card p-4 shadow-sm border-0 form-subjects hero-text"> <div class="row align-items-center">
+                <div class="col-md-7 text-center text-md-start mb-4 mb-md-0 ">
+                    <h2 class="fw-bold mb-3 text-custom-hub">Your Personalized Elective Hub</h2> <p class="lead mb-4 text-secondary"> Easily review, modify, and keep track of all your selected subjects in one convenient place.
+                    </p>
+                    <a href="my-electives/my-electives.html" class="btn btn-primary btn-lg custom-sem-btn">Go to Syllabus</a>
+                </div>
+                <div class="col-md-5 text-center ">
+                    <ul class="list-unstyled text-start fs-5">
+                        <li class="mb-2"><i class="bi bi-check-circle-fill me-2 text-success"></i> Quick access to syllabi</li> <li class="mb-2"><i class="bi bi-check-circle-fill me-2 text-success"></i> Easy subject removal</li>
+                        <li class="mb-2"><i class="bi bi-check-circle-fill me-2 text-success"></i> Organize your choices</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
         <hr class="mt-4" />
 
-    <!-- Open electives section -->
-        <div class="row align-items-center mb-4">
-          <div class="col-md-4  d-none d-lg-flex justify-content-center mt-5">
-            <img src="svgs/undraw_education_3vwh (1).svg" class="img-fluid" alt="">
-          </div>
 
-          <div class="col-md-7 text-center text-lg-start  hero-text ">
-              <h1 class=" fw-bold mt-3 mt-md-0" >Choose your upcoming semester to find the best electives.</h1>
-          <p class="lead mb-4 fs-5 d-none d-md-block">Quickly see how your peers performed and make informed choices.</p>
-          <div class="d-flex flex-wrap gap-4 justify-content-center justify-content-md-start">
-
-            <a href="Semester_pages/semester1.html" class="btn btn-primary btn-lg custom-sem-btn">Semester I</a>
-            <a href="Semester_pages/semester3.html" class="btn btn-primary btn-lg custom-sem-btn">Semester III</a>
-            <a href="Semester_pages/semester5.html" class="btn btn-primary btn-lg custom-sem-btn">Semester V</a>
-            <a href="Semester_pages/semester7.html" class="btn btn-primary btn-lg custom-sem-btn">Semester VII</a>
-          </div>
-          </div>
-        </div>
 
 
 </section>

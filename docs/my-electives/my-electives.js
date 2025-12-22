@@ -1,6 +1,6 @@
 // Fetch data from json file
 let allSubjects = []; 
-fetch("syllabi.json")
+fetch("syllabi2.json")
   .then(res => res.json())
   .then(data => {
     allSubjects = data;

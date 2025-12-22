@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Subject Details</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="../stylesv1.css">
+  
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <style>
+/* ===============================
+   SUBJECT PAGE — LOCAL STYLES
+   =============================== */
+
+.subject-page {
+  background-color: #f1f5f9;
+  padding-bottom: 2rem;
+}
+
+/* ---- Header ---- */
+.subject-page .subject-header {
+  background: #f8fafc;
+  border-left: 4px solid #3730a3;
+  padding: 1.4rem 1.8rem;
+}
+
+.subject-page .subject-header h2 {
+  font-size: 1.55rem;
+  font-weight: 600;
+  color: #1e1b4b;
+  margin-bottom: 0.2rem;
+  text-transform: none;
+}
+
+.subject-page .subject-header p {
+  font-size: 0.9rem;
+}
+
+/* ---- Cards ---- */
+.subject-page .card {
+  border-radius: 10px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.05);
+}
+
+/* ---- Stats ---- */
+.subject-page .stat-card {
+  background: #ffffff;
+  padding: 0.9rem;
+}
+
+.subject-page .stat-label {
+  font-size: 0.75rem;
+  color: #6b7280;
+  margin-bottom: 0.15rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.subject-page .stat-value {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #3730a3;
+}
+
+/* ---- Chart ---- */
+.subject-page .chart-wrapper {
+  height: 300px;
+}
+
+.subject-page canvas {
+  max-height: 100%;
+}
+
+/* ---- Branches ---- */
+.subject-page #departmentsContainer .badge {
+  background-color: #e5e7eb;
+  color: #1e293b;
+  font-weight: 500;
+  padding: 0.4em 0.7em;
+  border-radius: 999px;
+}
+
+/* ---- Section headings ---- */
+.subject-page h5 {
+  color: #1e1b4b;
+  font-weight: 600;
+}
+
+/* ---- Spacing tweaks ---- */
+.subject-page .row.g-4 {
+  margin-bottom: 0.5rem;
+}
+</style>
+
+  
+</head>
+
+<body>
+<main class="container mt-4 mb-5 subject-page">
+  
+  
+
+  <!-- SUBJECT HEADER -->
+<div class="subject-header card mb-4 p-4">
+  <h2 id="subjectTitle" class="mb-1"></h2>
+  <p class="text-muted mb-0">
+    <span id="metaInfo"></span>
+    <span class="mx-2"></span>
+    <span id="examYear"></span>
+  </p>
+</div>
+
+
+  <!-- MAIN CONTENT ROW -->
+  <div class="row g-4 align-items-stretch">
+
+    <!-- LEFT: GRADE DISTRIBUTION -->
+    <div class="col-lg-6">
+      <div class="card h-100 p-4">
+        <h5 class="fw-semibold mb-3">Grade Distribution</h5>
+        <div class="chart-wrapper">
+          <canvas id="gradeChart"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <!-- RIGHT: STATS -->
+    <div class="col-lg-6">
+      <div class="row g-3">
+
+        <div class="col-12">
+          <div class="stat-card card p-3 text-center">
+            <div class="stat-label">Average Grade Point</div>
+            <div id="avgGp" class="stat-value"></div>
+          </div>
+        </div>
+
+        <div class="col-12">
+          <div class="stat-card card p-3 text-center">
+            <div class="stat-label">Pass Percentage</div>
+            <div id="passPercent" class="stat-value"></div>
+          </div>
+        </div>
+
+        <div class="col-12">
+          <div class="stat-card card p-3 text-center">
+            <div class="stat-label">Total Students</div>
+            <div id="students" class="stat-value"></div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- BRANCHES AT BOTTOM -->
+  <div class="card p-4 mt-4">
+    <h5 class="fw-semibold mb-1">Branches Enrolled</h5>
+    <p class="text-muted mb-3">
+      Students from the following branches took this subject
+    </p>
+    <div id="departmentsContainer" class="d-flex flex-wrap gap-2"></div>
+  </div>
+
+</main>
+
+
+    <footer 
+    class="text-center text-lg-start footer-custom"
+    style = "background-color: #3730a3;">
+
+        
+        <div class="container-fluid text-white mt-3">
+          <div class="row justify-content-center mb-4 ">
+            <div class="col-auto mx-4 px-2  ">
+               <a href="../Extra pages/about.html" class="text-white">About</a> 
+            </div>
+            <div class="col-auto mx-4 px-2">
+               <a href="https://github.com/srzhub" class="text-white">Github</a> 
+            </div>
+            <div class="col-auto mx-4 px-2">
+               <a href="../Extra pages/contact.html" class="text-white">Contact</a> 
+            </div>
+            <div class="col-auto mx-4 px-2">
+               <a href="../Extra pages/privacy.html" class="text-white">Privacy Policy</a> 
+            </div>  
+             <div class="col-auto mx-4 px-2">
+               <a href="../Extra pages/credits.html" class="text-white">Credits</a> 
+            </div>
+          </div>
+
+          <div class="row justify-content-center mb-4 ">
+            <div class="col-auto ">Made with &#9829 for DTU students | by <a href="https://www.linkedin.com/in/suhaib-azmi-911447276/" style="color: white; text-decoration: underline;">Suhaib Aazmi</a> </div>
+          </div>
+        </div>
+    </footer>
+
+
+
+<script src="subject.js"></script>
+</body>
+</html>

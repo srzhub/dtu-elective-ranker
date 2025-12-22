@@ -195,3 +195,50 @@ custom select dropdown */
   .text-purple {
   color: #3730a3; /* Bootstrap's purple shade */
 }
+
+/* ---------- SUBJECT PAGE THEME ---------- */
+
+/* ===== Academic Clean ===== */
+
+.subject-header {
+  background: #eef2ff;
+  border-left: 6px solid #3730a3;
+}
+
+.subject-header h2 {
+  color: #1e1b4b;
+  font-weight: 600;
+}
+
+.stat-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+}
+
+.stat-value {
+  font-size: 1.7rem;
+  font-weight: 600;
+  color: #3730a3;
+}
+
+#departmentsContainer .badge {
+  background-color: #e0e7ff;
+  color: #1e1b4b;
+  font-weight: 500;
+}
+
+.chart-wrapper {
+  height: 320px;
+}
+.syllabus-icon {
+  color: #3f3c3c;          /* your purple */
+  font-size: 1.3rem;
+  text-decoration: none;
+}
+
+.syllabus-icon:hover {
+  color: #3730a3;          /* darker on hover */
+}
+
+
+
