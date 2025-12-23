@@ -47,11 +47,11 @@ function renderTable() {
 
 
   // Student count filter
-  const studentFilter = document.getElementById("studentFilter").value;
-  if (studentFilter !== "all") {
-    const minStudents = parseInt(studentFilter);
-    subjects = subjects.filter(s => s.total_students >= minStudents);
-  }
+  // const studentFilter = document.getElementById("studentFilter").value;
+  // if (studentFilter !== "all") {
+  //   const minStudents = parseInt(studentFilter);
+  //   subjects = subjects.filter(s => s.total_students >= minStudents);
+  // }
 
   // Sorting
   const sortOrder = document.getElementById("sortOrder").value;
@@ -107,5 +107,9 @@ document.getElementById("studentFilter").addEventListener("change", renderTable)
 document.getElementById("nameFilter").addEventListener("input", renderTable);
 document.getElementById("subjectFilter").addEventListener("change", renderTable);
 
-document.getElementById("nameFilter").focus();
+// focus on desktop only
+const isMobile = /Mobi|Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/.test(navigator.userAgent);
+if (!isMobile) {
+  document.getElementById("nameFilter").focus();
+}
   
