@@ -2391,7 +2391,7 @@
     },
     {
       "subject_name": "OBJECT ORIENTED SOFTWARE ENGINEERING",
-      "subject_code": "CO326",
+      "subject_code": "SE204n",
       "syllabus": "",
       "semester": "VI",
       "exam_year": "MAY 2025",
@@ -2416,7 +2416,7 @@
         "B+": 9,
         "B": 1
       },
-      "subject_type": "CO",
+      "subject_type": "SE",
       "slots": [
         "E3"
       ]
