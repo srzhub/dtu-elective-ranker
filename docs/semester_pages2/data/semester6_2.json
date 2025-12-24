@@ -1,0 +1,4212 @@
+{
+  "parser_version": "2.0",
+  "total_unique_students": 2638,
+  "total_subjects": 157,
+  "subjects": [
+    {
+      "subject_name": "MOOC COURSE",
+      "subject_code": "MOOC306",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2020",
+        "2022"
+      ],
+      "total_students": 1684,
+      "average_grade_point": 8.89,
+      "pass_percentage": 97.57,
+      "grade_distribution": {
+        "A": 183,
+        "B+": 101,
+        "B": 75,
+        "O": 915,
+        "A+": 340,
+        "F": 41,
+        "C": 25,
+        "P": 4
+      },
+      "subject_type": "MO"
+    },
+    {
+      "subject_name": "Fundamentals of Management",
+      "subject_code": "MG302",
+      "syllabus": "../syllabi/MG302.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Environmental Engineering",
+        "Information Technology",
+        "Software Engineering"
+      ],
+      "batches": [
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "total_students": 1575,
+      "average_grade_point": 7.96,
+      "pass_percentage": 99.05,
+      "grade_distribution": {
+        "C": 43,
+        "P": 20,
+        "B": 139,
+        "O": 180,
+        "B+": 268,
+        "A": 451,
+        "A+": 459,
+        "F": 15
+      },
+      "subject_type": "MG"
+    },
+    {
+      "subject_name": "Engineering Economics",
+      "subject_code": "HU302A",
+      "syllabus": "../syllabi/HU301.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Engineering Physics",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 963,
+      "average_grade_point": 7.98,
+      "pass_percentage": 98.03,
+      "grade_distribution": {
+        "B+": 172,
+        "F": 19,
+        "A+": 290,
+        "A": 291,
+        "O": 107,
+        "B": 55,
+        "C": 26,
+        "P": 3
+      },
+      "subject_type": "HU"
+    },
+    {
+      "subject_name": "COMPUTER NETWORKS",
+      "subject_code": "CO306",
+      "syllabus": "../syllabi/CS208.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "total_students": 579,
+      "average_grade_point": 8.08,
+      "pass_percentage": 98.96,
+      "grade_distribution": {
+        "A": 151,
+        "B+": 94,
+        "B": 35,
+        "A+": 208,
+        "O": 62,
+        "C": 18,
+        "F": 6,
+        "P": 5
+      },
+      "subject_type": "CO"
+    },
+    {
+      "subject_name": "ARTIFICIAL INTELLIGENCE",
+      "subject_code": "CO304",
+      "syllabus": "../syllabi/IT326.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "total_students": 574,
+      "average_grade_point": 7.85,
+      "pass_percentage": 98.61,
+      "grade_distribution": {
+        "A": 155,
+        "A+": 168,
+        "B+": 86,
+        "B": 43,
+        "C": 30,
+        "O": 68,
+        "P": 16,
+        "F": 8
+      },
+      "subject_type": "CO"
+    },
+    {
+      "subject_name": "COMPILER DESIGN",
+      "subject_code": "CO302",
+      "syllabus": "../syllabi/CS301.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "total_students": 563,
+      "average_grade_point": 8.1,
+      "pass_percentage": 98.93,
+      "grade_distribution": {
+        "A+": 184,
+        "A": 151,
+        "B+": 70,
+        "C": 21,
+        "O": 83,
+        "B": 39,
+        "P": 9,
+        "F": 6
+      },
+      "subject_type": "CO"
+    },
+    {
+      "subject_name": "POWER SYSTEM ANALYSIS",
+      "subject_code": "EE304",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electrical Engineering"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 302,
+      "average_grade_point": 7.29,
+      "pass_percentage": 97.35,
+      "grade_distribution": {
+        "P": 16,
+        "C": 17,
+        "O": 29,
+        "A+": 49,
+        "B": 38,
+        "F": 8,
+        "A": 80,
+        "B+": 65
+      },
+      "subject_type": "EE"
+    },
+    {
+      "subject_name": "Design of Machine Elements ",
+      "subject_code": "ME304A",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Mechanical Engineering"
+      ],
+      "batches": [
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "total_students": 301,
+      "average_grade_point": 6.38,
+      "pass_percentage": 92.69,
+      "grade_distribution": {
+        "B+": 63,
+        "A": 57,
+        "B": 56,
+        "P": 22,
+        "A+": 30,
+        "C": 36,
+        "F": 22,
+        "O": 15
+      },
+      "subject_type": "ME"
+    },
+    {
+      "subject_name": "ELECTRIC DRIVES",
+      "subject_code": "EE302",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electrical Engineering"
+      ],
+      "batches": [
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "total_students": 298,
+      "average_grade_point": 6.68,
+      "pass_percentage": 97.99,
+      "grade_distribution": {
+        "P": 19,
+        "B+": 75,
+        "C": 39,
+        "B": 66,
+        "O": 14,
+        "A": 51,
+        "A+": 28,
+        "F": 6
+      },
+      "subject_type": "EE"
+    },
+    {
+      "subject_name": "MICROPROCESSORS & MICROCONTROLLER APPLICATIONS",
+      "subject_code": "EE306",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electrical Engineering"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 298,
+      "average_grade_point": 7.0,
+      "pass_percentage": 96.98,
+      "grade_distribution": {
+        "C": 27,
+        "B": 48,
+        "A+": 43,
+        "P": 16,
+        "A": 65,
+        "B+": 69,
+        "O": 21,
+        "F": 9
+      },
+      "subject_type": "EE"
+    },
+    {
+      "subject_name": "HEAT AND MASS TRANSFER",
+      "subject_code": "ME302",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Mechanical Engineering"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 294,
+      "average_grade_point": 7.83,
+      "pass_percentage": 98.3,
+      "grade_distribution": {
+        "A": 93,
+        "O": 41,
+        "B+": 52,
+        "B": 25,
+        "A+": 62,
+        "F": 5,
+        "P": 4,
+        "C": 12
+      },
+      "subject_type": "ME"
+    },
+    {
+      "subject_name": "MANUFACTURING TECHNOLOGY-II",
+      "subject_code": "ME306A",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Mechanical Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 292,
+      "average_grade_point": 7.92,
+      "pass_percentage": 98.97,
+      "grade_distribution": {
+        "A+": 73,
+        "A": 89,
+        "B+": 61,
+        "O": 33,
+        "B": 26,
+        "P": 4,
+        "C": 3,
+        "F": 3
+      },
+      "subject_type": "ME"
+    },
+    {
+      "subject_name": "VLSI DESIGN",
+      "subject_code": "EC302",
+      "syllabus": "../syllabi/EC302.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electronics & Communication Engineering"
+      ],
+      "batches": [
+        "2019",
+        "2021",
+        "2022"
+      ],
+      "total_students": 253,
+      "average_grade_point": 7.03,
+      "pass_percentage": 96.44,
+      "grade_distribution": {
+        "A": 53,
+        "B": 41,
+        "F": 9,
+        "P": 17,
+        "C": 17,
+        "O": 22,
+        "B+": 55,
+        "A+": 39
+      },
+      "subject_type": "EC"
+    },
+    {
+      "subject_name": "EMBEDDED SYSTEMS",
+      "subject_code": "EC306",
+      "syllabus": "../syllabi/EC304.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electronics & Communication Engineering"
+      ],
+      "batches": [
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "total_students": 252,
+      "average_grade_point": 7.34,
+      "pass_percentage": 97.62,
+      "grade_distribution": {
+        "F": 6,
+        "A": 64,
+        "B+": 51,
+        "C": 21,
+        "A+": 45,
+        "B": 33,
+        "O": 24,
+        "P": 8
+      },
+      "subject_type": "EC"
+    },
+    {
+      "subject_name": "DIGITAL SIGNAL PROCESSING",
+      "subject_code": "EC304",
+      "syllabus": "../syllabi/EC301.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electronics & Communication Engineering"
+      ],
+      "batches": [
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "total_students": 250,
+      "average_grade_point": 6.92,
+      "pass_percentage": 95.2,
+      "grade_distribution": {
+        "F": 12,
+        "A": 53,
+        "B": 40,
+        "P": 8,
+        "B+": 64,
+        "O": 21,
+        "A+": 29,
+        "C": 23
+      },
+      "subject_type": "EC"
+    },
+    {
+      "subject_name": "SOFTWARE ENGINEERING",
+      "subject_code": "IT304",
+      "syllabus": "../syllabi/IT202.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 244,
+      "average_grade_point": 7.98,
+      "pass_percentage": 99.18,
+      "grade_distribution": {
+        "C": 8,
+        "B+": 47,
+        "A": 68,
+        "A+": 60,
+        "P": 2,
+        "O": 36,
+        "B": 21,
+        "F": 2
+      },
+      "subject_type": "IT"
+    },
+    {
+      "subject_name": "COMPILER DESIGN",
+      "subject_code": "IT302",
+      "syllabus": "../syllabi/IT301.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Production & Industrial Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 233,
+      "average_grade_point": 8.33,
+      "pass_percentage": 99.14,
+      "grade_distribution": {
+        "C": 7,
+        "A+": 118,
+        "B": 16,
+        "A": 42,
+        "O": 26,
+        "B+": 21,
+        "P": 1,
+        "F": 2
+      },
+      "subject_type": "IT"
+    },
+    {
+      "subject_name": "ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEMS",
+      "subject_code": "IT306",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Information Technology",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 226,
+      "average_grade_point": 8.08,
+      "pass_percentage": 98.23,
+      "grade_distribution": {
+        "A": 73,
+        "B+": 24,
+        "B": 15,
+        "C": 7,
+        "A+": 76,
+        "F": 4,
+        "P": 1,
+        "O": 26
+      },
+      "subject_type": "IT"
+    },
+    {
+      "subject_name": "Financial Engineering",
+      "subject_code": "MC306",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering"
+      ],
+      "batches": [
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "total_students": 209,
+      "average_grade_point": 6.35,
+      "pass_percentage": 93.3,
+      "grade_distribution": {
+        "C": 29,
+        "O": 11,
+        "B": 29,
+        "A+": 27,
+        "B+": 41,
+        "A": 34,
+        "P": 24,
+        "F": 14
+      },
+      "subject_type": "MC"
+    },
+    {
+      "subject_name": "Empirical Software Engineering",
+      "subject_code": "SE302A",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Software Engineering"
+      ],
+      "batches": [
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "total_students": 201,
+      "average_grade_point": 7.63,
+      "pass_percentage": 98.01,
+      "grade_distribution": {
+        "B": 25,
+        "A": 77,
+        "F": 4,
+        "A+": 42,
+        "O": 11,
+        "B+": 35,
+        "C": 7
+      },
+      "subject_type": "SE"
+    },
+    {
+      "subject_name": "COMPILER DESIGN",
+      "subject_code": "SE306",
+      "syllabus": "../syllabi/SE304.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Software Engineering"
+      ],
+      "batches": [
+        "2020",
+        "2022"
+      ],
+      "total_students": 200,
+      "average_grade_point": 7.85,
+      "pass_percentage": 99.5,
+      "grade_distribution": {
+        "C": 10,
+        "A+": 62,
+        "F": 1,
+        "B+": 34,
+        "O": 20,
+        "A": 48,
+        "B": 20,
+        "P": 5
+      },
+      "subject_type": "SE"
+    },
+    {
+      "subject_name": "COMPUTER NETWORKS",
+      "subject_code": "SE304A",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Software Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 199,
+      "average_grade_point": 7.86,
+      "pass_percentage": 99.5,
+      "grade_distribution": {
+        "B+": 39,
+        "A+": 59,
+        "A": 50,
+        "B": 21,
+        "O": 18,
+        "C": 10,
+        "F": 1,
+        "P": 1
+      },
+      "subject_type": "SE"
+    },
+    {
+      "subject_name": "THEORY OF COMPUTATION",
+      "subject_code": "MC304",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Mathematics & Computing"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 183,
+      "average_grade_point": 7.76,
+      "pass_percentage": 98.36,
+      "grade_distribution": {
+        "O": 21,
+        "B+": 31,
+        "F": 3,
+        "A+": 44,
+        "C": 9,
+        "P": 4,
+        "A": 55,
+        "B": 16
+      },
+      "subject_type": "MC"
+    },
+    {
+      "subject_name": "DATA BASE MANAGEMENT SYSTEM",
+      "subject_code": "MC302",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Mathematics & Computing"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 182,
+      "average_grade_point": 8.14,
+      "pass_percentage": 98.9,
+      "grade_distribution": {
+        "A+": 55,
+        "A": 73,
+        "F": 2,
+        "O": 18,
+        "B": 10,
+        "B+": 21,
+        "C": 3
+      },
+      "subject_type": "MC"
+    },
+    {
+      "subject_name": "POWER PLANT ENGINEERING",
+      "subject_code": "ME316",
+      "syllabus": "../syllabi/ME351.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Information Technology",
+        "Mechanical Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2020",
+        "2022"
+      ],
+      "total_students": 176,
+      "average_grade_point": 8.1,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A": 58,
+        "B": 16,
+        "A+": 50,
+        "O": 21,
+        "B+": 27,
+        "P": 3,
+        "C": 1
+      },
+      "subject_type": "ME"
+    },
+    {
+      "subject_name": "CYBER FORENSICS",
+      "subject_code": "IT312",
+      "syllabus": "../syllabi/CS414.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 174,
+      "average_grade_point": 8.41,
+      "pass_percentage": 98.85,
+      "grade_distribution": {
+        "A": 45,
+        "A+": 66,
+        "O": 31,
+        "F": 2,
+        "B+": 23,
+        "C": 3,
+        "B": 4
+      },
+      "subject_type": "IT"
+    },
+    {
+      "subject_name": "ANALYSIS OF INDETERMINATE STRUCTURES",
+      "subject_code": "CE302",
+      "syllabus": "../syllabi/CE204.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 167,
+      "average_grade_point": 5.38,
+      "pass_percentage": 80.24,
+      "grade_distribution": {
+        "F": 33,
+        "C": 27,
+        "B": 19,
+        "B+": 28,
+        "A": 25,
+        "A+": 13,
+        "P": 14,
+        "O": 8
+      },
+      "subject_type": "CE"
+    },
+    {
+      "subject_name": "TRANSPORTATION ENGINEERING",
+      "subject_code": "CE306",
+      "syllabus": "../syllabi/CE305.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 156,
+      "average_grade_point": 7.16,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "B": 28,
+        "B+": 49,
+        "C": 15,
+        "A": 29,
+        "A+": 21,
+        "P": 5,
+        "O": 9
+      },
+      "subject_type": "CE"
+    },
+    {
+      "subject_name": "GEOTECHNICAL ENGINEERING",
+      "subject_code": "CE304",
+      "syllabus": "../syllabi/CE301.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 153,
+      "average_grade_point": 6.54,
+      "pass_percentage": 94.77,
+      "grade_distribution": {
+        "C": 16,
+        "B": 29,
+        "B+": 36,
+        "P": 11,
+        "A": 35,
+        "A+": 9,
+        "F": 8,
+        "O": 9
+      },
+      "subject_type": "CE"
+    },
+    {
+      "subject_name": "SOFT COMPUTING",
+      "subject_code": "EC320",
+      "syllabus": "../syllabi/EC320.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Information Technology"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 150,
+      "average_grade_point": 6.99,
+      "pass_percentage": 99.33,
+      "grade_distribution": {
+        "B+": 40,
+        "P": 11,
+        "A+": 20,
+        "O": 10,
+        "A": 26,
+        "B": 26,
+        "C": 16,
+        "F": 1
+      },
+      "subject_type": "EC"
+    },
+    {
+      "subject_name": "HIGH SPEED NETWORKS",
+      "subject_code": "IT316",
+      "syllabus": "../syllabi/IT407.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Software Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 146,
+      "average_grade_point": 7.77,
+      "pass_percentage": 97.95,
+      "grade_distribution": {
+        "B+": 23,
+        "F": 3,
+        "O": 21,
+        "A": 34,
+        "A+": 39,
+        "B": 16,
+        "P": 5,
+        "C": 5
+      },
+      "subject_type": "IT"
+    },
+    {
+      "subject_name": "OBJECT ORIENTED SOFTWARE ENGINEERING",
+      "subject_code": "CO326",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electronics & Communication Engineering",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 141,
+      "average_grade_point": 8.79,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A": 38,
+        "O": 29,
+        "A+": 64,
+        "B+": 9,
+        "B": 1
+      },
+      "subject_type": "CO"
+    },
+    {
+      "subject_name": "QUALITY MANAGEMENT & SIX SIGMA APPLICATIONS",
+      "subject_code": "ME312",
+      "syllabus": "../syllabi/ME312.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 139,
+      "average_grade_point": 7.76,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "B": 17,
+        "A": 31,
+        "B+": 28,
+        "A+": 35,
+        "O": 16,
+        "C": 9,
+        "P": 3
+      },
+      "subject_type": "ME"
+    },
+    {
+      "subject_name": "Money, Banking and Finance",
+      "subject_code": "HU306",
+      "syllabus": "../syllabi/HU306.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 134,
+      "average_grade_point": 8.91,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "B+": 5,
+        "A": 17,
+        "A+": 97,
+        "O": 15
+      },
+      "subject_type": "HU"
+    },
+    {
+      "subject_name": "Ethical Hacking",
+      "subject_code": "IT328A",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Information Technology",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 128,
+      "average_grade_point": 7.72,
+      "pass_percentage": 98.44,
+      "grade_distribution": {
+        "B+": 25,
+        "O": 12,
+        "A": 44,
+        "A+": 27,
+        "B": 11,
+        "P": 3,
+        "F": 2,
+        "C": 4
+      },
+      "subject_type": "IT"
+    },
+    {
+      "subject_name": "GREEN ENERGY TECHNOLOGY",
+      "subject_code": "PE308",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 125,
+      "average_grade_point": 8.2,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A": 44,
+        "B+": 21,
+        "A+": 36,
+        "C": 2,
+        "O": 15,
+        "B": 7
+      },
+      "subject_type": "PE"
+    },
+    {
+      "subject_name": "PRODUCTION AND OPERATIONS MANAGEMENT",
+      "subject_code": "ME330",
+      "syllabus": "../syllabi/ME330.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Mechanical Engineering",
+        "Software Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 125,
+      "average_grade_point": 7.99,
+      "pass_percentage": 98.4,
+      "grade_distribution": {
+        "A": 39,
+        "O": 15,
+        "B+": 26,
+        "A+": 33,
+        "C": 2,
+        "B": 8,
+        "F": 2
+      },
+      "subject_type": "ME"
+    },
+    {
+      "subject_name": "FABRICATION AND CHARACTERIZATION OF NANOSTRUCTURES",
+      "subject_code": "EP304",
+      "syllabus": "../syllabi/EP304.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Engineering Physics"
+      ],
+      "batches": [
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "total_students": 121,
+      "average_grade_point": 5.49,
+      "pass_percentage": 87.6,
+      "grade_distribution": {
+        "F": 15,
+        "P": 11,
+        "C": 24,
+        "B+": 22,
+        "B": 27,
+        "A": 15,
+        "O": 1,
+        "A+": 6
+      },
+      "subject_type": "EP"
+    },
+    {
+      "subject_name": "Deep Learning",
+      "subject_code": "CO328",
+      "syllabus": "../syllabi/CS318.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Software Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 120,
+      "average_grade_point": 7.52,
+      "pass_percentage": 99.17,
+      "grade_distribution": {
+        "A": 31,
+        "B+": 28,
+        "C": 7,
+        "B": 19,
+        "O": 13,
+        "A+": 19,
+        "P": 2,
+        "F": 1
+      },
+      "subject_type": "CO"
+    },
+    {
+      "subject_name": "FIBRE OPTICS AND OPTICAL COMMUNICATION",
+      "subject_code": "EP302",
+      "syllabus": "../syllabi/EP302.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Mechanical Engineering"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 119,
+      "average_grade_point": 6.78,
+      "pass_percentage": 88.24,
+      "grade_distribution": {
+        "F": 14,
+        "C": 8,
+        "O": 4,
+        "A+": 39,
+        "B": 7,
+        "A": 26,
+        "B+": 14,
+        "P": 7
+      },
+      "subject_type": "EP"
+    },
+    {
+      "subject_name": "MICROWAVE ENGINEERING",
+      "subject_code": "EP306",
+      "syllabus": "../syllabi/EP306.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Engineering Physics"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 116,
+      "average_grade_point": 8.78,
+      "pass_percentage": 96.55,
+      "grade_distribution": {
+        "A+": 46,
+        "A": 17,
+        "O": 42,
+        "B+": 7,
+        "F": 4
+      },
+      "subject_type": "EP"
+    },
+    {
+      "subject_name": "ARTIFICIAL INTELLIGENCE",
+      "subject_code": "MC312",
+      "syllabus": "../syllabi/IT326.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Mathematics & Computing",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 106,
+      "average_grade_point": 8.22,
+      "pass_percentage": 99.06,
+      "grade_distribution": {
+        "P": 2,
+        "A+": 38,
+        "A": 30,
+        "B": 5,
+        "O": 15,
+        "F": 1,
+        "C": 2,
+        "B+": 13
+      },
+      "subject_type": "MC"
+    },
+    {
+      "subject_name": "ADVANCED DATABASE MANAGEMENT SYSTEMS",
+      "subject_code": "CO318",
+      "syllabus": "../syllabi/CS326.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Software Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 106,
+      "average_grade_point": 8.26,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A+": 39,
+        "A": 29,
+        "B": 8,
+        "C": 2,
+        "O": 13,
+        "B+": 15
+      },
+      "subject_type": "CO"
+    },
+    {
+      "subject_name": "NATURAL LANGUAGE PROCESSING",
+      "subject_code": "SE316",
+      "syllabus": "../syllabi/SE314.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Software Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 106,
+      "average_grade_point": 8.04,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A+": 33,
+        "C": 3,
+        "B+": 16,
+        "A": 34,
+        "O": 10,
+        "B": 8,
+        "P": 2
+      },
+      "subject_type": "SE"
+    },
+    {
+      "subject_name": "Software Reliability",
+      "subject_code": "SE308",
+      "syllabus": "../syllabi/SE306.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Software Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 105,
+      "average_grade_point": 7.55,
+      "pass_percentage": 94.29,
+      "grade_distribution": {
+        "A": 27,
+        "A+": 22,
+        "F": 6,
+        "B": 11,
+        "O": 18,
+        "B+": 15,
+        "C": 4,
+        "P": 2
+      },
+      "subject_type": "SE"
+    },
+    {
+      "subject_name": "RHETORIC AND PUBLIC SPEAKING",
+      "subject_code": "HU326",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 104,
+      "average_grade_point": 9.12,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A": 10,
+        "B+": 2,
+        "O": 26,
+        "A+": 66
+      },
+      "subject_type": "HU"
+    },
+    {
+      "subject_name": "PATTERN RECOGNITION",
+      "subject_code": "CO324",
+      "syllabus": "../syllabi/CS407.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Engineering Physics",
+        "Mathematics & Computing",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 102,
+      "average_grade_point": 7.67,
+      "pass_percentage": 98.04,
+      "grade_distribution": {
+        "B+": 16,
+        "B": 6,
+        "C": 9,
+        "A": 19,
+        "A+": 33,
+        "P": 5,
+        "O": 12,
+        "F": 2
+      },
+      "subject_type": "CO"
+    },
+    {
+      "subject_name": "INFORMATION THEORY AND CODING",
+      "subject_code": "EC332",
+      "syllabus": "../syllabi/EC328.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Electronics & Communication Engineering"
+      ],
+      "batches": [
+        "2018",
+        "2022"
+      ],
+      "total_students": 98,
+      "average_grade_point": 6.3,
+      "pass_percentage": 88.78,
+      "grade_distribution": {
+        "F": 11,
+        "A": 15,
+        "B": 16,
+        "O": 6,
+        "C": 7,
+        "A+": 13,
+        "B+": 23,
+        "P": 7
+      },
+      "subject_type": "EC"
+    },
+    {
+      "subject_name": "Professional Writing Skills",
+      "subject_code": "HU318",
+      "syllabus": "../syllabi/HU318.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 97,
+      "average_grade_point": 8.77,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A+": 54,
+        "A": 28,
+        "B+": 3,
+        "O": 12
+      },
+      "subject_type": "HU"
+    },
+    {
+      "subject_name": "THEATRE AND STAGECRAFT",
+      "subject_code": "HU328",
+      "syllabus": "../syllabi/HU328.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 96,
+      "average_grade_point": 9.24,
+      "pass_percentage": 98.96,
+      "grade_distribution": {
+        "A": 5,
+        "O": 44,
+        "A+": 44,
+        "P": 1,
+        "B+": 1,
+        "F": 1
+      },
+      "subject_type": "HU"
+    },
+    {
+      "subject_name": "SOFTWARE ENGINEERING",
+      "subject_code": "MC310",
+      "syllabus": "../syllabi/CS209.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electronics & Communication Engineering",
+        "Mathematics & Computing"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 84,
+      "average_grade_point": 8.02,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A+": 25,
+        "A": 26,
+        "B+": 16,
+        "B": 9,
+        "O": 7,
+        "C": 1
+      },
+      "subject_type": "MC"
+    },
+    {
+      "subject_name": "COMPUTER NETWORKS",
+      "subject_code": "MC308",
+      "syllabus": "../syllabi/CS208.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Mathematics & Computing",
+        "Mechanical Engineering"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 83,
+      "average_grade_point": 7.3,
+      "pass_percentage": 95.18,
+      "grade_distribution": {
+        "F": 4,
+        "A+": 14,
+        "A": 30,
+        "B+": 14,
+        "O": 7,
+        "B": 7,
+        "C": 2,
+        "P": 5
+      },
+      "subject_type": "MC"
+    },
+    {
+      "subject_name": "TESTING AND DIAGNOSIS OF DIGITAL SYSTEM DESIGN",
+      "subject_code": "EC310",
+      "syllabus": "../syllabi/EC310.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electrical Engineering",
+        "Electronics & Communication Engineering"
+      ],
+      "batches": [
+        "2019",
+        "2021",
+        "2022"
+      ],
+      "total_students": 82,
+      "average_grade_point": 7.01,
+      "pass_percentage": 97.56,
+      "grade_distribution": {
+        "B": 14,
+        "F": 2,
+        "B+": 18,
+        "P": 5,
+        "A": 14,
+        "C": 9,
+        "A+": 12,
+        "O": 8
+      },
+      "subject_type": "EC"
+    },
+    {
+      "subject_name": "DESIGN OF MACHINE ELEMENTS",
+      "subject_code": "AE302",
+      "syllabus": "../syllabi/AE303.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 77,
+      "average_grade_point": 6.4,
+      "pass_percentage": 92.21,
+      "grade_distribution": {
+        "C": 8,
+        "B": 15,
+        "F": 6,
+        "A": 9,
+        "B+": 25,
+        "O": 5,
+        "A+": 6,
+        "P": 3
+      },
+      "subject_type": "AE"
+    },
+    {
+      "subject_name": "ALTERNATIVE FUELS & ENERGY SYSTEMS",
+      "subject_code": "AE306",
+      "syllabus": "../syllabi/AE304.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 77,
+      "average_grade_point": 6.22,
+      "pass_percentage": 97.4,
+      "grade_distribution": {
+        "C": 11,
+        "B": 30,
+        "F": 2,
+        "B+": 24,
+        "O": 1,
+        "A": 5,
+        "A+": 2,
+        "P": 2
+      },
+      "subject_type": "AE"
+    },
+    {
+      "subject_name": "INTERNAL COMBUSTION ENGINES",
+      "subject_code": "AE304",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 74,
+      "average_grade_point": 7.78,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "B": 10,
+        "B+": 16,
+        "A": 17,
+        "A+": 16,
+        "O": 10,
+        "C": 4,
+        "P": 1
+      },
+      "subject_type": "AE"
+    },
+    {
+      "subject_name": "COSMOLOGY AND ASTROPHYSICS",
+      "subject_code": "EP316",
+      "syllabus": "../syllabi/EP316.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Mechanical Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 74,
+      "average_grade_point": 8.04,
+      "pass_percentage": 98.65,
+      "grade_distribution": {
+        "A": 33,
+        "C": 4,
+        "O": 9,
+        "B+": 8,
+        "A+": 17,
+        "F": 1,
+        "B": 2
+      },
+      "subject_type": "EP"
+    },
+    {
+      "subject_name": "Object Oriented Software Engineering",
+      "subject_code": "SE202A",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Mechanical Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 74,
+      "average_grade_point": 8.38,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "B+": 12,
+        "A+": 34,
+        "B": 2,
+        "O": 5,
+        "A": 21
+      },
+      "subject_type": "SE"
+    },
+    {
+      "subject_name": "RELIABILITY & MAINTENANCE ENGINEERING",
+      "subject_code": "ME320",
+      "syllabus": "../syllabi/ME320.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Engineering Physics",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 74,
+      "average_grade_point": 7.72,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A+": 16,
+        "A": 20,
+        "B": 12,
+        "B+": 18,
+        "C": 1,
+        "O": 6,
+        "P": 1
+      },
+      "subject_type": "ME"
+    },
+    {
+      "subject_name": "Mass Transfer-II",
+      "subject_code": "CH304",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Mathematics & Computing"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 73,
+      "average_grade_point": 6.74,
+      "pass_percentage": 95.89,
+      "grade_distribution": {
+        "B+": 21,
+        "A": 15,
+        "A+": 7,
+        "C": 8,
+        "B": 11,
+        "P": 4,
+        "F": 3,
+        "O": 4
+      },
+      "subject_type": "CH"
+    },
+    {
+      "subject_name": "WELDING TECHNOLOGY",
+      "subject_code": "PE302",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Production & Industrial Engineering"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 73,
+      "average_grade_point": 7.82,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A": 21,
+        "B+": 15,
+        "A+": 16,
+        "B": 9,
+        "C": 4,
+        "O": 8
+      },
+      "subject_type": "PE"
+    },
+    {
+      "subject_name": "GAS DYNAMICS AND JET PROPULSION",
+      "subject_code": "ME308",
+      "syllabus": "../syllabi/ME308.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electrical Engineering",
+        "Environmental Engineering",
+        "Information Technology",
+        "Mechanical Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 72,
+      "average_grade_point": 7.31,
+      "pass_percentage": 94.44,
+      "grade_distribution": {
+        "B+": 13,
+        "B": 9,
+        "A+": 13,
+        "F": 4,
+        "A": 20,
+        "C": 4,
+        "O": 8,
+        "P": 1
+      },
+      "subject_type": "ME"
+    },
+    {
+      "subject_name": "PRECISION MANUFACTURING",
+      "subject_code": "PE304",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Production & Industrial Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 72,
+      "average_grade_point": 7.51,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "B+": 16,
+        "A+": 14,
+        "A": 19,
+        "C": 5,
+        "B": 12,
+        "O": 5,
+        "P": 1
+      },
+      "subject_type": "PE"
+    },
+    {
+      "subject_name": "METROLOGY & QUALITY ASSURANCE",
+      "subject_code": "PE306",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Production & Industrial Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 72,
+      "average_grade_point": 7.49,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A": 19,
+        "A+": 14,
+        "B": 9,
+        "B+": 13,
+        "C": 6,
+        "O": 7,
+        "P": 4
+      },
+      "subject_type": "PE"
+    },
+    {
+      "subject_name": "COMPUTER AIDED MANUFACTURING",
+      "subject_code": "ME318",
+      "syllabus": "../syllabi/ME318.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2017",
+        "2022"
+      ],
+      "total_students": 71,
+      "average_grade_point": 8.1,
+      "pass_percentage": 97.18,
+      "grade_distribution": {
+        "O": 11,
+        "A+": 20,
+        "A": 23,
+        "B+": 12,
+        "C": 1,
+        "F": 2,
+        "B": 2
+      },
+      "subject_type": "ME"
+    },
+    {
+      "subject_name": "SMART CITY PLANNING AND INTELLIGENT TRANSPORTATION",
+      "subject_code": "CE202N",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electronics & Communication Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 71,
+      "average_grade_point": 8.08,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "B+": 15,
+        "B": 3,
+        "A": 30,
+        "A+": 19,
+        "O": 4
+      },
+      "subject_type": "CE"
+    },
+    {
+      "subject_name": "Chemical Process Technology",
+      "subject_code": "CH306",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 71,
+      "average_grade_point": 5.93,
+      "pass_percentage": 95.77,
+      "grade_distribution": {
+        "P": 12,
+        "C": 14,
+        "B+": 11,
+        "A": 9,
+        "A+": 6,
+        "B": 15,
+        "F": 3,
+        "O": 1
+      },
+      "subject_type": "CH"
+    },
+    {
+      "subject_name": "Parallel Algorithm",
+      "subject_code": "CO308",
+      "syllabus": "../syllabi/CS316.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Software Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 71,
+      "average_grade_point": 8.83,
+      "pass_percentage": 98.59,
+      "grade_distribution": {
+        "A+": 39,
+        "O": 16,
+        "F": 1,
+        "A": 11,
+        "B+": 4
+      },
+      "subject_type": "CO"
+    },
+    {
+      "subject_name": "DATA COMMUNICATION AND COMPUTER NETWORKS",
+      "subject_code": "EE446",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electrical Engineering",
+        "Mathematics & Computing",
+        "Production & Industrial Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 71,
+      "average_grade_point": 7.75,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A+": 22,
+        "A": 23,
+        "B": 6,
+        "P": 2,
+        "B+": 12,
+        "O": 2,
+        "C": 4
+      },
+      "subject_type": "EE"
+    },
+    {
+      "subject_name": "International Economics",
+      "subject_code": "HU310",
+      "syllabus": "../syllabi/HU310.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 70,
+      "average_grade_point": 7.96,
+      "pass_percentage": 95.71,
+      "grade_distribution": {
+        "B": 5,
+        "A+": 35,
+        "B+": 10,
+        "A": 14,
+        "O": 3,
+        "F": 3
+      },
+      "subject_type": "HU"
+    },
+    {
+      "subject_name": "Chemical Reaction Engineering-II",
+      "subject_code": "CH302",
+      "syllabus": "../syllabi/CH104.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 70,
+      "average_grade_point": 7.73,
+      "pass_percentage": 98.57,
+      "grade_distribution": {
+        "A": 24,
+        "B+": 17,
+        "A+": 13,
+        "B": 8,
+        "O": 6,
+        "F": 1,
+        "C": 1
+      },
+      "subject_type": "CH"
+    },
+    {
+      "subject_name": "CLOUD COMPUTING FUNDAMENTALS",
+      "subject_code": "EE450",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electrical Engineering",
+        "Electronics & Communication Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 70,
+      "average_grade_point": 7.77,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "B+": 18,
+        "A+": 16,
+        "O": 7,
+        "A": 17,
+        "B": 8,
+        "C": 4
+      },
+      "subject_type": "EE"
+    },
+    {
+      "subject_name": "DATABASE MANAGEMENT SYSTEMS",
+      "subject_code": "SE206",
+      "syllabus": "../syllabi/SE208.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 69,
+      "average_grade_point": 8.49,
+      "pass_percentage": 98.55,
+      "grade_distribution": {
+        "B+": 6,
+        "A+": 22,
+        "O": 13,
+        "A": 27,
+        "F": 1
+      },
+      "subject_type": "SE"
+    },
+    {
+      "subject_name": "Mathematical Economics",
+      "subject_code": "HU308",
+      "syllabus": "../syllabi/HU308.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 68,
+      "average_grade_point": 8.88,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A": 10,
+        "A+": 33,
+        "B+": 5,
+        "O": 18,
+        "B": 2
+      },
+      "subject_type": "HU"
+    },
+    {
+      "subject_name": "DISASTER MANAGEMENT",
+      "subject_code": "CE308",
+      "syllabus": "../syllabi/CE311.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Information Technology",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 67,
+      "average_grade_point": 7.12,
+      "pass_percentage": 97.01,
+      "grade_distribution": {
+        "B": 8,
+        "B+": 19,
+        "A": 14,
+        "O": 7,
+        "A+": 8,
+        "C": 6,
+        "F": 2,
+        "P": 3
+      },
+      "subject_type": "CE"
+    },
+    {
+      "subject_name": "TUNNEL, PORTS AND HARBOR ENGINEERING",
+      "subject_code": "CE314",
+      "syllabus": "../syllabi/CE322.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 66,
+      "average_grade_point": 7.76,
+      "pass_percentage": 96.97,
+      "grade_distribution": {
+        "A": 21,
+        "A+": 15,
+        "O": 7,
+        "B": 6,
+        "B+": 14,
+        "F": 2,
+        "C": 1
+      },
+      "subject_type": "CE"
+    },
+    {
+      "subject_name": "MEASUREMENT AND INSTRUMENTATION",
+      "subject_code": "AE308",
+      "syllabus": "../syllabi/AE305.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electronics & Communication Engineering",
+        "Mechanical Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 65,
+      "average_grade_point": 7.71,
+      "pass_percentage": 96.92,
+      "grade_distribution": {
+        "A": 18,
+        "B+": 10,
+        "A+": 19,
+        "C": 2,
+        "O": 6,
+        "F": 2,
+        "B": 7,
+        "P": 1
+      },
+      "subject_type": "AE"
+    },
+    {
+      "subject_name": "BUSINESS RESEARCH METHODS",
+      "subject_code": "MBA-104",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 65,
+      "average_grade_point": 8.2,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "B+": 12,
+        "A": 23,
+        "B": 3,
+        "A+": 18,
+        "O": 8,
+        "C": 1
+      },
+      "subject_type": "MB"
+    },
+    {
+      "subject_name": "INTERNATIONAL LOGISTICS MANAGEMENT",
+      "subject_code": "MBASC220",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 65,
+      "average_grade_point": 8.42,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A": 26,
+        "A+": 24,
+        "O": 7,
+        "B+": 5,
+        "B": 3
+      },
+      "subject_type": "MB"
+    },
+    {
+      "subject_name": "TRAFFIC AND TRANSPORTATION PLANNING",
+      "subject_code": "CE322",
+      "syllabus": "../syllabi/CE439.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Environmental Engineering",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 65,
+      "average_grade_point": 7.32,
+      "pass_percentage": 98.46,
+      "grade_distribution": {
+        "A": 18,
+        "P": 1,
+        "A+": 10,
+        "B+": 16,
+        "B": 11,
+        "O": 4,
+        "C": 4,
+        "F": 1
+      },
+      "subject_type": "CE"
+    },
+    {
+      "subject_name": "INTERNATIONAL MARKETING",
+      "subject_code": "MBAMK220",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 65,
+      "average_grade_point": 8.14,
+      "pass_percentage": 96.92,
+      "grade_distribution": {
+        "A+": 25,
+        "O": 8,
+        "F": 2,
+        "B+": 10,
+        "A": 17,
+        "B": 3
+      },
+      "subject_type": "MB"
+    },
+    {
+      "subject_name": "ELECTRICAL ENERGY STORAGE SYSTEM",
+      "subject_code": "EE316",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electrical Engineering"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 65,
+      "average_grade_point": 7.45,
+      "pass_percentage": 96.92,
+      "grade_distribution": {
+        "B": 8,
+        "F": 2,
+        "B+": 21,
+        "A+": 10,
+        "O": 5,
+        "A": 18,
+        "C": 1
+      },
+      "subject_type": "EE"
+    },
+    {
+      "subject_name": "Microeconomics",
+      "subject_code": "HU312",
+      "syllabus": "../syllabi/HU312.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2019",
+        "2021",
+        "2022"
+      ],
+      "total_students": 64,
+      "average_grade_point": 8.42,
+      "pass_percentage": 96.88,
+      "grade_distribution": {
+        "A": 17,
+        "A+": 26,
+        "O": 12,
+        "B+": 7,
+        "F": 2
+      },
+      "subject_type": "HU"
+    },
+    {
+      "subject_name": "AIR POLLUTION & CONTROL",
+      "subject_code": "EN304",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Environmental Engineering",
+        "Information Technology",
+        "Unknown"
+      ],
+      "batches": [
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "total_students": 64,
+      "average_grade_point": 5.47,
+      "pass_percentage": 82.81,
+      "grade_distribution": {
+        "A": 10,
+        "P": 13,
+        "B+": 13,
+        "F": 11,
+        "O": 3,
+        "B": 7,
+        "A+": 5,
+        "C": 2
+      },
+      "subject_type": "EN"
+    },
+    {
+      "subject_name": "Petrochemical Engineering",
+      "subject_code": "CH318",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Environmental Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 64,
+      "average_grade_point": 9.23,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A+": 26,
+        "O": 30,
+        "A": 4,
+        "B+": 3,
+        "P": 1
+      },
+      "subject_type": "CH"
+    },
+    {
+      "subject_name": "DATABASE MANAGEMENT SYSTEMS",
+      "subject_code": "CO202",
+      "syllabus": "../syllabi/CS210.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Chemical Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 63,
+      "average_grade_point": 7.95,
+      "pass_percentage": 96.83,
+      "grade_distribution": {
+        "A+": 20,
+        "A": 22,
+        "B+": 11,
+        "O": 5,
+        "F": 2,
+        "B": 3
+      },
+      "subject_type": "CO"
+    },
+    {
+      "subject_name": "BIOINFORMATICS APPROACH IN COMPLEX DISORDERS",
+      "subject_code": "BT328",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Computer Engineering",
+        "Electronics & Communication Engineering",
+        "Environmental Engineering",
+        "Mathematics & Computing",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2019",
+        "2022"
+      ],
+      "total_students": 63,
+      "average_grade_point": 8.33,
+      "pass_percentage": 96.83,
+      "grade_distribution": {
+        "O": 13,
+        "F": 2,
+        "A": 17,
+        "A+": 24,
+        "B": 3,
+        "B+": 3,
+        "P": 1
+      },
+      "subject_type": "BT"
+    },
+    {
+      "subject_name": "ALGORITHM DESIGN AND ANALYSIS",
+      "subject_code": "IT208",
+      "syllabus": "../syllabi/IT204.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 62,
+      "average_grade_point": 8.21,
+      "pass_percentage": 98.39,
+      "grade_distribution": {
+        "A": 14,
+        "B+": 7,
+        "A+": 26,
+        "F": 1,
+        "O": 8,
+        "B": 4,
+        "C": 2
+      },
+      "subject_type": "IT"
+    },
+    {
+      "subject_name": "OPERATING SYSTEMS DESIGN",
+      "subject_code": "CO204",
+      "syllabus": "../syllabi/CS207.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Chemical Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 62,
+      "average_grade_point": 7.31,
+      "pass_percentage": 98.39,
+      "grade_distribution": {
+        "A": 19,
+        "B": 14,
+        "B+": 13,
+        "C": 3,
+        "A+": 9,
+        "F": 1,
+        "O": 3
+      },
+      "subject_type": "CO"
+    },
+    {
+      "subject_name": "ADVANCED CHIPLETS PACKAGING AND RELIABILITY ENGINEERING",
+      "subject_code": "EP326",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Engineering Physics"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 62,
+      "average_grade_point": 8.26,
+      "pass_percentage": 98.39,
+      "grade_distribution": {
+        "A": 12,
+        "A+": 26,
+        "O": 10,
+        "C": 1,
+        "B": 4,
+        "B+": 7,
+        "P": 1,
+        "F": 1
+      },
+      "subject_type": "EP"
+    },
+    {
+      "subject_name": "LANGUAGE AND SOCIAL MEDIA",
+      "subject_code": "HU426",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Information Technology",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 60,
+      "average_grade_point": 8.55,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A": 18,
+        "B+": 4,
+        "A+": 34,
+        "O": 3,
+        "C": 1
+      },
+      "subject_type": "HU"
+    },
+    {
+      "subject_name": "Biofuel Engineering",
+      "subject_code": "CH426",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Engineering Physics",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 60,
+      "average_grade_point": 8.22,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A": 27,
+        "A+": 21,
+        "B+": 9,
+        "O": 2,
+        "C": 1
+      },
+      "subject_type": "CH"
+    },
+    {
+      "subject_name": "AUTOMOBILE ENGINEERING",
+      "subject_code": "PE312",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electronics & Communication Engineering",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 60,
+      "average_grade_point": 7.47,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A": 14,
+        "B+": 17,
+        "A+": 10,
+        "P": 2,
+        "B": 9,
+        "O": 5,
+        "C": 3
+      },
+      "subject_type": "PE"
+    },
+    {
+      "subject_name": "PLANT BIOTECHNOLOGY",
+      "subject_code": "BT302",
+      "syllabus": "../syllabi/BT302.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 60,
+      "average_grade_point": 5.95,
+      "pass_percentage": 96.67,
+      "grade_distribution": {
+        "P": 12,
+        "A": 7,
+        "B": 11,
+        "O": 1,
+        "B+": 13,
+        "C": 10,
+        "A+": 4,
+        "F": 2
+      },
+      "subject_type": "BT"
+    },
+    {
+      "subject_name": "ANIMAL BIOTECHNOLOGY",
+      "subject_code": "BT304",
+      "syllabus": "../syllabi/BT304.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 60,
+      "average_grade_point": 7.27,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "C": 3,
+        "O": 8,
+        "B": 10,
+        "B+": 22,
+        "A+": 7,
+        "A": 6,
+        "P": 4
+      },
+      "subject_type": "BT"
+    },
+    {
+      "subject_name": "GENOMICS AND PROTEOMICS",
+      "subject_code": "BT306",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 60,
+      "average_grade_point": 7.2,
+      "pass_percentage": 98.33,
+      "grade_distribution": {
+        "B": 11,
+        "O": 6,
+        "B+": 14,
+        "A": 13,
+        "A+": 8,
+        "P": 3,
+        "C": 4,
+        "F": 1
+      },
+      "subject_type": "BT"
+    },
+    {
+      "subject_name": "OPERATIONS AND SUPPLY CHAIN MANAGEMENT",
+      "subject_code": "MBA-108",
+      "syllabus": "../syllabi/ME302.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 59,
+      "average_grade_point": 8.05,
+      "pass_percentage": 98.31,
+      "grade_distribution": {
+        "B+": 8,
+        "A+": 21,
+        "A": 13,
+        "B": 6,
+        "O": 8,
+        "C": 2,
+        "F": 1
+      },
+      "subject_type": "MB"
+    },
+    {
+      "subject_name": "OPERATING SYSTEM",
+      "subject_code": "IT204",
+      "syllabus": "../syllabi/IT206.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 59,
+      "average_grade_point": 7.98,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "B": 5,
+        "A": 21,
+        "A+": 14,
+        "O": 7,
+        "B+": 9,
+        "P": 1,
+        "C": 2
+      },
+      "subject_type": "IT"
+    },
+    {
+      "subject_name": "INFRASTRUCTURE RESILIENCE AND SOCIO-ECONOMIC DYNAMICS",
+      "subject_code": "CE324",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electronics & Communication Engineering",
+        "Environmental Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 59,
+      "average_grade_point": 8.64,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A": 13,
+        "A+": 20,
+        "O": 17,
+        "B": 3,
+        "B+": 4,
+        "C": 2
+      },
+      "subject_type": "CE"
+    },
+    {
+      "subject_name": "GENOMICS IN MEDICINE",
+      "subject_code": "BT320",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Computer Engineering",
+        "Electronics & Communication Engineering",
+        "Mechanical Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2019",
+        "2022"
+      ],
+      "total_students": 57,
+      "average_grade_point": 7.88,
+      "pass_percentage": 98.25,
+      "grade_distribution": {
+        "F": 1,
+        "B+": 9,
+        "O": 7,
+        "A": 15,
+        "A+": 17,
+        "B": 4,
+        "C": 3,
+        "P": 1
+      },
+      "subject_type": "BT"
+    },
+    {
+      "subject_name": "Public Finance and Policy",
+      "subject_code": "HU404",
+      "syllabus": "../syllabi/HU406.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Information Technology",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 57,
+      "average_grade_point": 8.21,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A+": 21,
+        "A": 29,
+        "B+": 6,
+        "C": 1
+      },
+      "subject_type": "HU"
+    },
+    {
+      "subject_name": "Design, Estimation & Costing of Industrial Electrical System",
+      "subject_code": "EE324",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electrical Engineering"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 57,
+      "average_grade_point": 7.91,
+      "pass_percentage": 98.25,
+      "grade_distribution": {
+        "A+": 15,
+        "A": 20,
+        "C": 3,
+        "B+": 9,
+        "O": 6,
+        "B": 3,
+        "F": 1
+      },
+      "subject_type": "EE"
+    },
+    {
+      "subject_name": "Deep Learning with Artificial Neural Network",
+      "subject_code": "EE328",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Mathematics & Computing",
+        "Production & Industrial Engineering",
+        "Software Engineering"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 56,
+      "average_grade_point": 6.84,
+      "pass_percentage": 92.86,
+      "grade_distribution": {
+        "A": 14,
+        "O": 5,
+        "F": 4,
+        "B": 5,
+        "C": 6,
+        "B+": 11,
+        "P": 3,
+        "A+": 8
+      },
+      "subject_type": "EE"
+    },
+    {
+      "subject_name": "HYDROLOGY & GROUND WATER ENGINEERING",
+      "subject_code": "EN306",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Environmental Engineering"
+      ],
+      "batches": [
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "total_students": 55,
+      "average_grade_point": 5.42,
+      "pass_percentage": 74.55,
+      "grade_distribution": {
+        "F": 14,
+        "A": 8,
+        "B+": 9,
+        "C": 5,
+        "B": 5,
+        "O": 5,
+        "A+": 6,
+        "P": 3
+      },
+      "subject_type": "EN"
+    },
+    {
+      "subject_name": "Mobile and Digital Forensics",
+      "subject_code": "IT428",
+      "syllabus": "../syllabi/IT417.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electronics & Communication Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 54,
+      "average_grade_point": 8.31,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A+": 21,
+        "A": 13,
+        "B+": 10,
+        "O": 7,
+        "P": 1,
+        "B": 2
+      },
+      "subject_type": "IT"
+    },
+    {
+      "subject_name": "ALGORITHM DESIGN AND ANALYSIS",
+      "subject_code": "CO208",
+      "syllabus": "../syllabi/EC311.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Chemical Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 53,
+      "average_grade_point": 7.68,
+      "pass_percentage": 94.34,
+      "grade_distribution": {
+        "A": 10,
+        "B+": 7,
+        "A+": 15,
+        "O": 10,
+        "C": 3,
+        "B": 4,
+        "F": 3,
+        "P": 1
+      },
+      "subject_type": "CO"
+    },
+    {
+      "subject_name": "COMPUTER CONTROL OF PROCESSES",
+      "subject_code": "EE434",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electrical Engineering",
+        "Electronics & Communication Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 51,
+      "average_grade_point": 7.55,
+      "pass_percentage": 98.04,
+      "grade_distribution": {
+        "A+": 9,
+        "A": 11,
+        "B+": 14,
+        "O": 6,
+        "B": 8,
+        "C": 2,
+        "F": 1
+      },
+      "subject_type": "EE"
+    },
+    {
+      "subject_name": "Machine Learning",
+      "subject_code": "EC342",
+      "syllabus": "../syllabi/EC314.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electronics & Communication Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 50,
+      "average_grade_point": 6.28,
+      "pass_percentage": 88.0,
+      "grade_distribution": {
+        "A+": 6,
+        "B+": 10,
+        "O": 5,
+        "A": 7,
+        "C": 6,
+        "F": 6,
+        "P": 3,
+        "B": 7
+      },
+      "subject_type": "EC"
+    },
+    {
+      "subject_name": "COMPACT MODELLING AND PROCESS",
+      "subject_code": "EP324",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Engineering Physics"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 49,
+      "average_grade_point": 8.43,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "B+": 4,
+        "A+": 21,
+        "O": 9,
+        "C": 2,
+        "A": 9,
+        "B": 4
+      },
+      "subject_type": "EP"
+    },
+    {
+      "subject_name": "SOLID WASTE MANAGEMENT",
+      "subject_code": "EN302",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Environmental Engineering"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 47,
+      "average_grade_point": 6.53,
+      "pass_percentage": 93.62,
+      "grade_distribution": {
+        "B+": 15,
+        "C": 3,
+        "A": 13,
+        "B": 8,
+        "F": 3,
+        "A+": 3,
+        "P": 2
+      },
+      "subject_type": "EN"
+    },
+    {
+      "subject_name": "COMPUTATIONAL HYDRAULICS",
+      "subject_code": "CE320",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Computer Engineering",
+        "Environmental Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 45,
+      "average_grade_point": 7.33,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A": 12,
+        "A+": 7,
+        "B+": 10,
+        "B": 7,
+        "C": 5,
+        "O": 3,
+        "P": 1
+      },
+      "subject_type": "CE"
+    },
+    {
+      "subject_name": "Safety and Hazard in Chemical Engineering",
+      "subject_code": "CH424",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 43,
+      "average_grade_point": 5.91,
+      "pass_percentage": 93.02,
+      "grade_distribution": {
+        "P": 7,
+        "B+": 8,
+        "B": 7,
+        "A": 3,
+        "C": 8,
+        "O": 1,
+        "A+": 6,
+        "F": 3
+      },
+      "subject_type": "CH"
+    },
+    {
+      "subject_name": "AUTOMATION IN MANUFACTURING",
+      "subject_code": "ME310",
+      "syllabus": "../syllabi/ME310.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 42,
+      "average_grade_point": 7.69,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A+": 15,
+        "B+": 5,
+        "O": 3,
+        "A": 8,
+        "B": 6,
+        "P": 2,
+        "C": 3
+      },
+      "subject_type": "ME"
+    },
+    {
+      "subject_name": "WASTEWATER ENGINEERING: DESIGN AND APPLICATIONS",
+      "subject_code": "EN210N",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Information Technology",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 41,
+      "average_grade_point": 7.34,
+      "pass_percentage": 95.12,
+      "grade_distribution": {
+        "B": 5,
+        "A": 10,
+        "O": 4,
+        "F": 2,
+        "C": 2,
+        "P": 1,
+        "B+": 8,
+        "A+": 9
+      },
+      "subject_type": "EN"
+    },
+    {
+      "subject_name": "Deep Learning",
+      "subject_code": "IT324A",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Information Technology",
+        "Software Engineering"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 40,
+      "average_grade_point": 7.45,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "B": 5,
+        "O": 9,
+        "P": 4,
+        "C": 5,
+        "B+": 5,
+        "A": 6,
+        "A+": 6
+      },
+      "subject_type": "IT"
+    },
+    {
+      "subject_name": "COMPOSITE MATERIAL TECHNOLOGY",
+      "subject_code": "ME328A",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electronics & Communication Engineering",
+        "Environmental Engineering",
+        "Mechanical Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 38,
+      "average_grade_point": 7.08,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A": 8,
+        "O": 2,
+        "C": 3,
+        "P": 3,
+        "B": 8,
+        "A+": 6,
+        "B+": 8
+      },
+      "subject_type": "ME"
+    },
+    {
+      "subject_name": "Machine Learning",
+      "subject_code": "SE326",
+      "syllabus": "../syllabi/SE206.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2019",
+        "2020",
+        "2022"
+      ],
+      "total_students": 38,
+      "average_grade_point": 7.47,
+      "pass_percentage": 89.47,
+      "grade_distribution": {
+        "A+": 11,
+        "B": 2,
+        "F": 4,
+        "O": 6,
+        "A": 10,
+        "C": 1,
+        "B+": 4
+      },
+      "subject_type": "SE"
+    },
+    {
+      "subject_name": "HAZARDOUS & BIOMEDICAL WASTE MANAGEMENT",
+      "subject_code": "EN308",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Electronics & Communication Engineering",
+        "Environmental Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 36,
+      "average_grade_point": 7.56,
+      "pass_percentage": 97.22,
+      "grade_distribution": {
+        "B+": 10,
+        "O": 3,
+        "C": 1,
+        "A": 10,
+        "A+": 7,
+        "B": 4,
+        "F": 1
+      },
+      "subject_type": "EN"
+    },
+    {
+      "subject_name": "Advance Manufacturing Technology",
+      "subject_code": "AE310",
+      "syllabus": "../syllabi/AE308.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Mechanical Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 32,
+      "average_grade_point": 8.09,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A": 11,
+        "A+": 7,
+        "O": 4,
+        "B+": 8,
+        "B": 2
+      },
+      "subject_type": "AE"
+    },
+    {
+      "subject_name": "Heat Exchangers",
+      "subject_code": "CH324",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Environmental Engineering",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2019",
+        "2022"
+      ],
+      "total_students": 30,
+      "average_grade_point": 8.57,
+      "pass_percentage": 96.67,
+      "grade_distribution": {
+        "O": 8,
+        "F": 1,
+        "A+": 11,
+        "A": 8,
+        "B+": 2
+      },
+      "subject_type": "CH"
+    },
+    {
+      "subject_name": "NON-CONVENTIONAL ENERGY SYSTEMS",
+      "subject_code": "EN416",
+      "syllabus": "../syllabi/ME427.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Environmental Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 30,
+      "average_grade_point": 7.53,
+      "pass_percentage": 96.67,
+      "grade_distribution": {
+        "B+": 3,
+        "O": 6,
+        "A": 7,
+        "C": 4,
+        "B": 4,
+        "A+": 5,
+        "F": 1
+      },
+      "subject_type": "EN"
+    },
+    {
+      "subject_name": "LINEAR ALGEBRA",
+      "subject_code": "MC208",
+      "syllabus": "../syllabi/MC208.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Information Technology",
+        "Mechanical Engineering",
+        "Software Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 30,
+      "average_grade_point": 7.9,
+      "pass_percentage": 90.0,
+      "grade_distribution": {
+        "A": 5,
+        "A+": 6,
+        "O": 12,
+        "C": 2,
+        "B+": 1,
+        "F": 3,
+        "B": 1
+      },
+      "subject_type": "MC"
+    },
+    {
+      "subject_name": "POWER SYSTEM OPERATION AND CONTROL",
+      "subject_code": "EE308",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Mechanical Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2019",
+        "2021",
+        "2022"
+      ],
+      "total_students": 29,
+      "average_grade_point": 5.45,
+      "pass_percentage": 82.76,
+      "grade_distribution": {
+        "F": 5,
+        "P": 4,
+        "B": 3,
+        "C": 4,
+        "B+": 4,
+        "A": 6,
+        "A+": 2,
+        "O": 1
+      },
+      "subject_type": "EE"
+    },
+    {
+      "subject_name": "QUALITY MANAGEMENT & SIX SIGMA APPLICATIONS",
+      "subject_code": "AE312",
+      "syllabus": "../syllabi/AE310.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Chemical Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 29,
+      "average_grade_point": 6.31,
+      "pass_percentage": 86.21,
+      "grade_distribution": {
+        "B": 3,
+        "F": 4,
+        "O": 3,
+        "A": 5,
+        "A+": 5,
+        "P": 3,
+        "C": 2,
+        "B+": 4
+      },
+      "subject_type": "AE"
+    },
+    {
+      "subject_name": "MINI PROJECT",
+      "subject_code": "CO391",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 28,
+      "average_grade_point": 9.04,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A": 12,
+        "O": 13,
+        "A+": 3
+      },
+      "subject_type": "CO"
+    },
+    {
+      "subject_name": "Polymer Processing Techniques",
+      "subject_code": "CH312",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Environmental Engineering",
+        "Mathematics & Computing",
+        "Mechanical Engineering",
+        "Production & Industrial Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 27,
+      "average_grade_point": 8.04,
+      "pass_percentage": 96.3,
+      "grade_distribution": {
+        "B+": 5,
+        "A+": 8,
+        "O": 5,
+        "A": 6,
+        "B": 2,
+        "F": 1
+      },
+      "subject_type": "CH"
+    },
+    {
+      "subject_name": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+      "subject_code": "CO206",
+      "syllabus": "../syllabi/IT305.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electrical Engineering",
+        "Engineering Physics",
+        "Environmental Engineering",
+        "Mechanical Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 27,
+      "average_grade_point": 8.3,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "B": 2,
+        "B+": 5,
+        "A+": 9,
+        "O": 4,
+        "A": 7
+      },
+      "subject_type": "CO"
+    },
+    {
+      "subject_name": "ENVIRONMENTAL ENGINEERING ",
+      "subject_code": "CE208N",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Mechanical Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 25,
+      "average_grade_point": 5.0,
+      "pass_percentage": 84.0,
+      "grade_distribution": {
+        "B+": 3,
+        "C": 6,
+        "B": 9,
+        "F": 4,
+        "A": 2,
+        "P": 1
+      },
+      "subject_type": "CE"
+    },
+    {
+      "subject_name": "Energy Storage Systems for Electric and Hybrid Vehicles",
+      "subject_code": "EV302",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Engineering Physics",
+        "Information Technology",
+        "Mechanical Engineering",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2020",
+        "2022"
+      ],
+      "total_students": 21,
+      "average_grade_point": 8.43,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A+": 6,
+        "A": 7,
+        "B+": 3,
+        "B": 1,
+        "O": 4
+      },
+      "subject_type": "EV"
+    },
+    {
+      "subject_name": "ENVIRONMENTAL LAW AND POLICY",
+      "subject_code": "EN316",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering",
+        "Environmental Engineering",
+        "Mathematics & Computing",
+        "Software Engineering",
+        "Unknown"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 19,
+      "average_grade_point": 5.68,
+      "pass_percentage": 78.95,
+      "grade_distribution": {
+        "F": 4,
+        "B+": 8,
+        "B": 2,
+        "O": 1,
+        "C": 1,
+        "A": 2,
+        "A+": 1
+      },
+      "subject_type": "EN"
+    },
+    {
+      "subject_name": "SPEECH RECOGNITION",
+      "subject_code": "EC328",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Computer Engineering",
+        "Electronics & Communication Engineering",
+        "Software Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 17,
+      "average_grade_point": 5.94,
+      "pass_percentage": 94.12,
+      "grade_distribution": {
+        "P": 3,
+        "B+": 5,
+        "F": 1,
+        "B": 4,
+        "A": 2,
+        "A+": 1,
+        "C": 1
+      },
+      "subject_type": "EC"
+    },
+    {
+      "subject_name": "GRID INTEGRATION OF RENEWABLE ENERGY SOURCES",
+      "subject_code": "EE416",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electrical Engineering",
+        "Electronics & Communication Engineering"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 17,
+      "average_grade_point": 6.71,
+      "pass_percentage": 94.12,
+      "grade_distribution": {
+        "B": 2,
+        "F": 1,
+        "A": 3,
+        "B+": 4,
+        "P": 2,
+        "A+": 3,
+        "O": 1,
+        "C": 1
+      },
+      "subject_type": "EE"
+    },
+    {
+      "subject_name": "Semiconductor Optoelectronics",
+      "subject_code": "EP328",
+      "syllabus": "../syllabi/EC307.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electrical Engineering",
+        "Engineering Physics"
+      ],
+      "batches": [
+        "2021",
+        "2022"
+      ],
+      "total_students": 14,
+      "average_grade_point": 6.07,
+      "pass_percentage": 92.86,
+      "grade_distribution": {
+        "O": 1,
+        "A+": 3,
+        "P": 5,
+        "B+": 1,
+        "A": 2,
+        "C": 1,
+        "F": 1
+      },
+      "subject_type": "EP"
+    },
+    {
+      "subject_name": "Coatings and Adhesives",
+      "subject_code": "CH316",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Chemical Engineering",
+        "Electronics & Communication Engineering",
+        "Production & Industrial Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 11,
+      "average_grade_point": 6.27,
+      "pass_percentage": 90.91,
+      "grade_distribution": {
+        "A+": 2,
+        "C": 2,
+        "B": 2,
+        "B+": 1,
+        "A": 1,
+        "O": 1,
+        "F": 1,
+        "P": 1
+      },
+      "subject_type": "CH"
+    },
+    {
+      "subject_name": "ALGORITHM DESIGN & ANALYSIS",
+      "subject_code": "CS262",
+      "syllabus": "../syllabi/CS205.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Bio Technology",
+        "Electrical Engineering",
+        "Electronics & Communication Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 5,
+      "average_grade_point": 7.0,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "B": 2,
+        "A": 2,
+        "B+": 1
+      },
+      "subject_type": "CS"
+    },
+    {
+      "subject_name": "Research Work",
+      "subject_code": "ME393",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Mechanical Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 2,
+      "average_grade_point": 9.0,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A+": 2
+      },
+      "subject_type": "ME"
+    },
+    {
+      "subject_name": "CONDENSED MATTER PHYSICS",
+      "subject_code": "EP202",
+      "syllabus": "../syllabi/EP202.pdf",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Electronics & Communication Engineering"
+      ],
+      "batches": [
+        "2022"
+      ],
+      "total_students": 1,
+      "average_grade_point": 9.0,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "A+": 1
+      },
+      "subject_type": "EP"
+    },
+    {
+      "subject_name": "Industrial Waste Management",
+      "subject_code": "CH416",
+      "syllabus": "",
+      "semester": "VI",
+      "exam_year": "MAY 2025",
+      "departments": [
+        "Software Engineering"
+      ],
+      "batches": [
+        "2021"
+      ],
+      "total_students": 1,
+      "average_grade_point": 7.0,
+      "pass_percentage": 100.0,
+      "grade_distribution": {
+        "B+": 1
+      },
+      "subject_type": "CH"
+    }
+  ]
+}
