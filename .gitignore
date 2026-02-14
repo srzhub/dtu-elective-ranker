@@ -9,10 +9,11 @@
 # Ignore imgs and svgs
 *.jpeg
 *.img
-*.png
+
 
 # Files
 indexv1 copy.html
 
 #gitignore
 *.gitignore
+

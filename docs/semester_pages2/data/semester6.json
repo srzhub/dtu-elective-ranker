@@ -425,7 +425,7 @@
     },
     {
       "subject_name": "ALGORITHM DESIGN & ANALYSIS",
-      "subject_code": "CS262",
+      "subject_code": "IT208n",
       "syllabus": "../syllabi/EC311.pdf",
       "semester": "VI",
       "exam_year": "MAY 2025",
@@ -445,7 +445,7 @@
         "A": 2,
         "B+": 1
       },
-      "subject_type": "CS",
+      "subject_type": "IT",
       "slots": [
         "El"
       ]
@@ -486,7 +486,7 @@
     },
     {
       "subject_name": "ALGORITHMS ANALYSIS AND DESIGN",
-      "subject_code": "EC311",
+      "subject_code": "MC206",
       "semester": "V",
       "exam_year": "NOV 2024",
       "departments": [
@@ -511,7 +511,7 @@
       },
       "pass_percentage": 92.19,
       "syllabus": "../syllabi/CS205.pdf",
-      "subject_type": "EC",
+      "subject_type": "MC",
       "slots": [
         "El"
       ]
