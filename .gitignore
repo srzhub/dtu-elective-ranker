@@ -3,9 +3,6 @@
 *.xlsx
 *.csv
 
-# Ignore PDF files
-
-
 # Ignore imgs and svgs
 *.jpeg
 *.img

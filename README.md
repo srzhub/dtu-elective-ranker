@@ -8,7 +8,7 @@ DTUElectives.in is a data-driven utility designed for the 15,000+ students at **
 
 ## Impact & Data Recency
 
-* **User Adoption:** Successfully served over **4,800 unique users** across two consecutive academic semesters.
+* **User Adoption:** Successfully served over **5000+ unique users** across two consecutive academic semesters.
 * **Latest Datasets:** Includes the most recent GPA records for **Semesters 5, 6, and 7** (concluded immediately prior to the current 2026 cycle), providing the most relevant historical benchmarks for current students.
 * **Target Scope:** Current datasets are optimized for the **2025 academic cycle**, covering all departments including CS, IT, HU etc.
 
